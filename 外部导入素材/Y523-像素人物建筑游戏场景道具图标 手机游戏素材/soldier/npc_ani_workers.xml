@@ -1,0 +1,196 @@
+<skeleton name="npc_ani_workers" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="npc_ani_workers">
+   <b name="npc_ani_workers_6" x="28.4" y="-16" kX="-75" kY="-75" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="npc_ani_workers_4" pX="14.5" pY="11"/>
+   </b>
+   <b name="npc_ani_workers_5" x="25.95" y="-7.95" kX="-75" kY="105" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="npc_ani_workers_4" pX="14.5" pY="11"/>
+   </b>
+   <b name="npc_ani_workers_4" x="24.9" y="-12.35" kX="-75" kY="105" cX="1" cY="1" pX="0" pY="0" z="2">
+    <d name="npc_ani_workers_1" pX="10.1" pY="4.4"/>
+    <d name="npc_ani_workers_3" pX="15.9" pY="6.55"/>
+    <d name="npc_ani_workers_2" pX="18.85" pY="6.55"/>
+   </b>
+   <b name="npc_ani_workers_2" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="npc_ani_workers_6" pX="38" pY="36"/>
+    <d name="npc_ani_workers_7" pX="38" pY="36"/>
+    <d name="npc_ani_workers_8" pX="14" pY="17.5"/>
+    <d name="npc_ani_workers_9" pX="14" pY="18"/>
+    <d name="npc_ani_workers_10" pX="14" pY="17.5"/>
+    <d name="npc_ani_workers_12" pX="14.5" pY="17.5"/>
+    <d name="npc_ani_workers_13" pX="14.5" pY="18"/>
+    <d name="npc_ani_workers_14" pX="14.5" pY="17.5"/>
+    <d name="npc_ani_workers_15" pX="13.5" pY="17"/>
+    <d name="npc_ani_workers_16" pX="13.5" pY="17.5"/>
+    <d name="npc_ani_workers_17" pX="13.5" pY="17"/>
+   </b>
+   <b name="npc_ani_workers_3" x="2" y="23" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="npc_ani_workers_11" pX="12" pY="3"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="npc_ani_workers">
+   <mov name="effect" dr="15" to="0" drTW="15" lp="1" twE="NaN">
+    <b name="npc_ani_workers_6" sc="1" dl="0">
+     <f dr="2" dI="-1"/>
+     <f x="28.4" y="-16" cocos2d_x="28.4" cocos2d_y="-16" kX="-75" kY="-75" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="31.15" y="-23" cocos2d_x="31.15" cocos2d_y="-23" kX="-75" kY="-75" cX="1.24" cY="0.86" pX="0" pY="0" z="0" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="19" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="1" dI="-1"/>
+     <f x="28.4" y="-16" cocos2d_x="28.4" cocos2d_y="-16" kX="-75" kY="-75" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="31.15" y="-23" cocos2d_x="31.15" cocos2d_y="-23" kX="-75" kY="-75" cX="1.24" cY="0.86" pX="0" pY="0" z="0" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="19" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="1" dI="-1"/>
+     <f x="28.4" y="-16" cocos2d_x="28.4" cocos2d_y="-16" kX="-75" kY="-75" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="31.15" y="-23" cocos2d_x="31.15" cocos2d_y="-23" kX="-75" kY="-75" cX="1.24" cY="0.86" pX="0" pY="0" z="0" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="19" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="2" dI="-1"/>
+    </b>
+    <b name="npc_ani_workers_5" sc="1" dl="0">
+     <f dr="2" dI="-1"/>
+     <f x="25.95" y="-7.95" cocos2d_x="25.95" cocos2d_y="-7.95" kX="-75" kY="105" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="24.15" y="1.55" cocos2d_x="24.15" cocos2d_y="1.55" kX="-75" kY="105" cX="1.31" cY="0.85" pX="0" pY="0" z="1" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="19" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="1" dI="-1"/>
+     <f x="25.95" y="-7.95" cocos2d_x="25.95" cocos2d_y="-7.95" kX="-75" kY="105" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="24.15" y="1.55" cocos2d_x="24.15" cocos2d_y="1.55" kX="-75" kY="105" cX="1.31" cY="0.85" pX="0" pY="0" z="1" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="19" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="1" dI="-1"/>
+     <f x="25.95" y="-7.95" cocos2d_x="25.95" cocos2d_y="-7.95" kX="-75" kY="105" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="24.15" y="1.55" cocos2d_x="24.15" cocos2d_y="1.55" kX="-75" kY="105" cX="1.31" cY="0.85" pX="0" pY="0" z="1" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="19" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="2" dI="-1"/>
+    </b>
+    <b name="npc_ani_workers_4" sc="1" dl="0">
+     <f dr="2" dI="-1"/>
+     <f x="24.9" y="-12.35" cocos2d_x="24.9" cocos2d_y="-12.35" kX="-75" kY="105" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+     <f x="23.7" y="-11.05" cocos2d_x="23.7" cocos2d_y="-11.05" kX="-75" kY="105" cX="1" cY="1" pX="0" pY="0" z="2" dI="1" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="82" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="24.6" y="-10.7" cocos2d_x="24.6" cocos2d_y="-10.7" kX="-75" kY="105" cX="1" cY="1" pX="0" pY="0" z="2" dI="2" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="1" dI="-1"/>
+     <f x="24.9" y="-12.35" cocos2d_x="24.9" cocos2d_y="-12.35" kX="-75" kY="105" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+     <f x="23.7" y="-11.05" cocos2d_x="23.7" cocos2d_y="-11.05" kX="-75" kY="105" cX="1" cY="1" pX="0" pY="0" z="2" dI="1" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="82" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="24.6" y="-10.7" cocos2d_x="24.6" cocos2d_y="-10.7" kX="-75" kY="105" cX="1" cY="1" pX="0" pY="0" z="2" dI="2" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="1" dI="-1"/>
+     <f x="24.9" y="-12.35" cocos2d_x="24.9" cocos2d_y="-12.35" kX="-75" kY="105" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+     <f x="23.7" y="-11.05" cocos2d_x="23.7" cocos2d_y="-11.05" kX="-75" kY="105" cX="1" cY="1" pX="0" pY="0" z="2" dI="1" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="82" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="24.6" y="-10.7" cocos2d_x="24.6" cocos2d_y="-10.7" kX="-75" kY="105" cX="1" cY="1" pX="0" pY="0" z="2" dI="2" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="2" dI="-1"/>
+    </b>
+    <b name="npc_ani_workers_2" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="3"/>
+    </b>
+   </mov>
+   <mov name="move" dr="8" to="0" drTW="8" lp="1" twE="NaN">
+    <b name="npc_ani_workers_3" sc="1" dl="0">
+     <f x="2" y="23" cocos2d_x="2" cocos2d_y="23" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="8"/>
+    </b>
+    <b name="npc_ani_workers_2" sc="1" dl="0">
+     <f x="3" y="5.5" cocos2d_x="3" cocos2d_y="5.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="3" y="5" cocos2d_x="3" cocos2d_y="5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="3" y="5.5" cocos2d_x="3" cocos2d_y="5.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="3" y="5" cocos2d_x="3" cocos2d_y="5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+    </b>
+   </mov>
+   <mov name="left" dr="8" to="0" drTW="8" lp="1" twE="NaN">
+    <b name="npc_ani_workers_3" sc="1" dl="0">
+     <f x="2" y="23" cocos2d_x="2" cocos2d_y="23" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="8"/>
+    </b>
+    <b name="npc_ani_workers_2" sc="1" dl="0">
+     <f x="1" y="5.5" cocos2d_x="1" cocos2d_y="5.5" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="1" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="1" y="5" cocos2d_x="1" cocos2d_y="5" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="1" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="1" y="5.5" cocos2d_x="1" cocos2d_y="5.5" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="1" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="1" y="5" cocos2d_x="1" cocos2d_y="5" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="1" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+    </b>
+   </mov>
+   <mov name="front" dr="8" to="0" drTW="8" lp="1" twE="NaN">
+    <b name="npc_ani_workers_3" sc="1" dl="0">
+     <f x="2" y="23" cocos2d_x="2" cocos2d_y="23" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="8"/>
+    </b>
+    <b name="npc_ani_workers_2" sc="1" dl="0">
+     <f x="1.5" y="5.5" cocos2d_x="1.5" cocos2d_y="5.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="1.5" y="5" cocos2d_x="1.5" cocos2d_y="5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="6" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="1.5" y="5.5" cocos2d_x="1.5" cocos2d_y="5.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="7" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="1.5" y="5" cocos2d_x="1.5" cocos2d_y="5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="6" twE="NaN" tweenFrame="0" dr="2"/>
+    </b>
+   </mov>
+   <mov name="goback" dr="8" to="0" drTW="8" lp="1" twE="NaN">
+    <b name="npc_ani_workers_3" sc="1" dl="0">
+     <f x="2" y="23" cocos2d_x="2" cocos2d_y="23" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="8"/>
+    </b>
+    <b name="npc_ani_workers_2" sc="1" dl="0">
+     <f x="2" y="6" cocos2d_x="2" cocos2d_y="6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="8" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="2" y="5.5" cocos2d_x="2" cocos2d_y="5.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="9" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="2" y="6" cocos2d_x="2" cocos2d_y="6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="10" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="2" y="5.5" cocos2d_x="2" cocos2d_y="5.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="9" twE="NaN" tweenFrame="0" dr="2"/>
+    </b>
+   </mov>
+   <mov name="right" dr="8" to="0" drTW="8" lp="1" twE="NaN">
+    <b name="npc_ani_workers_3" sc="1" dl="0">
+     <f x="2" y="23" cocos2d_x="2" cocos2d_y="23" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="8"/>
+    </b>
+    <b name="npc_ani_workers_2" sc="1" dl="0">
+     <f x="3" y="5.5" cocos2d_x="3" cocos2d_y="5.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="3" y="5" cocos2d_x="3" cocos2d_y="5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="3" y="5.5" cocos2d_x="3" cocos2d_y="5.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="3" y="5" cocos2d_x="3" cocos2d_y="5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="npc_ani_workers" width="256" height="128">
+  <SubTexture name="npc_ani_workers_11" width="24" height="6" cocos2d_pX="12" cocos2d_pY="3" x="125" y="73"/>
+  <SubTexture name="npc_ani_workers_17" width="27" height="34" cocos2d_pX="13.5" cocos2d_pY="17" x="0" y="73"/>
+  <SubTexture name="npc_ani_workers_16" width="27" height="35" cocos2d_pX="13.5" cocos2d_pY="17.5" x="213" y="72"/>
+  <SubTexture name="npc_ani_workers_15" width="27" height="34" cocos2d_pX="13.5" cocos2d_pY="17" x="28" y="73"/>
+  <SubTexture name="npc_ani_workers_14" width="29" height="35" cocos2d_pX="14.5" cocos2d_pY="17.5" x="214" y="0"/>
+  <SubTexture name="npc_ani_workers_13" width="29" height="36" cocos2d_pX="14.5" cocos2d_pY="18" x="154" y="0"/>
+  <SubTexture name="npc_ani_workers_12" width="29" height="35" cocos2d_pX="14.5" cocos2d_pY="17.5" x="184" y="0"/>
+  <SubTexture name="npc_ani_workers_10" width="28" height="35" cocos2d_pX="14" cocos2d_pY="17.5" x="213" y="36"/>
+  <SubTexture name="npc_ani_workers_9" width="28" height="36" cocos2d_pX="14" cocos2d_pY="18" x="184" y="36"/>
+  <SubTexture name="npc_ani_workers_8" width="28" height="35" cocos2d_pX="14" cocos2d_pY="17.5" x="154" y="37"/>
+  <SubTexture name="npc_ani_workers_7" width="76" height="72" cocos2d_pX="38" cocos2d_pY="36" x="0" y="0"/>
+  <SubTexture name="npc_ani_workers_6" width="76" height="72" cocos2d_pX="38" cocos2d_pY="36" x="77" y="0"/>
+  <SubTexture name="npc_ani_workers_2" width="38" height="14" cocos2d_pX="18.85" cocos2d_pY="6.55" x="56" y="73"/>
+  <SubTexture name="npc_ani_workers_3" width="32" height="14" cocos2d_pX="15.9" cocos2d_pY="6.55" x="150" y="73"/>
+  <SubTexture name="npc_ani_workers_1" width="21" height="9" cocos2d_pX="10.1" cocos2d_pY="4.4" x="183" y="73"/>
+  <SubTexture name="npc_ani_workers_4" width="29" height="22" cocos2d_pX="14.5" cocos2d_pY="11" x="95" y="73"/>
+ </TextureAtlas>
+</skeleton>

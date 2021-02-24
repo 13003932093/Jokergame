@@ -1,0 +1,63 @@
+<skeleton name="buff_ani_vipatk1" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="buff_ani_vipatk1">
+      <b name="buff_ani_vipatk1_3" x="3.65" y="-160.05" kX="0" kY="0" cX="0.75" cY="0.75" pX="0" pY="0" z="0">
+        <d name="buff_ani_vipatk1_rs1_8" pX="70.2" pY="72.1"/>
+      </b>
+      <b name="buff_ani_vipatk1_2" x="3.6" y="-161.5" kX="0" kY="0" cX="0.96" cY="0.96" pX="-0.05" pY="0" z="1">
+        <d name="buff_ani_vipatk1_rs1_17" pX="36.1" pY="36.05"/>
+      </b>
+      <b name="buff_ani_vipatk1_1" x="3.15" y="-158.2" kX="0" kY="0" cX="0.66" cY="0.66" pX="0" pY="0" z="2">
+        <d name="buff_ani_vipatk1_rs1_11" pX="34.9" pY="37.4"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="buff_ani_vipatk1">
+      <mov name="buff" dr="81" to="0" drTW="81" lp="1" twE="NaN">
+        <b name="buff_ani_vipatk1_3" sc="1" dl="0">
+          <f x="3.65" y="-160.05" cocos2d_x="3.65" cocos2d_y="-160.05" kX="0" kY="0" cX="0.75" cY="0.75" pX="0" pY="0" z="0" dI="0" twE="0" dr="18">
+            <colorTransform a="0" r="0" g="0" b="0" aM="69" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.05" y="-160.05" cocos2d_x="-0.05" cocos2d_y="-160.05" kX="89.2" kY="89.2" cX="0.75" cY="0.75" pX="0" pY="0" z="0" dI="0" twE="0" dr="20">
+            <colorTransform a="0" r="0" g="0" b="0" aM="69" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="3.65" y="-160.05" cocos2d_x="3.65" cocos2d_y="-160.05" kX="178.4" kY="178.4" cX="0.75" cY="0.75" pX="0" pY="0" z="0" dI="0" twE="0" dr="21">
+            <colorTransform a="0" r="0" g="0" b="0" aM="69" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="3.65" y="-160.05" cocos2d_x="3.65" cocos2d_y="-160.05" kX="-89.92" kY="-89.92" cX="0.75" cY="0.75" pX="0" pY="0" z="0" dI="0" twE="0" dr="21">
+            <colorTransform a="0" r="0" g="0" b="0" aM="69" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="3.65" y="-160.05" cocos2d_x="3.65" cocos2d_y="-160.05" kX="-1.72" kY="-1.72" cX="0.75" cY="0.75" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="69" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="buff_ani_vipatk1_2" sc="1" dl="0">
+          <f x="3.6" y="-161.5" cocos2d_x="3.65" cocos2d_y="-161.5" kX="0" kY="0" cX="0.96" cY="0.96" pX="-0.05" pY="0" z="1" dI="0" twE="0" dr="18">
+            <colorTransform a="0" r="0" g="0" b="0" aM="90" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="2.6" y="-160.75" cocos2d_x="2.6" cocos2d_y="-160.7" kX="89.24" kY="89.24" cX="0.96" cY="0.96" pX="-0.05" pY="0" z="1" dI="0" twE="0" dr="20">
+            <colorTransform a="0" r="0" g="0" b="0" aM="90" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="3.85" y="-159.5" cocos2d_x="3.8" cocos2d_y="-159.5" kX="-179.95" kY="-179.95" cX="0.96" cY="0.96" pX="-0.05" pY="0" z="1" dI="0" twE="0" dr="21">
+            <colorTransform a="0" r="0" g="0" b="0" aM="90" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="2.35" y="-160.25" cocos2d_x="2.35" cocos2d_y="-160.3" kX="-92" kY="-92" cX="0.96" cY="0.96" pX="-0.05" pY="0" z="1" dI="0" twE="0" dr="21">
+            <colorTransform a="0" r="0" g="0" b="0" aM="90" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="3.6" y="-161.5" cocos2d_x="3.65" cocos2d_y="-161.5" kX="0" kY="0" cX="0.96" cY="0.96" pX="-0.05" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="90" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="buff_ani_vipatk1_1" sc="1" dl="0">
+          <f x="3.15" y="-158.2" cocos2d_x="3.15" cocos2d_y="-158.2" kX="0" kY="0" cX="0.66" cY="0.66" pX="0" pY="0" z="2" dI="0" dr="81"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="buff_ani_vipatk1" width="256" height="256">
+    <SubTexture name="buff_ani_vipatk1_rs1_11" width="73" height="75" cocos2d_pX="34.9" cocos2d_pY="37.4" x="139" y="78"/>
+    <SubTexture name="buff_ani_vipatk1_rs1_17" width="76" height="76" cocos2d_pX="36.1" cocos2d_pY="36.05" x="139" y="0"/>
+    <SubTexture name="buff_ani_vipatk1_rs1_8" width="137" height="138" cocos2d_pX="70.2" cocos2d_pY="72.1" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

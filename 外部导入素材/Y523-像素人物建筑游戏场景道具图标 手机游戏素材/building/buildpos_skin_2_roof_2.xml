@@ -1,0 +1,37 @@
+<skeleton name="buildpos_skin_2_roof_2" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="buildpos_skin_2_roof_2">
+      <b name="buildpos_skin_2_roof_2_5" x="-0.1" y="1.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-240" z="0">
+        <d name="buildpos_skin_2_roof_2__2" pX="431" pY="643.9"/>
+      </b>
+      <b name="buildpos_skin_2_roof_2_1" x="19.9" y="-81.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="buildpos_skin_2_roof_2__3" pX="451" pY="321.5"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="buildpos_skin_2_roof_2">
+      <mov name="effect" dr="9" to="6" drTW="9" lp="0" twE="NaN">
+        <b name="buildpos_skin_2_roof_2_5" sc="1" dl="0">
+          <f x="-0.1" y="1.05" cocos2d_x="-0.1" cocos2d_y="241.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-240" z="0" dI="0" dr="9"/>
+        </b>
+        <b name="buildpos_skin_2_roof_2_1" sc="1" dl="0">
+          <f x="19.9" y="-81.35" cocos2d_x="19.9" cocos2d_y="-81.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="5"/>
+          <f x="19.9" y="-81.35" cocos2d_x="19.9" cocos2d_y="-81.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="3" dI="-1"/>
+        </b>
+      </mov>
+      <mov name="idle" dr="40" to="0" drTW="40" lp="0" twE="NaN">
+        <b name="buildpos_skin_2_roof_2_5" sc="1" dl="0">
+          <f x="-0.1" y="1.05" cocos2d_x="-0.1" cocos2d_y="241.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-240" z="0" dI="0" dr="40"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="buildpos_skin_2_roof_2" width="2048" height="1024">
+    <SubTexture name="buildpos_skin_2_roof_2__3" width="902" height="643" cocos2d_pX="451" cocos2d_pY="321.5" x="904" y="0"/>
+    <SubTexture name="buildpos_skin_2_roof_2__2" width="902" height="643" cocos2d_pX="431" cocos2d_pY="643.9" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

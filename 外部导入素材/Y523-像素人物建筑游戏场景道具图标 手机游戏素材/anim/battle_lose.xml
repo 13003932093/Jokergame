@@ -1,0 +1,24 @@
+<skeleton name="battle_lose" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="battle_lose">
+   <b name="battle_lose_1" x="-6.55" y="-169" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="battle_lose_1" pX="223.5" pY="96"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="battle_lose">
+   <mov name="show" dr="27" to="0" drTW="27" lp="0" twE="NaN">
+    <b name="battle_lose_1" sc="1" dl="0">
+     <f x="-6.55" y="-169" cocos2d_x="-6.55" cocos2d_y="-169" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="5">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-6.55" y="-169" cocos2d_x="-6.55" cocos2d_y="-169" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="22"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="battle_lose" width="512" height="256">
+  <SubTexture name="battle_lose_1" width="447" height="192" cocos2d_pX="223.5" cocos2d_pY="96" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

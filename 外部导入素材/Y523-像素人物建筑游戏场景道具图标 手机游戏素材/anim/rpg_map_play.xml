@@ -1,0 +1,341 @@
+<skeleton name="rpg_map_play" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="rpg_map_play5">
+   <b name="rpg_map_play_5_3" x="-198.95" y="-84.95" kX="-82.48" kY="-82.48" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="rpg_map_play_48" pX="47.5" pY="56"/>
+   </b>
+   <b name="rpg_map_play_5_2" x="-242.9" y="6.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="rpg_map_play_49" pX="47.5" pY="56"/>
+   </b>
+  </armature>
+  <armature name="rpg_map_play4">
+   <b name="rpg_map_play4_1" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="50" pY="50" z="0">
+    <d name="rpg_map_play_47" pX="0" pY="0"/>
+   </b>
+  </armature>
+  <armature name="rpg_map_play3">
+   <b name="rpg_map_play3_3" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="rpg_map_play_26" pX="29.5" pY="28"/>
+   </b>
+   <b name="rpg_map_play3_2" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="rpg_map_play_25" pX="29.5" pY="28"/>
+   </b>
+  </armature>
+  <armature name="rpg_map_play2">
+   <b name="rpg_map_play2_2" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="rpg_map_play_23" pX="61" pY="93.5"/>
+   </b>
+  </armature>
+  <armature name="rpg_map_play1">
+   <b name="rpg_map_play1_7" x="2" y="2.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="rpg_map_play_6" pX="63" pY="11.5"/>
+   </b>
+   <b name="rpg_map_play1_6" x="45.5" y="-1.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="rpg_map_play_5" pX="13.5" pY="12"/>
+   </b>
+   <b name="rpg_map_play1_5" x="16.5" y="-1.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+    <d name="rpg_map_play_4" pX="13.5" pY="12"/>
+   </b>
+   <b name="rpg_map_play1_4" x="-29.5" y="-1.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3">
+    <d name="rpg_map_play_3" pX="13.5" pY="12"/>
+   </b>
+   <b name="rpg_map_play1_3" x="0" y="-29.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4">
+    <d name="rpg_map_play_2" pX="68" pY="33.5"/>
+   </b>
+   <b name="rpg_map_play1_2" x="3.5" y="-20.9" kX="0" kY="0" cX="1" cY="0.88" pX="0" pY="0" z="5">
+    <d name="rpg_map_play_21" pX="25.7" pY="21.75"/>
+   </b>
+   <b name="rpg_map_play1_19" x="41" y="-1.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="rpg_map_play_15" pX="47" pY="31.5"/>
+   </b>
+   <b name="rpg_map_play1_18" x="0" y="-8.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="rpg_map_play_18" pX="73" pY="38.5"/>
+   </b>
+   <b name="rpg_map_play1_17" x="0" y="-20.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="rpg_map_play_17" pX="73" pY="36"/>
+   </b>
+   <b name="rpg_map_play1_16" x="-5.55" y="-20.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="rpg_map_play_16" pX="53.5" pY="36"/>
+   </b>
+   <b name="rpg_map_play1_15" x="0.5" y="-46.6" kX="0" kY="0" cX="1" cY="0.66" pX="0" pY="0" z="2">
+    <d name="rpg_map_play_14" pX="33.5" pY="44"/>
+   </b>
+   <b name="rpg_map_play1_14" x="31.5" y="-21.5" kX="0" kY="0" cX="1" cY="0.56" pX="0" pY="0" z="2">
+    <d name="rpg_map_play_13" pX="33.5" pY="37.5"/>
+   </b>
+   <b name="rpg_map_play1_13" x="-36.5" y="-23" kX="0" kY="0" cX="1" cY="0.54" pX="0" pY="0" z="4">
+    <d name="rpg_map_play_11" pX="33.5" pY="32"/>
+   </b>
+   <b name="rpg_map_play1_12" x="4.5" y="-5.95" kX="-35.99" kY="8.15" cX="0.81" cY="0.84" pX="0" pY="0" z="5">
+    <d name="rpg_map_play_20" pX="27" pY="17"/>
+   </b>
+   <b name="rpg_map_play1_11" x="-35.5" y="-13.8" kX="0" kY="0" cX="1" cY="0.57" pX="0" pY="0" z="4">
+    <d name="rpg_map_play_12" pX="9.5" pY="18"/>
+   </b>
+   <b name="rpg_map_play1_10" x="58.5" y="-12.7" kX="0" kY="0" cX="1" cY="0.51" pX="0" pY="0" z="3">
+    <d name="rpg_map_play_8" pX="8.5" pY="10"/>
+   </b>
+   <b name="rpg_map_play1_9" x="48" y="-7" kX="0" kY="0" cX="1" cY="0.46" pX="0" pY="0" z="3">
+    <d name="rpg_map_play_9" pX="8" pY="14"/>
+   </b>
+   <b name="rpg_map_play1_8" x="-32.5" y="-3.25" kX="0" kY="0" cX="1" cY="0.57" pX="0" pY="0" z="6">
+    <d name="rpg_map_play_8" pX="8.5" pY="10"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="rpg_map_play5">
+   <mov name="idle" dr="41" to="0" drTW="41" lp="0" twE="NaN">
+    <b name="rpg_map_play_5_3" sc="1" dl="0">
+     <f dr="2" dI="-1"/>
+     <f x="-198.95" y="-84.95" cocos2d_x="-198.95" cocos2d_y="-84.95" kX="-82.48" kY="-82.48" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="-176.55" y="-111.25" cocos2d_x="-176.55" cocos2d_y="-111.25" kX="11.56" kY="11.56" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f dr="2" dI="-1"/>
+     <f x="-115" y="-148.55" cocos2d_x="-115" cocos2d_y="-148.55" kX="-151.41" kY="-151.41" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="-97.55" y="-152" cocos2d_x="-97.55" cocos2d_y="-152" kX="-103.01" kY="-103.01" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f dr="2" dI="-1"/>
+     <f x="-54.2" y="-148.75" cocos2d_x="-54.2" cocos2d_y="-148.75" kX="14.8" kY="14.8" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="-42.05" y="-144.85" cocos2d_x="-42.05" cocos2d_y="-144.85" kX="49.15" kY="49.15" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f dr="2" dI="-1"/>
+     <f x="-9.05" y="-126.9" cocos2d_x="-9.05" cocos2d_y="-126.9" kX="150.67" kY="150.67" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="1.75" y="-118.5" cocos2d_x="1.75" cocos2d_y="-118.5" kX="-172.71" kY="-172.71" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f dr="2" dI="-1"/>
+     <f x="36.15" y="-80.35" cocos2d_x="36.15" cocos2d_y="-80.35" kX="-34.07" kY="-34.07" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="48.95" y="-60.5" cocos2d_x="48.95" cocos2d_y="-60.5" kX="29.3" kY="29.3" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f dr="2" dI="-1"/>
+     <f x="88.9" y="55.6" cocos2d_x="88.9" cocos2d_y="55.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="103.45" y="44.6" cocos2d_x="103.45" cocos2d_y="44.6" kX="27.06" kY="27.06" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f dr="2" dI="-1"/>
+     <f x="154.75" y="7.9" cocos2d_x="154.75" cocos2d_y="7.9" kX="140.89" kY="140.89" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="179.6" y="10.5" cocos2d_x="179.6" cocos2d_y="10.5" kX="-175.73" kY="-175.73" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f dr="2" dI="-1"/>
+     <f x="230.7" y="55.6" cocos2d_x="230.7" cocos2d_y="55.6" kX="-55.89" kY="-55.89" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="238.7" y="71.8" cocos2d_x="238.7" cocos2d_y="71.8" kX="-24.79" kY="-24.79" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f dr="9" dI="-1"/>
+    </b>
+    <b name="rpg_map_play_5_2" sc="1" dl="0">
+     <f x="-242.9" y="6.05" cocos2d_x="-242.9" cocos2d_y="6.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="-221.2" y="-47.75" cocos2d_x="-221.2" cocos2d_y="-47.75" kX="158.7" kY="158.7" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f dr="2" dI="-1"/>
+     <f x="-154.8" y="-129.5" cocos2d_x="-154.8" cocos2d_y="-129.5" kX="88.74" kY="88.74" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="-134.2" y="-141.45" cocos2d_x="-134.2" cocos2d_y="-141.45" kX="153.42" kY="153.42" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f dr="2" dI="-1"/>
+     <f x="-81.65" y="-152.75" cocos2d_x="-81.65" cocos2d_y="-152.75" kX="-60.16" kY="-60.16" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="-67.25" y="-151.5" cocos2d_x="-67.25" cocos2d_y="-151.5" kX="-21.06" kY="-21.06" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f dr="2" dI="-1"/>
+     <f x="-30.7" y="-139.95" cocos2d_x="-30.7" cocos2d_y="-139.95" kX="82.7" kY="82.7" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="-19.75" y="-133.95" cocos2d_x="-19.75" cocos2d_y="-133.95" kX="116.04" kY="116.04" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f dr="2" dI="-1"/>
+     <f x="12.75" y="-108.3" cocos2d_x="12.75" cocos2d_y="-108.3" kX="-132.35" kY="-132.35" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="24.2" y="-95.85" cocos2d_x="24.2" cocos2d_y="-95.85" kX="-86.96" kY="-86.96" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f dr="2" dI="-1"/>
+     <f x="62.35" y="-34.25" cocos2d_x="62.35" cocos2d_y="-34.25" kX="108.04" kY="108.04" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="76.05" y="1.9" cocos2d_x="76.05" cocos2d_y="1.9" kX="-148.44" kY="-148.44" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f dr="2" dI="-1"/>
+     <f x="114.7" y="29.2" cocos2d_x="114.7" cocos2d_y="29.2" kX="60.45" kY="60.45" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="131.95" y="15.4" cocos2d_x="131.95" cocos2d_y="15.4" kX="98.8" kY="98.8" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f dr="2" dI="-1"/>
+     <f x="201.7" y="21.9" cocos2d_x="201.7" cocos2d_y="21.9" kX="-132.65" kY="-132.65" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="218.65" y="38.2" cocos2d_x="218.65" cocos2d_y="38.2" kX="-92.06" kY="-92.06" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f dr="2" dI="-1"/>
+     <f x="253.55" y="85.1" cocos2d_x="253.55" cocos2d_y="85.1" kX="5.72" kY="5.72" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="4"/>
+     <f x="240.25" y="84.4" cocos2d_x="240.25" cocos2d_y="84.4" kX="-7.8" kY="-7.8" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="4"/>
+     <f x="249" y="85.2" cocos2d_x="249" cocos2d_y="85.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+    </b>
+   </mov>
+   <mov name="idle1" dr="1" to="0">
+    <b name="rpg_map_play_5_2" sc="1" dl="0">
+     <f x="-242.9" y="6.05" cocos2d_x="-242.9" cocos2d_y="6.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="rpg_map_play4">
+   <mov name="idle" dr="2" to="0" drTW="10" lp="1" twE="2">
+    <b name="rpg_map_play4_1" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="-50" cocos2d_y="-50" kX="0" kY="0" cX="1" cY="1" pX="50" pY="50" z="0" dI="0" dr="1"/>
+     <f x="0" y="0" cocos2d_x="-50" cocos2d_y="-50" kX="0" kY="0" cX="1" cY="1" pX="50" pY="50" z="0" dI="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="rpg_map_play3">
+   <mov name="on" dr="7" to="0" drTW="7" lp="0" twE="NaN">
+    <b name="rpg_map_play3_3" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="7"/>
+    </b>
+    <b name="rpg_map_play3_2" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="5"/>
+     <f x="0" y="-24" cocos2d_x="0" cocos2d_y="-24" kX="0" kY="0" cX="1" cY="0.14" pX="0" pY="0" z="1" dI="0" dr="1"/>
+     <f dr="1" dI="-1"/>
+    </b>
+   </mov>
+   <mov name="off" dr="6" to="0" drTW="6" lp="0" twE="NaN">
+    <b name="rpg_map_play3_3" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="6"/>
+    </b>
+    <b name="rpg_map_play3_2" sc="1" dl="0">
+     <f x="0" y="-24" cocos2d_x="0" cocos2d_y="-24" kX="0" kY="0" cX="1" cY="0.14" pX="0" pY="0" z="1" dI="0" twE="0" dr="5"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+    </b>
+   </mov>
+   <mov name="idle" dr="1" to="0">
+    <b name="rpg_map_play3_3" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+    </b>
+    <b name="rpg_map_play3_2" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="rpg_map_play2">
+   <mov name="idle" dr="2" to="0" drTW="10" lp="1" twE="2">
+    <b name="rpg_map_play2_2" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="rpg_map_play1">
+   <mov name="run" dr="8" to="0" drTW="8" lp="1" twE="NaN">
+    <b name="rpg_map_play1_7" sc="1" dl="0">
+     <f x="2" y="2.25" cocos2d_x="2" cocos2d_y="2.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="8"/>
+    </b>
+    <b name="rpg_map_play1_6" sc="1" dl="0">
+     <f x="45.5" y="-1.25" cocos2d_x="45.5" cocos2d_y="-1.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="8"/>
+    </b>
+    <b name="rpg_map_play1_5" sc="1" dl="0">
+     <f x="16.5" y="-1.25" cocos2d_x="16.5" cocos2d_y="-1.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="8"/>
+    </b>
+    <b name="rpg_map_play1_4" sc="1" dl="0">
+     <f x="-29.5" y="-1.25" cocos2d_x="-29.5" cocos2d_y="-1.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="8"/>
+    </b>
+    <b name="rpg_map_play1_3" sc="1" dl="0">
+     <f x="0" y="-29.5" cocos2d_x="0" cocos2d_y="-29.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-31" cocos2d_x="0" cocos2d_y="-31" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-29.5" cocos2d_x="0" cocos2d_y="-29.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-31" cocos2d_x="0" cocos2d_y="-31" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+    </b>
+   </mov>
+   <mov name="run1" dr="16" to="0" drTW="16" lp="1" twE="NaN">
+    <b name="rpg_map_play1_7" sc="1" dl="0">
+     <f x="2" y="2.25" cocos2d_x="2" cocos2d_y="2.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="16"/>
+    </b>
+    <b name="rpg_map_play1_6" sc="1" dl="0">
+     <f x="45.5" y="-1.25" cocos2d_x="45.5" cocos2d_y="-1.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="16"/>
+    </b>
+    <b name="rpg_map_play1_5" sc="1" dl="0">
+     <f x="16.5" y="-1.25" cocos2d_x="16.5" cocos2d_y="-1.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="16"/>
+    </b>
+    <b name="rpg_map_play1_4" sc="1" dl="0">
+     <f x="-29.5" y="-1.25" cocos2d_x="-29.5" cocos2d_y="-1.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="16"/>
+    </b>
+    <b name="rpg_map_play1_3" sc="1" dl="0">
+     <f x="0" y="-29.5" cocos2d_x="0" cocos2d_y="-29.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-31" cocos2d_x="0" cocos2d_y="-31" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-29.5" cocos2d_x="0" cocos2d_y="-29.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-31" cocos2d_x="0" cocos2d_y="-31" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-29.5" cocos2d_x="0" cocos2d_y="-29.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-31" cocos2d_x="0" cocos2d_y="-31" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-29.5" cocos2d_x="0" cocos2d_y="-29.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-31" cocos2d_x="0" cocos2d_y="-31" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+    </b>
+    <b name="rpg_map_play1_2" sc="1" dl="0">
+     <f x="3.5" y="-20.9" cocos2d_x="3.5" cocos2d_y="-20.9" kX="0" kY="0" cX="1" cY="0.88" pX="0" pY="0" z="5" dI="0" twE="0" dr="4"/>
+     <f x="3.5" y="-20.9" cocos2d_x="3.5" cocos2d_y="-20.9" kX="0" kY="0" cX="0.6" cY="0.52" pX="0" pY="0" z="5" dI="0" twE="0" dr="7"/>
+     <f x="3.5" y="-20.9" cocos2d_x="3.5" cocos2d_y="-20.9" kX="0" kY="0" cX="1" cY="0.88" pX="0" pY="0" z="5" dI="0" dr="5"/>
+    </b>
+   </mov>
+   <mov name="effect1" dr="27" to="0" drTW="27" lp="0" twE="NaN">
+    <b name="rpg_map_play1_19" sc="1" dl="0">
+     <f dr="2" dI="-1"/>
+     <f x="41" y="-1.1" cocos2d_x="41" cocos2d_y="-1.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="25"/>
+    </b>
+    <b name="rpg_map_play1_18" sc="1" dl="0">
+     <f dr="2" dI="-1"/>
+     <f x="0" y="-8.1" cocos2d_x="0" cocos2d_y="-8.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="25"/>
+    </b>
+    <b name="rpg_map_play1_17" sc="1" dl="0">
+     <f dr="1" dI="-1"/>
+     <f x="0" y="-20.6" cocos2d_x="0" cocos2d_y="-20.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+     <f dr="25" dI="-1"/>
+    </b>
+    <b name="rpg_map_play1_16" sc="1" dl="0">
+     <f x="-5.55" y="-20.55" cocos2d_x="-5.55" cocos2d_y="-20.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+     <f dr="26" dI="-1"/>
+    </b>
+    <b name="rpg_map_play1_15" sc="1" dl="0">
+     <f dr="8" dI="-1"/>
+     <f x="0.5" y="-46.6" cocos2d_x="0.5" cocos2d_y="-46.6" kX="0" kY="0" cX="1" cY="0.66" pX="0" pY="0" z="2" dI="0" twE="0" dr="3"/>
+     <f x="0.5" y="-65" cocos2d_x="0.5" cocos2d_y="-65" kX="0" kY="0" cX="1" cY="1.08" pX="0" pY="0" z="2" dI="0" twE="0" dr="3"/>
+     <f x="0.5" y="-61.6" cocos2d_x="0.5" cocos2d_y="-61.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="13"/>
+    </b>
+    <b name="rpg_map_play1_14" sc="1" dl="0">
+     <f dr="3" dI="-1"/>
+     <f x="31.5" y="-21.5" cocos2d_x="31.5" cocos2d_y="-21.5" kX="0" kY="0" cX="1" cY="0.56" pX="0" pY="0" z="2" dI="0" twE="0" dr="3"/>
+     <f x="31.5" y="-40.5" cocos2d_x="31.5" cocos2d_y="-40.5" kX="0" kY="0" cX="1" cY="1.06" pX="0" pY="0" z="3" dI="0" twE="0" dr="3"/>
+     <f x="31.5" y="-38.1" cocos2d_x="31.5" cocos2d_y="-38.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="18"/>
+    </b>
+    <b name="rpg_map_play1_13" sc="1" dl="0">
+     <f dr="6" dI="-1"/>
+     <f x="-36.5" y="-23" cocos2d_x="-36.5" cocos2d_y="-23" kX="0" kY="0" cX="1" cY="0.54" pX="0" pY="0" z="4" dI="0" twE="0" dr="3"/>
+     <f x="-36.5" y="-40.4" cocos2d_x="-36.5" cocos2d_y="-40.4" kX="0" kY="0" cX="1" cY="1.09" pX="0" pY="0" z="4" dI="0" twE="0" dr="3"/>
+     <f x="-36.5" y="-37.6" cocos2d_x="-36.5" cocos2d_y="-37.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="15"/>
+    </b>
+    <b name="rpg_map_play1_12" sc="1" dl="0">
+     <f dr="7" dI="-1"/>
+     <f x="4.5" y="-5.95" cocos2d_x="4.5" cocos2d_y="-5.95" kX="-35.99" kY="8.15" cX="0.81" cY="0.84" pX="0" pY="0" z="5" dI="0" twE="0" dr="3"/>
+     <f x="-7.6" y="0.7" cocos2d_x="-7.6" cocos2d_y="0.7" kX="0.39" kY="-2.97" cX="1.12" cY="1.01" pX="0" pY="0" z="5" dI="0" twE="0" dr="3"/>
+     <f x="-4.95" y="-0.65" cocos2d_x="-4.95" cocos2d_y="-0.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="14"/>
+    </b>
+    <b name="rpg_map_play1_11" sc="1" dl="0">
+     <f dr="4" dI="-1"/>
+     <f x="-35.5" y="-13.8" cocos2d_x="-35.5" cocos2d_y="-13.8" kX="0" kY="0" cX="1" cY="0.57" pX="0" pY="0" z="4" dI="0" twE="0" dr="3"/>
+     <f x="-35.5" y="-23.6" cocos2d_x="-35.5" cocos2d_y="-23.6" kX="0" kY="0" cX="1" cY="1.11" pX="0" pY="0" z="6" dI="0" twE="0" dr="3"/>
+     <f x="-35.5" y="-21.6" cocos2d_x="-35.5" cocos2d_y="-21.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" dr="17"/>
+    </b>
+    <b name="rpg_map_play1_10" sc="1" dl="0">
+     <f dr="2" dI="-1"/>
+     <f x="58.5" y="-12.7" cocos2d_x="58.5" cocos2d_y="-12.7" kX="0" kY="0" cX="1" cY="0.51" pX="0" pY="0" z="3" dI="0" twE="0" dr="2"/>
+     <f x="58.5" y="-18.3" cocos2d_x="58.5" cocos2d_y="-18.3" kX="0" kY="0" cX="1" cY="1.07" pX="0" pY="0" z="4" dI="0" twE="0" dr="2"/>
+     <f x="58.5" y="-17.6" cocos2d_x="58.5" cocos2d_y="-17.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" dr="21"/>
+    </b>
+    <b name="rpg_map_play1_9" sc="1" dl="0">
+     <f dr="1" dI="-1"/>
+     <f x="48" y="-7" cocos2d_x="48" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="0.46" pX="0" pY="0" z="3" dI="0" twE="0" dr="2"/>
+     <f x="48" y="-16.6" cocos2d_x="48" cocos2d_y="-16.6" kX="0" kY="0" cX="1" cY="1.14" pX="0" pY="0" z="5" dI="0" twE="0" dr="2"/>
+     <f x="48" y="-14.6" cocos2d_x="48" cocos2d_y="-14.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="0" dr="22"/>
+    </b>
+    <b name="rpg_map_play1_8" sc="1" dl="0">
+     <f dr="3" dI="-1"/>
+     <f x="-32.5" y="-3.25" cocos2d_x="-32.5" cocos2d_y="-3.25" kX="0" kY="0" cX="1" cY="0.57" pX="0" pY="0" z="6" dI="0" twE="0" dr="2"/>
+     <f x="-32.5" y="-8.55" cocos2d_x="-32.5" cocos2d_y="-8.55" kX="0" kY="0" cX="1" cY="1.1" pX="0" pY="0" z="7" dI="0" twE="0" dr="2"/>
+     <f x="-32.5" y="-7.6" cocos2d_x="-32.5" cocos2d_y="-7.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="9" dI="0" dr="20"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="rpg_map_play" width="512" height="512">
+  <SubTexture name="rpg_map_play_9" width="16" height="28" cocos2d_pX="8" cocos2d_pY="14" x="489" y="38"/>
+  <SubTexture name="rpg_map_play_8" width="17" height="20" cocos2d_pX="8.5" cocos2d_pY="10" x="489" y="68"/>
+  <SubTexture name="rpg_map_play_12" width="19" height="36" cocos2d_pX="9.5" cocos2d_pY="18" x="489" y="0"/>
+  <SubTexture name="rpg_map_play_20" width="54" height="34" cocos2d_pX="27" cocos2d_pY="17" x="0" y="263"/>
+  <SubTexture name="rpg_map_play_11" width="67" height="64" cocos2d_pX="33.5" cocos2d_pY="32" x="109" y="258"/>
+  <SubTexture name="rpg_map_play_13" width="67" height="75" cocos2d_pX="33.5" cocos2d_pY="37.5" x="398" y="90"/>
+  <SubTexture name="rpg_map_play_14" width="67" height="88" cocos2d_pX="33.5" cocos2d_pY="44" x="420" y="0"/>
+  <SubTexture name="rpg_map_play_16" width="107" height="72" cocos2d_pX="53.5" cocos2d_pY="36" x="0" y="189"/>
+  <SubTexture name="rpg_map_play_17" width="146" height="72" cocos2d_pX="73" cocos2d_pY="36" x="272" y="0"/>
+  <SubTexture name="rpg_map_play_18" width="146" height="77" cocos2d_pX="73" cocos2d_pY="38.5" x="124" y="0"/>
+  <SubTexture name="rpg_map_play_15" width="94" height="63" cocos2d_pX="47" cocos2d_pY="31.5" x="109" y="193"/>
+  <SubTexture name="rpg_map_play_21" width="52" height="44" cocos2d_pX="25.7" cocos2d_pY="21.75" x="384" y="261"/>
+  <SubTexture name="rpg_map_play_2" width="136" height="67" cocos2d_pX="68" cocos2d_pY="33.5" x="369" y="167"/>
+  <SubTexture name="rpg_map_play_3" width="27" height="24" cocos2d_pX="13.5" cocos2d_pY="12" x="369" y="74"/>
+  <SubTexture name="rpg_map_play_4" width="27" height="24" cocos2d_pX="13.5" cocos2d_pY="12" x="221" y="79"/>
+  <SubTexture name="rpg_map_play_5" width="27" height="24" cocos2d_pX="13.5" cocos2d_pY="12" x="467" y="90"/>
+  <SubTexture name="rpg_map_play_6" width="126" height="23" cocos2d_pX="63" cocos2d_pY="11.5" x="323" y="236"/>
+  <SubTexture name="rpg_map_play_23" width="122" height="187" cocos2d_pX="61" cocos2d_pY="93.5" x="0" y="0"/>
+  <SubTexture name="rpg_map_play_25" width="59" height="56" cocos2d_pX="29.5" cocos2d_pY="28" x="323" y="261"/>
+  <SubTexture name="rpg_map_play_26" width="59" height="56" cocos2d_pX="29.5" cocos2d_pY="28" x="451" y="236"/>
+  <SubTexture name="rpg_map_play_47" width="100" height="100" cocos2d_pX="0" cocos2d_pY="0" x="221" y="188"/>
+  <SubTexture name="rpg_map_play_49" width="95" height="112" cocos2d_pX="47.5" cocos2d_pY="56" x="124" y="79"/>
+  <SubTexture name="rpg_map_play_48" width="95" height="112" cocos2d_pX="47.5" cocos2d_pY="56" x="272" y="74"/>
+ </TextureAtlas>
+</skeleton>

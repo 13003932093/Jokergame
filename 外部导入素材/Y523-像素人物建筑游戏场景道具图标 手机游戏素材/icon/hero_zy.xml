@@ -1,0 +1,133 @@
+<skeleton name="hero_zy" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="hero_zy">
+      <b name="gr" x="-209.05" y="217.2" kX="0" kY="0" cX="2.51" cY="2.51" pX="0" pY="0" z="0">
+        <d name="nng_01" pX="24.05" pY="26.3"/>
+      </b>
+      <b name="te" x="-172.05" y="221" kX="0" kY="0" cX="2.51" cY="2.51" pX="0" pY="0" z="0">
+        <d name="nng_02" pX="41.7" pY="30.9"/>
+      </b>
+      <b name="rt" x="-124.4" y="234.3" kX="0" kY="0" cX="2.51" cY="2.51" pX="0" pY="0" z="0">
+        <d name="nng_03" pX="44.95" pY="36.9"/>
+      </b>
+      <b name="yy" x="-57.3" y="263.25" kX="0" kY="0" cX="2.51" cY="2.51" pX="-0.1" pY="0" z="0">
+        <d name="nng_04" pX="50.2" pY="44.25"/>
+      </b>
+      <b name="uu" x="-5.1" y="290.6" kX="0" kY="0" cX="2.51" cY="2.51" pX="0" pY="0" z="0">
+        <d name="nng_05" pX="59.05" pY="56.55"/>
+      </b>
+      <b name="4" x="53.1" y="296.8" kX="0" kY="0" cX="2.51" cY="2.51" pX="0" pY="0" z="0">
+        <d name="nng_06" pX="59.05" pY="53.4"/>
+      </b>
+      <b name="54" x="113.85" y="299.4" kX="0" kY="0" cX="2.51" cY="2.51" pX="0" pY="0" z="0">
+        <d name="nng_07" pX="52.35" pY="54.45"/>
+      </b>
+      <b name="t4" x="169.8" y="352.5" kX="0" kY="0" cX="2.51" cY="2.51" pX="0" pY="0" z="0">
+        <d name="nng_08" pX="38.85" pY="36.3"/>
+      </b>
+      <b name="fg" x="172.6" y="371.05" kX="0" kY="0" cX="2.51" cY="2.51" pX="0" pY="0" z="0">
+        <d name="nng_09" pX="37.75" pY="28.9"/>
+      </b>
+      <b name="345" x="206.85" y="368.4" kX="0" kY="0" cX="2.51" cY="2.51" pX="0" pY="0" z="0">
+        <d name="nng_10" pX="23.3" pY="29.95"/>
+      </b>
+      <b name="534" x="54.9" y="316.15" kX="0" kY="0" cX="1.04" cY="1.04" pX="0" pY="0" z="0">
+        <d name="hero_zy_jmkiki" pX="16" pY="15.4"/>
+      </b>
+      <b name="fg0" x="-272.7" y="-460.25" kX="0" kY="0" cX="3.12" cY="3.12" pX="-38.75" pY="-30.25" z="1">
+        <d name="hero_zy_nhhjy" pX="48.25" pY="54.25"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="hero_zy">
+      <mov name="run" dr="98" to="6" drTW="98" lp="1" twE="NaN">
+        <b name="gr" sc="1" dl="0">
+          <f dr="3" dI="-1"/>
+          <f x="-209.05" y="217.2" cocos2d_x="-209.05" cocos2d_y="217.2" kX="0" kY="0" cX="2.51" cY="2.51" pX="0" pY="0" z="0" dI="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="40" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-209.05" y="217.2" cocos2d_x="-209.05" cocos2d_y="217.2" kX="0" kY="0" cX="2.51" cY="2.51" pX="0" pY="0" z="0" dI="0" dr="3"/>
+          <f dr="90" dI="-1"/>
+        </b>
+        <b name="te" sc="1" dl="0">
+          <f dr="8" dI="-1"/>
+          <f x="-172.05" y="221" cocos2d_x="-172.05" cocos2d_y="221" kX="0" kY="0" cX="2.51" cY="2.51" pX="0" pY="0" z="0" dI="0" dr="3"/>
+          <f dr="87" dI="-1"/>
+        </b>
+        <b name="rt" sc="1" dl="0">
+          <f dr="11" dI="-1"/>
+          <f x="-124.4" y="234.3" cocos2d_x="-124.4" cocos2d_y="234.3" kX="0" kY="0" cX="2.51" cY="2.51" pX="0" pY="0" z="0" dI="0" dr="3"/>
+          <f dr="84" dI="-1"/>
+        </b>
+        <b name="yy" sc="1" dl="0">
+          <f dr="14" dI="-1"/>
+          <f x="-57.3" y="263.25" cocos2d_x="-57.15" cocos2d_y="263.25" kX="0" kY="0" cX="2.51" cY="2.51" pX="-0.1" pY="0" z="0" dI="0" dr="3"/>
+          <f dr="81" dI="-1"/>
+        </b>
+        <b name="uu" sc="1" dl="0">
+          <f dr="17" dI="-1"/>
+          <f x="-5.1" y="290.6" cocos2d_x="-5.1" cocos2d_y="290.6" kX="0" kY="0" cX="2.51" cY="2.51" pX="0" pY="0" z="0" dI="0" dr="3"/>
+          <f dr="78" dI="-1"/>
+        </b>
+        <b name="4" sc="1" dl="0">
+          <f dr="20" dI="-1"/>
+          <f x="53.1" y="296.8" cocos2d_x="53.1" cocos2d_y="296.8" kX="0" kY="0" cX="2.51" cY="2.51" pX="0" pY="0" z="0" dI="0" dr="3"/>
+          <f dr="75" dI="-1"/>
+        </b>
+        <b name="54" sc="1" dl="0">
+          <f dr="23" dI="-1"/>
+          <f x="113.85" y="299.4" cocos2d_x="113.85" cocos2d_y="299.4" kX="0" kY="0" cX="2.51" cY="2.51" pX="0" pY="0" z="0" dI="0" dr="3"/>
+          <f dr="72" dI="-1"/>
+        </b>
+        <b name="t4" sc="1" dl="0">
+          <f dr="26" dI="-1"/>
+          <f x="169.8" y="352.5" cocos2d_x="169.8" cocos2d_y="352.5" kX="0" kY="0" cX="2.51" cY="2.51" pX="0" pY="0" z="0" dI="0" dr="3"/>
+          <f dr="69" dI="-1"/>
+        </b>
+        <b name="fg" sc="1" dl="0">
+          <f dr="29" dI="-1"/>
+          <f x="172.6" y="371.05" cocos2d_x="172.6" cocos2d_y="371.05" kX="0" kY="0" cX="2.51" cY="2.51" pX="0" pY="0" z="0" dI="0" dr="3"/>
+          <f dr="66" dI="-1"/>
+        </b>
+        <b name="345" sc="1" dl="0">
+          <f dr="32" dI="-1"/>
+          <f x="206.85" y="368.4" cocos2d_x="206.85" cocos2d_y="368.4" kX="0" kY="0" cX="2.51" cY="2.51" pX="0" pY="0" z="0" dI="0" dr="2"/>
+          <f dr="64" dI="-1"/>
+        </b>
+        <b name="534" sc="1" dl="0">
+          <f dr="30" dI="-1"/>
+          <f x="54.9" y="316.15" cocos2d_x="54.9" cocos2d_y="316.15" kX="0" kY="0" cX="1.04" cY="1.04" pX="0" pY="0" z="0" dI="0" twE="0" dr="9"/>
+          <f x="58.2" y="316.15" cocos2d_x="58.2" cocos2d_y="316.15" kX="29.48" kY="29.48" cX="3.69" cY="3.69" pX="0" pY="0" z="0" dI="0" twE="1" dr="10"/>
+          <f x="60.3" y="316.15" cocos2d_x="60.3" cocos2d_y="316.15" kX="44.46" kY="44.46" cX="4.27" cY="4.27" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="48" dI="-1"/>
+        </b>
+        <b name="fg0" sc="1" dl="0">
+          <f x="-272.7" y="-460.25" cocos2d_x="-151.75" cocos2d_y="-365.95" kX="0" kY="0" cX="3.12" cY="3.12" pX="-38.75" pY="-30.25" z="1" dI="0" twE="0" dr="48"/>
+          <f x="-272.7" y="-460.25" cocos2d_x="-142.6" cocos2d_y="-379.05" kX="-5.96" kY="-5.96" cX="3.12" cY="3.12" pX="-38.75" pY="-30.2" z="0" dI="0" twE="0" dr="49">
+            <colorTransform a="0" r="0" g="0" b="0" aM="22" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-272.7" y="-460.25" cocos2d_x="-151.75" cocos2d_y="-365.95" kX="0" kY="0" cX="3.12" cY="3.12" pX="-38.75" pY="-30.25" z="0" dI="0" dr="1"/>
+        </b>
+        <f st="0" dr="49"/>
+        <f st="49" dr="49"/>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="hero_zy" width="512" height="256">
+    <SubTexture name="hero_zy_nhhjy" width="97" height="109" cocos2d_pX="48.25" cocos2d_pY="54.25" x="349" y="0"/>
+    <SubTexture name="hero_zy_jmkiki" width="33" height="31" cocos2d_pX="16" cocos2d_pY="15.4" x="396" y="111"/>
+    <SubTexture name="nng_10" width="47" height="60" cocos2d_pX="23.3" cocos2d_pY="29.95" x="448" y="0"/>
+    <SubTexture name="nng_09" width="76" height="58" cocos2d_pX="37.75" cocos2d_pY="28.9" x="431" y="117"/>
+    <SubTexture name="nng_08" width="78" height="73" cocos2d_pX="38.85" cocos2d_pY="36.3" x="316" y="111"/>
+    <SubTexture name="nng_07" width="105" height="109" cocos2d_pX="52.35" cocos2d_pY="54.45" x="242" y="0"/>
+    <SubTexture name="nng_06" width="119" height="107" cocos2d_pX="59.05" cocos2d_pY="53.4" x="121" y="0"/>
+    <SubTexture name="nng_05" width="119" height="114" cocos2d_pX="59.05" cocos2d_pY="56.55" x="0" y="0"/>
+    <SubTexture name="nng_04" width="101" height="89" cocos2d_pX="50.2" cocos2d_pY="44.25" x="121" y="109"/>
+    <SubTexture name="nng_03" width="90" height="74" cocos2d_pX="44.95" cocos2d_pY="36.9" x="224" y="111"/>
+    <SubTexture name="nng_02" width="84" height="62" cocos2d_pX="41.7" cocos2d_pY="30.9" x="0" y="116"/>
+    <SubTexture name="nng_01" width="49" height="53" cocos2d_pX="24.05" cocos2d_pY="26.3" x="448" y="62"/>
+  </TextureAtlas>
+</skeleton>

@@ -1,0 +1,47 @@
+<skeleton name="path_11023" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="path_11023">
+   <b name="path_11023_1" x="-64.7" y="0.05" kX="0" kY="0" cX="1.31" cY="1" pX="0" pY="0" z="0">
+    <d name="path_11023_13" pX="56.1" pY="22.65"/>
+    <d name="path_11023_7" pX="79.45" pY="69.6"/>
+    <d name="path_11023_8" pX="51.45" pY="44.8"/>
+    <d name="path_11023_9" pX="61.8" pY="53.8"/>
+    <d name="path_11023_10" pX="37.6" pY="38.45"/>
+   </b>
+   <b name="event" x="0.5" y="0.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="path_11023_1" pX="1" pY="1"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="path_11023">
+   <mov name="fly" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+    <b name="path_11023_1" sc="1" dl="0">
+     <f x="-64.7" y="0.05" cocos2d_x="-64.7" cocos2d_y="0.05" kX="0" kY="0" cX="1.31" cY="1" pX="0" pY="0" z="0" dI="0" dr="5"/>
+     <f x="-64.7" y="0.05" cocos2d_x="-64.7" cocos2d_y="0.05" kX="0" kY="0" cX="1.31" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+    </b>
+   </mov>
+   <mov name="hit" dr="9" to="0" drTW="9" lp="0" twE="NaN">
+    <b name="path_11023_1" sc="1" dl="0">
+     <f x="4.6" y="-1.5" cocos2d_x="4.6" cocos2d_y="-1.5" kX="45" kY="45" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="4.6" y="-1.5" cocos2d_x="4.6" cocos2d_y="-1.5" kX="45" kY="45" cX="2" cY="2" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="4.6" y="-1.5" cocos2d_x="4.6" cocos2d_y="-1.5" kX="45" kY="45" cX="2" cY="2" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="4.6" y="-1.5" cocos2d_x="4.6" cocos2d_y="-1.5" kX="45" kY="45" cX="1.95" cY="1.95" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+     <f dr="1" dI="-1"/>
+    </b>
+    <b name="event" sc="1" dl="0">
+     <f x="0.5" y="0.5" cocos2d_x="0.5" cocos2d_y="0.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" evt="damage" dr="1"/>
+     <f dr="8" dI="-1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="path_11023" width="256" height="512">
+  <SubTexture name="path_11023_1" width="2" height="2" cocos2d_pX="0.5" cocos2d_pY="0.5" x="242" y="0"/>
+  <SubTexture name="path_11023_10" width="76" height="75" cocos2d_pX="37.6" cocos2d_pY="38.45" x="164" y="0"/>
+  <SubTexture name="path_11023_9" width="124" height="108" cocos2d_pX="61.8" cocos2d_pY="53.8" x="0" y="144"/>
+  <SubTexture name="path_11023_8" width="103" height="90" cocos2d_pX="51.45" cocos2d_pY="44.8" x="126" y="144"/>
+  <SubTexture name="path_11023_7" width="162" height="142" cocos2d_pX="79.45" cocos2d_pY="69.6" x="0" y="0"/>
+  <SubTexture name="path_11023_13" width="112" height="46" cocos2d_pX="56.1" cocos2d_pY="22.65" x="126" y="236"/>
+ </TextureAtlas>
+</skeleton>

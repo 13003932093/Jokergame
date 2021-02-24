@@ -1,0 +1,110 @@
+<skeleton name="hero_refine_1" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="HeroRefine_UI_onIcon">
+      <b name="rare2" x="-0.5" y="-0.3" kX="0" kY="0" cX="0.9" cY="0.89" pX="0" pY="0" z="0">
+        <d name="icon_rare" pX="53" pY="54"/>
+      </b>
+      <b name="icon2" x="-0.5" y="0.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="icon" pX="47.5" pY="48"/>
+      </b>
+      <b name="rare1" x="-0.5" y="-0.3" kX="0" kY="0" cX="1.97" cY="1.95" pX="0" pY="0" z="0">
+        <d name="icon_rare" pX="53" pY="54"/>
+      </b>
+      <b name="icon1" x="-0.5" y="0.5" kX="0" kY="0" cX="2.2" cY="2.2" pX="0" pY="0" z="1">
+        <d name="icon" pX="47.5" pY="48"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="HeroRefine_UI_onIcon">
+      <mov name="on" dr="14" to="6" drTW="14" lp="0" twE="NaN">
+        <b name="rare2" sc="1" dl="0">
+          <f dr="5" dI="-1"/>
+          <f x="-0.5" y="-0.3" cocos2d_x="-0.5" cocos2d_y="-0.3" kX="0" kY="0" cX="0.9" cY="0.89" pX="0" pY="0" z="0" dI="0" twE="1" dr="1"/>
+          <f x="-0.5" y="-0.35" cocos2d_x="-0.5" cocos2d_y="-0.35" kX="0" kY="0" cX="0.99" cY="0.98" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.5" y="-0.4" cocos2d_x="-0.5" cocos2d_y="-0.4" kX="0" kY="0" cX="1.06" cY="1.05" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="45" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.5" y="-0.35" cocos2d_x="-0.5" cocos2d_y="-0.35" kX="0" kY="0" cX="1.12" cY="1.11" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="25" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.5" y="-0.45" cocos2d_x="-0.5" cocos2d_y="-0.45" kX="0" kY="0" cX="1.16" cY="1.15" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="11" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.5" y="-0.45" cocos2d_x="-0.5" cocos2d_y="-0.45" kX="0" kY="0" cX="1.18" cY="1.17" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="3" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.5" y="-0.45" cocos2d_x="-0.5" cocos2d_y="-0.45" kX="0" kY="0" cX="1.19" cY="1.18" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="2" dI="-1"/>
+        </b>
+        <b name="icon2" sc="1" dl="0">
+          <f dr="5" dI="-1"/>
+          <f x="-0.5" y="0.5" cocos2d_x="-0.5" cocos2d_y="0.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="1" dr="1"/>
+          <f x="-0.5" y="0.55" cocos2d_x="-0.5" cocos2d_y="0.55" kX="0" kY="0" cX="1.1" cY="1.1" pX="0" pY="0" z="1" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.5" y="0.55" cocos2d_x="-0.5" cocos2d_y="0.55" kX="0" kY="0" cX="1.18" cY="1.18" pX="0" pY="0" z="1" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="45" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.5" y="0.6" cocos2d_x="-0.5" cocos2d_y="0.6" kX="0" kY="0" cX="1.25" cY="1.25" pX="0" pY="0" z="1" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="25" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.5" y="0.6" cocos2d_x="-0.5" cocos2d_y="0.6" kX="0" kY="0" cX="1.29" cY="1.29" pX="0" pY="0" z="1" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="11" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.5" y="0.6" cocos2d_x="-0.5" cocos2d_y="0.6" kX="0" kY="0" cX="1.32" cY="1.32" pX="0" pY="0" z="1" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="3" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.5" y="0.6" cocos2d_x="-0.5" cocos2d_y="0.6" kX="0" kY="0" cX="1.33" cY="1.33" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="2" dI="-1"/>
+        </b>
+        <b name="rare1" sc="1" dl="0">
+          <f x="-0.5" y="-0.3" cocos2d_x="-0.5" cocos2d_y="-0.3" kX="0" kY="0" cX="1.97" cY="1.95" pX="0" pY="0" z="0" dI="0" twE="-1" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.5" y="-0.3" cocos2d_x="-0.5" cocos2d_y="-0.3" kX="0" kY="0" cX="1.93" cY="1.91" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="4" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.5" y="-0.3" cocos2d_x="-0.5" cocos2d_y="-0.3" kX="0" kY="0" cX="1.8" cY="1.78" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="16" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.5" y="-0.3" cocos2d_x="-0.5" cocos2d_y="-0.3" kX="0" kY="0" cX="1.58" cY="1.57" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="36" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.55" y="-0.3" cocos2d_x="-0.55" cocos2d_y="-0.3" kX="0" kY="0" cX="1.28" cY="1.27" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="64" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.5" y="-0.3" cocos2d_x="-0.5" cocos2d_y="-0.3" kX="0" kY="0" cX="0.9" cY="0.89" pX="0" pY="0" z="0" dI="0" dr="9"/>
+        </b>
+        <b name="icon1" sc="1" dl="0">
+          <f x="-0.5" y="0.5" cocos2d_x="-0.5" cocos2d_y="0.5" kX="0" kY="0" cX="2.2" cY="2.2" pX="0" pY="0" z="1" dI="0" twE="-1" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.45" y="0.45" cocos2d_x="-0.45" cocos2d_y="0.45" kX="0" kY="0" cX="2.15" cY="2.15" pX="0" pY="0" z="1" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="4" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.45" y="0.45" cocos2d_x="-0.45" cocos2d_y="0.45" kX="0" kY="0" cX="2.01" cY="2.01" pX="0" pY="0" z="1" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="16" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.45" y="0.45" cocos2d_x="-0.45" cocos2d_y="0.45" kX="0" kY="0" cX="1.77" cY="1.77" pX="0" pY="0" z="1" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="36" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.5" y="0.5" cocos2d_x="-0.5" cocos2d_y="0.5" kX="0" kY="0" cX="1.43" cY="1.43" pX="0" pY="0" z="1" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="64" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.5" y="0.5" cocos2d_x="-0.5" cocos2d_y="0.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="9"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="hero_refine_1" width="256" height="128">
+    <SubTexture name="icon" width="95" height="96" cocos2d_pX="47.5" cocos2d_pY="48" x="108" y="0"/>
+    <SubTexture name="icon_rare" width="106" height="108" cocos2d_pX="53" cocos2d_pY="54" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

@@ -1,0 +1,74 @@
+<skeleton name="buff_ani_31145" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="hit_effect_31145">
+   <b name="hit_effect_31145_3" x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="0">
+    <d name="hit_effect_31145_3" pX="43" pY="51"/>
+   </b>
+   <b name="hit_effect_31145_2" x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="0">
+    <d name="hit_effect_31145_3" pX="43" pY="51"/>
+   </b>
+   <b name="hit_effect_31145_1" x="0" y="0" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="1">
+    <d name="hit_effect_31145_3" pX="43" pY="51"/>
+   </b>
+  </armature>
+  <armature name="buff_ani_31145">
+   <b name="buff_ani_31145_2" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="buff_ani_31145_1" pX="31.1" pY="31.85"/>
+   </b>
+   <b name="buff_ani_31145_1" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="buff_ani_31145_2" pX="31.1" pY="31.85"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="hit_effect_31145">
+   <mov name="effect" dr="49" to="0" drTW="49" lp="0" twE="NaN">
+    <b name="hit_effect_31145_3" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="0" dI="0" twE="0" dr="16">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="0" dI="0" twE="0" dr="16"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="0" dI="0" twE="0" dr="9"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1.84" cY="1.84" pX="0" pY="0" z="0" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="6" dI="-1"/>
+    </b>
+    <b name="hit_effect_31145_2" sc="1" dl="0">
+     <f dr="39" dI="-1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="0" dI="0" twE="0" dr="9"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1.84" cY="1.84" pX="0" pY="0" z="0" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+    <b name="hit_effect_31145_1" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="1" dI="0" dr="49"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="buff_ani_31145">
+   <mov name="buff" dr="30" to="0" drTW="30" lp="0" twE="NaN">
+    <b name="buff_ani_31145_2" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="30"/>
+    </b>
+    <b name="buff_ani_31145_1" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="15">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="14"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="buff_ani_31145" width="256" height="128">
+  <SubTexture name="buff_ani_31145_2" width="63" height="64" cocos2d_pX="31.1" cocos2d_pY="31.85" x="153" y="0"/>
+  <SubTexture name="buff_ani_31145_1" width="63" height="64" cocos2d_pX="31.1" cocos2d_pY="31.85" x="88" y="0"/>
+  <SubTexture name="hit_effect_31145_3" width="86" height="102" cocos2d_pX="43" cocos2d_pY="51" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

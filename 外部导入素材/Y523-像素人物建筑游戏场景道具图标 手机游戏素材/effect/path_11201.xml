@@ -1,0 +1,36 @@
+<skeleton name="path_11201" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="path_11201">
+      <b name="path_11201_1" x="0" y="-0.1" kX="0" kY="0" cX="1.44" cY="1.44" pX="0" pY="-0.05" z="0">
+        <d name="path_11201_1" pX="12.15" pY="12.45"/>
+      </b>
+      <b name="event" x="0" y="0" kX="0" kY="0" cX="0.4" cY="0.4" pX="0" pY="0" z="1">
+        <d name="path_11201_1" pX="12.15" pY="12.45"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="path_11201">
+      <mov name="fly" dr="2" to="0" drTW="10" lp="1" twE="2">
+        <b name="path_11201_1" sc="1" dl="0">
+          <f x="0" y="-0.1" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1.44" cY="1.44" pX="0" pY="-0.05" z="0" dI="0" dr="2"/>
+        </b>
+        <b name="event" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.4" cY="0.4" pX="0" pY="0" z="1" dI="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+      <mov name="hit" dr="2" to="0" drTW="10" lp="0" twE="2">
+        <b name="event" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.4" cY="0.4" pX="0" pY="0" z="0" dI="0" evt="damage" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="path_11201" width="32" height="32">
+    <SubTexture name="path_11201_1" width="25" height="25" cocos2d_pX="12.15" cocos2d_pY="12.45" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

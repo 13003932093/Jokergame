@@ -1,0 +1,694 @@
+<skeleton name="pvp_cloud_ani" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="pvp_cloud_ani">
+      <b name="pvp_cloud_ani16" x="-12.1" y="-176.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="pvp_cloud_ani20" isArmature="1"/>
+      </b>
+      <b name="pvp_cloud_ani15" x="-2743.9" y="602.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="pvp_cloud_ani21" isArmature="1"/>
+      </b>
+      <b name="pvp_cloud_ani14" x="1.05" y="128" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="pvp_cloud_ani26" isArmature="1"/>
+      </b>
+      <b name="pvp_cloud_ani13" x="-85.35" y="-405.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3">
+        <d name="pvp_cloud_ani7" isArmature="1"/>
+      </b>
+      <b name="pvp_cloud_ani12" x="-95" y="-37.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4">
+        <d name="pvp_cloud_ani9" isArmature="1"/>
+      </b>
+      <b name="pvp_cloud_ani11" x="383.6" y="-27.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5">
+        <d name="pvp_cloud_ani8" isArmature="1"/>
+      </b>
+      <b name="pvp_cloud_ani10" x="180.45" y="322.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6">
+        <d name="pvp_cloud_ani3" isArmature="1"/>
+      </b>
+      <b name="pvp_cloud_ani9" x="551.85" y="779.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7">
+        <d name="pvp_cloud_ani4" isArmature="1"/>
+      </b>
+      <b name="pvp_cloud_ani8" x="456.2" y="453.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8">
+        <d name="pvp_cloud_ani14" isArmature="1"/>
+      </b>
+      <b name="pvp_cloud_ani7" x="472" y="-131" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="9">
+        <d name="pvp_cloud_ani5" isArmature="1"/>
+      </b>
+      <b name="pvp_cloud_ani6" x="-360.35" y="609.4" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="10">
+        <d name="pvp_cloud_ani10" isArmature="1"/>
+      </b>
+      <b name="pvp_cloud_ani5" x="-918.95" y="-215.5" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="11">
+        <d name="pvp_cloud_ani16" isArmature="1"/>
+      </b>
+      <b name="pvp_cloud_ani4" x="-318.25" y="34.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="12">
+        <d name="pvp_cloud_ani6" isArmature="1"/>
+      </b>
+      <b name="pvp_cloud_ani3" x="461.9" y="-700.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="13">
+        <d name="pvp_cloud_ani15" isArmature="1"/>
+      </b>
+      <b name="pvp_cloud_ani2" x="-1.75" y="-679.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="14">
+        <d name="pvp_cloud_ani28" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="pvp_cloud_ani20">
+      <b name="pvp_cloud_ani_chaoren_1" x="1816.05" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="pvp_cloud_ani23" pX="64.4" pY="13"/>
+      </b>
+    </armature>
+    <armature name="pvp_cloud_ani21">
+      <b name="pvp_cloud_ani_2_2" x="579.9" y="0" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="pvp_cloud_ani23" pX="64.4" pY="13"/>
+      </b>
+    </armature>
+    <armature name="pvp_cloud_ani26">
+      <b name="pvp_cloud_ani_3_2" x="1740.95" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="pvp_cloud_ani27" pX="30.25" pY="19.9"/>
+      </b>
+    </armature>
+    <armature name="pvp_cloud_ani7">
+      <b name="pvp_cloud_ani_4_3" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="pvp_cloud_ani11" pX="59.5" pY="14.45"/>
+      </b>
+      <b name="pvp_cloud_ani_4_2" x="1144.15" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="pvp_cloud_ani11" pX="59.5" pY="14.45"/>
+      </b>
+    </armature>
+    <armature name="pvp_cloud_ani9">
+      <b name="pvp_cloud_ani_5_3" x="50" y="7.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="pvp_cloud_ani19" pX="11.5" pY="9.5"/>
+      </b>
+      <b name="pvp_cloud_ani_5_2" x="871.15" y="8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="pvp_cloud_ani19" pX="11.5" pY="9.5"/>
+      </b>
+    </armature>
+    <armature name="pvp_cloud_ani8">
+      <b name="pvp_cloud_ani_6_3" x="1645.2" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="pvp_cloud_ani11" pX="59.5" pY="14.45"/>
+      </b>
+      <b name="pvp_cloud_ani_6_2" x="1811.1" y="74.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="pvp_cloud_ani17" pX="24.5" pY="10.5"/>
+      </b>
+    </armature>
+    <armature name="pvp_cloud_ani3">
+      <b name="pvp_cloud_ani_7_3" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="pvp_cloud_ani11" pX="59.5" pY="14.45"/>
+      </b>
+      <b name="pvp_cloud_ani_7_2" x="1432.85" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="pvp_cloud_ani11" pX="59.5" pY="14.45"/>
+      </b>
+    </armature>
+    <armature name="pvp_cloud_ani4">
+      <b name="pvp_cloud_ani_8_7" x="0" y="-8.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="pvp_cloud_ani11" pX="59.5" pY="14.45"/>
+      </b>
+      <b name="pvp_cloud_ani_8_6" x="99.05" y="-24.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="pvp_cloud_ani19" pX="11.5" pY="9.5"/>
+      </b>
+      <b name="pvp_cloud_ani_8_5" x="54.05" y="39.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="pvp_cloud_ani17" pX="24.5" pY="10.5"/>
+      </b>
+      <b name="pvp_cloud_ani_8_4" x="1547.85" y="-8.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="pvp_cloud_ani11" pX="59.5" pY="14.45"/>
+      </b>
+      <b name="pvp_cloud_ani_8_3" x="1646.9" y="-24.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="pvp_cloud_ani19" pX="11.5" pY="9.5"/>
+      </b>
+      <b name="pvp_cloud_ani_8_2" x="1601.9" y="39.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="pvp_cloud_ani17" pX="24.5" pY="10.5"/>
+      </b>
+    </armature>
+    <armature name="pvp_cloud_ani14">
+      <b name="pvp_cloud_ani_9_7" x="-1551.7" y="-8.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="pvp_cloud_ani11" pX="59.5" pY="14.45"/>
+      </b>
+      <b name="pvp_cloud_ani_9_6" x="-1452" y="40.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="pvp_cloud_ani19" pX="11.5" pY="9.5"/>
+      </b>
+      <b name="pvp_cloud_ani_9_5" x="-1501.1" y="-25.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="pvp_cloud_ani17" pX="24.5" pY="10.5"/>
+      </b>
+      <b name="pvp_cloud_ani_9_4" x="1547.85" y="-8.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="pvp_cloud_ani11" pX="59.5" pY="14.45"/>
+      </b>
+      <b name="pvp_cloud_ani_9_3" x="1646.9" y="40.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="pvp_cloud_ani19" pX="11.5" pY="9.5"/>
+      </b>
+      <b name="pvp_cloud_ani_9_2" x="1597.8" y="-25.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="pvp_cloud_ani17" pX="24.5" pY="10.5"/>
+      </b>
+    </armature>
+    <armature name="pvp_cloud_ani5">
+      <b name="pvp_cloud_ani_10_3" x="-5.5" y="-0.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="pvp_cloud_ani18" pX="54" pY="18"/>
+      </b>
+      <b name="pvp_cloud_ani_10_2" x="376.95" y="-0.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="pvp_cloud_ani18" pX="54" pY="18"/>
+      </b>
+    </armature>
+    <armature name="pvp_cloud_ani10">
+      <b name="pvp_cloud_ani_11_9" x="-127.1" y="-1.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="pvp_cloud_ani11" pX="59.5" pY="14.45"/>
+      </b>
+      <b name="pvp_cloud_ani_11_8" x="36.05" y="15.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="pvp_cloud_ani17" pX="24.5" pY="10.5"/>
+      </b>
+      <b name="pvp_cloud_ani_11_7" x="312.25" y="13.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="pvp_cloud_ani18" pX="54" pY="18"/>
+      </b>
+      <b name="pvp_cloud_ani_11_6" x="-114.7" y="71.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3">
+        <d name="pvp_cloud_ani19" pX="11.5" pY="9.5"/>
+      </b>
+      <b name="pvp_cloud_ani_11_5" x="1329.5" y="-1.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="pvp_cloud_ani11" pX="59.5" pY="14.45"/>
+      </b>
+      <b name="pvp_cloud_ani_11_4" x="1341.9" y="71.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="pvp_cloud_ani19" pX="11.5" pY="9.5"/>
+      </b>
+      <b name="pvp_cloud_ani_11_3" x="1768.85" y="13.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="pvp_cloud_ani18" pX="54" pY="18"/>
+      </b>
+      <b name="pvp_cloud_ani_11_2" x="1492.65" y="15.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3">
+        <d name="pvp_cloud_ani17" pX="24.5" pY="10.5"/>
+      </b>
+    </armature>
+    <armature name="pvp_cloud_ani16">
+      <b name="pvp_cloud_ani_12_3" x="-1008.75" y="7.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="pvp_cloud_ani18" pX="54" pY="18"/>
+      </b>
+      <b name="pvp_cloud_ani_12_2" x="1522.15" y="7.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="pvp_cloud_ani18" pX="54" pY="18"/>
+      </b>
+    </armature>
+    <armature name="pvp_cloud_ani6">
+      <b name="pvp_cloud_ani_13_5" x="42.9" y="-1.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="pvp_cloud_ani17" pX="24.5" pY="10.5"/>
+      </b>
+      <b name="pvp_cloud_ani_13_4" x="-33.6" y="8.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="pvp_cloud_ani11" pX="59.5" pY="14.45"/>
+      </b>
+      <b name="pvp_cloud_ani_13_3" x="1235.3" y="-1.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="pvp_cloud_ani17" pX="24.5" pY="10.5"/>
+      </b>
+      <b name="pvp_cloud_ani_13_2" x="1156.05" y="8.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="pvp_cloud_ani11" pX="59.5" pY="14.45"/>
+      </b>
+    </armature>
+    <armature name="pvp_cloud_ani15">
+      <b name="pvp_cloud_ani_14_3" x="-1660.9" y="-8.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="pvp_cloud_ani12" pX="54" pY="18"/>
+      </b>
+      <b name="pvp_cloud_ani_14_2" x="1547.85" y="-8.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="pvp_cloud_ani12" pX="54" pY="18"/>
+      </b>
+    </armature>
+    <armature name="pvp_cloud_ani28">
+      <b name="pvp_cloud_ani_15_2" x="-1930.3" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="pvp_cloud_ani29" pX="29" pY="22.5"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="pvp_cloud_ani20">
+      <mov name="effect" dr="600" to="0" drTW="600" lp="0" twE="NaN">
+        <b name="pvp_cloud_ani_chaoren_1" sc="1" dl="0">
+          <f x="1816.05" y="0" cocos2d_x="1816.05" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="69"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="61"/>
+          <f x="-1331.8" y="0" cocos2d_x="-1331.8" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="9"/>
+          <f x="-1528.3" y="0" cocos2d_x="-1528.3" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="460" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="pvp_cloud_ani21">
+      <mov name="effect" dr="800" to="0" drTW="800" lp="0" twE="NaN">
+        <b name="pvp_cloud_ani_2_2" sc="1" dl="0">
+          <f dr="379" dI="-1"/>
+          <f x="579.9" y="0" cocos2d_x="579.9" cocos2d_y="0" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="189"/>
+          <f x="4684.7" y="0" cocos2d_x="4684.7" cocos2d_y="0" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f dr="231" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="pvp_cloud_ani26">
+      <mov name="effect" dr="670" to="0" drTW="670" lp="0" twE="NaN">
+        <b name="pvp_cloud_ani_3_2" sc="1" dl="0">
+          <f dr="199" dI="-1"/>
+          <f x="1740.95" y="0" cocos2d_x="1740.95" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="8">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="1624.55" y="0" cocos2d_x="1624.55" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="242"/>
+          <f x="-1896.7" y="0" cocos2d_x="-1896.7" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="9"/>
+          <f x="-2027.65" y="0" cocos2d_x="-2027.65" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="211" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="pvp_cloud_ani7">
+      <mov name="effect" dr="1131" to="0" drTW="1131" lp="1" twE="NaN">
+        <b name="pvp_cloud_ani_4_3" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="609"/>
+          <f x="-1133.75" y="0" cocos2d_x="-1133.75" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="16"/>
+          <f x="-1163.55" y="0" cocos2d_x="-1163.55" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="505" dI="-1"/>
+        </b>
+        <b name="pvp_cloud_ani_4_2" sc="1" dl="0">
+          <f dr="493" dI="-1"/>
+          <f x="1144.15" y="0" cocos2d_x="1144.15" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="16">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="1115.6" y="0" cocos2d_x="1115.6" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="621"/>
+          <f x="7.15" y="0" cocos2d_x="7.15" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="pvp_cloud_ani9">
+      <mov name="effect" dr="1075" to="0" drTW="1075" lp="1" twE="NaN">
+        <b name="pvp_cloud_ani_5_3" sc="1" dl="0">
+          <f x="50" y="7.5" cocos2d_x="50" cocos2d_y="7.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="713"/>
+          <f x="-1178.1" y="9.5" cocos2d_x="-1178.1" cocos2d_y="9.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="16"/>
+          <f x="-1205.65" y="9.5" cocos2d_x="-1205.65" cocos2d_y="9.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="345" dI="-1"/>
+        </b>
+        <b name="pvp_cloud_ani_5_2" sc="1" dl="0">
+          <f dr="499" dI="-1"/>
+          <f x="871.15" y="8" cocos2d_x="871.15" cocos2d_y="8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="17">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="847" y="8" cocos2d_x="847" cocos2d_y="8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="558"/>
+          <f x="53.85" y="8" cocos2d_x="53.85" cocos2d_y="8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="pvp_cloud_ani8">
+      <mov name="effect" dr="947" to="0" drTW="947" lp="1" twE="NaN">
+        <b name="pvp_cloud_ani_6_3" sc="1" dl="0">
+          <f x="1645.2" y="0" cocos2d_x="1645.2" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="14">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="1595.3" y="0" cocos2d_x="1595.3" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="897"/>
+          <f x="-1622.5" y="0" cocos2d_x="-1622.5" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="19"/>
+          <f x="-1690.65" y="0" cocos2d_x="-1690.65" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="16" dI="-1"/>
+        </b>
+        <b name="pvp_cloud_ani_6_2" sc="1" dl="0">
+          <f x="1811.1" y="74.3" cocos2d_x="1811.1" cocos2d_y="74.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="14">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="1757.25" y="74.3" cocos2d_x="1757.25" cocos2d_y="74.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="897"/>
+          <f x="-1716.1" y="74.3" cocos2d_x="-1716.1" cocos2d_y="74.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="19"/>
+          <f x="-1789.65" y="74.3" cocos2d_x="-1789.65" cocos2d_y="74.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="16" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="pvp_cloud_ani3">
+      <mov name="effect" dr="1186" to="0" drTW="1186" lp="1" twE="NaN">
+        <b name="pvp_cloud_ani_7_3" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="528"/>
+          <f x="-1009.15" y="0" cocos2d_x="-1009.15" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="16"/>
+          <f x="-1039.75" y="0" cocos2d_x="-1039.75" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="641" dI="-1"/>
+        </b>
+        <b name="pvp_cloud_ani_7_2" sc="1" dl="0">
+          <f dr="544" dI="-1"/>
+          <f x="1432.85" y="0" cocos2d_x="1432.85" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="18">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="1392.6" y="0" cocos2d_x="1392.6" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="623"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="pvp_cloud_ani4">
+      <mov name="effect" dr="1784" to="0" drTW="1784" lp="1" twE="NaN">
+        <b name="pvp_cloud_ani_8_7" sc="1" dl="0">
+          <f x="0" y="-8.1" cocos2d_x="0" cocos2d_y="-8.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="962"/>
+          <f x="-2013.65" y="-8.1" cocos2d_x="-2013.65" cocos2d_y="-8.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="18"/>
+          <f x="-2051.35" y="-8.1" cocos2d_x="-2051.35" cocos2d_y="-8.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="803" dI="-1"/>
+        </b>
+        <b name="pvp_cloud_ani_8_6" sc="1" dl="0">
+          <f x="99.05" y="-24.15" cocos2d_x="99.05" cocos2d_y="-24.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="962"/>
+          <f x="-1914.6" y="-24.15" cocos2d_x="-1914.6" cocos2d_y="-24.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="18"/>
+          <f x="-1952.3" y="-24.15" cocos2d_x="-1952.3" cocos2d_y="-24.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="803" dI="-1"/>
+        </b>
+        <b name="pvp_cloud_ani_8_5" sc="1" dl="0">
+          <f x="54.05" y="39.25" cocos2d_x="54.05" cocos2d_y="39.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="962"/>
+          <f x="-1959.6" y="39.25" cocos2d_x="-1959.6" cocos2d_y="39.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="18"/>
+          <f x="-1997.3" y="39.25" cocos2d_x="-1997.3" cocos2d_y="39.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="803" dI="-1"/>
+        </b>
+        <b name="pvp_cloud_ani_8_4" sc="1" dl="0">
+          <f dr="977" dI="-1"/>
+          <f x="1547.85" y="-8.1" cocos2d_x="1547.85" cocos2d_y="-8.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="18">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="1513.35" y="-8.1" cocos2d_x="1513.35" cocos2d_y="-8.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="788"/>
+          <f x="4.15" y="-8.1" cocos2d_x="4.15" cocos2d_y="-8.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="pvp_cloud_ani_8_3" sc="1" dl="0">
+          <f dr="977" dI="-1"/>
+          <f x="1646.9" y="-24.1" cocos2d_x="1646.9" cocos2d_y="-24.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="18">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="1612.4" y="-24.1" cocos2d_x="1612.4" cocos2d_y="-24.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="788"/>
+          <f x="103.3" y="-24.15" cocos2d_x="103.3" cocos2d_y="-24.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+        </b>
+        <b name="pvp_cloud_ani_8_2" sc="1" dl="0">
+          <f dr="977" dI="-1"/>
+          <f x="1601.9" y="39.3" cocos2d_x="1601.9" cocos2d_y="39.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="18">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="1567.4" y="39.3" cocos2d_x="1567.4" cocos2d_y="39.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="788"/>
+          <f x="58.3" y="39.25" cocos2d_x="58.3" cocos2d_y="39.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="pvp_cloud_ani14">
+      <mov name="effect" dr="2124" to="0" drTW="2124" lp="1" twE="NaN">
+        <b name="pvp_cloud_ani_9_7" sc="1" dl="0">
+          <f x="-1551.7" y="-8.1" cocos2d_x="-1551.7" cocos2d_y="-8.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="493"/>
+          <f x="-2033.7" y="-8.1" cocos2d_x="-2033.7" cocos2d_y="-8.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="18"/>
+          <f x="-2051.35" y="-8.1" cocos2d_x="-2051.35" cocos2d_y="-8.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="783" dI="-1"/>
+          <f x="0" y="-8.1" cocos2d_x="0" cocos2d_y="-8.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="828"/>
+          <f x="-1548.4" y="-8.1" cocos2d_x="-1548.4" cocos2d_y="-8.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="pvp_cloud_ani_9_6" sc="1" dl="0">
+          <f x="-1452" y="40.2" cocos2d_x="-1452" cocos2d_y="40.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="493"/>
+          <f x="-1933.95" y="40.25" cocos2d_x="-1933.95" cocos2d_y="40.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="18"/>
+          <f x="-1951.55" y="40.25" cocos2d_x="-1951.55" cocos2d_y="40.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="783" dI="-1"/>
+          <f x="99.05" y="40.25" cocos2d_x="99.05" cocos2d_y="40.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="828"/>
+          <f x="-1449.35" y="40.2" cocos2d_x="-1449.35" cocos2d_y="40.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+        </b>
+        <b name="pvp_cloud_ani_9_5" sc="1" dl="0">
+          <f x="-1501.1" y="-25.2" cocos2d_x="-1501.1" cocos2d_y="-25.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="493"/>
+          <f x="-1983.05" y="-25.15" cocos2d_x="-1983.05" cocos2d_y="-25.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="18"/>
+          <f x="-2000.65" y="-25.15" cocos2d_x="-2000.65" cocos2d_y="-25.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="783" dI="-1"/>
+          <f x="49.95" y="-25.15" cocos2d_x="49.95" cocos2d_y="-25.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="828"/>
+          <f x="-1498.45" y="-25.2" cocos2d_x="-1498.45" cocos2d_y="-25.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+        </b>
+        <b name="pvp_cloud_ani_9_4" sc="1" dl="0">
+          <f dr="508" dI="-1"/>
+          <f x="1547.85" y="-8.1" cocos2d_x="1547.85" cocos2d_y="-8.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="21">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="1506.6" y="-8.1" cocos2d_x="1506.6" cocos2d_y="-8.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="765"/>
+          <f x="4.15" y="-8.1" cocos2d_x="4.15" cocos2d_y="-8.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+          <f dr="829" dI="-1"/>
+        </b>
+        <b name="pvp_cloud_ani_9_3" sc="1" dl="0">
+          <f dr="508" dI="-1"/>
+          <f x="1646.9" y="40.3" cocos2d_x="1646.9" cocos2d_y="40.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="21">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="1605.65" y="40.3" cocos2d_x="1605.65" cocos2d_y="40.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="765"/>
+          <f x="103.3" y="40.25" cocos2d_x="103.3" cocos2d_y="40.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+          <f dr="829" dI="-1"/>
+        </b>
+        <b name="pvp_cloud_ani_9_2" sc="1" dl="0">
+          <f dr="508" dI="-1"/>
+          <f x="1597.8" y="-25.1" cocos2d_x="1597.8" cocos2d_y="-25.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="21">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="1556.55" y="-25.1" cocos2d_x="1556.55" cocos2d_y="-25.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="765"/>
+          <f x="54.2" y="-25.15" cocos2d_x="54.2" cocos2d_y="-25.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+          <f dr="829" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="pvp_cloud_ani5">
+      <mov name="effect" dr="1157" to="0" drTW="1157" lp="1" twE="NaN">
+        <b name="pvp_cloud_ani_10_3" sc="1" dl="0">
+          <f x="-5.5" y="-0.5" cocos2d_x="-5.5" cocos2d_y="-0.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="707"/>
+          <f x="-1414" y="-0.5" cocos2d_x="-1414" cocos2d_y="-0.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="16"/>
+          <f x="-1445.85" y="-0.5" cocos2d_x="-1445.85" cocos2d_y="-0.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="433" dI="-1"/>
+        </b>
+        <b name="pvp_cloud_ani_10_2" sc="1" dl="0">
+          <f dr="723" dI="-1"/>
+          <f x="376.95" y="-0.5" cocos2d_x="376.95" cocos2d_y="-0.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="16">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="362.8" y="-0.5" cocos2d_x="362.8" cocos2d_y="-0.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="417"/>
+          <f x="-5.5" y="-0.5" cocos2d_x="-5.5" cocos2d_y="-0.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="pvp_cloud_ani10">
+      <mov name="effect" dr="1347" to="0" drTW="1347" lp="1" twE="NaN">
+        <b name="pvp_cloud_ani_11_9" sc="1" dl="0">
+          <f x="-127.1" y="-1.35" cocos2d_x="-127.1" cocos2d_y="-1.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="1" dr="683"/>
+          <f x="-1482.15" y="-1.35" cocos2d_x="-1482.15" cocos2d_y="-1.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="17"/>
+          <f x="-1515.9" y="-1.35" cocos2d_x="-1515.9" cocos2d_y="-1.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="646" dI="-1"/>
+        </b>
+        <b name="pvp_cloud_ani_11_8" sc="1" dl="0">
+          <f x="36.05" y="15.05" cocos2d_x="36.05" cocos2d_y="15.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="683"/>
+          <f x="-1319" y="15.05" cocos2d_x="-1319" cocos2d_y="15.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="17"/>
+          <f x="-1352.75" y="15.05" cocos2d_x="-1352.75" cocos2d_y="15.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="646" dI="-1"/>
+        </b>
+        <b name="pvp_cloud_ani_11_7" sc="1" dl="0">
+          <f x="312.25" y="13.7" cocos2d_x="312.25" cocos2d_y="13.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="683"/>
+          <f x="-1042.8" y="13.7" cocos2d_x="-1042.8" cocos2d_y="13.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="17"/>
+          <f x="-1076.55" y="13.7" cocos2d_x="-1076.55" cocos2d_y="13.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="646" dI="-1"/>
+        </b>
+        <b name="pvp_cloud_ani_11_6" sc="1" dl="0">
+          <f x="-114.7" y="71.7" cocos2d_x="-114.7" cocos2d_y="71.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="683"/>
+          <f x="-1469.75" y="71.7" cocos2d_x="-1469.75" cocos2d_y="71.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="17"/>
+          <f x="-1503.5" y="71.7" cocos2d_x="-1503.5" cocos2d_y="71.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="646" dI="-1"/>
+        </b>
+        <b name="pvp_cloud_ani_11_5" sc="1" dl="0">
+          <f dr="688" dI="-1"/>
+          <f x="1329.5" y="-1.35" cocos2d_x="1329.5" cocos2d_y="-1.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="19">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="1287.45" y="-1.35" cocos2d_x="1287.45" cocos2d_y="-1.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="639"/>
+          <f x="-127.1" y="-1.35" cocos2d_x="-127.1" cocos2d_y="-1.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="pvp_cloud_ani_11_4" sc="1" dl="0">
+          <f dr="688" dI="-1"/>
+          <f x="1341.9" y="71.7" cocos2d_x="1341.9" cocos2d_y="71.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="19">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="1299.85" y="71.7" cocos2d_x="1299.85" cocos2d_y="71.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="639"/>
+          <f x="-114.7" y="71.7" cocos2d_x="-114.7" cocos2d_y="71.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+        </b>
+        <b name="pvp_cloud_ani_11_3" sc="1" dl="0">
+          <f dr="688" dI="-1"/>
+          <f x="1768.85" y="13.7" cocos2d_x="1768.85" cocos2d_y="13.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="19">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="1726.8" y="13.7" cocos2d_x="1726.8" cocos2d_y="13.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="639"/>
+          <f x="312.25" y="13.7" cocos2d_x="312.25" cocos2d_y="13.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+        </b>
+        <b name="pvp_cloud_ani_11_2" sc="1" dl="0">
+          <f dr="688" dI="-1"/>
+          <f x="1492.65" y="15.05" cocos2d_x="1492.65" cocos2d_y="15.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="19">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="1450.6" y="15.05" cocos2d_x="1450.6" cocos2d_y="15.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="639"/>
+          <f x="36.05" y="15.05" cocos2d_x="36.05" cocos2d_y="15.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="pvp_cloud_ani16">
+      <mov name="effect" dr="1728" to="0" drTW="1728" lp="1" twE="NaN">
+        <b name="pvp_cloud_ani_12_3" sc="1" dl="0">
+          <f x="-1008.75" y="7.55" cocos2d_x="-1008.75" cocos2d_y="7.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="419"/>
+          <f x="-1310.3" y="7.55" cocos2d_x="-1310.3" cocos2d_y="7.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="18"/>
+          <f x="-1323.25" y="7.55" cocos2d_x="-1323.25" cocos2d_y="7.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="646" dI="-1"/>
+          <f x="65.55" y="7.55" cocos2d_x="65.55" cocos2d_y="7.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="643"/>
+          <f x="-1008.75" y="7.55" cocos2d_x="-1008.75" cocos2d_y="7.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="pvp_cloud_ani_12_2" sc="1" dl="0">
+          <f dr="425" dI="-1"/>
+          <f x="1522.15" y="7.55" cocos2d_x="1522.15" cocos2d_y="7.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="17">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="1484.5" y="7.55" cocos2d_x="1484.5" cocos2d_y="7.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="641"/>
+          <f x="65.55" y="7.55" cocos2d_x="65.55" cocos2d_y="7.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f dr="644" dI="-1"/>
+        </b>
+        <f st="0" dr="1727"/>
+        <f st="1727" dr="1"/>
+      </mov>
+    </animation>
+    <animation name="pvp_cloud_ani6">
+      <mov name="effect" dr="1550" to="0" drTW="1550" lp="1" twE="NaN">
+        <b name="pvp_cloud_ani_13_5" sc="1" dl="0">
+          <f x="42.9" y="-1.3" cocos2d_x="42.9" cocos2d_y="-1.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="792"/>
+          <f x="-1437.5" y="-1.3" cocos2d_x="-1437.5" cocos2d_y="-1.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="16"/>
+          <f x="-1467.4" y="-1.3" cocos2d_x="-1467.4" cocos2d_y="-1.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="741" dI="-1"/>
+        </b>
+        <b name="pvp_cloud_ani_13_4" sc="1" dl="0">
+          <f x="-33.6" y="8.3" cocos2d_x="-33.6" cocos2d_y="8.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="792"/>
+          <f x="-1505.75" y="8.3" cocos2d_x="-1505.75" cocos2d_y="8.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="16"/>
+          <f x="-1535.5" y="8.3" cocos2d_x="-1535.5" cocos2d_y="8.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="741" dI="-1"/>
+        </b>
+        <b name="pvp_cloud_ani_13_3" sc="1" dl="0">
+          <f dr="809" dI="-1"/>
+          <f x="1235.3" y="-1.3" cocos2d_x="1235.3" cocos2d_y="-1.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="17">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="1207.95" y="-1.3" cocos2d_x="1207.95" cocos2d_y="-1.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="723"/>
+          <f x="44.55" y="-1.3" cocos2d_x="44.55" cocos2d_y="-1.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="pvp_cloud_ani_13_2" sc="1" dl="0">
+          <f dr="809" dI="-1"/>
+          <f x="1156.05" y="8.3" cocos2d_x="1156.05" cocos2d_y="8.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="17">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="1128.8" y="8.3" cocos2d_x="1128.8" cocos2d_y="8.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="723"/>
+          <f x="-29.25" y="8.3" cocos2d_x="-29.25" cocos2d_y="8.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="pvp_cloud_ani15">
+      <mov name="effect" dr="2124" to="0" drTW="2124" lp="1" twE="NaN">
+        <b name="pvp_cloud_ani_14_3" sc="1" dl="0">
+          <f x="-1660.9" y="-8.1" cocos2d_x="-1660.9" cocos2d_y="-8.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="465"/>
+          <f x="-2040.8" y="-8.1" cocos2d_x="-2040.8" cocos2d_y="-8.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="13"/>
+          <f x="-2051.35" y="-8.1" cocos2d_x="-2051.35" cocos2d_y="-8.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="783" dI="-1"/>
+          <f x="0" y="-8.1" cocos2d_x="0" cocos2d_y="-8.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="861"/>
+          <f x="-1657.55" y="-8.1" cocos2d_x="-1657.55" cocos2d_y="-8.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="pvp_cloud_ani_14_2" sc="1" dl="0">
+          <f dr="475" dI="-1"/>
+          <f x="1547.85" y="-8.1" cocos2d_x="1547.85" cocos2d_y="-8.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="16">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="1516.45" y="-8.1" cocos2d_x="1516.45" cocos2d_y="-8.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="770"/>
+          <f x="4.15" y="-8.1" cocos2d_x="4.15" cocos2d_y="-8.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+          <f dr="862" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="pvp_cloud_ani28">
+      <mov name="effect" dr="1000" to="0" drTW="1000" lp="0" twE="NaN">
+        <b name="pvp_cloud_ani_15_2" sc="1" dl="0">
+          <f dr="500" dI="-1"/>
+          <f x="-1930.3" y="0" cocos2d_x="-1930.3" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-1810.35" y="0" cocos2d_x="-1810.35" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="261"/>
+          <f x="1668.3" y="0" cocos2d_x="1668.3" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="9"/>
+          <f x="1788.3" y="0" cocos2d_x="1788.3" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="220" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="pvp_cloud_ani">
+      <mov name="effect" dr="17" to="0" drTW="17" lp="1" twE="0">
+        <b name="pvp_cloud_ani16" sc="1" dl="0">
+          <f x="-12.1" y="-176.95" cocos2d_x="-12.1" cocos2d_y="-176.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="17"/>
+        </b>
+        <b name="pvp_cloud_ani15" sc="1" dl="0">
+          <f x="-2743.9" y="602.8" cocos2d_x="-2743.9" cocos2d_y="602.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="17"/>
+        </b>
+        <b name="pvp_cloud_ani14" sc="1" dl="0">
+          <f x="1.05" y="128" cocos2d_x="1.05" cocos2d_y="128" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="17"/>
+        </b>
+        <b name="pvp_cloud_ani13" sc="1" dl="0">
+          <f x="-85.35" y="-405.7" cocos2d_x="-85.35" cocos2d_y="-405.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="17"/>
+        </b>
+        <b name="pvp_cloud_ani12" sc="1" dl="0">
+          <f x="-95" y="-37.95" cocos2d_x="-95" cocos2d_y="-37.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="17"/>
+        </b>
+        <b name="pvp_cloud_ani11" sc="1" dl="0">
+          <f x="383.6" y="-27.75" cocos2d_x="383.6" cocos2d_y="-27.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="17"/>
+        </b>
+        <b name="pvp_cloud_ani10" sc="1" dl="0">
+          <f x="180.45" y="322.8" cocos2d_x="180.45" cocos2d_y="322.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" dr="17"/>
+        </b>
+        <b name="pvp_cloud_ani9" sc="1" dl="0">
+          <f x="551.85" y="779.3" cocos2d_x="551.85" cocos2d_y="779.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" dr="17"/>
+        </b>
+        <b name="pvp_cloud_ani8" sc="1" dl="0">
+          <f x="456.2" y="453.9" cocos2d_x="456.2" cocos2d_y="453.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="0" dr="17"/>
+        </b>
+        <b name="pvp_cloud_ani7" sc="1" dl="0">
+          <f x="472" y="-131" cocos2d_x="472" cocos2d_y="-131" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="9" dI="0" dr="17"/>
+        </b>
+        <b name="pvp_cloud_ani6" sc="1" dl="0">
+          <f x="-360.35" y="609.4" cocos2d_x="-360.3" cocos2d_y="609.4" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="10" dI="0" dr="17"/>
+        </b>
+        <b name="pvp_cloud_ani5" sc="1" dl="0">
+          <f x="-918.95" y="-215.5" cocos2d_x="-918.9" cocos2d_y="-215.5" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="11" dI="0" dr="17"/>
+        </b>
+        <b name="pvp_cloud_ani4" sc="1" dl="0">
+          <f x="-318.25" y="34.8" cocos2d_x="-318.25" cocos2d_y="34.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="12" dI="0" dr="17"/>
+        </b>
+        <b name="pvp_cloud_ani3" sc="1" dl="0">
+          <f x="461.9" y="-700.55" cocos2d_x="461.9" cocos2d_y="-700.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="13" dI="0" dr="17"/>
+        </b>
+        <b name="pvp_cloud_ani2" sc="1" dl="0">
+          <f x="-1.75" y="-679.85" cocos2d_x="-1.75" cocos2d_y="-679.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="14" dI="0" dr="17"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="pvp_cloud_ani" width="512" height="512">
+    <SubTexture name="pvp_cloud_ani29" width="58" height="45" cocos2d_pX="29" cocos2d_pY="22.5" x="156" y="192"/>
+    <SubTexture name="pvp_cloud_ani12" width="117" height="190" cocos2d_pX="54" cocos2d_pY="18" x="279" y="0"/>
+    <SubTexture name="pvp_cloud_ani18" width="154" height="200" cocos2d_pX="54" cocos2d_pY="18" x="0" y="0"/>
+    <SubTexture name="pvp_cloud_ani17" width="52" height="168" cocos2d_pX="24.5" cocos2d_pY="10.5" x="398" y="0"/>
+    <SubTexture name="pvp_cloud_ani19" width="37" height="173" cocos2d_pX="11.5" cocos2d_pY="9.5" x="452" y="0"/>
+    <SubTexture name="pvp_cloud_ani11" width="121" height="190" cocos2d_pX="59.5" cocos2d_pY="14.45" x="156" y="0"/>
+    <SubTexture name="pvp_cloud_ani27" width="61" height="119" cocos2d_pX="30.25" cocos2d_pY="19.9" x="398" y="175"/>
+    <SubTexture name="pvp_cloud_ani23" width="129" height="26" cocos2d_pX="64.4" cocos2d_pY="13" x="216" y="192"/>
+  </TextureAtlas>
+</skeleton>

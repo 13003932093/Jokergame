@@ -1,0 +1,28 @@
+<skeleton name="hit_effect_taunt" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="hit_effect_taunt">
+      <b name="hit_effect_taunt_1" x="-0.5" y="-29.4" kX="0" kY="0" cX="0.81" cY="0.71" pX="0" pY="0" z="0">
+        <d name="hit_effect_taunt_rs1_2" pX="36.4" pY="55.6"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="hit_effect_taunt">
+      <mov name="effect" dr="49" to="0" drTW="49" lp="0" twE="NaN">
+        <b name="hit_effect_taunt_1" sc="1" dl="0">
+          <f x="-0.5" y="-29.4" cocos2d_x="-0.5" cocos2d_y="-29.4" kX="0" kY="0" cX="0.81" cY="0.71" pX="0" pY="0" z="0" dI="0" twE="0" dr="10"/>
+          <f x="-0.5" y="-29.4" cocos2d_x="-0.5" cocos2d_y="-29.4" kX="0" kY="0" cX="0.97" cY="0.85" pX="0" pY="0" z="0" dI="0" twE="0" dr="10"/>
+          <f x="-0.5" y="-29.4" cocos2d_x="-0.5" cocos2d_y="-29.4" kX="0" kY="0" cX="0.81" cY="0.71" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="-0.5" y="-29.4" cocos2d_x="-0.5" cocos2d_y="-29.4" kX="0" kY="0" cX="0.81" cY="0.71" pX="0" pY="0" z="0" dI="0" dr="7"/>
+          <f x="-0.5" y="-29.4" cocos2d_x="-0.5" cocos2d_y="-29.4" kX="0" kY="0" cX="0.81" cY="0.71" pX="0" pY="0" z="0" dI="0" twE="0" dr="20"/>
+          <f x="-0.5" y="-29.4" cocos2d_x="-0.5" cocos2d_y="-29.4" kX="0" kY="0" cX="0.81" cY="0.71" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="hit_effect_taunt" width="128" height="128">
+    <SubTexture name="hit_effect_taunt_rs1_2" width="78" height="103" cocos2d_pX="36.4" cocos2d_pY="55.6" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

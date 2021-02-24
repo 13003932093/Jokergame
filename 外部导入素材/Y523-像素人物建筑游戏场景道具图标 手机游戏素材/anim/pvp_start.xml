@@ -1,0 +1,186 @@
+<skeleton name="pvp_start" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="pvp_start_red">
+      <b name="pvp_start_red_7" x="74.05" y="-2.5" kX="0" kY="0" cX="0.24" cY="1" pX="0" pY="0" z="0">
+        <d name="pvp_start__10" pX="127.5" pY="42.5"/>
+      </b>
+      <b name="pvp_start_red_name" x="59.45" y="-29.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="pvp_start__4" pX="72.5" pY="11"/>
+      </b>
+      <b name="pvp_start_red_power" x="61.45" y="24.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="pvp_start__5" pX="70.5" pY="11"/>
+      </b>
+      <b name="pvp_start_red_qu" x="61.45" y="-2.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3">
+        <d name="pvp_start__6" pX="71.5" pY="11.5"/>
+      </b>
+      <b name="pvp_start_red_frame" x="330.45" y="0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="pvp_start__13" pX="49.05" pY="49.95"/>
+      </b>
+      <b name="pvp_start_red_icon" x="330.45" y="0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="pvp_start__14" pX="40.5" pY="40.5"/>
+      </b>
+    </armature>
+    <armature name="pvp_start_vs">
+      <b name="pvp_start_vs_2" x="0" y="0" kX="-11.49" kY="-11.49" cX="8.1" cY="8.1" pX="0" pY="0" z="0">
+        <d name="pvp_start__12" pX="37" pY="26"/>
+      </b>
+    </armature>
+    <armature name="pvp_start_blue">
+      <b name="pvp_start_blue_7" x="-71.05" y="-3.55" kX="0" kY="0" cX="0.24" cY="1" pX="0" pY="0" z="0">
+        <d name="pvp_start__11" pX="127.5" pY="42.5"/>
+      </b>
+      <b name="pvp_start_blue_name" x="-57.95" y="-30" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="pvp_start__7" pX="72" pY="11"/>
+      </b>
+      <b name="pvp_start_blue_power" x="-56.95" y="23" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="pvp_start__8" pX="71" pY="11"/>
+      </b>
+      <b name="pvp_start_blue_qu" x="-59.45" y="-3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3">
+        <d name="pvp_start__9" pX="68.5" pY="11"/>
+      </b>
+      <b name="pvp_start_blue_frame" x="-341.45" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="pvp_start__13" pX="49.05" pY="49.95"/>
+      </b>
+      <b name="pvp_start_blue_icon" x="-341.45" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="pvp_start__14" pX="40.5" pY="40.5"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="pvp_start_red">
+      <mov name="effect" dr="40" to="0" drTW="40" lp="0" twE="NaN">
+        <b name="pvp_start_red_7" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="74.05" y="-2.5" cocos2d_x="74.05" cocos2d_y="-2.5" kX="0" kY="0" cX="0.24" cY="1" pX="0" pY="0" z="0" dI="0" twE="0.6" dr="5"/>
+          <f x="-31" y="-2.5" cocos2d_x="-31" cocos2d_y="-2.5" kX="0" kY="0" cX="1.06" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="3"/>
+          <f x="-23" y="-2.5" cocos2d_x="-23" cocos2d_y="-2.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="22"/>
+          <f x="-23" y="-2.5" cocos2d_x="-23" cocos2d_y="-2.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="pvp_start_red_name" sc="1" dl="0">
+          <f dr="16" dI="-1"/>
+          <f x="59.45" y="-29.95" cocos2d_x="59.45" cocos2d_y="-29.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-26.55" y="-29.95" cocos2d_x="-26.55" cocos2d_y="-29.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="3"/>
+          <f x="-20.55" y="-29.95" cocos2d_x="-20.55" cocos2d_y="-29.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="15"/>
+          <f x="-20.55" y="-29.95" cocos2d_x="-20.55" cocos2d_y="-29.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+        </b>
+        <b name="pvp_start_red_power" sc="1" dl="0">
+          <f dr="20" dI="-1"/>
+          <f x="61.45" y="24.05" cocos2d_x="61.45" cocos2d_y="24.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-24.55" y="24.05" cocos2d_x="-24.55" cocos2d_y="24.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="3"/>
+          <f x="-18.55" y="24.05" cocos2d_x="-18.55" cocos2d_y="24.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="11"/>
+          <f x="-18.55" y="24.05" cocos2d_x="-18.55" cocos2d_y="24.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+        </b>
+        <b name="pvp_start_red_qu" sc="1" dl="0">
+          <f dr="18" dI="-1"/>
+          <f x="61.45" y="-2.45" cocos2d_x="61.45" cocos2d_y="-2.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-24.55" y="-2.45" cocos2d_x="-24.55" cocos2d_y="-2.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="3"/>
+          <f x="-18.55" y="-2.45" cocos2d_x="-18.55" cocos2d_y="-2.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="13"/>
+          <f x="-18.55" y="-2.45" cocos2d_x="-18.55" cocos2d_y="-2.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="1"/>
+        </b>
+        <b name="pvp_start_red_frame" sc="1" dl="0">
+          <f x="330.45" y="0.05" cocos2d_x="330.45" cocos2d_y="0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="-1" dr="7">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="86.45" y="0.05" cocos2d_x="86.45" cocos2d_y="0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0.6" dr="5"/>
+          <f x="104.45" y="0.05" cocos2d_x="104.45" cocos2d_y="0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="27"/>
+          <f x="104.45" y="0.05" cocos2d_x="104.45" cocos2d_y="0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="1"/>
+        </b>
+        <b name="pvp_start_red_icon" sc="1" dl="0">
+          <f x="330.45" y="0.05" cocos2d_x="330.45" cocos2d_y="0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="-1" dr="7">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="86.45" y="0.05" cocos2d_x="86.45" cocos2d_y="0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0.6" dr="5"/>
+          <f x="104.45" y="0.05" cocos2d_x="104.45" cocos2d_y="0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="27"/>
+          <f x="104.45" y="0.05" cocos2d_x="104.45" cocos2d_y="0.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="pvp_start_vs">
+      <mov name="effect" dr="40" to="0" drTW="40" lp="0" twE="NaN">
+        <b name="pvp_start_vs_2" sc="1" dl="0">
+          <f dr="25" dI="-1"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="-11.49" kY="-11.49" cX="8.1" cY="8.1" pX="0" pY="0" z="0" dI="0" twE="-1" dr="6">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.8" cY="0.8" pX="0" pY="0" z="0" dI="0" twE="0" dr="3"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1.1" cY="1.1" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="3"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="pvp_start_blue">
+      <mov name="effect" dr="40" to="0" drTW="40" lp="0" twE="NaN">
+        <b name="pvp_start_blue_7" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="-71.05" y="-3.55" cocos2d_x="-71.05" cocos2d_y="-3.55" kX="0" kY="0" cX="0.24" cY="1" pX="0" pY="0" z="0" dI="0" twE="0.6" dr="5"/>
+          <f x="35" y="-3.55" cocos2d_x="35" cocos2d_y="-3.55" kX="0" kY="0" cX="1.07" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="3"/>
+          <f x="26" y="-3.55" cocos2d_x="26" cocos2d_y="-3.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="22"/>
+          <f x="26" y="-3.55" cocos2d_x="26" cocos2d_y="-3.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="pvp_start_blue_name" sc="1" dl="0">
+          <f dr="16" dI="-1"/>
+          <f x="-57.95" y="-30" cocos2d_x="-57.95" cocos2d_y="-30" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="28.05" y="-30" cocos2d_x="28.05" cocos2d_y="-30" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="3"/>
+          <f x="22.05" y="-30" cocos2d_x="22.05" cocos2d_y="-30" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="15"/>
+          <f x="22.05" y="-30" cocos2d_x="22.05" cocos2d_y="-30" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+        </b>
+        <b name="pvp_start_blue_power" sc="1" dl="0">
+          <f dr="20" dI="-1"/>
+          <f x="-56.95" y="23" cocos2d_x="-56.95" cocos2d_y="23" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="29.05" y="23" cocos2d_x="29.05" cocos2d_y="23" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="3"/>
+          <f x="23.05" y="23" cocos2d_x="23.05" cocos2d_y="23" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="11"/>
+          <f x="23.05" y="23" cocos2d_x="23.05" cocos2d_y="23" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+        </b>
+        <b name="pvp_start_blue_qu" sc="1" dl="0">
+          <f dr="18" dI="-1"/>
+          <f x="-59.45" y="-3" cocos2d_x="-59.45" cocos2d_y="-3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="26.55" y="-3" cocos2d_x="26.55" cocos2d_y="-3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="3"/>
+          <f x="20.55" y="-3" cocos2d_x="20.55" cocos2d_y="-3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="13"/>
+          <f x="20.55" y="-3" cocos2d_x="20.55" cocos2d_y="-3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="1"/>
+        </b>
+        <b name="pvp_start_blue_frame" sc="1" dl="0">
+          <f x="-341.45" y="0" cocos2d_x="-341.45" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="-1" dr="7">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-83.45" y="0" cocos2d_x="-83.45" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0.6" dr="5"/>
+          <f x="-101.45" y="0" cocos2d_x="-101.45" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="27"/>
+          <f x="-101.45" y="0" cocos2d_x="-101.45" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="1"/>
+        </b>
+        <b name="pvp_start_blue_icon" sc="1" dl="0">
+          <f x="-341.45" y="0" cocos2d_x="-341.45" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="-1" dr="7">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-83.45" y="0" cocos2d_x="-83.45" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0.6" dr="5"/>
+          <f x="-101.45" y="0" cocos2d_x="-101.45" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="27"/>
+          <f x="-101.45" y="0" cocos2d_x="-101.45" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="pvp_start" width="512" height="256">
+    <SubTexture name="pvp_start__9" width="137" height="22" cocos2d_pX="68.5" cocos2d_pY="11" x="340" y="121"/>
+    <SubTexture name="pvp_start__8" width="142" height="22" cocos2d_pX="71" cocos2d_pY="11" x="358" y="73"/>
+    <SubTexture name="pvp_start__7" width="144" height="22" cocos2d_pX="72" cocos2d_pY="11" x="358" y="24"/>
+    <SubTexture name="pvp_start__11" width="255" height="85" cocos2d_pX="127.5" cocos2d_pY="42.5" x="0" y="87"/>
+    <SubTexture name="pvp_start__12" width="74" height="52" cocos2d_pX="37" cocos2d_pY="26" x="340" y="145"/>
+    <SubTexture name="pvp_start__14" width="81" height="81" cocos2d_pX="40.5" cocos2d_pY="40.5" x="257" y="102"/>
+    <SubTexture name="pvp_start__13" width="99" height="100" cocos2d_pX="49.05" cocos2d_pY="49.95" x="257" y="0"/>
+    <SubTexture name="pvp_start__6" width="143" height="23" cocos2d_pX="71.5" cocos2d_pY="11.5" x="358" y="48"/>
+    <SubTexture name="pvp_start__5" width="141" height="22" cocos2d_pX="70.5" cocos2d_pY="11" x="358" y="97"/>
+    <SubTexture name="pvp_start__4" width="145" height="22" cocos2d_pX="72.5" cocos2d_pY="11" x="358" y="0"/>
+    <SubTexture name="pvp_start__10" width="255" height="85" cocos2d_pX="127.5" cocos2d_pY="42.5" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

@@ -1,0 +1,165 @@
+<skeleton name="map4_decor_1" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="map4_decor_1">
+   <b name="map4_decor_1_8" x="1589.9" y="243.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="map4_decor_1__9" isArmature="1"/>
+   </b>
+   <b name="map4_decor_1_7" x="1757.4" y="197.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="map4_decor_1__6" isArmature="1"/>
+   </b>
+   <b name="map4_decor_1_6" x="1762.1" y="143.7" kX="0" kY="0" cX="1.73" cY="1.73" pX="0" pY="0" z="2">
+    <d name="map4_decor_1__7" isArmature="1"/>
+   </b>
+   <b name="map4_decor_1_5" x="1669.35" y="119.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3">
+    <d name="map4_decor_1__11" isArmature="1"/>
+   </b>
+   <b name="map4_decor_1_4" x="1378.05" y="42.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4">
+    <d name="map4_decor_1__4" isArmature="1"/>
+   </b>
+   <b name="map4_decor_1_3" x="640.15" y="145.1" kX="0" kY="0" cX="0.73" cY="0.73" pX="-1081.3" pY="18.7" z="5">
+    <d name="map4_decor_1__12" isArmature="1"/>
+   </b>
+   <b name="map4_decor_1_2" x="1670.6" y="253.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6">
+    <d name="map4_decor_1__8" isArmature="1"/>
+   </b>
+  </armature>
+  <armature name="map4_decor_1__9">
+   <b name="map4_decor_1_tiankong_3" x="-794.7" y="-2.05" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="0">
+    <d name="map4_decor_1__10" pX="568" pY="172.5"/>
+   </b>
+   <b name="map4_decor_1_tiankong_2" x="795.15" y="-2.05" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="1">
+    <d name="map4_decor_1__10" pX="568" pY="172.5"/>
+   </b>
+  </armature>
+  <armature name="map4_decor_1__6">
+   <b name="map4_decor_1_yun6_2" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="map4_decor_1__5" pX="118.5" pY="28"/>
+   </b>
+  </armature>
+  <armature name="map4_decor_1__7">
+   <b name="map4_decor_1_yun5_2" x="-395.75" y="5.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="map4_decor_1__5" pX="118.5" pY="28"/>
+   </b>
+  </armature>
+  <armature name="map4_decor_1__11">
+   <b name="map4_decor_1_yun4_2" x="-1424.7" y="-3.05" kX="0" kY="0" cX="1.57" cY="1.57" pX="0" pY="0" z="0">
+    <d name="map4_decor_1__5" pX="118.5" pY="28"/>
+   </b>
+  </armature>
+  <armature name="map4_decor_1__4">
+   <b name="map4_decor_1_yun3_2" x="412.1" y="6" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="0">
+    <d name="map4_decor_1__3" pX="123.25" pY="69.2"/>
+   </b>
+  </armature>
+  <armature name="map4_decor_1__12">
+   <b name="map4_decor_1_yun2_2" x="-1105.9" y="8" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="0">
+    <d name="map4_decor_1__3" pX="123.25" pY="69.2"/>
+   </b>
+  </armature>
+  <armature name="map4_decor_1__8">
+   <b name="map4_decor_1_yun_2" x="-584.65" y="7.8" kX="16.04" kY="0" cX="0.8" cY="0.83" pX="0" pY="0" z="0">
+    <d name="map4_decor_1__3" pX="123.25" pY="69.2"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="map4_decor_1__9">
+   <mov name="effect" dr="3244" to="0" drTW="3244" lp="0" twE="NaN">
+    <b name="map4_decor_1_tiankong_3" sc="1" dl="0">
+     <f x="-794.7" y="-2.05" cocos2d_x="-794.7" cocos2d_y="-2.05" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="0" dI="0" twE="0" dr="3243"/>
+     <f x="-2385.1" y="-8.05" cocos2d_x="-2385.1" cocos2d_y="-8.05" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="0" dI="0" dr="1"/>
+    </b>
+    <b name="map4_decor_1_tiankong_2" sc="1" dl="0">
+     <f x="795.15" y="-2.05" cocos2d_x="795.15" cocos2d_y="-2.05" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="1" dI="0" twE="0" dr="3243"/>
+     <f x="-795.25" y="-8.05" cocos2d_x="-795.25" cocos2d_y="-8.05" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="1" dI="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="map4_decor_1__6">
+   <mov name="effect" dr="696" to="0" drTW="696" lp="0" twE="NaN">
+    <b name="map4_decor_1_yun6_2" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="695"/>
+     <f x="-1902.45" y="28" cocos2d_x="-1902.45" cocos2d_y="28" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="map4_decor_1__7">
+   <mov name="effect" dr="948" to="0" drTW="948" lp="0" twE="NaN">
+    <b name="map4_decor_1_yun5_2" sc="1" dl="0">
+     <f x="-395.75" y="5.8" cocos2d_x="-395.75" cocos2d_y="5.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="750"/>
+     <f x="-1902.45" y="28" cocos2d_x="-1902.45" cocos2d_y="28" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="196"/>
+     <f x="-393.75" y="5.75" cocos2d_x="-393.75" cocos2d_y="5.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="map4_decor_1__11">
+   <mov name="effect" dr="1148" to="0" drTW="1148" lp="0" twE="NaN">
+    <b name="map4_decor_1_yun4_2" sc="1" dl="0">
+     <f x="-1424.7" y="-3.05" cocos2d_x="-1424.7" cocos2d_y="-3.05" kX="0" kY="0" cX="1.57" cY="1.57" pX="0" pY="0" z="0" dI="0" twE="0" dr="278"/>
+     <f x="-1880.45" y="-4" cocos2d_x="-1880.45" cocos2d_y="-4" kX="0" kY="0" cX="1.57" cY="1.57" pX="0" pY="0" z="0" dI="0" dr="1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1.57" cY="1.57" pX="0" pY="0" z="0" dI="0" twE="0" dr="868"/>
+     <f x="-1423.05" y="-3.05" cocos2d_x="-1423.05" cocos2d_y="-3.05" kX="0" kY="0" cX="1.57" cY="1.57" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="map4_decor_1__4">
+   <mov name="effect" dr="553" to="0" drTW="553" lp="0" twE="NaN">
+    <b name="map4_decor_1_yun3_2" sc="1" dl="0">
+     <f x="412.1" y="6" cocos2d_x="412.1" cocos2d_y="6" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="0" dI="0" twE="0" dr="552"/>
+     <f x="-1644.45" y="-34" cocos2d_x="-1644.45" cocos2d_y="-34" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="0" dI="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="map4_decor_1__12">
+   <mov name="effect" dr="1303" to="0" drTW="1303" lp="0" twE="NaN">
+    <b name="map4_decor_1_yun2_2" sc="1" dl="0">
+     <f x="-1105.9" y="8" cocos2d_x="-1105.9" cocos2d_y="8" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="0" dI="0" twE="0" dr="558"/>
+     <f x="-1921.4" y="8" cocos2d_x="-1921.4" cocos2d_y="8" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="0" dI="0" dr="1"/>
+     <f x="-18.55" y="8" cocos2d_x="-18.55" cocos2d_y="8" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="0" dI="0" twE="0" dr="743"/>
+     <f x="-1104.45" y="8" cocos2d_x="-1104.45" cocos2d_y="8" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="map4_decor_1__8">
+   <mov name="effect" dr="833" to="0" drTW="833" lp="0" twE="NaN">
+    <b name="map4_decor_1_yun_2" sc="1" dl="0">
+     <f x="-584.65" y="7.8" cocos2d_x="-584.65" cocos2d_y="7.8" kX="16.04" kY="0" cX="0.8" cY="0.83" pX="0" pY="0" z="0" dI="0" twE="0" dr="567"/>
+     <f x="-1810.25" y="14.55" cocos2d_x="-1810.25" cocos2d_y="14.55" kX="16.12" kY="0" cX="0.8" cY="0.83" pX="0" pY="0" z="0" dI="0" dr="1"/>
+     <f x="-11.8" y="4.55" cocos2d_x="-11.8" cocos2d_y="4.55" kX="16.12" kY="0" cX="0.8" cY="0.83" pX="0" pY="0" z="0" dI="0" twE="0" dr="264"/>
+     <f x="-582.5" y="7.85" cocos2d_x="-582.5" cocos2d_y="7.85" kX="16.03" kY="0" cX="0.8" cY="0.83" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="map4_decor_1">
+   <mov name="effect" dr="205" to="0" drTW="205" lp="1" twE="NaN">
+    <b name="map4_decor_1_8" sc="1" dl="0">
+     <f x="1589.9" y="243.55" cocos2d_x="1589.9" cocos2d_y="243.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="205"/>
+    </b>
+    <b name="map4_decor_1_7" sc="1" dl="0">
+     <f x="1757.4" y="197.55" cocos2d_x="1757.4" cocos2d_y="197.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="205"/>
+    </b>
+    <b name="map4_decor_1_6" sc="1" dl="0">
+     <f x="1762.1" y="143.7" cocos2d_x="1762.1" cocos2d_y="143.7" kX="0" kY="0" cX="1.73" cY="1.73" pX="0" pY="0" z="2" dI="0" dr="205"/>
+    </b>
+    <b name="map4_decor_1_5" sc="1" dl="0">
+     <f x="1669.35" y="119.5" cocos2d_x="1669.35" cocos2d_y="119.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="205"/>
+    </b>
+    <b name="map4_decor_1_4" sc="1" dl="0">
+     <f x="1378.05" y="42.75" cocos2d_x="1378.05" cocos2d_y="42.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="205"/>
+    </b>
+    <b name="map4_decor_1_3" sc="1" dl="0">
+     <f x="640.15" y="145.1" cocos2d_x="1434.35" cocos2d_y="131.35" kX="0" kY="0" cX="0.73" cY="0.73" pX="-1081.3" pY="18.7" z="5" dI="0" dr="205"/>
+    </b>
+    <b name="map4_decor_1_2" sc="1" dl="0">
+     <f x="1670.6" y="253.5" cocos2d_x="1670.6" cocos2d_y="253.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" dr="205"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="map4_decor_1" width="2048" height="512">
+  <SubTexture name="map4_decor_1__3" width="273" height="127" cocos2d_pX="123.25" cocos2d_pY="69.2" x="1138" y="0"/>
+  <SubTexture name="map4_decor_1__5" width="237" height="56" cocos2d_pX="118.5" cocos2d_pY="28" x="1413" y="0"/>
+  <SubTexture name="map4_decor_1__10" width="1136" height="345" cocos2d_pX="568" cocos2d_pY="172.5" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

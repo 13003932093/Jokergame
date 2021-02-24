@@ -1,0 +1,23 @@
+<skeleton name="skill_ani_94802" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="skill_ani_94802">
+      <b name="event" x="0.5" y="0.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="skill_ani_94802_263" pX="1" pY="1"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="skill_ani_94802">
+      <mov name="hit" dr="139" to="0" drTW="139" lp="0" twE="NaN">
+        <b name="event" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0.5" cocos2d_y="0.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="50"/>
+          <f x="0.5" y="0.5" cocos2d_x="0.5" cocos2d_y="0.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" evt="damage" dr="1"/>
+          <f x="0.5" y="0.5" cocos2d_x="0.5" cocos2d_y="0.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="88"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="skill_ani_94802" width="4" height="4">
+    <SubTexture name="skill_ani_94802_263" width="2" height="2" cocos2d_pX="0.5" cocos2d_pY="0.5" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

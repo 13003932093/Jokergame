@@ -1,0 +1,42 @@
+<skeleton name="buildingpos_1" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="buildingpos_1">
+      <b name="buildingpos_1_1" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="buildingpos_1_2" pX="122" pY="62"/>
+      </b>
+      <b name="buildingpos_4" x="0.45" y="-0.25" kX="0" kY="0" cX="0.94" cY="0.97" pX="-0.05" pY="0" z="1">
+        <d name="buildingpos_1_10" pX="120.9" pY="60.05"/>
+      </b>
+      <b name="buildingpos_3" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="buildingpos_1_7" pX="30.5" pY="30"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="buildingpos_1">
+      <mov name="building" dr="40" to="0" drTW="40" lp="0" twE="NaN">
+        <b name="buildingpos_1_1" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="40"/>
+        </b>
+      </mov>
+      <mov name="build" dr="29" to="0" drTW="29" lp="1" twE="NaN">
+        <b name="buildingpos_1_1" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="29"/>
+        </b>
+        <b name="buildingpos_4" sc="1" dl="0">
+          <f x="0.45" y="-0.25" cocos2d_x="0.5" cocos2d_y="-0.25" kX="0" kY="0" cX="0.94" cY="0.97" pX="-0.05" pY="0" z="1" dI="0" dr="29"/>
+        </b>
+        <b name="buildingpos_3" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="15"/>
+          <f x="0" y="-5" cocos2d_x="0" cocos2d_y="-5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="13"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="buildingpos_1" width="256" height="512">
+    <SubTexture name="buildingpos_1_7" width="61" height="60" cocos2d_pX="30.5" cocos2d_pY="30" x="0" y="249"/>
+    <SubTexture name="buildingpos_1_10" width="242" height="121" cocos2d_pX="120.9" cocos2d_pY="60.05" x="0" y="126"/>
+    <SubTexture name="buildingpos_1_2" width="244" height="124" cocos2d_pX="122" cocos2d_pY="62" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

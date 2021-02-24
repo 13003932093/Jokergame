@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?><skeleton frameRate="24" name="bullet_line2" version="2.2">
+  <armatures>
+    <armature name="bullet_line2">
+      <b cX="0.28" cY="2" kX="-0.49" kY="-0.49" name="bullet_line2_1" x="49.55" y="1.2" z="0">
+        <d name="bullet_line2_rs1_2"/>
+      </b>
+    </armature>
+    <armature name="bullet_line">
+      <b cX="0.28" cY="2" kX="-0.49" kY="-0.49" name="bullet_line_1" x="49.55" y="1.2" z="0">
+        <d name="bullet_line2_rs1_2"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="bullet_line2">
+      <mov dr="60" drTW="60" lp="0" name="effect" to="0" twE="NaN">
+        <b dl="0" name="bullet_line2_1" sc="1">
+          <f dI="-1" dr="1"/>
+          <f cX="0.28" cY="2" cocos2d_x="49.55" cocos2d_y="1.2" dI="0" dr="11" kX="-0.49" kY="-0.49" twE="0" z="0">
+            <colorTransform a="0" aM="19" b="0" bM="100" g="0" gM="100" r="0" rM="100"/>
+          </f>
+          <f cX="2.67" cY="2" cocos2d_x="445.95" cocos2d_y="0" dI="0" dr="10" kX="0" kY="0" twE="0" z="0">
+            <colorTransform a="0" aM="40" b="0" bM="100" g="0" gM="100" r="0" rM="100"/>
+          </f>
+          <f cX="2.67" cY="2" cocos2d_x="445.95" cocos2d_y="0" dI="0" dr="37" kX="0" kY="0" twE="0" z="0">
+            <colorTransform a="0" aM="40" b="0" bM="100" g="0" gM="100" r="0" rM="100"/>
+          </f>
+          <f cX="2.62" cY="2" cocos2d_x="550.15" cocos2d_y="0" dI="0" dr="1" kX="0" kY="0" z="0">
+            <colorTransform a="0" aM="0" b="0" bM="100" g="0" gM="100" r="0" rM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="bullet_line">
+      <mov dr="84" drTW="84" lp="0" name="effect" to="0" twE="NaN">
+        <b dl="0" name="bullet_line_1" sc="1">
+          <f dI="-1" dr="1"/>
+          <f cX="0.28" cY="2" cocos2d_x="49.55" cocos2d_y="1.2" dI="0" dr="10" kX="-0.49" kY="-0.49" twE="0" z="0"/>
+          <f cX="2.67" cY="2" cocos2d_x="445.95" cocos2d_y="0" dI="0" dr="23" kX="0" kY="0" twE="0" z="0"/>
+          <f cX="2.67" cY="2" cocos2d_x="445.95" cocos2d_y="0" dI="0" dr="49" kX="0" kY="0" twE="0" z="0"/>
+          <f cX="2.62" cY="2" cocos2d_x="550.15" cocos2d_y="0" dI="0" dr="1" kX="0" kY="0" z="0">
+            <colorTransform a="0" aM="0" b="0" bM="100" g="0" gM="100" r="0" rM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas height="16" name="bullet_line2" width="512">
+    <SubTexture cocos2d_pX="187.5" cocos2d_pY="4.5" height="9" name="bullet_line2_rs1_2" width="375"/>
+  </TextureAtlas>
+</skeleton>

@@ -1,0 +1,30 @@
+<skeleton name="hit_effect_plight" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="hit_effect_plight">
+   <b name="hit_effect_plight_1" x="0.25" y="-0.5" kX="0" kY="0" cX="0.49" cY="0.49" pX="0" pY="0" z="0">
+    <d name="hit_effect_plight_rs_16" pX="36" pY="36"/>
+    <d name="hit_effect_plight_rs_17" pX="36" pY="36"/>
+    <d name="hit_effect_plight_rs_18" pX="36" pY="36"/>
+    <d name="hit_effect_plight_rs_19" pX="36" pY="36"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="hit_effect_plight">
+   <mov name="effet" dr="8" to="0" drTW="8" lp="1" twE="NaN">
+    <b name="hit_effect_plight_1" sc="1" dl="0">
+     <f x="0.25" y="-0.5" cocos2d_x="0.25" cocos2d_y="-0.5" kX="0" kY="0" cX="0.49" cY="0.49" pX="0" pY="0" z="0" dI="0" dr="2"/>
+     <f x="0.25" y="-0.5" cocos2d_x="0.25" cocos2d_y="-0.5" kX="0" kY="0" cX="0.49" cY="0.49" pX="0" pY="0" z="0" dI="1" dr="2"/>
+     <f x="0.25" y="-0.5" cocos2d_x="0.25" cocos2d_y="-0.5" kX="0" kY="0" cX="0.49" cY="0.49" pX="0" pY="0" z="0" dI="2" dr="2"/>
+     <f x="0.25" y="-0.5" cocos2d_x="0.25" cocos2d_y="-0.5" kX="0" kY="0" cX="0.49" cY="0.49" pX="0" pY="0" z="0" dI="3" dr="2"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="hit_effect_plight" width="256" height="256">
+  <SubTexture name="hit_effect_plight_rs_19" width="72" height="72" cocos2d_pX="36" cocos2d_pY="36" x="148" y="0"/>
+  <SubTexture name="hit_effect_plight_rs_18" width="72" height="72" cocos2d_pX="36" cocos2d_pY="36" x="0" y="74"/>
+  <SubTexture name="hit_effect_plight_rs_17" width="72" height="72" cocos2d_pX="36" cocos2d_pY="36" x="0" y="0"/>
+  <SubTexture name="hit_effect_plight_rs_16" width="72" height="72" cocos2d_pX="36" cocos2d_pY="36" x="74" y="0"/>
+ </TextureAtlas>
+</skeleton>

@@ -1,0 +1,82 @@
+<skeleton name="hit_effect_fire2" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="hit_effect_fire2">
+      <b name="hit_effect_fire2_5" x="-0.8" y="-4.4" kX="-1.74" kY="178.26" cX="2.6" cY="2.6" pX="0" pY="-0.05" z="0">
+        <d name="hit_effect_fire2_rs1_23" pX="21.5" pY="21.7"/>
+        <d name="hit_effect_fire2_rs1_1" pX="23.75" pY="22.3"/>
+      </b>
+      <b name="hit_effect_fire2_4" x="40.9" y="27.15" kX="39.18" kY="39.18" cX="2" cY="2" pX="0" pY="0" z="0">
+        <d name="hit_effect_fire2_rs1_17" pX="81.75" pY="43.7"/>
+        <d name="hit_effect_fire2_rs1_22" pX="43.55" pY="15.15"/>
+      </b>
+      <b name="hit_effect_fire2_3" x="3.95" y="-2.55" kX="0" kY="0" cX="2" cY="2" pX="1.6" pY="-1.35" z="1">
+        <d name="hit_effect_fire2_rs1_16" pX="35.55" pY="35.6"/>
+      </b>
+      <b name="hit_effect_fire2_2" x="8.05" y="-1.95" kX="0" kY="0" cX="2" cY="2" pX="-15.95" pY="18.85" z="3">
+        <d name="hit_effect_fire2_rs1_14" pX="45.65" pY="44.2"/>
+      </b>
+      <b name="hit_effect_fire2_1" x="-2.45" y="-2.4" kX="37.13" kY="37.13" cX="2" cY="2" pX="44.8" pY="4.8" z="0">
+        <d name="hit_effect_fire2_rs1_10" pX="111.55" pY="46.45"/>
+        <d name="hit_effect_fire2_rs1_11" pX="90.4" pY="49.7"/>
+        <d name="hit_effect_fire2_rs1_13" pX="96.1" pY="53.35"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="hit_effect_fire2">
+      <mov name="effect" dr="30" to="0" drTW="30" lp="0" twE="NaN">
+        <b name="hit_effect_fire2_5" sc="1" dl="0">
+          <f dr="8" dI="-1"/>
+          <f x="-0.8" y="-4.4" cocos2d_x="-0.8" cocos2d_y="-4.25" kX="-1.74" kY="178.26" cX="2.6" cY="2.6" pX="0" pY="-0.05" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="1.05" y="-9.45" cocos2d_x="1.05" cocos2d_y="-9.45" kX="-1.74" kY="178.26" cX="2.69" cY="2.69" pX="0" pY="0" z="0" dI="1" twE="1" dr="6"/>
+          <f x="1.05" y="-9.45" cocos2d_x="1.05" cocos2d_y="-9.45" kX="-1.74" kY="178.26" cX="2.69" cY="2.69" pX="0" pY="0" z="0" dI="1" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="13" dI="-1"/>
+        </b>
+        <b name="hit_effect_fire2_4" sc="1" dl="0">
+          <f dr="6" dI="-1"/>
+          <f x="40.9" y="27.15" cocos2d_x="40.9" cocos2d_y="27.15" kX="39.18" kY="39.18" cX="2" cY="2" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-34.85" y="-34.2" cocos2d_x="26.05" cocos2d_y="24.2" kX="39.99" kY="-140.01" cX="2.6" cY="2.6" pX="32.35" pY="-2.1" z="1" dI="1" twE="0" dr="4"/>
+          <f x="-34.85" y="-34.2" cocos2d_x="26.05" cocos2d_y="24.2" kX="39.99" kY="-140.01" cX="2.6" cY="2.6" pX="32.35" pY="-2.1" z="1" dI="1" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="17" dI="-1"/>
+        </b>
+        <b name="hit_effect_fire2_3" sc="1" dl="0">
+          <f dr="6" dI="-1"/>
+          <f x="3.95" y="-2.55" cocos2d_x="0.75" cocos2d_y="0.15" kX="0" kY="0" cX="2" cY="2" pX="1.6" pY="-1.35" z="1" dI="0" twE="0" dr="9"/>
+          <f x="3.95" y="-2.55" cocos2d_x="0.1" cocos2d_y="0.7" kX="0" kY="0" cX="2.42" cY="2.42" pX="1.6" pY="-1.35" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="7" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="14" dI="-1"/>
+        </b>
+        <b name="hit_effect_fire2_2" sc="1" dl="0">
+          <f dr="6" dI="-1"/>
+          <f x="8.05" y="-1.95" cocos2d_x="39.95" cocos2d_y="-39.65" kX="0" kY="0" cX="2" cY="2" pX="-15.95" pY="18.85" z="3" dI="0" twE="0" dr="5"/>
+          <f x="8.05" y="-2" cocos2d_x="43.15" cocos2d_y="-43.45" kX="0" kY="0" cX="2.2" cY="2.2" pX="-15.95" pY="18.85" z="3" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="10" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="18" dI="-1"/>
+        </b>
+        <b name="hit_effect_fire2_1" sc="1" dl="0">
+          <f x="-2.45" y="-2.4" cocos2d_x="-68.1" cocos2d_y="-64.15" kX="37.13" kY="37.13" cX="2" cY="2" pX="44.8" pY="4.8" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="10.5" y="10.4" cocos2d_x="10.5" cocos2d_y="10.4" kX="39.4" kY="39.4" cX="2" cY="2" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="8.3" y="1.95" cocos2d_x="49.9" cocos2d_y="25.35" kX="38.04" kY="38.04" cX="2" cY="2" pX="-23.6" pY="3.6" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f dr="24" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="hit_effect_fire2" width="512" height="256">
+    <SubTexture name="hit_effect_fire2_rs1_13" width="193" height="107" cocos2d_pX="96.1" cocos2d_pY="53.35" x="226" y="0"/>
+    <SubTexture name="hit_effect_fire2_rs1_11" width="181" height="100" cocos2d_pX="90.4" cocos2d_pY="49.7" x="0" y="95"/>
+    <SubTexture name="hit_effect_fire2_rs1_10" width="224" height="93" cocos2d_pX="111.55" cocos2d_pY="46.45" x="0" y="0"/>
+    <SubTexture name="hit_effect_fire2_rs1_14" width="92" height="89" cocos2d_pX="45.65" cocos2d_pY="44.2" x="349" y="158"/>
+    <SubTexture name="hit_effect_fire2_rs1_16" width="72" height="72" cocos2d_pX="35.55" cocos2d_pY="35.6" x="421" y="0"/>
+    <SubTexture name="hit_effect_fire2_rs1_22" width="78" height="31" cocos2d_pX="43.55" cocos2d_pY="15.15" x="421" y="74"/>
+    <SubTexture name="hit_effect_fire2_rs1_17" width="164" height="88" cocos2d_pX="81.75" cocos2d_pY="43.7" x="183" y="109"/>
+    <SubTexture name="hit_effect_fire2_rs1_1" width="49" height="49" cocos2d_pX="23.8" cocos2d_pY="22.25" x="421" y="107"/>
+    <SubTexture name="hit_effect_fire2_rs1_23" width="43" height="44" cocos2d_pX="21.45" cocos2d_pY="21.65" x="349" y="109"/>
+  </TextureAtlas>
+</skeleton>

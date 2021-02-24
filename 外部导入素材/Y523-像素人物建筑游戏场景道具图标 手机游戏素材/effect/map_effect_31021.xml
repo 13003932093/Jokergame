@@ -1,0 +1,37 @@
+<skeleton name="map_effect_31021" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="map_effect_31021">
+      <b name="map_effect_31021_1" x="-5" y="9" kX="0" kY="0" cX="1.24" cY="1.24" pX="0" pY="-42.55" z="0">
+        <d name="map_effect_31021_5" pX="80.7" pY="85.1"/>
+        <d name="map_effect_31021_4" pX="80.7" pY="85.1"/>
+        <d name="map_effect_31021_3" pX="80.7" pY="85.1"/>
+        <d name="map_effect_31021_2" pX="80.7" pY="85.1"/>
+        <d name="map_effect_31021_17" pX="80.7" pY="85.1"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="map_effect_31021">
+      <mov name="effect" dr="35" to="0" drTW="35" lp="0" twE="NaN">
+        <b name="map_effect_31021_1" sc="1" dl="0">
+          <f x="-5" y="9" cocos2d_x="-5" cocos2d_y="61.7" kX="0" kY="0" cX="1.24" cY="1.24" pX="0" pY="-42.55" z="0" dI="0" dr="2"/>
+          <f x="-5" y="9" cocos2d_x="-5" cocos2d_y="61.7" kX="0" kY="0" cX="1.24" cY="1.24" pX="0" pY="-42.55" z="0" dI="1" dr="2"/>
+          <f x="-5" y="9" cocos2d_x="-5" cocos2d_y="61.7" kX="0" kY="0" cX="1.24" cY="1.24" pX="0" pY="-42.55" z="0" dI="2" dr="3"/>
+          <f x="-5" y="9" cocos2d_x="-5" cocos2d_y="61.7" kX="0" kY="0" cX="1.24" cY="1.24" pX="0" pY="-42.55" z="0" dI="3" dr="2"/>
+          <f x="-5" y="9" cocos2d_x="-5" cocos2d_y="61.7" kX="0" kY="0" cX="1.24" cY="1.24" pX="0" pY="-42.55" z="0" dI="4" dr="12"/>
+          <f x="-5" y="9" cocos2d_x="-5" cocos2d_y="61.7" kX="0" kY="0" cX="1.24" cY="1.24" pX="0" pY="-42.55" z="0" dI="4" twE="0" dr="13"/>
+          <f x="-5" y="9" cocos2d_x="-5" cocos2d_y="61.7" kX="0" kY="0" cX="1.24" cY="1.24" pX="0" pY="-42.55" z="0" dI="4" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="map_effect_31021" width="512" height="256">
+    <SubTexture name="map_effect_31021_17" width="162" height="86" cocos2d_pX="80.7" cocos2d_pY="85.1" x="164" y="88"/>
+    <SubTexture name="map_effect_31021_2" width="162" height="86" cocos2d_pX="80.7" cocos2d_pY="85.1" x="0" y="88"/>
+    <SubTexture name="map_effect_31021_3" width="162" height="86" cocos2d_pX="80.7" cocos2d_pY="85.1" x="0" y="0"/>
+    <SubTexture name="map_effect_31021_4" width="162" height="86" cocos2d_pX="80.7" cocos2d_pY="85.1" x="164" y="0"/>
+    <SubTexture name="map_effect_31021_5" width="162" height="86" cocos2d_pX="80.7" cocos2d_pY="85.1" x="328" y="0"/>
+  </TextureAtlas>
+</skeleton>

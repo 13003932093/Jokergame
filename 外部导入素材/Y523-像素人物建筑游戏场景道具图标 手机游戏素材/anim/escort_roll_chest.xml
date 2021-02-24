@@ -1,0 +1,103 @@
+<skeleton name="escort_roll_chest" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="escort_roll_chest">
+   <b name="escort_roll_chest_9" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="escort_roll_chest_13" pX="44.8" pY="44"/>
+   </b>
+   <b name="escort_roll_chest_8" x="-0.32" y="0.2" kX="-33.67" kY="-33.67" cX="0.54" cY="0.54" pX="0.08" pY="2.32" z="1">
+    <d name="escort_roll_chest_11" pX="148" pY="143.48"/>
+   </b>
+   <b name="escort_roll_chest_7" x="-34.2" y="-11.16" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+    <d name="escort_roll_chest_14" pX="5.72" pY="5.72"/>
+   </b>
+   <b name="escort_roll_chest_6" x="37.08" y="-12" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3">
+    <d name="escort_roll_chest_14" pX="5.72" pY="5.72"/>
+   </b>
+   <b name="escort_roll_chest_5" x="-16.32" y="-29.44" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4">
+    <d name="escort_roll_chest_14" pX="5.72" pY="5.72"/>
+   </b>
+   <b name="escort_roll_chest_4" x="-4.88" y="-3.36" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5">
+    <d name="escort_roll_chest_14" pX="5.72" pY="5.72"/>
+   </b>
+   <b name="escort_roll_chest_3" x="26.12" y="-19.68" kX="0" kY="0" cX="0.85" cY="0.85" pX="0" pY="0" z="6">
+    <d name="escort_roll_chest_14" pX="5.72" pY="5.72"/>
+   </b>
+   <b name="escort_roll_chest_2" x="-26.52" y="-10.44" kX="0" kY="0" cX="0.85" cY="0.85" pX="0" pY="0" z="7">
+    <d name="escort_roll_chest_14" pX="5.72" pY="5.72"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="escort_roll_chest">
+   <mov name="effect" dr="22" to="0" drTW="22" lp="0" twE="NaN">
+    <b name="escort_roll_chest_9" sc="1" dl="0">
+     <f dr="2" dI="-1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="8">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="10"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+    <b name="escort_roll_chest_8" sc="1" dl="0">
+     <f dr="2" dI="-1"/>
+     <f x="-0.32" y="0.2" cocos2d_x="-1.04" cocos2d_y="-0.8" kX="-33.67" kY="-33.67" cX="0.54" cY="0.54" pX="0.08" pY="2.32" z="1" dI="0" twE="0" dr="8">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-0.36" y="0.12" cocos2d_x="-0.36" cocos2d_y="-2.52" kX="0" kY="0" cX="1.22" cY="1.22" pX="0" pY="2.16" z="1" dI="0" twE="0" dr="10"/>
+     <f x="-0.32" y="0.16" cocos2d_x="0.92" cocos2d_y="-1.16" kX="45" kY="45" cX="0.82" cY="0.82" pX="0.04" pY="2.2" z="1" dI="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+    <b name="escort_roll_chest_7" sc="1" dl="0">
+     <f dr="6" dI="-1"/>
+     <f x="-34.2" y="-11.16" cocos2d_x="-34.2" cocos2d_y="-11.16" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="12"/>
+     <f x="-34.2" y="-67.16" cocos2d_x="-34.2" cocos2d_y="-67.16" kX="90" kY="90" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="4">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+    <b name="escort_roll_chest_6" sc="1" dl="0">
+     <f dr="6" dI="-1"/>
+     <f x="37.08" y="-12" cocos2d_x="37.08" cocos2d_y="-12" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="12"/>
+     <f x="37.08" y="-68" cocos2d_x="37.08" cocos2d_y="-68" kX="90" kY="90" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="4">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+    <b name="escort_roll_chest_5" sc="1" dl="0">
+     <f dr="8" dI="-1"/>
+     <f x="-16.32" y="-29.44" cocos2d_x="-16.32" cocos2d_y="-29.44" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="12"/>
+     <f x="-16.32" y="-85.44" cocos2d_x="-16.32" cocos2d_y="-85.44" kX="90" kY="90" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+    <b name="escort_roll_chest_4" sc="1" dl="0">
+     <f dr="9" dI="-1"/>
+     <f x="-4.88" y="-3.36" cocos2d_x="-4.88" cocos2d_y="-3.36" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" twE="0" dr="12"/>
+     <f x="-4.88" y="-63.56" cocos2d_x="-4.88" cocos2d_y="-63.56" kX="83.2" kY="83.2" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" twE="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="8" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+    <b name="escort_roll_chest_3" sc="1" dl="0">
+     <f dr="8" dI="-1"/>
+     <f x="26.12" y="-19.68" cocos2d_x="26.12" cocos2d_y="-19.68" kX="0" kY="0" cX="0.85" cY="0.85" pX="0" pY="0" z="6" dI="0" twE="0" dr="12"/>
+     <f x="26.12" y="-67.4" cocos2d_x="26.12" cocos2d_y="-67.4" kX="90" kY="90" cX="0.85" cY="0.85" pX="0" pY="0" z="6" dI="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+    <b name="escort_roll_chest_2" sc="1" dl="0">
+     <f dr="9" dI="-1"/>
+     <f x="-26.52" y="-10.44" cocos2d_x="-26.52" cocos2d_y="-10.44" kX="0" kY="0" cX="0.85" cY="0.85" pX="0" pY="0" z="7" dI="0" twE="0" dr="12"/>
+     <f x="-26.52" y="-58.16" cocos2d_x="-26.52" cocos2d_y="-58.16" kX="90" kY="90" cX="0.85" cY="0.85" pX="0" pY="0" z="7" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="escort_roll_chest" width="512" height="512">
+  <SubTexture name="escort_roll_chest_14" width="12" height="12" cocos2d_pX="5.72" cocos2d_pY="5.72" x="390" y="0"/>
+  <SubTexture name="escort_roll_chest_11" width="296" height="288" cocos2d_pX="158.04" cocos2d_pY="152.72" x="0" y="0"/>
+  <SubTexture name="escort_roll_chest_13" width="90" height="88" cocos2d_pX="44.8" cocos2d_pY="44" x="298" y="0"/>
+ </TextureAtlas>
+</skeleton>

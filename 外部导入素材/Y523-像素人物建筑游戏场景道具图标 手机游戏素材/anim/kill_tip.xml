@@ -1,0 +1,204 @@
+<skeleton name="kill_tip" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="kill_tip">
+      <b name="kill_tip" x="0.25" y="-0.7" kX="0" kY="0" cX="1.47" cY="1.47" pX="0" pY="-39.2" z="0">
+        <d name="kill_tip_yuanjian_6_funben" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="kill_tip_yuanjian_6_funben">
+      <b name="kill_tip_text_5" x="17.65" y="-40.35" kX="0" kY="0" cX="0.86" cY="0.86" pX="0" pY="0" z="0">
+        <d name="kill_tip_yuanjian_1" pX="121" pY="106.75"/>
+      </b>
+      <b name="kill_tip_text_4" x="20.55" y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="kill_tip_yuanjian_2" pX="121.05" pY="103"/>
+      </b>
+      <b name="kill_tip_text_3" x="19.85" y="-43.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="kill_tip_yuanjian_3" pX="121.05" pY="99"/>
+      </b>
+      <b name="kill_tip_text_2" x="19.05" y="-41.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3">
+        <d name="kill_tip_yuanjian_4" pX="116.45" pY="91.5"/>
+      </b>
+      <b name="kill_tip_text_fb" x="17.9" y="-45.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4">
+        <d name="kill_tip_yuanjian_17" pX="132" pY="78.5"/>
+      </b>
+      <b name="kill_tip_text_1" x="19.35" y="-49.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5">
+        <d name="kill_tip_yuanjian_7" pX="122" pY="77"/>
+      </b>
+      <b name="kill_tip_tuceng_13" x="111.6" y="-50.9" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-0.05" z="6">
+        <d name="kill_tip_tuceng_9" pX="12.6" pY="12.5"/>
+      </b>
+      <b name="kill_tip_tuceng_10" x="111.3" y="-50.4" kX="0" kY="0" cX="1.89" cY="1.89" pX="0" pY="-0.05" z="6">
+        <d name="kill_tip_tuceng_9" pX="12.6" pY="12.5"/>
+      </b>
+      <b name="kill_tip_right_head" x="137" y="-70.85" kX="0" kY="0" cX="0.47" cY="0.47" pX="0" pY="0" z="7">
+        <d name="kill_tip_yuanjian_22" pX="66" pY="68"/>
+      </b>
+      <b name="kill_tip_right_head_gray" x="137" y="-70.85" kX="0" kY="0" cX="0.47" cY="0.47" pX="0" pY="0" z="8">
+        <d name="kill_tip_yuanjian_22" pX="66" pY="68"/>
+      </b>
+      <b name="kill_tip_tuceng_4" x="107.55" y="-62.4" kX="-30" kY="-30" cX="1.38" cY="1.38" pX="-0.05" pY="-0.05" z="8">
+        <d name="kill_tip_yuanjian_15" pX="5.95" pY="63"/>
+      </b>
+      <b name="kill_tip_tuceng_6" x="107.1" y="-65.55" kX="60.93" kY="60.92" cX="2" cY="0.83" pX="0" pY="0" z="8">
+        <d name="kill_tip_yuanjian_19" pX="40.5" pY="4"/>
+        <d name="kill_tip_yuanjian_15" pX="5.95" pY="63"/>
+      </b>
+      <b name="kill_tip_tuceng_11" x="119.05" y="-49.5" kX="3.23" kY="3.23" cX="2" cY="1.28" pX="0" pY="0" z="9">
+        <d name="kill_tip_yuanjian_19" pX="40.5" pY="4"/>
+      </b>
+      <b name="kill_tip_tuceng_9" x="-73.65" y="-50.8" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-0.05" z="9">
+        <d name="kill_tip_tuceng_9" pX="12.6" pY="12.5"/>
+      </b>
+      <b name="kill_tip_left_head" x="-47" y="-72.55" kX="0" kY="0" cX="0.47" cY="0.47" pX="0" pY="0" z="10">
+        <d name="kill_tip_yuanjian_22" pX="66" pY="68"/>
+      </b>
+      <b name="kill_tip_left_friend_text" x="-73.45" y="-12.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="11">
+        <d name="kill_tip_yuanjian_6" pX="22" pY="12"/>
+      </b>
+      <b name="kill_tip_left_enemy_text" x="-73.45" y="-12.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="12">
+        <d name="kill_tip_yuanjian_5" pX="22" pY="12"/>
+      </b>
+      <b name="kill_tip_right_enemy_text" x="112.2" y="-12.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="13">
+        <d name="kill_tip_yuanjian_5" pX="22" pY="12"/>
+      </b>
+      <b name="kill_tip_right_friend_text" x="112.2" y="-12.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="14">
+        <d name="kill_tip_yuanjian_6" pX="22" pY="12"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="kill_tip_yuanjian_6_funben">
+      <mov name="show" dr="48" to="0" drTW="48" lp="0" twE="NaN">
+        <b name="kill_tip_text_5" sc="1" dl="0">
+          <f x="17.65" y="-40.35" cocos2d_x="17.65" cocos2d_y="-40.35" kX="0" kY="0" cX="0.86" cY="0.86" pX="0" pY="0" z="0" dI="0" dr="48"/>
+        </b>
+        <b name="kill_tip_text_4" sc="1" dl="0">
+          <f x="20.55" y="-41" cocos2d_x="20.55" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="48"/>
+        </b>
+        <b name="kill_tip_text_3" sc="1" dl="0">
+          <f x="19.85" y="-43.35" cocos2d_x="19.85" cocos2d_y="-43.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="48"/>
+        </b>
+        <b name="kill_tip_text_2" sc="1" dl="0">
+          <f x="19.05" y="-41.85" cocos2d_x="19.05" cocos2d_y="-41.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="48"/>
+        </b>
+        <b name="kill_tip_text_fb" sc="1" dl="0">
+          <f x="17.9" y="-45.5" cocos2d_x="17.9" cocos2d_y="-45.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="48"/>
+        </b>
+        <b name="kill_tip_text_1" sc="1" dl="0">
+          <f x="19.35" y="-49.55" cocos2d_x="19.35" cocos2d_y="-49.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="48"/>
+        </b>
+        <b name="kill_tip_tuceng_13" sc="1" dl="0">
+          <f dr="14" dI="-1"/>
+          <f x="111.6" y="-50.9" cocos2d_x="111.6" cocos2d_y="-50.8" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-0.05" z="6" dI="0" dr="34"/>
+        </b>
+        <b name="kill_tip_tuceng_10" sc="1" dl="0">
+          <f x="111.3" y="-50.4" cocos2d_x="111.3" cocos2d_y="-50.3" kX="0" kY="0" cX="1.89" cY="1.89" pX="0" pY="-0.05" z="6" dI="0" dr="10"/>
+          <f x="114.4" y="-47.4" cocos2d_x="114.4" cocos2d_y="-47.3" kX="-2.5" kY="-2.5" cX="1.89" cY="1.89" pX="0" pY="-0.1" z="6" dI="0" dr="1"/>
+          <f x="113.5" y="-54.25" cocos2d_x="113.5" cocos2d_y="-54.15" kX="-11.21" kY="-11.21" cX="1.89" cY="1.89" pX="0.05" pY="-0.05" z="6" dI="0" dr="1"/>
+          <f x="112.15" y="-53.7" cocos2d_x="112.15" cocos2d_y="-53.6" kX="8.03" kY="8.03" cX="1.89" cY="1.89" pX="0" pY="-0.05" z="6" dI="0" dr="1"/>
+          <f x="111.2" y="-49.65" cocos2d_x="111.2" cocos2d_y="-49.55" kX="-0.96" kY="-0.96" cX="1.89" cY="1.89" pX="0" pY="-0.05" z="6" dI="0" dr="1"/>
+          <f x="110.85" y="-53.85" cocos2d_x="110.85" cocos2d_y="-53.75" kX="4.01" kY="4.01" cX="1.89" cY="1.89" pX="0" pY="-0.05" z="7" dI="0" dr="1"/>
+          <f x="111.3" y="-50.4" cocos2d_x="111.3" cocos2d_y="-50.3" kX="0" kY="0" cX="1.89" cY="1.89" pX="0" pY="-0.05" z="7" dI="0" twE="0" dr="6"/>
+          <f x="111.3" y="-50.4" cocos2d_x="111.3" cocos2d_y="-50.3" kX="0" kY="0" cX="1.89" cY="1.89" pX="0" pY="-0.05" z="7" dI="0" dr="1"/>
+          <f dr="26" dI="-1"/>
+        </b>
+        <b name="kill_tip_right_head" sc="1" dl="0">
+          <f x="137" y="-70.85" cocos2d_x="137" cocos2d_y="-70.85" kX="0" kY="0" cX="0.47" cY="0.47" pX="0" pY="0" z="7" dI="0" dr="10"/>
+          <f x="140.1" y="-67.65" cocos2d_x="140.1" cocos2d_y="-67.65" kX="-2.5" kY="-2.5" cX="0.47" cY="0.47" pX="0" pY="0" z="7" dI="0" dr="1"/>
+          <f x="138.85" y="-73.85" cocos2d_x="138.85" cocos2d_y="-73.85" kX="-11.22" kY="-11.22" cX="0.47" cY="0.47" pX="0" pY="0" z="7" dI="0" dr="1"/>
+          <f x="138.45" y="-74.65" cocos2d_x="138.45" cocos2d_y="-74.65" kX="8.03" kY="8.03" cX="0.47" cY="0.47" pX="0" pY="0" z="7" dI="0" dr="1"/>
+          <f x="137" y="-70.1" cocos2d_x="137" cocos2d_y="-70.1" kX="-0.96" kY="-0.96" cX="0.47" cY="0.47" pX="0" pY="0" z="7" dI="0" dr="1"/>
+          <f x="136.9" y="-74.6" cocos2d_x="136.9" cocos2d_y="-74.6" kX="4.01" kY="4.01" cX="0.47" cY="0.47" pX="0" pY="0" z="8" dI="0" dr="1"/>
+          <f x="137" y="-70.85" cocos2d_x="137" cocos2d_y="-70.85" kX="0" kY="0" cX="0.47" cY="0.47" pX="0" pY="0" z="8" dI="0" twE="0" dr="6"/>
+          <f x="137" y="-70.85" cocos2d_x="137" cocos2d_y="-70.85" kX="0" kY="0" cX="0.47" cY="0.47" pX="0" pY="0" z="8" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="137" y="-70.85" cocos2d_x="137" cocos2d_y="-70.85" kX="0" kY="0" cX="0.47" cY="0.47" pX="0" pY="0" z="7" dI="0" dr="26"/>
+        </b>
+        <b name="kill_tip_right_head_gray" sc="1" dl="0">
+          <f dr="14" dI="-1"/>
+          <f x="137" y="-70.85" cocos2d_x="137" cocos2d_y="-70.85" kX="0" kY="0" cX="0.47" cY="0.47" pX="0" pY="0" z="8" dI="0" dr="34"/>
+        </b>
+        <b name="kill_tip_tuceng_4" sc="1" dl="0">
+          <f dr="11" dI="-1"/>
+          <f x="107.55" y="-62.4" cocos2d_x="107.65" cocos2d_y="-62.35" kX="-30" kY="-30" cX="1.38" cY="1.38" pX="-0.05" pY="-0.05" z="8" dI="0" dr="3"/>
+          <f x="107.55" y="-62.4" cocos2d_x="107.65" cocos2d_y="-62.35" kX="-30" kY="-30" cX="1.38" cY="1.38" pX="-0.05" pY="-0.05" z="9" dI="0" twE="0" dr="12"/>
+          <f x="107.55" y="-62.4" cocos2d_x="107.65" cocos2d_y="-62.35" kX="-30" kY="-30" cX="1.38" cY="1.38" pX="-0.05" pY="-0.05" z="9" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="21" dI="-1"/>
+        </b>
+        <b name="kill_tip_tuceng_6" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="107.1" y="-65.55" cocos2d_x="107.1" cocos2d_y="-65.55" kX="60.93" kY="60.92" cX="2" cY="0.83" pX="0" pY="0" z="8" dI="0" dr="2"/>
+          <f dr="2" dI="-1"/>
+          <f x="119.1" y="-50.2" cocos2d_x="118.95" cocos2d_y="-50.15" kX="93.45" kY="93.45" cX="1.29" cY="1.29" pX="0" pY="-0.15" z="11" dI="1" dr="3"/>
+          <f x="119.1" y="-50.2" cocos2d_x="118.95" cocos2d_y="-50.15" kX="93.45" kY="93.45" cX="1.29" cY="1.29" pX="0" pY="-0.15" z="10" dI="1" twE="0" dr="11"/>
+          <f x="119.1" y="-50.2" cocos2d_x="118.95" cocos2d_y="-50.15" kX="93.45" kY="93.45" cX="1.29" cY="1.29" pX="0" pY="-0.15" z="9" dI="1" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="20" dI="-1"/>
+        </b>
+        <b name="kill_tip_tuceng_11" sc="1" dl="0">
+          <f dr="11" dI="-1"/>
+          <f x="119.05" y="-49.5" cocos2d_x="119.05" cocos2d_y="-49.5" kX="3.23" kY="3.23" cX="2" cY="1.28" pX="0" pY="0" z="9" dI="0" dr="2"/>
+          <f dr="35" dI="-1"/>
+        </b>
+        <b name="kill_tip_tuceng_9" sc="1" dl="0">
+          <f x="-73.65" y="-50.8" cocos2d_x="-73.65" cocos2d_y="-50.7" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-0.05" z="9" dI="0" dr="48"/>
+        </b>
+        <b name="kill_tip_left_head" sc="1" dl="0">
+          <f x="-47" y="-72.55" cocos2d_x="-47" cocos2d_y="-72.55" kX="0" kY="0" cX="0.47" cY="0.47" pX="0" pY="0" z="10" dI="0" dr="48"/>
+        </b>
+        <b name="kill_tip_left_friend_text" sc="1" dl="0">
+          <f x="-73.45" y="-12.95" cocos2d_x="-73.45" cocos2d_y="-12.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="11" dI="0" dr="48"/>
+        </b>
+        <b name="kill_tip_left_enemy_text" sc="1" dl="0">
+          <f x="-73.45" y="-12.9" cocos2d_x="-73.45" cocos2d_y="-12.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="12" dI="0" dr="48"/>
+        </b>
+        <b name="kill_tip_right_enemy_text" sc="1" dl="0">
+          <f x="112.2" y="-12.95" cocos2d_x="112.2" cocos2d_y="-12.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="13" dI="0" dr="48"/>
+        </b>
+        <b name="kill_tip_right_friend_text" sc="1" dl="0">
+          <f x="112.2" y="-12.95" cocos2d_x="112.2" cocos2d_y="-12.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="14" dI="0" dr="48"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="kill_tip">
+      <mov name="show" dr="48" to="0" drTW="48" lp="0" twE="NaN">
+        <b name="kill_tip" sc="1" dl="0">
+          <f x="0.25" y="-0.7" cocos2d_x="0.25" cocos2d_y="56.9" kX="0" kY="0" cX="1.47" cY="1.47" pX="0" pY="-39.2" z="0" dI="0" twE="1" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-4.35" y="4.1" cocos2d_x="-4.35" cocos2d_y="50.4" kX="0" kY="0" cX="1.18" cY="1.18" pX="0" pY="-39.2" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="55" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-7.15" y="6.95" cocos2d_x="-7.15" cocos2d_y="46.45" kX="0" kY="0" cX="1.01" cY="1.01" pX="0" pY="-39.2" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="89" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-8.05" y="7.9" cocos2d_x="-8.05" cocos2d_y="45.1" kX="0" kY="0" cX="0.95" cY="0.95" pX="0" pY="-39.15" z="0" dI="0" twE="1" dr="1"/>
+          <f x="-8.1" y="7.85" cocos2d_x="-8.1" cocos2d_y="46.55" kX="0" kY="0" cX="0.99" cY="0.99" pX="0" pY="-39.2" z="0" dI="0" twE="0" dr="1"/>
+          <f x="-8.05" y="7.9" cocos2d_x="-8.05" cocos2d_y="47.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-39.2" z="0" dI="0" dr="24"/>
+          <f x="-8.05" y="7.9" cocos2d_x="-8.05" cocos2d_y="47.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-39.2" z="0" dI="0" twE="0" dr="17"/>
+          <f x="-8.05" y="-20.7" cocos2d_x="-8.05" cocos2d_y="18.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-39.2" z="0" dI="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="kill_tip" width="512" height="1024">
+    <SubTexture name="kill_tip_yuanjian_5" width="43" height="23" cocos2d_pX="22" cocos2d_pY="12" x="374" y="478"/>
+    <SubTexture name="kill_tip_yuanjian_6" width="43" height="23" cocos2d_pX="22" cocos2d_pY="12" x="457" y="468"/>
+    <SubTexture name="kill_tip_yuanjian_19" width="81" height="8" cocos2d_pX="40.5" cocos2d_pY="4" x="374" y="468"/>
+    <SubTexture name="kill_tip_yuanjian_15" width="12" height="126" cocos2d_pX="5.95" cocos2d_pY="63" x="486" y="0"/>
+    <SubTexture name="kill_tip_yuanjian_22" width="132" height="136" cocos2d_pX="66" cocos2d_pY="68" x="240" y="468"/>
+    <SubTexture name="kill_tip_tuceng_9" width="26" height="25" cocos2d_pX="12.6" cocos2d_pY="12.5" x="484" y="313"/>
+    <SubTexture name="kill_tip_yuanjian_7" width="238" height="139" cocos2d_pX="122" cocos2d_pY="77" x="0" y="340"/>
+    <SubTexture name="kill_tip_yuanjian_17" width="264" height="142" cocos2d_pX="132" cocos2d_pY="78.5" x="244" y="169"/>
+    <SubTexture name="kill_tip_yuanjian_4" width="238" height="153" cocos2d_pX="116.45" cocos2d_pY="91.5" x="244" y="313"/>
+    <SubTexture name="kill_tip_yuanjian_3" width="240" height="167" cocos2d_pX="121.05" cocos2d_pY="99" x="244" y="0"/>
+    <SubTexture name="kill_tip_yuanjian_2" width="242" height="163" cocos2d_pX="121.05" cocos2d_pY="103" x="0" y="175"/>
+    <SubTexture name="kill_tip_yuanjian_1" width="242" height="173" cocos2d_pX="121" cocos2d_pY="106.75" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

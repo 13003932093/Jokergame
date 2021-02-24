@@ -1,0 +1,244 @@
+<skeleton name="stage_tip" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="stage_tip">
+      <b name="stage_tip" x="8.45" y="-47.8" kX="0" kY="0" cX="1.47" cY="1.47" pX="0" pY="-39.15" z="0">
+        <d name="stage_tip_yuanjian_6_funben" isArmature="1"/>
+        <d name="stage_tip_yuanjian_5" isArmature="1"/>
+      </b>
+      <b name="stage_tip_label_1" x="394.3" y="-0.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="stage_tip_yuanjian_3" pX="23.1" pY="24.5"/>
+        <d name="stage_tip_yuanjian_4" pX="23.1" pY="24.5"/>
+      </b>
+    </armature>
+    <armature name="stage_tip_yuanjian_6_funben">
+      <b name="stage_tip_tuceng_bg" x="0" y="0" kX="0" kY="0" cX="1.71" cY="1" pX="0" pY="0" z="0">
+        <d name="stage_tip_yuanjian_9" pX="150" pY="23.5"/>
+        <d name="stage_tip_yuanjian_7" pX="0" pY="0"/>
+      </b>
+      <b name="stage_tip_text" x="9.45" y="-1.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="stage_tip_yuanjian_1" pX="153.6" pY="15"/>
+      </b>
+    </armature>
+    <armature name="stage_tip_yuanjian_5">
+      <b name="stage_tip_tuceng_bg" x="9.45" y="-1.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="stage_tip_yuanjian_2" pX="256" pY="25"/>
+        <d name="stage_tip_yuanjian_7" pX="0" pY="0"/>
+      </b>
+      <b name="stage_tip_text" x="7.85" y="9.85" kX="0" kY="0" cX="0.51" cY="0.51" pX="0" pY="0" z="1">
+        <d name="stage_tip_yuanjian_1" pX="153.6" pY="15"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="stage_tip_yuanjian_6_funben">
+      <mov name="show" dr="1" to="0">
+        <b name="stage_tip_tuceng_bg" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1.71" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="stage_tip_text" sc="1" dl="0">
+          <f x="9.45" y="-1.35" cocos2d_x="9.45" cocos2d_y="-1.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="248" g="226" b="191" aM="100" rM="0" gM="0" bM="0"/>
+          </f>
+        </b>
+      </mov>
+      <mov name="hide" dr="1" to="0">
+        <b name="stage_tip_tuceng_bg" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1.71" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="stage_tip_text" sc="1" dl="0">
+          <f x="9.45" y="-1.35" cocos2d_x="9.45" cocos2d_y="-1.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="248" g="226" b="191" aM="100" rM="0" gM="0" bM="0"/>
+          </f>
+        </b>
+      </mov>
+      <mov name="show1" dr="1" to="0">
+        <b name="stage_tip_tuceng_bg" sc="1" dl="0">
+          <f x="-0.05" y="0" cocos2d_x="108.8" cocos2d_y="-48.95" kX="0" kY="180" cX="1.36" cY="1.36" pX="80" pY="36" z="0" dI="1" dr="1"/>
+        </b>
+        <b name="stage_tip_text" sc="1" dl="0">
+          <f x="34" y="6" cocos2d_x="34" cocos2d_y="6" kX="0" kY="0" cX="0.62" cY="0.67" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="248" g="226" b="191" aM="100" rM="0" gM="0" bM="0"/>
+          </f>
+        </b>
+      </mov>
+      <mov name="hide1" dr="1" to="0">
+        <b name="stage_tip_tuceng_bg" sc="1" dl="0">
+          <f x="-0.05" y="0" cocos2d_x="108.8" cocos2d_y="-48.95" kX="0" kY="180" cX="1.36" cY="1.36" pX="80" pY="36" z="0" dI="1" dr="1"/>
+        </b>
+        <b name="stage_tip_text" sc="1" dl="0">
+          <f x="34" y="6" cocos2d_x="34" cocos2d_y="6" kX="0" kY="0" cX="0.62" cY="0.67" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="248" g="226" b="191" aM="100" rM="0" gM="0" bM="0"/>
+          </f>
+        </b>
+      </mov>
+      <mov name="show2" dr="1" to="0">
+        <b name="stage_tip_tuceng_bg" sc="1" dl="0">
+          <f x="-0.05" y="0" cocos2d_x="108.8" cocos2d_y="-48.95" kX="0" kY="180" cX="1.36" cY="1.36" pX="80" pY="36" z="0" dI="1" dr="1"/>
+        </b>
+        <b name="stage_tip_text" sc="1" dl="0">
+          <f x="38" y="6" cocos2d_x="38" cocos2d_y="6" kX="0" kY="0" cX="0.62" cY="0.67" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="248" g="226" b="191" aM="100" rM="0" gM="0" bM="0"/>
+          </f>
+        </b>
+      </mov>
+      <mov name="hide2" dr="1" to="0">
+        <b name="stage_tip_tuceng_bg" sc="1" dl="0">
+          <f x="-0.05" y="0" cocos2d_x="108.8" cocos2d_y="-48.95" kX="0" kY="180" cX="1.36" cY="1.36" pX="80" pY="36" z="0" dI="1" dr="1"/>
+        </b>
+        <b name="stage_tip_text" sc="1" dl="0">
+          <f x="38" y="6" cocos2d_x="38" cocos2d_y="6" kX="0" kY="0" cX="0.62" cY="0.67" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="248" g="226" b="191" aM="100" rM="0" gM="0" bM="0"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="stage_tip_yuanjian_5">
+      <mov name="show" dr="1" to="0">
+        <b name="stage_tip_tuceng_bg" sc="1" dl="0">
+          <f x="9.45" y="-1.35" cocos2d_x="9.45" cocos2d_y="-1.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="stage_tip_text" sc="1" dl="0">
+          <f x="7.85" y="9.85" cocos2d_x="7.85" cocos2d_y="9.85" kX="0" kY="0" cX="0.51" cY="0.51" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="248" g="226" b="191" aM="100" rM="0" gM="0" bM="0"/>
+          </f>
+        </b>
+      </mov>
+      <mov name="hide" dr="1" to="0">
+        <b name="stage_tip_tuceng_bg" sc="1" dl="0">
+          <f x="9.45" y="-1.35" cocos2d_x="9.45" cocos2d_y="-1.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="stage_tip_text" sc="1" dl="0">
+          <f x="7.85" y="9.85" cocos2d_x="7.85" cocos2d_y="9.85" kX="0" kY="0" cX="0.51" cY="0.51" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="248" g="226" b="191" aM="100" rM="0" gM="0" bM="0"/>
+          </f>
+        </b>
+      </mov>
+      <mov name="show1" dr="1" to="0">
+        <b name="stage_tip_tuceng_bg" sc="1" dl="0">
+          <f x="-0.05" y="0" cocos2d_x="108.8" cocos2d_y="-48.95" kX="0" kY="180" cX="1.36" cY="1.36" pX="80" pY="36" z="0" dI="1" dr="1"/>
+        </b>
+        <b name="stage_tip_text" sc="1" dl="0">
+          <f x="7.85" y="9.85" cocos2d_x="7.85" cocos2d_y="9.85" kX="0" kY="0" cX="0.51" cY="0.51" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="248" g="226" b="191" aM="100" rM="0" gM="0" bM="0"/>
+          </f>
+        </b>
+      </mov>
+      <mov name="hide1" dr="1" to="0">
+        <b name="stage_tip_tuceng_bg" sc="1" dl="0">
+          <f x="-0.05" y="0" cocos2d_x="108.8" cocos2d_y="-48.95" kX="0" kY="180" cX="1.36" cY="1.36" pX="80" pY="36" z="0" dI="1" dr="1"/>
+        </b>
+        <b name="stage_tip_text" sc="1" dl="0">
+          <f x="7.85" y="9.85" cocos2d_x="7.85" cocos2d_y="9.85" kX="0" kY="0" cX="0.51" cY="0.51" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="248" g="226" b="191" aM="100" rM="0" gM="0" bM="0"/>
+          </f>
+        </b>
+      </mov>
+      <mov name="show2" dr="1" to="0">
+        <b name="stage_tip_tuceng_bg" sc="1" dl="0">
+          <f x="-0.05" y="0" cocos2d_x="108.8" cocos2d_y="-48.95" kX="0" kY="180" cX="1.36" cY="1.36" pX="80" pY="36" z="0" dI="1" dr="1"/>
+        </b>
+        <b name="stage_tip_text" sc="1" dl="0">
+          <f x="7.85" y="9.85" cocos2d_x="7.85" cocos2d_y="9.85" kX="0" kY="0" cX="0.51" cY="0.51" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="248" g="226" b="191" aM="100" rM="0" gM="0" bM="0"/>
+          </f>
+        </b>
+      </mov>
+      <mov name="hide2" dr="1" to="0">
+        <b name="stage_tip_tuceng_bg" sc="1" dl="0">
+          <f x="-0.05" y="0" cocos2d_x="108.8" cocos2d_y="-48.95" kX="0" kY="180" cX="1.36" cY="1.36" pX="80" pY="36" z="0" dI="1" dr="1"/>
+        </b>
+        <b name="stage_tip_text" sc="1" dl="0">
+          <f x="7.85" y="9.85" cocos2d_x="7.85" cocos2d_y="9.85" kX="0" kY="0" cX="0.51" cY="0.51" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="248" g="226" b="191" aM="100" rM="0" gM="0" bM="0"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="stage_tip">
+      <mov name="show" dr="29" to="0" drTW="29" lp="0" twE="NaN">
+        <b name="stage_tip" sc="1" dl="0">
+          <f x="8.45" y="-47.8" cocos2d_x="8.45" cocos2d_y="9.8" kX="0" kY="0" cX="1.47" cY="1.47" pX="0" pY="-39.15" z="0" dI="0" twE="1" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="3.85" y="-43" cocos2d_x="3.85" cocos2d_y="3.3" kX="0" kY="0" cX="1.18" cY="1.18" pX="0" pY="-39.2" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="55" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="1.05" y="-40.15" cocos2d_x="1.05" cocos2d_y="-0.65" kX="0" kY="0" cX="1.01" cY="1.01" pX="0" pY="-39.2" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="89" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.15" y="-39.2" cocos2d_x="0.15" cocos2d_y="-2" kX="0" kY="0" cX="0.95" cY="0.95" pX="0" pY="-39.15" z="0" dI="0" twE="1" dr="1"/>
+          <f x="0.1" y="-39.25" cocos2d_x="0.1" cocos2d_y="-0.55" kX="0" kY="0" cX="0.99" cY="0.99" pX="0" pY="-39.2" z="0" dI="0" twE="0" dr="1"/>
+          <f x="0.15" y="-39.2" cocos2d_x="0.15" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-39.2" z="0" dI="0" dr="24"/>
+        </b>
+      </mov>
+      <mov name="hide" dr="19" to="0" drTW="19" lp="0" twE="NaN">
+        <b name="stage_tip" sc="1" dl="0">
+          <f x="0.15" y="-39.2" cocos2d_x="0.15" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-39.2" z="0" dI="0" twE="0" dr="17"/>
+          <f x="0.15" y="-67.8" cocos2d_x="0.15" cocos2d_y="-28.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-39.2" z="0" dI="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+      <mov name="show2" dr="29" to="0" drTW="29" lp="0" twE="NaN">
+        <b name="stage_tip" sc="1" dl="0">
+          <f x="461.25" y="-38.75" cocos2d_x="461.25" cocos2d_y="0.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-39.2" z="0" dI="0" twE="0" dr="6"/>
+          <f x="-128.75" y="-38.75" cocos2d_x="-128.75" cocos2d_y="0.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-39.2" z="0" dI="0" twE="0" dr="3"/>
+          <f x="-108.75" y="-38.75" cocos2d_x="-108.75" cocos2d_y="0.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-39.2" z="0" dI="0" dr="20"/>
+        </b>
+        <b name="stage_tip_label_1" sc="1" dl="0">
+          <f x="394.3" y="-0.3" cocos2d_x="394.3" cocos2d_y="-0.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="6"/>
+          <f x="-195.7" y="-0.3" cocos2d_x="-195.7" cocos2d_y="-0.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="3"/>
+          <f x="-175.7" y="-0.3" cocos2d_x="-175.7" cocos2d_y="-0.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="20"/>
+        </b>
+      </mov>
+      <mov name="hide2" dr="19" to="0" drTW="19" lp="0" twE="NaN">
+        <b name="stage_tip" sc="1" dl="0">
+          <f x="-108.75" y="-38.75" cocos2d_x="-108.75" cocos2d_y="0.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-39.2" z="0" dI="0" twE="0" dr="17"/>
+          <f x="-108.75" y="-68.75" cocos2d_x="-108.75" cocos2d_y="-29.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-39.2" z="0" dI="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="stage_tip_label_1" sc="1" dl="0">
+          <f x="-175.7" y="-0.3" cocos2d_x="-175.7" cocos2d_y="-0.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="17"/>
+          <f x="-175.7" y="-30.3" cocos2d_x="-175.7" cocos2d_y="-30.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+      <mov name="show1" dr="29" to="0" drTW="29" lp="0" twE="NaN">
+        <b name="stage_tip" sc="1" dl="0">
+          <f x="-464.35" y="-38.75" cocos2d_x="-464.35" cocos2d_y="0.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-39.2" z="0" dI="1" twE="0" dr="5"/>
+          <f x="133.65" y="-38.75" cocos2d_x="133.65" cocos2d_y="0.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-39.2" z="0" dI="0" twE="0" dr="3"/>
+          <f x="109.65" y="-38.75" cocos2d_x="109.65" cocos2d_y="0.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-39.2" z="0" dI="0" dr="21"/>
+        </b>
+        <b name="stage_tip_label_1" sc="1" dl="0">
+          <f x="-391.8" y="-0.3" cocos2d_x="-391.8" cocos2d_y="-0.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" twE="0" dr="5"/>
+          <f x="206.2" y="-0.3" cocos2d_x="206.2" cocos2d_y="-0.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" twE="0" dr="3"/>
+          <f x="182.2" y="-0.3" cocos2d_x="182.2" cocos2d_y="-0.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" dr="21"/>
+        </b>
+      </mov>
+      <mov name="hide1" dr="20" to="0" drTW="20" lp="0" twE="NaN">
+        <b name="stage_tip" sc="1" dl="0">
+          <f x="109.65" y="-38.75" cocos2d_x="109.65" cocos2d_y="0.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-39.2" z="0" dI="0" twE="0" dr="17"/>
+          <f x="109.65" y="-68.75" cocos2d_x="109.65" cocos2d_y="-29.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-39.2" z="0" dI="0" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="stage_tip_label_1" sc="1" dl="0">
+          <f x="182.2" y="-0.3" cocos2d_x="182.2" cocos2d_y="-0.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" twE="0" dr="17"/>
+          <f x="182.2" y="-30.3" cocos2d_x="182.2" cocos2d_y="-30.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="stage_tip" width="1024" height="128">
+    <SubTexture name="stage_tip_yuanjian_2" width="512" height="50" cocos2d_pX="256" cocos2d_pY="25" x="0" y="0"/>
+    <SubTexture name="stage_tip_yuanjian_1" width="308" height="30" cocos2d_pX="153.6" cocos2d_pY="15" x="0" y="52"/>
+    <SubTexture name="stage_tip_yuanjian_7" width="160" height="72" cocos2d_pX="0" cocos2d_pY="0" x="816" y="0"/>
+    <SubTexture name="stage_tip_yuanjian_9" width="300" height="47" cocos2d_pX="150" cocos2d_pY="23.5" x="514" y="0"/>
+    <SubTexture name="stage_tip_yuanjian_4" width="47" height="49" cocos2d_pX="23.1" cocos2d_pY="24.5" x="514" y="49"/>
+    <SubTexture name="stage_tip_yuanjian_3" width="47" height="49" cocos2d_pX="23.1" cocos2d_pY="24.5" x="563" y="49"/>
+  </TextureAtlas>
+</skeleton>

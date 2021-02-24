@@ -1,0 +1,86 @@
+<skeleton name="buff_ani_31296" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="hit_effect_xingshidun">
+      <b name="hit_effect_xingshidun_2" x="8.3" y="-46.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="hit_effect_xingshidun_2" pX="100.8" pY="98.35"/>
+        <d name="hit_effect_xingshidun_3" pX="102.05" pY="98.35"/>
+        <d name="hit_effect_xingshidun_4" pX="99.55" pY="98.35"/>
+        <d name="hit_effect_xingshidun_5" pX="97.1" pY="99.55"/>
+        <d name="hit_effect_xingshidun_6" pX="97.1" pY="99.55"/>
+        <d name="hit_effect_xingshidun_7" pX="95.9" pY="100.8"/>
+      </b>
+      <b name="hit_effect_xingshidun_1" x="0.45" y="-109.05" kX="0" kY="0" cX="0.96" cY="0.96" pX="0" pY="0" z="1">
+        <d name="hit_effect_xingshidun_0" pX="19.7" pY="9.2"/>
+      </b>
+    </armature>
+    <armature name="buff_ani_31296">
+      <b name="buff_ani_31296_2" x="6" y="-48.95" kX="0" kY="0" cX="1.23" cY="1.23" pX="0" pY="0" z="0">
+        <d name="buff_ani_31296_0" pX="80.1" pY="78.1"/>
+        <d name="buff_ani_31296_1" pX="81.2" pY="78.55"/>
+        <d name="buff_ani_31296_2" pX="79.45" pY="78.1"/>
+        <d name="buff_ani_31296_3" pX="77.65" pY="79.2"/>
+        <d name="buff_ani_31296_4" pX="77.2" pY="79.9"/>
+        <d name="buff_ani_31296_5" pX="76.55" pY="80.1"/>
+        <d name="buff_ani_31296_6" pX="76.55" pY="79.45"/>
+        <d name="buff_ani_31296_7" pX="77.45" pY="79.65"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="hit_effect_xingshidun">
+      <mov name="effect" dr="24" to="0" drTW="24" lp="0" twE="NaN">
+        <b name="hit_effect_xingshidun_2" sc="1" dl="0">
+          <f x="8.3" y="-46.6" cocos2d_x="8.3" cocos2d_y="-46.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="8.45" y="-47.75" cocos2d_x="8.45" cocos2d_y="-47.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="5.4" y="-47.05" cocos2d_x="5.4" cocos2d_y="-47.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="3" y="-44.6" cocos2d_x="3" cocos2d_y="-44.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="3" y="-45.9" cocos2d_x="3" cocos2d_y="-45.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="2.9" y="-44.75" cocos2d_x="2.9" cocos2d_y="-44.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+          <f dr="12" dI="-1"/>
+        </b>
+        <b name="hit_effect_xingshidun_1" sc="1" dl="0">
+          <f x="0.45" y="-109.05" cocos2d_x="0.45" cocos2d_y="-109.05" kX="0" kY="0" cX="0.96" cY="0.96" pX="0" pY="0" z="1" dI="0" twE="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.45" y="-113.05" cocos2d_x="0.45" cocos2d_y="-113.05" kX="0" kY="0" cX="1.77" cY="1.77" pX="0" pY="0" z="1" dI="0" twE="0" dr="2"/>
+          <f x="0.45" y="-113.05" cocos2d_x="0.45" cocos2d_y="-113.05" kX="0" kY="0" cX="1.47" cY="1.47" pX="0" pY="0" z="0" dI="0" twE="-1" dr="18"/>
+          <f x="0.45" y="-204.85" cocos2d_x="0.45" cocos2d_y="-204.85" kX="0" kY="0" cX="1.47" cY="1.47" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="1" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="buff_ani_31296">
+      <mov name="buff" dr="16" to="0" drTW="16" lp="1" twE="NaN">
+        <b name="buff_ani_31296_2" sc="1" dl="0">
+          <f x="6" y="-48.95" cocos2d_x="6" cocos2d_y="-48.95" kX="0" kY="0" cX="1.23" cY="1.23" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="6.25" y="-49.55" cocos2d_x="6.25" cocos2d_y="-49.55" kX="0" kY="0" cX="1.23" cY="1.23" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="3.55" y="-49.4" cocos2d_x="3.55" cocos2d_y="-49.4" kX="0" kY="0" cX="1.23" cY="1.23" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="1.35" y="-46.8" cocos2d_x="1.35" cocos2d_y="-46.8" kX="0" kY="0" cX="1.23" cY="1.23" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0.8" y="-47.2" cocos2d_x="0.8" cocos2d_y="-47.2" kX="0" kY="0" cX="1.23" cY="1.23" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="1.1" y="-47.05" cocos2d_x="1.1" cocos2d_y="-47.05" kX="0" kY="0" cX="1.23" cY="1.23" pX="0" pY="0" z="0" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="1.65" y="-47.3" cocos2d_x="1.65" cocos2d_y="-47.3" kX="0" kY="0" cX="1.23" cY="1.23" pX="0" pY="0" z="0" dI="6" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="2.75" y="-47.05" cocos2d_x="2.75" cocos2d_y="-47.05" kX="0" kY="0" cX="1.23" cY="1.23" pX="0" pY="0" z="0" dI="7" twE="NaN" tweenFrame="0" dr="2"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="buff_ani_31296" width="1024" height="1024">
+    <SubTexture name="buff_ani_31296_7" width="158" height="162" cocos2d_pX="77.45" cocos2d_pY="79.65" x="354" y="361"/>
+    <SubTexture name="buff_ani_31296_6" width="156" height="162" cocos2d_pX="76.55" cocos2d_pY="79.45" x="672" y="366"/>
+    <SubTexture name="buff_ani_31296_5" width="156" height="164" cocos2d_pX="76.55" cocos2d_pY="80.1" x="514" y="364"/>
+    <SubTexture name="buff_ani_31296_4" width="158" height="162" cocos2d_pX="77.2" cocos2d_pY="79.9" x="194" y="361"/>
+    <SubTexture name="buff_ani_31296_3" width="158" height="162" cocos2d_pX="77.65" cocos2d_pY="79.2" x="734" y="202"/>
+    <SubTexture name="buff_ani_31296_2" width="162" height="160" cocos2d_pX="79.45" cocos2d_pY="78.1" x="570" y="202"/>
+    <SubTexture name="buff_ani_31296_1" width="166" height="160" cocos2d_pX="81.2" cocos2d_pY="78.55" x="194" y="199"/>
+    <SubTexture name="buff_ani_31296_0" width="164" height="160" cocos2d_pX="80.1" cocos2d_pY="78.1" x="404" y="199"/>
+    <SubTexture name="hit_effect_xingshidun_0" width="40" height="19" cocos2d_pX="19.7" cocos2d_pY="9.2" x="362" y="199"/>
+    <SubTexture name="hit_effect_xingshidun_7" width="192" height="202" cocos2d_pX="95.9" cocos2d_pY="100.8" x="0" y="199"/>
+    <SubTexture name="hit_effect_xingshidun_6" width="195" height="200" cocos2d_pX="97.1" cocos2d_pY="99.55" x="613" y="0"/>
+    <SubTexture name="hit_effect_xingshidun_5" width="195" height="200" cocos2d_pX="97.1" cocos2d_pY="99.55" x="810" y="0"/>
+    <SubTexture name="hit_effect_xingshidun_4" width="200" height="197" cocos2d_pX="99.55" cocos2d_pY="98.35" x="411" y="0"/>
+    <SubTexture name="hit_effect_xingshidun_3" width="205" height="197" cocos2d_pX="102.05" cocos2d_pY="98.35" x="0" y="0"/>
+    <SubTexture name="hit_effect_xingshidun_2" width="202" height="197" cocos2d_pX="100.8" cocos2d_pY="98.35" x="207" y="0"/>
+  </TextureAtlas>
+</skeleton>

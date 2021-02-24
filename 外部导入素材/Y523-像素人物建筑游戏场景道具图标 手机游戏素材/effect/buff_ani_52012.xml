@@ -1,0 +1,33 @@
+<skeleton name="buff_ani_52012" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="buff_ani_52012">
+      <b name="buff_ani_52012_1" x="-8" y="-50" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="buff_ani_52012_1" pX="54" pY="64"/>
+        <d name="buff_ani_52012_2" pX="54" pY="64"/>
+        <d name="buff_ani_52012_3" pX="54" pY="64"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="buff_ani_52012">
+      <mov name="buff" dr="18" to="0" drTW="18" lp="1" twE="NaN">
+        <b name="buff_ani_52012_1" sc="1" dl="0">
+          <f x="-8" y="-50" cocos2d_x="-8" cocos2d_y="-50" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-8" y="-50" cocos2d_x="-8" cocos2d_y="-50" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-8" y="-50" cocos2d_x="-8" cocos2d_y="-50" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-8" y="-50" cocos2d_x="-8" cocos2d_y="-50" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-8" y="-50" cocos2d_x="-8" cocos2d_y="-50" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-8" y="-50" cocos2d_x="-8" cocos2d_y="-50" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-8" y="-50" cocos2d_x="-8" cocos2d_y="-50" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-8" y="-50" cocos2d_x="-8" cocos2d_y="-50" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-8" y="-50" cocos2d_x="-8" cocos2d_y="-50" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="buff_ani_52012" width="256" height="512">
+    <SubTexture name="buff_ani_52012_3" width="108" height="128" cocos2d_pX="54" cocos2d_pY="64" x="0" y="130"/>
+    <SubTexture name="buff_ani_52012_2" width="108" height="128" cocos2d_pX="54" cocos2d_pY="64" x="110" y="0"/>
+    <SubTexture name="buff_ani_52012_1" width="108" height="128" cocos2d_pX="54" cocos2d_pY="64" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

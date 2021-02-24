@@ -1,0 +1,183 @@
+<skeleton name="map_effect_31299" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="map_effect_31299">
+      <b name="map_effect_31299_5" x="-280.7" y="-382.2" kX="0" kY="0" cX="3.6" cY="3.6" pX="0" pY="0" z="0">
+        <d name="map_effect_31299_6" pX="142" pY="80"/>
+      </b>
+      <b name="map_effect_31299_6" x="741.05" y="-382.2" kX="0" kY="180" cX="3.6" cY="3.6" pX="0" pY="0" z="1">
+        <d name="map_effect_31299_6" pX="142" pY="80"/>
+      </b>
+      <b name="map_effect_31299_4" x="-280.7" y="193.05" kX="180" kY="0" cX="3.6" cY="3.6" pX="0" pY="0" z="2">
+        <d name="map_effect_31299_6" pX="142" pY="80"/>
+      </b>
+      <b name="map_effect_31299_3" x="741.05" y="193.05" kX="180" kY="180" cX="3.6" cY="3.6" pX="0" pY="0" z="3">
+        <d name="map_effect_31299_6" pX="142" pY="80"/>
+      </b>
+      <b name="map_effect_31299_2" x="226.3" y="-105.95" kX="0" kY="0" cX="3.6" cY="3.6" pX="0" pY="0" z="4">
+        <d name="map_effect_31299_9" pX="126" pY="126"/>
+      </b>
+      <b name="map_effect_31299_1" x="20.95" y="-89" kX="0" kY="0" cX="3.51" cY="3.51" pX="0" pY="0" z="5">
+        <d name="map_effect_31299_4" pX="72.15" pY="93.3"/>
+      </b>
+      <b name="map_effect_31299_1122" x="-169.25" y="58.8" kX="-45" kY="-45" cX="1.51" cY="1.51" pX="0" pY="0" z="6">
+        <d name="map_effect_31299_36" pX="18.6" pY="18.5"/>
+      </b>
+      <b name="map_effect_31299_1121" x="-159.4" y="-54" kX="-45" kY="-45" cX="1.21" cY="1.21" pX="0" pY="0" z="7">
+        <d name="map_effect_31299_36" pX="18.6" pY="18.5"/>
+      </b>
+      <b name="map_effect_31299_1120" x="-80.75" y="-43.25" kX="-45" kY="-45" cX="1.51" cY="1.51" pX="0" pY="0" z="6">
+        <d name="map_effect_31299_36" pX="18.6" pY="18.5"/>
+      </b>
+      <b name="map_effect_31299_1119" x="-47.8" y="-142.35" kX="-45" kY="-45" cX="1.51" cY="1.51" pX="0" pY="0" z="9">
+        <d name="map_effect_31299_36" pX="18.6" pY="18.5"/>
+      </b>
+      <b name="map_effect_31299_1118" x="-151.85" y="-313.4" kX="-45" kY="-45" cX="1.21" cY="1.21" pX="0" pY="0" z="7">
+        <d name="map_effect_31299_36" pX="18.6" pY="18.5"/>
+      </b>
+      <b name="map_effect_31299_1117" x="124.7" y="-233.85" kX="-45" kY="-45" cX="1.66" cY="1.66" pX="0" pY="0" z="9">
+        <d name="map_effect_31299_36" pX="18.6" pY="18.5"/>
+      </b>
+      <b name="map_effect_31299_1116" x="45.7" y="172.75" kX="-45" kY="-45" cX="1.21" cY="1.21" pX="0" pY="0" z="10">
+        <d name="map_effect_31299_36" pX="18.6" pY="18.5"/>
+      </b>
+      <b name="map_effect_31299_1115" x="142.85" y="31.8" kX="-45" kY="-45" cX="1.51" cY="1.51" pX="0" pY="0" z="10">
+        <d name="map_effect_31299_36" pX="18.6" pY="18.5"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="map_effect_31299">
+      <mov name="effect" dr="100" to="0" drTW="100" lp="0" twE="NaN">
+        <b name="map_effect_31299_5" sc="1" dl="0">
+          <f x="-280.7" y="-382.2" cocos2d_x="-280.7" cocos2d_y="-382.2" kX="0" kY="0" cX="3.6" cY="3.6" pX="0" pY="0" z="0" dI="0" twE="0" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-280.7" y="-382.2" cocos2d_x="-280.7" cocos2d_y="-382.2" kX="0" kY="0" cX="3.6" cY="3.6" pX="0" pY="0" z="0" dI="0" dr="87"/>
+          <f x="-280.7" y="-382.2" cocos2d_x="-280.7" cocos2d_y="-382.2" kX="0" kY="0" cX="3.6" cY="3.6" pX="0" pY="0" z="0" dI="0" twE="0" dr="6"/>
+          <f x="-280.7" y="-382.2" cocos2d_x="-280.7" cocos2d_y="-382.2" kX="0" kY="0" cX="3.6" cY="3.6" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="1" dI="-1"/>
+        </b>
+        <b name="map_effect_31299_6" sc="1" dl="0">
+          <f x="741.05" y="-382.2" cocos2d_x="741.05" cocos2d_y="-382.2" kX="0" kY="180" cX="3.6" cY="3.6" pX="0" pY="0" z="1" dI="0" twE="0" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="741.05" y="-382.2" cocos2d_x="741.05" cocos2d_y="-382.2" kX="0" kY="180" cX="3.6" cY="3.6" pX="0" pY="0" z="1" dI="0" dr="87"/>
+          <f x="741.05" y="-382.2" cocos2d_x="741.05" cocos2d_y="-382.2" kX="0" kY="180" cX="3.6" cY="3.6" pX="0" pY="0" z="1" dI="0" twE="0" dr="6"/>
+          <f x="741.05" y="-382.2" cocos2d_x="741.05" cocos2d_y="-382.2" kX="0" kY="180" cX="3.6" cY="3.6" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="1" dI="-1"/>
+        </b>
+        <b name="map_effect_31299_4" sc="1" dl="0">
+          <f x="-280.7" y="193.05" cocos2d_x="-280.7" cocos2d_y="193.05" kX="180" kY="0" cX="3.6" cY="3.6" pX="0" pY="0" z="2" dI="0" twE="0" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-280.7" y="193.05" cocos2d_x="-280.7" cocos2d_y="193.05" kX="180" kY="0" cX="3.6" cY="3.6" pX="0" pY="0" z="2" dI="0" dr="87"/>
+          <f x="-280.7" y="193.05" cocos2d_x="-280.7" cocos2d_y="193.05" kX="180" kY="0" cX="3.6" cY="3.6" pX="0" pY="0" z="2" dI="0" twE="0" dr="6"/>
+          <f x="-280.7" y="193.05" cocos2d_x="-280.7" cocos2d_y="193.05" kX="180" kY="0" cX="3.6" cY="3.6" pX="0" pY="0" z="2" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="1" dI="-1"/>
+        </b>
+        <b name="map_effect_31299_3" sc="1" dl="0">
+          <f x="741.05" y="193.05" cocos2d_x="741.05" cocos2d_y="193.05" kX="180" kY="180" cX="3.6" cY="3.6" pX="0" pY="0" z="3" dI="0" twE="0" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="741.05" y="193.05" cocos2d_x="741.05" cocos2d_y="193.05" kX="180" kY="180" cX="3.6" cY="3.6" pX="0" pY="0" z="3" dI="0" dr="87"/>
+          <f x="741.05" y="193.05" cocos2d_x="741.05" cocos2d_y="193.05" kX="180" kY="180" cX="3.6" cY="3.6" pX="0" pY="0" z="3" dI="0" twE="0" dr="6"/>
+          <f x="741.05" y="193.05" cocos2d_x="741.05" cocos2d_y="193.05" kX="180" kY="180" cX="3.6" cY="3.6" pX="0" pY="0" z="3" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="1" dI="-1"/>
+        </b>
+        <b name="map_effect_31299_2" sc="1" dl="0">
+          <f x="226.3" y="-105.95" cocos2d_x="226.3" cocos2d_y="-105.95" kX="0" kY="0" cX="3.6" cY="3.6" pX="0" pY="0" z="4" dI="0" twE="0" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="226.3" y="-105.95" cocos2d_x="226.3" cocos2d_y="-105.95" kX="0" kY="0" cX="3.6" cY="3.6" pX="0" pY="0" z="4" dI="0" dr="87"/>
+          <f x="226.3" y="-105.95" cocos2d_x="226.3" cocos2d_y="-105.95" kX="0" kY="0" cX="3.6" cY="3.6" pX="0" pY="0" z="4" dI="0" twE="0" dr="6"/>
+          <f x="226.3" y="-105.95" cocos2d_x="226.3" cocos2d_y="-105.95" kX="0" kY="0" cX="3.6" cY="3.6" pX="0" pY="0" z="4" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="1" dI="-1"/>
+        </b>
+        <b name="map_effect_31299_1" sc="1" dl="0">
+          <f dr="1" dI="-1"/>
+          <f x="20.95" y="-89" cocos2d_x="20.95" cocos2d_y="-89" kX="0" kY="0" cX="3.51" cY="3.51" pX="0" pY="0" z="5" dI="0" twE="0" dr="11">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="20.95" y="-89" cocos2d_x="20.95" cocos2d_y="-89" kX="0" kY="0" cX="3.51" cY="3.51" pX="0" pY="0" z="5" dI="0" dr="78"/>
+          <f x="20.95" y="-89" cocos2d_x="20.95" cocos2d_y="-89" kX="0" kY="0" cX="3.51" cY="3.51" pX="0" pY="0" z="5" dI="0" twE="0" dr="8"/>
+          <f x="20.95" y="-89" cocos2d_x="20.95" cocos2d_y="-89" kX="0" kY="0" cX="3.51" cY="3.51" pX="0" pY="0" z="5" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="1" dI="-1"/>
+        </b>
+        <b name="map_effect_31299_1122" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="-169.25" y="58.8" cocos2d_x="-169.25" cocos2d_y="58.8" kX="-45" kY="-45" cX="1.51" cY="1.51" pX="0" pY="0" z="6" dI="0" twE="0" dr="4"/>
+          <f x="-169.4" y="58.8" cocos2d_x="-168.8" cocos2d_y="58.8" kX="0" kY="0" cX="5.63" cY="5.63" pX="-0.1" pY="0" z="6" dI="0" twE="0" dr="4"/>
+          <f x="-169.25" y="58.8" cocos2d_x="-169.25" cocos2d_y="58.8" kX="45" kY="45" cX="1.97" cY="1.97" pX="0" pY="0" z="6" dI="0" dr="1"/>
+          <f dr="82" dI="-1"/>
+        </b>
+        <b name="map_effect_31299_1121" sc="1" dl="0">
+          <f dr="8" dI="-1"/>
+          <f x="-159.4" y="-54" cocos2d_x="-159.4" cocos2d_y="-54" kX="-45" kY="-45" cX="1.21" cY="1.21" pX="0" pY="0" z="7" dI="0" twE="0" dr="4"/>
+          <f x="-159.4" y="-54" cocos2d_x="-159.2" cocos2d_y="-54" kX="0" kY="0" cX="4.51" cY="4.51" pX="-0.05" pY="0" z="7" dI="0" twE="0" dr="4"/>
+          <f x="-159.4" y="-54" cocos2d_x="-159.4" cocos2d_y="-54" kX="45" kY="45" cX="1.58" cY="1.58" pX="0" pY="0" z="7" dI="0" dr="1"/>
+          <f dr="83" dI="-1"/>
+        </b>
+        <b name="map_effect_31299_1120" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="-80.75" y="-43.25" cocos2d_x="-80.75" cocos2d_y="-43.25" kX="-45" kY="-45" cX="1.51" cY="1.51" pX="0" pY="0" z="6" dI="0" twE="0" dr="4"/>
+          <f x="-80.9" y="-43.25" cocos2d_x="-80.3" cocos2d_y="-43.25" kX="0" kY="0" cX="5.63" cY="5.63" pX="-0.1" pY="0" z="8" dI="0" twE="0" dr="4"/>
+          <f x="-80.75" y="-43.25" cocos2d_x="-80.75" cocos2d_y="-43.25" kX="45" kY="45" cX="1.97" cY="1.97" pX="0" pY="0" z="8" dI="0" dr="1"/>
+          <f dr="87" dI="-1"/>
+        </b>
+        <b name="map_effect_31299_1119" sc="1" dl="0">
+          <f dr="6" dI="-1"/>
+          <f x="-47.8" y="-142.35" cocos2d_x="-47.8" cocos2d_y="-142.35" kX="-45" kY="-45" cX="1.51" cY="1.51" pX="0" pY="0" z="9" dI="0" twE="0" dr="4"/>
+          <f x="-47.8" y="-142.35" cocos2d_x="-47.6" cocos2d_y="-142.35" kX="0" kY="0" cX="4.7" cY="4.7" pX="-0.05" pY="0" z="8" dI="0" twE="0" dr="4"/>
+          <f x="-47.8" y="-142.35" cocos2d_x="-47.8" cocos2d_y="-142.35" kX="45" kY="45" cX="1.97" cY="1.97" pX="0" pY="0" z="8" dI="0" dr="1"/>
+          <f dr="85" dI="-1"/>
+        </b>
+        <b name="map_effect_31299_1118" sc="1" dl="0">
+          <f dr="2" dI="-1"/>
+          <f x="-151.85" y="-313.4" cocos2d_x="-151.85" cocos2d_y="-313.4" kX="-45" kY="-45" cX="1.21" cY="1.21" pX="0" pY="0" z="7" dI="0" twE="0" dr="4"/>
+          <f x="-151.85" y="-313.4" cocos2d_x="-151.6" cocos2d_y="-313.4" kX="0" kY="0" cX="4.51" cY="4.51" pX="-0.05" pY="0" z="10" dI="0" twE="0" dr="4"/>
+          <f x="-151.85" y="-313.4" cocos2d_x="-151.85" cocos2d_y="-313.4" kX="45" kY="45" cX="1.58" cY="1.58" pX="0" pY="0" z="10" dI="0" dr="1"/>
+          <f dr="89" dI="-1"/>
+        </b>
+        <b name="map_effect_31299_1117" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="124.7" y="-233.85" cocos2d_x="124.7" cocos2d_y="-233.85" kX="-45" kY="-45" cX="1.66" cY="1.66" pX="0" pY="0" z="9" dI="0" twE="0" dr="4"/>
+          <f x="124.7" y="-233.85" cocos2d_x="125" cocos2d_y="-233.85" kX="0" kY="0" cX="6.2" cY="6.2" pX="-0.05" pY="0" z="10" dI="0" twE="0" dr="4"/>
+          <f x="124.7" y="-233.85" cocos2d_x="124.7" cocos2d_y="-233.85" kX="45" kY="45" cX="2.17" cY="2.17" pX="0" pY="0" z="10" dI="0" dr="1"/>
+          <f dr="87" dI="-1"/>
+        </b>
+        <b name="map_effect_31299_1116" sc="1" dl="0">
+          <f dr="3" dI="-1"/>
+          <f x="45.7" y="172.75" cocos2d_x="45.7" cocos2d_y="172.75" kX="-45" kY="-45" cX="1.21" cY="1.21" pX="0" pY="0" z="10" dI="0" twE="0" dr="4"/>
+          <f x="45.55" y="172.75" cocos2d_x="46.25" cocos2d_y="172.75" kX="0" kY="0" cX="4.51" cY="4.51" pX="-0.15" pY="0" z="12" dI="0" twE="0" dr="4"/>
+          <f x="45.7" y="172.75" cocos2d_x="45.7" cocos2d_y="172.75" kX="45" kY="45" cX="1.58" cY="1.58" pX="0" pY="0" z="11" dI="0" dr="1"/>
+          <f dr="88" dI="-1"/>
+        </b>
+        <b name="map_effect_31299_1115" sc="1" dl="0">
+          <f dr="2" dI="-1"/>
+          <f x="142.85" y="31.8" cocos2d_x="142.85" cocos2d_y="31.8" kX="-45" kY="-45" cX="1.51" cY="1.51" pX="0" pY="0" z="10" dI="0" twE="0" dr="4"/>
+          <f x="142.75" y="31.8" cocos2d_x="143.05" cocos2d_y="31.8" kX="0" kY="0" cX="5.63" cY="5.63" pX="-0.05" pY="0" z="13" dI="0" twE="0" dr="4"/>
+          <f x="142.85" y="31.8" cocos2d_x="142.85" cocos2d_y="31.8" kX="45" kY="45" cX="1.97" cY="1.97" pX="0" pY="0" z="13" dI="0" dr="1"/>
+          <f dr="89" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="map_effect_31299" width="512" height="512">
+    <SubTexture name="map_effect_31299_36" width="38" height="38" cocos2d_pX="18.6" cocos2d_pY="18.5" x="401" y="0"/>
+    <SubTexture name="map_effect_31299_4" width="145" height="187" cocos2d_pX="72.15" cocos2d_pY="93.3" x="254" y="0"/>
+    <SubTexture name="map_effect_31299_9" width="252" height="252" cocos2d_pX="126" cocos2d_pY="126" x="0" y="0"/>
+    <SubTexture name="map_effect_31299_6" width="284" height="160" cocos2d_pX="142" cocos2d_pY="80" x="0" y="254"/>
+  </TextureAtlas>
+</skeleton>

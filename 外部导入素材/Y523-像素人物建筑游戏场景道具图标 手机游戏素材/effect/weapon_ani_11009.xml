@@ -1,0 +1,30 @@
+<skeleton name="weapon_ani_11009" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="weapon_ani_11009">
+      <b name="weapon_ani_11009_1" x="0" y="-26.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="weapon_ani_11009_4" pX="43" pY="27"/>
+        <d name="weapon_ani_11009_3" pX="41" pY="25"/>
+        <d name="weapon_ani_11009_2" pX="40" pY="29"/>
+        <d name="weapon_ani_11009_1" pX="41" pY="27"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="weapon_ani_11009">
+      <mov name="effect" dr="8" to="0" drTW="8" lp="1" twE="NaN">
+        <b name="weapon_ani_11009_1" sc="1" dl="0">
+          <f x="0" y="-26.5" cocos2d_x="0" cocos2d_y="-26.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="4" y="-24.5" cocos2d_x="4" cocos2d_y="-24.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="1" y="-28.5" cocos2d_x="1" cocos2d_y="-28.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="-26.5" cocos2d_x="0" cocos2d_y="-26.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="weapon_ani_11009" width="256" height="128">
+    <SubTexture name="weapon_ani_11009_1" width="82" height="54" cocos2d_pX="41" cocos2d_pY="27" x="170" y="0"/>
+    <SubTexture name="weapon_ani_11009_2" width="80" height="58" cocos2d_pX="40" cocos2d_pY="29" x="88" y="0"/>
+    <SubTexture name="weapon_ani_11009_3" width="82" height="50" cocos2d_pX="41" cocos2d_pY="25" x="0" y="56"/>
+    <SubTexture name="weapon_ani_11009_4" width="86" height="54" cocos2d_pX="43" cocos2d_pY="27" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

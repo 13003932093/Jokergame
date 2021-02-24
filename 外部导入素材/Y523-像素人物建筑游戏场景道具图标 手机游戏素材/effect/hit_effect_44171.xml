@@ -1,0 +1,40 @@
+<skeleton name="hit_effect_44171" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="hit_effect_44171">
+   <b name="hit_effect_44171_1" x="0" y="-54" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="hit_effect_44171_9" pX="101.25" pY="73.25"/>
+    <d name="hit_effect_44171_10" pX="101.25" pY="73.25"/>
+    <d name="hit_effect_44171_11" pX="101.25" pY="73.25"/>
+    <d name="hit_effect_44171_12" pX="101.25" pY="73.25"/>
+    <d name="hit_effect_44171_13" pX="101.25" pY="73.25"/>
+    <d name="hit_effect_44171_14" pX="101.25" pY="73.25"/>
+    <d name="hit_effect_44171_15" pX="101.25" pY="73.25"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="hit_effect_44171">
+   <mov name="effect" dr="8" to="0" drTW="8" lp="0" twE="NaN">
+    <b name="hit_effect_44171_1" sc="1" dl="0">
+     <f x="0" y="-54" cocos2d_x="0" cocos2d_y="-54" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="0" y="-54" cocos2d_x="0" cocos2d_y="-54" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="0" y="-54" cocos2d_x="0" cocos2d_y="-54" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="0" y="-54" cocos2d_x="0" cocos2d_y="-54" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="0" y="-54" cocos2d_x="0" cocos2d_y="-54" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="0" y="-54" cocos2d_x="0" cocos2d_y="-54" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="5" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="0" y="-54" cocos2d_x="0" cocos2d_y="-54" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="6" twE="NaN" tweenFrame="0" dr="1"/>
+     <f dr="1" dI="-1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="hit_effect_44171" width="512" height="1024">
+  <SubTexture name="hit_effect_44171_15" width="203" height="147" cocos2d_pX="101.25" cocos2d_pY="73.25" x="205" y="298"/>
+  <SubTexture name="hit_effect_44171_14" width="203" height="147" cocos2d_pX="101.25" cocos2d_pY="73.25" x="0" y="149"/>
+  <SubTexture name="hit_effect_44171_13" width="203" height="147" cocos2d_pX="101.25" cocos2d_pY="73.25" x="0" y="447"/>
+  <SubTexture name="hit_effect_44171_12" width="203" height="147" cocos2d_pX="101.25" cocos2d_pY="73.25" x="0" y="0"/>
+  <SubTexture name="hit_effect_44171_11" width="203" height="147" cocos2d_pX="101.25" cocos2d_pY="73.25" x="205" y="0"/>
+  <SubTexture name="hit_effect_44171_10" width="203" height="147" cocos2d_pX="101.25" cocos2d_pY="73.25" x="205" y="149"/>
+  <SubTexture name="hit_effect_44171_9" width="203" height="147" cocos2d_pX="101.25" cocos2d_pY="73.25" x="0" y="298"/>
+ </TextureAtlas>
+</skeleton>

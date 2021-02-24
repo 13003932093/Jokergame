@@ -1,0 +1,37 @@
+<skeleton name="buildpos_skin_1_roof_1" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="buildpos_skin_1_roof_1">
+   <b name="buildpos_5001_0_3" x="-0.1" y="1.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-240" z="0">
+    <d name="buildpos_skin_1_roof_1_2" pX="444" pY="267.95"/>
+   </b>
+   <b name="buildpos_5001_0_1" x="-1.6" y="107.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="buildpos_skin_1_roof_1_3" pX="442.5" pY="134.5"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="buildpos_skin_1_roof_1">
+   <mov name="effect" dr="11" to="0" drTW="11" lp="0" twE="NaN">
+    <b name="buildpos_5001_0_3" sc="1" dl="0">
+     <f x="-0.1" y="1.05" cocos2d_x="-0.1" cocos2d_y="241.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-240" z="0" dI="0" dr="11"/>
+    </b>
+    <b name="buildpos_5001_0_1" sc="1" dl="0">
+     <f x="-1.6" y="107.6" cocos2d_x="-1.6" cocos2d_y="107.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="5"/>
+     <f x="-1.6" y="107.6" cocos2d_x="-1.6" cocos2d_y="107.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="5" dI="-1"/>
+    </b>
+   </mov>
+   <mov name="idle" dr="38" to="0" drTW="38" lp="0" twE="NaN">
+    <b name="buildpos_5001_0_3" sc="1" dl="0">
+     <f x="-0.1" y="1.05" cocos2d_x="-0.1" cocos2d_y="241.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-240" z="0" dI="0" dr="38"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="buildpos_skin_1_roof_1" width="1024" height="1024">
+  <SubTexture name="buildpos_skin_1_roof_1_3" width="885" height="269" cocos2d_pX="442.5" cocos2d_pY="134.5" x="0" y="271"/>
+  <SubTexture name="buildpos_skin_1_roof_1_2" width="885" height="269" cocos2d_pX="444" cocos2d_pY="267.95" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

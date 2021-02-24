@@ -1,0 +1,38 @@
+<skeleton name="path_18013" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="path_18013">
+   <b name="path_18013_3" x="-35.45" y="0" kX="0" kY="0" cX="0.26" cY="1.08" pX="0" pY="0" z="0">
+    <d name="path_18013_5" pX="151.25" pY="3"/>
+   </b>
+   <b name="path_18013_2" x="7.8" y="-0.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="path_18013_7" pX="33.5" pY="32.9"/>
+    <d name="path_18013_8" pX="37.4" pY="40.75"/>
+    <d name="path_18013_9" pX="38.6" pY="42.5"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="path_18013">
+   <mov name="fly" dr="4" to="0" drTW="4" lp="1" twE="NaN">
+    <b name="path_18013_3" sc="1" dl="0">
+     <f x="-35.45" y="0" cocos2d_x="-35.45" cocos2d_y="0" kX="0" kY="0" cX="0.26" cY="1.08" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-35.45" y="0" cocos2d_x="-35.45" cocos2d_y="0" kX="0" kY="0" cX="0.26" cY="0.7" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+    </b>
+   </mov>
+   <mov name="hit" dr="7" to="0" drTW="7" lp="0" twE="NaN">
+    <b name="path_18013_2" sc="1" dl="0">
+     <f x="7.8" y="-0.2" cocos2d_x="7.8" cocos2d_y="-0.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="8.9" y="-1.3" cocos2d_x="8.9" cocos2d_y="-1.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="11.4" y="-1.05" cocos2d_x="11.4" cocos2d_y="-1.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+     <f dr="1" dI="-1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="path_18013" width="512" height="128">
+  <SubTexture name="path_18013_9" width="78" height="85" cocos2d_pX="38.6" cocos2d_pY="42.5" x="305" y="0"/>
+  <SubTexture name="path_18013_8" width="75" height="82" cocos2d_pX="37.4" cocos2d_pY="40.75" x="385" y="0"/>
+  <SubTexture name="path_18013_7" width="67" height="66" cocos2d_pX="33.5" cocos2d_pY="32.9" x="0" y="8"/>
+  <SubTexture name="path_18013_5" width="303" height="6" cocos2d_pX="151.25" cocos2d_pY="3" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

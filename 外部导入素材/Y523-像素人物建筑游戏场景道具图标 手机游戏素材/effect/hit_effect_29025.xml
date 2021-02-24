@@ -1,0 +1,105 @@
+<skeleton name="hit_effect_29025" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="hit_effect_29025">
+      <b name="npc_ani_29025_11" x="3.5" y="-37.87" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="hit_effect_29025_2" pX="32.9" pY="42.7"/>
+      </b>
+      <b name="npc_ani_29025_10" x="3.5" y="-37.87" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="hit_effect_29025_3" pX="32.9" pY="42.7"/>
+      </b>
+      <b name="npc_ani_29025_9" x="3.5" y="-37.87" kX="0" kY="0" cX="1.24" cY="1.24" pX="0" pY="0" z="1">
+        <d name="hit_effect_29025_3" pX="32.9" pY="42.7"/>
+      </b>
+      <b name="npc_ani_29025_8" x="3.5" y="-37.87" kX="0" kY="0" cX="1.24" cY="1.24" pX="0" pY="0" z="3">
+        <d name="hit_effect_29025_3" pX="32.9" pY="42.7"/>
+      </b>
+      <b name="npc_ani_29025_7" x="3.5" y="-37.87" kX="0" kY="0" cX="1.24" cY="1.24" pX="0" pY="0" z="4">
+        <d name="hit_effect_29025_3" pX="32.9" pY="42.7"/>
+      </b>
+      <b name="npc_ani_29025_6" x="3.29" y="-69.79" kX="0" kY="0" cX="1.65" cY="1.65" pX="0" pY="0" z="4">
+        <d name="hit_effect_29025_1" pX="63.35" pY="64.75"/>
+      </b>
+      <b name="npc_ani_29025_5" x="3.29" y="-69.79" kX="0" kY="0" cX="1.65" cY="1.65" pX="0" pY="0" z="5">
+        <d name="hit_effect_29025_1" pX="63.35" pY="64.75"/>
+      </b>
+      <b name="npc_ani_29025_3" x="3.29" y="-69.79" kX="0" kY="0" cX="1.65" cY="1.65" pX="0" pY="0" z="5">
+        <d name="hit_effect_29025_1" pX="63.35" pY="64.75"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="hit_effect_29025">
+      <mov name="effect" dr="42" to="6" drTW="42" lp="0" twE="NaN">
+        <b name="npc_ani_29025_11" sc="1" dl="0">
+          <f dr="11" dI="-1"/>
+          <f x="3.5" y="-37.87" cocos2d_x="3.5" cocos2d_y="-37.87" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="8"/>
+          <f x="3.5" y="-37.87" cocos2d_x="3.5" cocos2d_y="-37.87" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="23"/>
+        </b>
+        <b name="npc_ani_29025_10" sc="1" dl="0">
+          <f dr="5" dI="-1"/>
+          <f x="3.5" y="-37.87" cocos2d_x="3.5" cocos2d_y="-37.87" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="6">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="3.5" y="-37.87" cocos2d_x="3.5" cocos2d_y="-37.87" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="8"/>
+          <f x="3.5" y="-37.87" cocos2d_x="3.5" cocos2d_y="-37.87" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="7"/>
+          <f x="3.5" y="-37.87" cocos2d_x="3.5" cocos2d_y="-37.87" kX="0" kY="0" cX="1.24" cY="1.24" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="15" dI="-1"/>
+        </b>
+        <b name="npc_ani_29025_9" sc="1" dl="0">
+          <f dr="3" dI="-1"/>
+          <f x="3.5" y="-37.87" cocos2d_x="3.5" cocos2d_y="-37.87" kX="0" kY="0" cX="1.24" cY="1.24" pX="0" pY="0" z="1" dI="0" twE="0" dr="8">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="3.5" y="-37.87" cocos2d_x="3.5" cocos2d_y="-37.87" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="8"/>
+          <f dr="23" dI="-1"/>
+        </b>
+        <b name="npc_ani_29025_8" sc="1" dl="0">
+          <f dr="5" dI="-1"/>
+          <f x="3.5" y="-37.87" cocos2d_x="3.5" cocos2d_y="-37.87" kX="0" kY="0" cX="1.24" cY="1.24" pX="0" pY="0" z="3" dI="0" twE="0" dr="8">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="3.5" y="-37.87" cocos2d_x="3.5" cocos2d_y="-37.87" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="6"/>
+          <f dr="23" dI="-1"/>
+        </b>
+        <b name="npc_ani_29025_7" sc="1" dl="0">
+          <f dr="8" dI="-1"/>
+          <f x="3.5" y="-37.87" cocos2d_x="3.5" cocos2d_y="-37.87" kX="0" kY="0" cX="1.24" cY="1.24" pX="0" pY="0" z="4" dI="0" twE="0" dr="8">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="3.5" y="-37.87" cocos2d_x="3.5" cocos2d_y="-37.87" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="3"/>
+          <f dr="23" dI="-1"/>
+        </b>
+        <b name="npc_ani_29025_6" sc="1" dl="0">
+          <f x="3.29" y="-69.79" cocos2d_x="3.29" cocos2d_y="-69.79" kX="0" kY="0" cX="1.65" cY="1.65" pX="0" pY="0" z="4" dI="0" twE="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="3.29" y="-69.79" cocos2d_x="3.29" cocos2d_y="-69.79" kX="0" kY="0" cX="0.17" cY="0.17" pX="0" pY="0" z="4" dI="0" dr="1"/>
+          <f dr="32" dI="-1"/>
+        </b>
+        <b name="npc_ani_29025_5" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="3.29" y="-69.79" cocos2d_x="3.29" cocos2d_y="-69.79" kX="0" kY="0" cX="1.65" cY="1.65" pX="0" pY="0" z="5" dI="0" twE="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="3.29" y="-69.79" cocos2d_x="3.29" cocos2d_y="-69.79" kX="0" kY="0" cX="0.17" cY="0.17" pX="0" pY="0" z="5" dI="0" dr="1"/>
+          <f dr="28" dI="-1"/>
+        </b>
+        <b name="npc_ani_29025_3" sc="1" dl="0">
+          <f dr="8" dI="-1"/>
+          <f x="3.29" y="-69.79" cocos2d_x="3.29" cocos2d_y="-69.79" kX="0" kY="0" cX="1.65" cY="1.65" pX="0" pY="0" z="5" dI="0" twE="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="3.29" y="-69.79" cocos2d_x="3.29" cocos2d_y="-69.79" kX="0" kY="0" cX="0.17" cY="0.17" pX="0" pY="0" z="5" dI="0" dr="1"/>
+          <f dr="24" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="hit_effect_29025" width="256" height="256">
+    <SubTexture name="hit_effect_29025_1" width="132" height="132" cocos2d_pX="63.35" cocos2d_pY="64.75" x="0" y="0"/>
+    <SubTexture name="hit_effect_29025_3" width="66" height="86" cocos2d_pX="32.9" cocos2d_pY="42.7" x="134" y="88"/>
+    <SubTexture name="hit_effect_29025_2" width="66" height="86" cocos2d_pX="32.9" cocos2d_pY="42.7" x="134" y="0"/>
+  </TextureAtlas>
+</skeleton>

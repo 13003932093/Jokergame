@@ -1,0 +1,25 @@
+<skeleton name="get_ctb_treasure_box_effect" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="get_ctb_treasure_box_effect">
+      <b name="图层 1" x="0.15" y="-0.55" kX="0" kY="0" cX="3.25" cY="3.25" pX="0" pY="0" z="0">
+        <d name="get_ctb_treasure_box_effect_s_kkiku" pX="33.65" pY="29.1"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="get_ctb_treasure_box_effect">
+      <mov name="show" dr="7" to="6" drTW="7" lp="0" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.15" y="-0.55" cocos2d_x="0.15" cocos2d_y="-0.55" kX="0" kY="0" cX="3.25" cY="3.25" pX="0" pY="0" z="0" dI="0" twE="1" dr="5"/>
+          <f x="0.15" y="-0.55" cocos2d_x="0.15" cocos2d_y="-0.55" kX="0" kY="0" cX="4.48" cY="4.48" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="1" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="get_ctb_treasure_box_effect" width="128" height="64">
+    <SubTexture name="get_ctb_treasure_box_effect_s_kkiku" width="70" height="62" cocos2d_pX="33.65" cocos2d_pY="29.1" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

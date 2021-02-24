@@ -1,0 +1,70 @@
+<skeleton name="arrow" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="arrow">
+      <b name="arrow_2" x="-7" y="-1" kX="0" kY="0" cX="0.31" cY="0.31" pX="0" pY="-48" z="0">
+        <d name="arrow_9" pX="64" pY="96"/>
+        <d name="arrow_10" pX="64" pY="96"/>
+        <d name="arrow_11" pX="64" pY="96"/>
+        <d name="arrow_12" pX="64" pY="96"/>
+        <d name="arrow_13" pX="64" pY="96"/>
+        <d name="arrow_14" pX="64" pY="96"/>
+      </b>
+      <b name="event" x="0.5" y="-4.55" kX="0" kY="0" cX="0.3" cY="1.63" pX="0" pY="-3.1" z="1">
+        <d name="arrow_8" pX="16.65" pY="6.15"/>
+      </b>
+      <b name="arrow_1" x="0.35" y="-0.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-3.1" z="0">
+        <d name="arrow_7" pX="16.65" pY="6.15"/>
+        <d name="arrow_8" pX="16.65" pY="6.15"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="arrow">
+      <mov name="hit" dr="6" to="0" drTW="6" lp="0" twE="NaN">
+        <b name="arrow_2" sc="1" dl="0">
+          <f x="-7" y="-1" cocos2d_x="-7" cocos2d_y="14" kX="0" kY="0" cX="0.31" cY="0.31" pX="0" pY="-48" z="0" dI="0" dr="1"/>
+          <f x="-7" y="-1" cocos2d_x="-7" cocos2d_y="14" kX="0" kY="0" cX="0.31" cY="0.31" pX="0" pY="-48" z="0" dI="1" dr="1"/>
+          <f x="-7" y="-1" cocos2d_x="-7" cocos2d_y="14" kX="0" kY="0" cX="0.31" cY="0.31" pX="0" pY="-48" z="0" dI="2" dr="1"/>
+          <f x="-7" y="-1" cocos2d_x="-7" cocos2d_y="14" kX="0" kY="0" cX="0.31" cY="0.31" pX="0" pY="-48" z="0" dI="3" dr="1"/>
+          <f x="-7" y="-1" cocos2d_x="-7" cocos2d_y="14" kX="0" kY="0" cX="0.31" cY="0.31" pX="0" pY="-48" z="0" dI="4" dr="1"/>
+          <f x="-7" y="-1" cocos2d_x="-7" cocos2d_y="14" kX="0" kY="0" cX="0.31" cY="0.31" pX="0" pY="-48" z="0" dI="5" dr="1"/>
+        </b>
+        <b name="event" sc="1" dl="0">
+          <f x="0.5" y="-4.55" cocos2d_x="0.5" cocos2d_y="0.5" kX="0" kY="0" cX="0.3" cY="1.63" pX="0" pY="-3.1" z="1" dI="0" evt="damage" dr="6">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+      <mov name="fly" dr="2" to="0" drTW="10" lp="1" twE="2">
+        <b name="arrow_1" sc="1" dl="0">
+          <f x="0.35" y="-0.25" cocos2d_x="0.35" cocos2d_y="2.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-3.1" z="0" dI="0" dr="2"/>
+        </b>
+        <b name="event" sc="1" dl="0">
+          <f x="0.5" y="-4.55" cocos2d_x="0.5" cocos2d_y="0.5" kX="0" kY="0" cX="0.3" cY="1.63" pX="0" pY="-3.1" z="1" dI="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+      <mov name="dead" dr="2" to="0" drTW="10" lp="0" twE="2">
+        <b name="arrow_1" sc="1" dl="0">
+          <f x="0.35" y="-0.25" cocos2d_x="0.35" cocos2d_y="2.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-3.1" z="0" dI="1" dr="2"/>
+        </b>
+        <b name="event" sc="1" dl="0">
+          <f x="0.5" y="-4.55" cocos2d_x="0.5" cocos2d_y="0.5" kX="0" kY="0" cX="0.3" cY="1.63" pX="0" pY="-3.1" z="1" dI="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="arrow" width="512" height="256">
+    <SubTexture name="arrow_7" width="34" height="7" cocos2d_pX="16.65" cocos2d_pY="6.15" x="390" y="0"/>
+    <SubTexture name="arrow_8" width="34" height="7" cocos2d_pX="16.65" cocos2d_pY="6.15" x="426" y="0"/>
+    <SubTexture name="arrow_14" width="128" height="96" cocos2d_pX="64" cocos2d_pY="96" x="130" y="98"/>
+    <SubTexture name="arrow_13" width="128" height="96" cocos2d_pX="64" cocos2d_pY="96" x="130" y="0"/>
+    <SubTexture name="arrow_12" width="128" height="96" cocos2d_pX="64" cocos2d_pY="96" x="0" y="0"/>
+    <SubTexture name="arrow_11" width="128" height="96" cocos2d_pX="64" cocos2d_pY="96" x="0" y="98"/>
+    <SubTexture name="arrow_10" width="128" height="96" cocos2d_pX="64" cocos2d_pY="96" x="260" y="98"/>
+    <SubTexture name="arrow_9" width="128" height="96" cocos2d_pX="64" cocos2d_pY="96" x="260" y="0"/>
+  </TextureAtlas>
+</skeleton>

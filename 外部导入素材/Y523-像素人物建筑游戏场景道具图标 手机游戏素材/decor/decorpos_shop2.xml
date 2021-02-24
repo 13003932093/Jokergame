@@ -1,0 +1,27 @@
+<skeleton name="decorpos_shop2" frameRate="23" version="2.2">
+  <armatures>
+    <armature name="decorpos_shop2">
+      <b name="decorpos_shop2_1" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="decorpos_shop2_2" pX="40.5" pY="50.2"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="decorpos_shop2">
+      <mov name="st1" dr="44" to="0" drTW="44" lp="0" twE="NaN">
+        <b name="decorpos_shop2_1" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="43"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+      <mov name="idle" dr="118" to="0" drTW="118" lp="1" twE="NaN">
+        <b name="decorpos_shop2_1" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="118"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="decorpos_shop2" width="128" height="128">
+    <SubTexture name="decorpos_shop2_2" width="89" height="123" cocos2d_pX="40.5" cocos2d_pY="50.2" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

@@ -1,0 +1,161 @@
+<skeleton name="hit_effect_41376" frameRate="12" version="2.2">
+  <armatures>
+    <armature name="hit_effect_41376">
+      <b name="hit_effect_41376_11" x="-5.9" y="2.3" kX="-90" kY="90" cX="0.4" cY="0.97" pX="0" pY="0" z="0">
+        <d name="hit_effect_41376_8" pX="137.6" pY="137.6"/>
+      </b>
+      <b name="hit_effect_41376_10" x="-5.2" y="-72.6" kX="0" kY="0" cX="1.28" cY="1.28" pX="0" pY="0" z="1">
+        <d name="hit_effect_41376_2" pX="108" pY="100.4"/>
+      </b>
+      <b name="hit_effect_41376_9" x="-3.3" y="-138.4" kX="0" kY="0" cX="0.89" cY="1" pX="0" pY="0" z="2">
+        <d name="hit_effect_41376_5" pX="119.2" pY="197.1"/>
+      </b>
+      <b name="hit_effect_41376_8" x="-2.4" y="-137.4" kX="0" kY="0" cX="1.41" cY="2.32" pX="0" pY="0" z="3">
+        <d name="hit_effect_41376_2" pX="108" pY="100.4"/>
+      </b>
+      <b name="hit_effect_41376_7" x="43.2" y="-15.3" kX="0" kY="0" cX="1" cY="0.51" pX="0" pY="-0.2" z="4">
+        <d name="hit_effect_41376_10" pX="3.8" pY="79.9"/>
+      </b>
+      <b name="hit_effect_41376_6" x="-92.8" y="-29.3" kX="0" kY="0" cX="1" cY="0.66" pX="0" pY="-0.1" z="5">
+        <d name="hit_effect_41376_10" pX="3.8" pY="79.9"/>
+      </b>
+      <b name="hit_effect_41376_5" x="-44.8" y="-15.3" kX="0" kY="0" cX="1" cY="0.51" pX="0" pY="-0.2" z="6">
+        <d name="hit_effect_41376_10" pX="3.8" pY="79.9"/>
+      </b>
+      <b name="hit_effect_41376_4" x="3.2" y="-29.3" kX="0" kY="0" cX="1" cY="0.66" pX="0" pY="-0.1" z="7">
+        <d name="hit_effect_41376_10" pX="3.8" pY="79.9"/>
+      </b>
+      <b name="hit_effect_41376_3" x="93.2" y="-29.3" kX="0" kY="0" cX="1" cY="0.66" pX="0" pY="-0.1" z="5">
+        <d name="hit_effect_41376_10" pX="3.8" pY="79.9"/>
+      </b>
+      <b name="hit_effect_41376_2" x="-11.3" y="-74.5" kX="89.84" kY="89.84" cX="0.78" cY="0.78" pX="0" pY="0" z="7">
+        <d name="hit_effect_41376_3" pX="130.6" pY="141.4"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="hit_effect_41376">
+      <mov name="effect" dr="23" to="0" drTW="23" lp="0" twE="NaN">
+        <b name="hit_effect_41376_11" sc="1" dl="0">
+          <f x="-5.9" y="2.3" cocos2d_x="-5.9" cocos2d_y="2.3" kX="-90" kY="90" cX="0.4" cY="0.97" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="-6.2" y="2.8" cocos2d_x="-6.2" cocos2d_y="2.8" kX="-76.65" kY="144.25" cX="0.71" cY="1.03" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="-6.6" y="3.3" cocos2d_x="-6.6" cocos2d_y="3.3" kX="-54.25" kY="166.65" cX="1.18" cY="0.81" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="-6.9" y="3.6" cocos2d_x="-6.9" cocos2d_y="3.6" kX="0" kY="180" cX="1.49" cY="0.62" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="-6.9" y="3.9" cocos2d_x="-6.9" cocos2d_y="3.9" kX="54.25" kY="-166.65" cX="1.46" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="-6.7" y="3.9" cocos2d_x="-6.7" cocos2d_y="3.9" kX="76.65" kY="-144.25" cX="1.09" cY="1.58" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="-6.1" y="4.2" cocos2d_x="-6.1" cocos2d_y="4.2" kX="90" kY="-90" cX="0.78" cY="1.9" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="-5.6" y="4.6" cocos2d_x="-5.6" cocos2d_y="4.6" kX="103.35" kY="-35.75" cX="1.23" cY="1.79" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="90" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5" y="4.9" cocos2d_x="-5" cocos2d_y="4.9" kX="125.75" kY="-13.35" cX="1.87" cY="1.29" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="80" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-4.6" y="5.4" cocos2d_x="-4.6" cocos2d_y="5.4" kX="180" kY="0" cX="2.19" cY="0.9" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-4.7" y="5.9" cocos2d_x="-4.7" cocos2d_y="5.9" kX="-125.75" kY="13.35" cX="2.01" cY="1.38" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5" y="6.3" cocos2d_x="-5" cocos2d_y="6.3" kX="-103.35" kY="35.75" cX="1.42" cY="2.06" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.8" y="6.5" cocos2d_x="-5.8" cocos2d_y="6.5" kX="-90" kY="90" cX="0.98" cY="2.36" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="40" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-6.5" y="6.6" cocos2d_x="-6.5" cocos2d_y="6.6" kX="-76.65" kY="144.25" cX="1.47" cY="2.13" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="30" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-7.1" y="6.5" cocos2d_x="-7.1" cocos2d_y="6.5" kX="-54.25" kY="166.65" cX="2.15" cY="1.48" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="20" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.1" y="6.6" cocos2d_x="-5.1" cocos2d_y="6.6" kX="-103.35" kY="35.75" cX="1.48" cY="2.15" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="10" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="7" dI="-1"/>
+        </b>
+        <b name="hit_effect_41376_10" sc="1" dl="0">
+          <f x="-5.2" y="-72.6" cocos2d_x="-5.2" cocos2d_y="-72.6" kX="0" kY="0" cX="1.28" cY="1.28" pX="0" pY="0" z="1" dI="0" twE="0" dr="9"/>
+          <f x="-5.2" y="-126.7" cocos2d_x="-5.2" cocos2d_y="-126.7" kX="0" kY="0" cX="2.34" cY="2.34" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="13" dI="-1"/>
+        </b>
+        <b name="hit_effect_41376_9" sc="1" dl="0">
+          <f x="-3.3" y="-138.4" cocos2d_x="-3.3" cocos2d_y="-138.4" kX="0" kY="0" cX="0.89" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="4"/>
+          <f x="-3.3" y="-272.9" cocos2d_x="-3.3" cocos2d_y="-272.9" kX="0" kY="0" cX="1.24" cY="1.71" pX="0" pY="0" z="1" dI="0" twE="0" dr="10"/>
+          <f x="-3.3" y="-394.3" cocos2d_x="-3.3" cocos2d_y="-394.3" kX="0" kY="0" cX="0.95" cY="2.36" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="8" dI="-1"/>
+        </b>
+        <b name="hit_effect_41376_8" sc="1" dl="0">
+          <f x="-2.4" y="-137.4" cocos2d_x="-2.4" cocos2d_y="-137.4" kX="0" kY="0" cX="1.41" cY="2.32" pX="0" pY="0" z="3" dI="0" twE="0" dr="5"/>
+          <f x="-2.4" y="-303.7" cocos2d_x="-2.4" cocos2d_y="-303.7" kX="0" kY="0" cX="0.68" cY="3.98" pX="0" pY="0" z="1" dI="0" twE="0" dr="11"/>
+          <f x="-2.4" y="-418.7" cocos2d_x="-2.4" cocos2d_y="-418.7" kX="0" kY="0" cX="0.39" cY="5.12" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="6" dI="-1"/>
+        </b>
+        <b name="hit_effect_41376_7" sc="1" dl="0">
+          <f x="43.2" y="-15.3" cocos2d_x="43.2" cocos2d_y="-15.2" kX="0" kY="0" cX="1" cY="0.51" pX="0" pY="-0.2" z="4" dI="0" twE="0" dr="4"/>
+          <f x="43.2" y="-67.9" cocos2d_x="43.2" cocos2d_y="-67.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.1" z="4" dI="0" twE="0" dr="6"/>
+          <f x="43.2" y="-128" cocos2d_x="43.2" cocos2d_y="-127.9" kX="0" kY="0" cX="1" cY="0.55" pX="0" pY="-0.1" z="3" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="12" dI="-1"/>
+        </b>
+        <b name="hit_effect_41376_6" sc="1" dl="0">
+          <f dr="2" dI="-1"/>
+          <f x="-92.8" y="-29.3" cocos2d_x="-92.8" cocos2d_y="-29.2" kX="0" kY="0" cX="1" cY="0.66" pX="0" pY="-0.1" z="5" dI="0" twE="0" dr="4"/>
+          <f x="-92.8" y="-97.3" cocos2d_x="-92.8" cocos2d_y="-97.2" kX="0" kY="0" cX="1" cY="1.29" pX="0" pY="-0.1" z="3" dI="0" twE="0" dr="6"/>
+          <f x="-92.8" y="-175.1" cocos2d_x="-92.8" cocos2d_y="-175" kX="0" kY="0" cX="1" cY="0.71" pX="0" pY="-0.2" z="3" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="10" dI="-1"/>
+        </b>
+        <b name="hit_effect_41376_5" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="-44.8" y="-15.3" cocos2d_x="-44.8" cocos2d_y="-15.2" kX="0" kY="0" cX="1" cY="0.51" pX="0" pY="-0.2" z="6" dI="0" twE="0" dr="4"/>
+          <f x="-44.8" y="-67.9" cocos2d_x="-44.8" cocos2d_y="-67.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.1" z="3" dI="0" twE="0" dr="6"/>
+          <f x="-44.8" y="-128" cocos2d_x="-44.8" cocos2d_y="-127.9" kX="0" kY="0" cX="1" cY="0.55" pX="0" pY="-0.1" z="3" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="8" dI="-1"/>
+        </b>
+        <b name="hit_effect_41376_4" sc="1" dl="0">
+          <f dr="6" dI="-1"/>
+          <f x="3.2" y="-29.3" cocos2d_x="3.2" cocos2d_y="-29.2" kX="0" kY="0" cX="1" cY="0.66" pX="0" pY="-0.1" z="7" dI="0" twE="0" dr="4"/>
+          <f x="3.2" y="-97.3" cocos2d_x="3.2" cocos2d_y="-97.2" kX="0" kY="0" cX="1" cY="1.29" pX="0" pY="-0.1" z="2" dI="0" twE="0" dr="6"/>
+          <f x="3.2" y="-175.1" cocos2d_x="3.2" cocos2d_y="-175" kX="0" kY="0" cX="1" cY="0.71" pX="0" pY="-0.2" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="6" dI="-1"/>
+        </b>
+        <b name="hit_effect_41376_3" sc="1" dl="0">
+          <f dr="10" dI="-1"/>
+          <f x="93.2" y="-29.3" cocos2d_x="93.2" cocos2d_y="-29.2" kX="0" kY="0" cX="1" cY="0.66" pX="0" pY="-0.1" z="5" dI="0" twE="0" dr="4"/>
+          <f x="93.2" y="-97.3" cocos2d_x="93.2" cocos2d_y="-97.2" kX="0" kY="0" cX="1" cY="1.29" pX="0" pY="-0.1" z="0" dI="0" twE="0" dr="6"/>
+          <f x="93.2" y="-175.1" cocos2d_x="93.2" cocos2d_y="-175" kX="0" kY="0" cX="1" cY="0.71" pX="0" pY="-0.2" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="2" dI="-1"/>
+        </b>
+        <b name="hit_effect_41376_2" sc="1" dl="0">
+          <f x="-11.3" y="-74.5" cocos2d_x="-11.3" cocos2d_y="-74.5" kX="89.84" kY="89.84" cX="0.78" cY="0.78" pX="0" pY="0" z="7" dI="0" twE="0" dr="5"/>
+          <f x="-11.3" y="-74.5" cocos2d_x="-11.3" cocos2d_y="-74.5" kX="104.78" kY="104.78" cX="1.03" cY="1.03" pX="0" pY="0" z="6" dI="0" twE="0" dr="10"/>
+          <f x="-11.3" y="-74.5" cocos2d_x="-11.3" cocos2d_y="-74.5" kX="134.84" kY="134.84" cX="1.52" cY="1.52" pX="0" pY="0" z="4" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="7" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="hit_effect_41376" width="1024" height="512">
+    <SubTexture name="hit_effect_41376_3" width="262" height="268" cocos2d_pX="130.6" cocos2d_pY="141.4" x="524" y="0"/>
+    <SubTexture name="hit_effect_41376_10" width="8" height="160" cocos2d_pX="3.8" cocos2d_pY="79.9" x="1006" y="0"/>
+    <SubTexture name="hit_effect_41376_5" width="244" height="400" cocos2d_pX="119.2" cocos2d_pY="197.1" x="0" y="0"/>
+    <SubTexture name="hit_effect_41376_2" width="216" height="202" cocos2d_pX="108" cocos2d_pY="100.4" x="788" y="0"/>
+    <SubTexture name="hit_effect_41376_8" width="276" height="276" cocos2d_pX="137.6" cocos2d_pY="137.6" x="246" y="0"/>
+  </TextureAtlas>
+</skeleton>

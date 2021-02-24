@@ -1,0 +1,32 @@
+<skeleton name="guide_finger" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="guide_finger">
+      <b name="guide_finger_2" x="-0.55" y="0.45" kX="0" kY="0" cX="1" cY="1" pX="-1.05" pY="0.25" z="0">
+        <d name="guide_finger_2" pX="62" pY="64"/>
+      </b>
+      <b name="guide_finger_1" x="69.8" y="62.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="guide_finger_4" pX="53" pY="54"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="guide_finger">
+      <mov name="effect" dr="29" to="0" drTW="29" lp="1" twE="NaN">
+        <b name="guide_finger_2" sc="1" dl="0">
+          <f x="-0.55" y="0.45" cocos2d_x="0.5" cocos2d_y="0.2" kX="0" kY="0" cX="1" cY="1" pX="-1.05" pY="0.25" z="0" dI="0" twE="0" dr="14"/>
+          <f x="-0.55" y="0.45" cocos2d_x="0.7" cocos2d_y="0.2" kX="0" kY="0" cX="1.17" cY="1.17" pX="-1.05" pY="0.25" z="0" dI="0" twE="0" dr="14"/>
+          <f x="-0.55" y="0.45" cocos2d_x="0.5" cocos2d_y="0.2" kX="0" kY="0" cX="1" cY="1" pX="-1.05" pY="0.25" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="guide_finger_1" sc="1" dl="0">
+          <f x="69.8" y="62.95" cocos2d_x="69.8" cocos2d_y="62.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="14"/>
+          <f x="35.1" y="37.25" cocos2d_x="35.1" cocos2d_y="37.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="14"/>
+          <f x="69.8" y="62.95" cocos2d_x="69.8" cocos2d_y="62.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="guide_finger" width="256" height="256">
+    <SubTexture name="guide_finger_4" width="106" height="108" cocos2d_pX="53" cocos2d_pY="54" x="129" y="0"/>
+    <SubTexture name="guide_finger_2" width="127" height="132" cocos2d_pX="62" cocos2d_pY="64" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

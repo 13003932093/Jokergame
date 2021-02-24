@@ -1,0 +1,94 @@
+<skeleton name="path_18019" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="path_18019">
+      <b name="path_18019_5" x="0" y="0" kX="0" kY="0" cX="0.57" cY="0.57" pX="0" pY="0" z="0">
+        <d name="path_18019_2" pX="27.5" pY="27.5"/>
+      </b>
+      <b name="path_18019_4" x="-0.8" y="-4.2" kX="0" kY="0" cX="0.53" cY="0.53" pX="0" pY="0" z="0">
+        <d name="path_18019_8" pX="26.2" pY="25.7"/>
+      </b>
+      <b name="path_18019_3" x="-0.6" y="-3.8" kX="0" kY="0" cX="0.53" cY="0.53" pX="0" pY="0" z="1">
+        <d name="path_18019_7" pX="27.25" pY="27.3"/>
+      </b>
+      <b name="path_18019_2" x="-0.75" y="-4.35" kX="0" kY="0" cX="0.53" cY="0.53" pX="0" pY="0" z="2">
+        <d name="path_18019_3" pX="36" pY="30.5"/>
+        <d name="path_18019_4" pX="46.5" pY="36.5"/>
+        <d name="path_18019_5" pX="49.5" pY="43"/>
+        <d name="path_18019_6" pX="53.5" pY="43"/>
+      </b>
+      <b name="path_18019_1" x="-0.55" y="-6.15" kX="18.98" kY="-161.02" cX="0.64" cY="0.64" pX="0" pY="0" z="3">
+        <d name="path_18019_3" pX="36" pY="30.5"/>
+        <d name="path_18019_4" pX="46.5" pY="36.5"/>
+        <d name="path_18019_5" pX="49.5" pY="43"/>
+        <d name="path_18019_6" pX="53.5" pY="43"/>
+      </b>
+      <b name="event" x="0.5" y="0.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4">
+        <d name="path_18019_0" pX="0.5" pY="0.5"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="path_18019">
+      <mov name="fly" dr="5" to="0" drTW="5" lp="1" twE="NaN">
+        <b name="path_18019_5" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.57" cY="0.57" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.5" cY="0.5" pX="0" pY="0" z="0" dI="0" twE="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="72" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.57" cY="0.57" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+      <mov name="hit" dr="9" to="0" drTW="9" lp="0" twE="NaN">
+        <b name="path_18019_4" sc="1" dl="0">
+          <f x="-0.8" y="-4.2" cocos2d_x="-0.8" cocos2d_y="-4.2" kX="0" kY="0" cX="0.53" cY="0.53" pX="0" pY="0" z="0" dI="0" dr="2"/>
+          <f x="-0.8" y="-4.2" cocos2d_x="-0.8" cocos2d_y="-4.2" kX="0" kY="0" cX="0.84" cY="0.84" pX="0" pY="0" z="0" dI="0" dr="2"/>
+          <f x="-0.8" y="-4.2" cocos2d_x="-0.8" cocos2d_y="-4.2" kX="0" kY="0" cX="1.04" cY="1.04" pX="0" pY="0" z="0" dI="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="55" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.8" y="-4.2" cocos2d_x="-0.8" cocos2d_y="-4.2" kX="0" kY="0" cX="1.23" cY="1.23" pX="0" pY="0" z="0" dI="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="22" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="1" dI="-1"/>
+        </b>
+        <b name="path_18019_3" sc="1" dl="0">
+          <f x="-0.6" y="-3.8" cocos2d_x="-0.6" cocos2d_y="-3.8" kX="0" kY="0" cX="0.53" cY="0.53" pX="0" pY="0" z="1" dI="0" dr="2"/>
+          <f x="-0.6" y="-3.8" cocos2d_x="-0.6" cocos2d_y="-3.8" kX="0" kY="0" cX="0.71" cY="0.71" pX="0" pY="0" z="1" dI="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="74" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.6" y="-3.8" cocos2d_x="-0.6" cocos2d_y="-3.8" kX="0" kY="0" cX="0.85" cY="0.85" pX="0" pY="0" z="1" dI="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="22" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="3" dI="-1"/>
+        </b>
+        <b name="path_18019_2" sc="1" dl="0">
+          <f x="-0.75" y="-4.35" cocos2d_x="-0.75" cocos2d_y="-4.35" kX="0" kY="0" cX="0.53" cY="0.53" pX="0" pY="0" z="2" dI="0" dr="2"/>
+          <f x="0.65" y="-6.25" cocos2d_x="0.65" cocos2d_y="-6.25" kX="0" kY="0" cX="0.53" cY="0.53" pX="0" pY="0" z="2" dI="1" dr="2"/>
+          <f x="1.5" y="-7.45" cocos2d_x="1.5" cocos2d_y="-7.45" kX="0" kY="0" cX="0.53" cY="0.53" pX="0" pY="0" z="2" dI="2" dr="2"/>
+          <f x="1.5" y="-6.9" cocos2d_x="1.5" cocos2d_y="-6.9" kX="0" kY="0" cX="0.53" cY="0.53" pX="0" pY="0" z="1" dI="3" dr="2"/>
+          <f dr="1" dI="-1"/>
+        </b>
+        <b name="path_18019_1" sc="1" dl="0">
+          <f x="-0.55" y="-6.15" cocos2d_x="-0.55" cocos2d_y="-6.15" kX="18.98" kY="-161.02" cX="0.64" cY="0.64" pX="0" pY="0" z="3" dI="0" dr="2"/>
+          <f x="-1.35" y="-8.95" cocos2d_x="-1.35" cocos2d_y="-8.95" kX="18.98" kY="-161.02" cX="0.64" cY="0.64" pX="0" pY="0" z="3" dI="1" dr="2"/>
+          <f x="-1.85" y="-10.55" cocos2d_x="-1.85" cocos2d_y="-10.55" kX="18.98" kY="-161.02" cX="0.64" cY="0.64" pX="0" pY="0" z="3" dI="2" dr="2"/>
+          <f x="-2.05" y="-9.95" cocos2d_x="-2.05" cocos2d_y="-9.95" kX="18.98" kY="-161.02" cX="0.64" cY="0.64" pX="0" pY="0" z="2" dI="3" dr="2"/>
+          <f dr="1" dI="-1"/>
+        </b>
+        <b name="event" sc="1" dl="0">
+          <f x="0.5" y="0.55" cocos2d_x="0.5" cocos2d_y="0.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" evt="damage" dr="1"/>
+          <f dr="8" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="path_18019" width="256" height="256">
+    <SubTexture name="path_18019_0" width="1" height="1" cocos2d_pX="0.5" cocos2d_pY="0.5" x="216" y="0"/>
+    <SubTexture name="path_18019_6" width="110" height="90" cocos2d_pX="53.5" cocos2d_pY="43" x="0" y="0"/>
+    <SubTexture name="path_18019_5" width="102" height="90" cocos2d_pX="49.5" cocos2d_pY="43" x="112" y="0"/>
+    <SubTexture name="path_18019_4" width="96" height="76" cocos2d_pX="46.5" cocos2d_pY="36.5" x="0" y="92"/>
+    <SubTexture name="path_18019_3" width="76" height="64" cocos2d_pX="36" cocos2d_pY="30.5" x="98" y="92"/>
+    <SubTexture name="path_18019_7" width="54" height="54" cocos2d_pX="27.25" cocos2d_pY="27.3" x="98" y="158"/>
+    <SubTexture name="path_18019_8" width="54" height="54" cocos2d_pX="26.2" cocos2d_pY="25.7" x="176" y="92"/>
+    <SubTexture name="path_18019_2" width="54" height="54" cocos2d_pX="27.5" cocos2d_pY="27.5" x="176" y="148"/>
+  </TextureAtlas>
+</skeleton>

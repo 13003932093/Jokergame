@@ -1,0 +1,37 @@
+<skeleton name="pve_stage_halo" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="pve_stage_halo">
+   <b name="图层 2" x="0.2" y="-0.1" kX="0" kY="0" cX="1.73" cY="1.06" pX="0" pY="0" z="0">
+    <d name="pve_stage_halo_s_1" pX="34.9" pY="34.9"/>
+   </b>
+   <b name="图层 1" x="0.8" y="-0.1" kX="0" kY="0" cX="0.48" cY="0.3" pX="0" pY="0" z="0">
+    <d name="pve_stage_halo_s_1" pX="34.9" pY="34.9"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="pve_stage_halo">
+   <mov name="effect" dr="19" to="6" drTW="19" lp="1" twE="NaN">
+    <b name="图层 2" sc="1" dl="0">
+     <f x="0.2" y="-0.1" cocos2d_x="0.2" cocos2d_y="-0.1" kX="0" kY="0" cX="1.73" cY="1.06" pX="0" pY="0" z="0" dI="0" twE="0" dr="14">
+      <colorTransform a="0" r="0" g="0" b="0" aM="94" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-0.5" y="0.05" cocos2d_x="-0.5" cocos2d_y="0.05" kX="0" kY="0" cX="3.08" cY="1.89" pX="0" pY="0" z="0" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="8" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="4" dI="-1"/>
+    </b>
+    <b name="图层 1" sc="1" dl="0">
+     <f dr="5" dI="-1"/>
+     <f x="0.8" y="-0.1" cocos2d_x="0.8" cocos2d_y="-0.1" kX="0" kY="0" cX="0.48" cY="0.3" pX="0" pY="0" z="0" dI="0" twE="0" dr="13">
+      <colorTransform a="0" r="0" g="0" b="0" aM="8" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="0.2" y="-0.05" cocos2d_x="0.2" cocos2d_y="-0.05" kX="0" kY="0" cX="1.65" cY="1.01" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="pve_stage_halo" width="128" height="128">
+  <SubTexture name="pve_stage_halo_s_1" width="72" height="72" cocos2d_pX="34.9" cocos2d_pY="34.9" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

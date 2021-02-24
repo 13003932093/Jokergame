@@ -1,0 +1,69 @@
+<skeleton name="glow_color" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="glow_color">
+      <b name="img" x="0" y="-53.95" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0">
+        <d name="glow_color_yuanjian_1" pX="32.15" pY="31.55"/>
+        <d name="glow_color_yuanjian_5" pX="33.35" pY="33.3"/>
+        <d name="glow_color_yuanjian_7" pX="33.55" pY="33.45"/>
+        <d name="glow_color_yuanjian_9" pX="33.4" pY="33.75"/>
+        <d name="glow_color_yuanjian_11" pX="33.7" pY="33.75"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="glow_color">
+      <mov name="glow_yellow" dr="50" to="0" drTW="50" lp="1" twE="NaN">
+        <b name="img" sc="1" dl="0">
+          <f x="0" y="-53.95" cocos2d_x="0" cocos2d_y="-53.95" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="0" twE="0" dr="26"/>
+          <f x="0" y="-53.95" cocos2d_x="0" cocos2d_y="-53.95" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="0" twE="0" dr="23">
+            <colorTransform a="0" r="0" g="0" b="0" aM="24" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="-53.95" cocos2d_x="0" cocos2d_y="-53.95" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+      <mov name="glow_blue" dr="50" to="0" drTW="50" lp="1" twE="NaN">
+        <b name="img" sc="1" dl="0">
+          <f x="0" y="-53.95" cocos2d_x="0" cocos2d_y="-53.95" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="1" twE="0" dr="26"/>
+          <f x="0" y="-53.95" cocos2d_x="0" cocos2d_y="-53.95" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="1" twE="0" dr="23">
+            <colorTransform a="0" r="0" g="0" b="0" aM="24" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="-53.95" cocos2d_x="0" cocos2d_y="-53.95" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="1" dr="1"/>
+        </b>
+      </mov>
+      <mov name="glow_green" dr="50" to="0" drTW="50" lp="1" twE="NaN">
+        <b name="img" sc="1" dl="0">
+          <f x="0" y="-53.95" cocos2d_x="0" cocos2d_y="-53.95" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="2" twE="0" dr="27"/>
+          <f x="0" y="-53.95" cocos2d_x="0" cocos2d_y="-53.95" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="2" twE="0" dr="22">
+            <colorTransform a="0" r="0" g="0" b="0" aM="24" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="-53.95" cocos2d_x="0" cocos2d_y="-53.95" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="2" dr="1"/>
+        </b>
+      </mov>
+      <mov name="glow_purple" dr="50" to="0" drTW="50" lp="1" twE="NaN">
+        <b name="img" sc="1" dl="0">
+          <f x="0" y="-53.95" cocos2d_x="0" cocos2d_y="-53.95" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="3" twE="0" dr="25"/>
+          <f x="0" y="-53.95" cocos2d_x="0" cocos2d_y="-53.95" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="3" twE="0" dr="24">
+            <colorTransform a="0" r="0" g="0" b="0" aM="24" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="-53.95" cocos2d_x="0" cocos2d_y="-53.95" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="3" dr="1"/>
+        </b>
+      </mov>
+      <mov name="glow_white" dr="50" to="0" drTW="50" lp="1" twE="NaN">
+        <b name="img" sc="1" dl="0">
+          <f x="0" y="-53.95" cocos2d_x="0" cocos2d_y="-53.95" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="4" twE="0" dr="25"/>
+          <f x="0" y="-53.95" cocos2d_x="0" cocos2d_y="-53.95" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="4" twE="0" dr="24">
+            <colorTransform a="0" r="0" g="0" b="0" aM="33" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="-53.95" cocos2d_x="0" cocos2d_y="-53.95" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="4" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="glow_color" width="256" height="256">
+    <SubTexture name="glow_color_yuanjian_11" width="70" height="72" cocos2d_pX="33.7" cocos2d_pY="33.75" x="0" y="74"/>
+    <SubTexture name="glow_color_yuanjian_9" width="70" height="72" cocos2d_pX="33.4" cocos2d_pY="33.75" x="144" y="0"/>
+    <SubTexture name="glow_color_yuanjian_7" width="70" height="72" cocos2d_pX="33.55" cocos2d_pY="33.45" x="0" y="0"/>
+    <SubTexture name="glow_color_yuanjian_5" width="70" height="72" cocos2d_pX="33.35" cocos2d_pY="33.3" x="72" y="0"/>
+    <SubTexture name="glow_color_yuanjian_1" width="67" height="69" cocos2d_pX="32.15" cocos2d_pY="31.55" x="72" y="74"/>
+  </TextureAtlas>
+</skeleton>

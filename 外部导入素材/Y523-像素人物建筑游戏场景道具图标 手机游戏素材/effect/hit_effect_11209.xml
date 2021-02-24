@@ -1,0 +1,34 @@
+<skeleton name="hit_effect_11209" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="hit_effect_11209">
+   <b name="hit_effect_11209_1" x="25" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="hit_effect_11209_1" pX="91" pY="77.5"/>
+    <d name="hit_effect_11209_4" pX="91" pY="77.5"/>
+    <d name="hit_effect_11209_5" pX="91" pY="77.5"/>
+    <d name="hit_effect_11209_6" pX="91" pY="77.5"/>
+    <d name="hit_effect_11209_7" pX="91" pY="77.5"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="hit_effect_11209">
+   <mov name="effect" dr="6" to="0" drTW="6" lp="0" twE="NaN">
+    <b name="hit_effect_11209_1" sc="1" dl="0">
+     <f x="25" y="0" cocos2d_x="25" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="31" y="0" cocos2d_x="31" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="29" y="2" cocos2d_x="29" cocos2d_y="2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="36" y="1" cocos2d_x="36" cocos2d_y="1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="39" y="0" cocos2d_x="39" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="1"/>
+     <f dr="1" dI="-1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="hit_effect_11209" width="512" height="512">
+  <SubTexture name="hit_effect_11209_7" width="182" height="155" cocos2d_pX="91" cocos2d_pY="77.5" x="0" y="314"/>
+  <SubTexture name="hit_effect_11209_6" width="182" height="155" cocos2d_pX="91" cocos2d_pY="77.5" x="184" y="157"/>
+  <SubTexture name="hit_effect_11209_5" width="182" height="155" cocos2d_pX="91" cocos2d_pY="77.5" x="0" y="0"/>
+  <SubTexture name="hit_effect_11209_4" width="182" height="155" cocos2d_pX="91" cocos2d_pY="77.5" x="184" y="0"/>
+  <SubTexture name="hit_effect_11209_1" width="182" height="155" cocos2d_pX="91" cocos2d_pY="77.5" x="0" y="157"/>
+ </TextureAtlas>
+</skeleton>

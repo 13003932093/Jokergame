@@ -1,0 +1,1592 @@
+<skeleton name="buildpos_chest" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="buildpos_chest_4">
+      <b name="buildpos_chest_12" x="-3.5" y="-56" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="buildpos_chest__13" pX="76.85" pY="73.05"/>
+        <d name="buildpos_chest__23" pX="85.2" pY="72"/>
+      </b>
+      <b name="head_buff" x="0.5" y="-166.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="1">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="blood" x="0.5" y="-156.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="2">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="hand" x="0.5" y="-49.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="3">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="hit" x="0.5" y="-49.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="4">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="body" x="0.5" y="-49.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="5">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="body1" x="0.5" y="-49.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="6">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="body_buff" x="0.5" y="-49.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="7">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="foot_ring" x="0.5" y="0.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="8">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="foot_buff" x="0.5" y="0.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="9">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="summon" x="0.5" y="0.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="10">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="event" x="0.5" y="0.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="11">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="buildpos_chest_11" x="43.25" y="-98.9" kX="9.59" kY="0" cX="1" cY="1.01" pX="0" pY="0" z="1">
+        <d name="buildpos_chest__21" pX="61.5" pY="48"/>
+      </b>
+      <b name="buildpos_chest_10" x="-3.25" y="-50" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="buildpos_chest__17" pX="66" pY="54"/>
+      </b>
+      <b name="buildpos_chest_7" x="-21.8" y="-75.05" kX="-3.21" kY="-3.21" cX="1.25" cY="1.25" pX="61.25" pY="87.95" z="3">
+        <d name="buildpos_chest__5" pX="0" pY="0"/>
+      </b>
+      <b name="buildpos_chest_6" x="-12.85" y="-73.9" kX="57.14" kY="57.14" cX="1.47" cY="1.47" pX="61.2" pY="88.05" z="4">
+        <d name="buildpos_chest__5" pX="0" pY="0"/>
+      </b>
+      <b name="buildpos_chest_5" x="-1.15" y="-71.3" kX="99.64" kY="99.64" cX="1.16" cY="1.16" pX="61.3" pY="88.2" z="5">
+        <d name="buildpos_chest__5" pX="0" pY="0"/>
+      </b>
+      <b name="buildpos_chest_4" x="4.5" y="-63.3" kX="131.84" kY="131.84" cX="1.34" cY="1.34" pX="61.2" pY="88.05" z="6">
+        <d name="buildpos_chest__5" pX="0" pY="0"/>
+      </b>
+      <b name="buildpos_chest_40" x="-28.1" y="-68.45" kX="-43.83" kY="-43.83" cX="1.04" cY="1.04" pX="61.35" pY="88.05" z="7">
+        <d name="buildpos_chest__5" pX="0" pY="0"/>
+      </b>
+      <b name="buildpos_chest_3" x="-5.2" y="-70.75" kX="0" kY="0" cX="5.25" cY="5.25" pX="54.75" pY="40.9" z="8">
+        <d name="buildpos_chest__8" pX="-36.7" pY="-27.15"/>
+      </b>
+      <b name="buildpos_chest_2" x="-0.85" y="-54.15" kX="48.61" kY="48.61" cX="0.45" cY="0.45" pX="12.3" pY="12.45" z="9">
+        <d name="buildpos_chest__4" pX="-0.9" pY="-0.9"/>
+      </b>
+      <b name="buildpos_chest_1" x="-13.65" y="-82.2" kX="48.61" kY="48.61" cX="0.51" cY="0.51" pX="12.2" pY="12.4" z="9">
+        <d name="buildpos_chest__4" pX="-0.9" pY="-0.9"/>
+      </b>
+    </armature>
+    <armature name="buildpos_chest_2">
+      <b name="buildpos_chest_12" x="-3.5" y="-56" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="buildpos_chest__12" pX="79.35" pY="73.2"/>
+        <d name="buildpos_chest__23" pX="85.2" pY="72"/>
+      </b>
+      <b name="head_buff" x="0.5" y="-166.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="1">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="blood" x="0.5" y="-156.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="2">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="hand" x="0.5" y="-49.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="3">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="hit" x="0.5" y="-49.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="4">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="body" x="0.5" y="-49.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="5">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="body1" x="0.5" y="-49.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="6">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="body_buff" x="0.5" y="-49.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="7">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="foot_ring" x="0.5" y="0.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="8">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="foot_buff" x="0.5" y="0.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="9">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="summon" x="0.5" y="0.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="10">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="event" x="0.5" y="0.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="11">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="buildpos_chest_11" x="43.25" y="-98.9" kX="9.59" kY="0" cX="1" cY="1.01" pX="0" pY="0" z="1">
+        <d name="buildpos_chest__20" pX="63.15" pY="49.25"/>
+      </b>
+      <b name="buildpos_chest_10" x="-3.25" y="-50" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="buildpos_chest__16" pX="66.95" pY="50.5"/>
+      </b>
+      <b name="buildpos_chest_7" x="-21.8" y="-75.05" kX="-3.21" kY="-3.21" cX="1.25" cY="1.25" pX="61.25" pY="87.95" z="3">
+        <d name="buildpos_chest__5" pX="0" pY="0"/>
+      </b>
+      <b name="buildpos_chest_6" x="-12.85" y="-73.9" kX="57.14" kY="57.14" cX="1.47" cY="1.47" pX="61.2" pY="88.05" z="4">
+        <d name="buildpos_chest__5" pX="0" pY="0"/>
+      </b>
+      <b name="buildpos_chest_5" x="-1.15" y="-71.3" kX="99.64" kY="99.64" cX="1.16" cY="1.16" pX="61.3" pY="88.2" z="5">
+        <d name="buildpos_chest__5" pX="0" pY="0"/>
+      </b>
+      <b name="buildpos_chest_4" x="4.5" y="-63.3" kX="131.84" kY="131.84" cX="1.34" cY="1.34" pX="61.2" pY="88.05" z="6">
+        <d name="buildpos_chest__5" pX="0" pY="0"/>
+      </b>
+      <b name="buildpos_chest_40" x="-28.1" y="-68.45" kX="-43.83" kY="-43.83" cX="1.04" cY="1.04" pX="61.35" pY="88.05" z="7">
+        <d name="buildpos_chest__5" pX="0" pY="0"/>
+      </b>
+      <b name="buildpos_chest_3" x="-5.2" y="-70.75" kX="0" kY="0" cX="5.25" cY="5.25" pX="54.75" pY="40.9" z="8">
+        <d name="buildpos_chest__8" pX="-36.7" pY="-27.15"/>
+      </b>
+      <b name="buildpos_chest_2" x="-0.85" y="-54.15" kX="48.61" kY="48.61" cX="0.45" cY="0.45" pX="12.3" pY="12.45" z="9">
+        <d name="buildpos_chest__4" pX="-0.9" pY="-0.9"/>
+      </b>
+      <b name="buildpos_chest_1" x="-13.65" y="-82.2" kX="48.61" kY="48.61" cX="0.51" cY="0.51" pX="12.2" pY="12.4" z="9">
+        <d name="buildpos_chest__4" pX="-0.9" pY="-0.9"/>
+      </b>
+    </armature>
+    <armature name="buildpos_chest_3">
+      <b name="buildpos_chest_12" x="-3.5" y="-56" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="buildpos_chest__11" pX="83.95" pY="72.85"/>
+        <d name="buildpos_chest__23" pX="85.2" pY="72"/>
+      </b>
+      <b name="head_buff" x="0.5" y="-166.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="1">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="blood" x="0.5" y="-156.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="2">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="hand" x="0.5" y="-49.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="3">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="hit" x="0.5" y="-49.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="4">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="body" x="0.5" y="-49.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="5">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="body1" x="0.5" y="-49.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="6">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="body_buff" x="0.5" y="-49.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="7">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="foot_ring" x="0.5" y="0.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="8">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="foot_buff" x="0.5" y="0.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="9">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="summon" x="0.5" y="0.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="10">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="event" x="0.5" y="0.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="11">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="buildpos_chest_11" x="43.25" y="-98.9" kX="9.59" kY="0" cX="1" cY="1.01" pX="0" pY="0" z="1">
+        <d name="buildpos_chest__19" pX="66.45" pY="46.25"/>
+      </b>
+      <b name="buildpos_chest_10" x="-3.25" y="-50" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="buildpos_chest__15" pX="66.5" pY="50.5"/>
+      </b>
+      <b name="buildpos_chest_7" x="-21.8" y="-75.05" kX="-3.21" kY="-3.21" cX="1.25" cY="1.25" pX="61.25" pY="87.95" z="3">
+        <d name="buildpos_chest__5" pX="0" pY="0"/>
+      </b>
+      <b name="buildpos_chest_6" x="-12.85" y="-73.9" kX="57.14" kY="57.14" cX="1.47" cY="1.47" pX="61.2" pY="88.05" z="4">
+        <d name="buildpos_chest__5" pX="0" pY="0"/>
+      </b>
+      <b name="buildpos_chest_5" x="-1.15" y="-71.3" kX="99.64" kY="99.64" cX="1.16" cY="1.16" pX="61.3" pY="88.2" z="5">
+        <d name="buildpos_chest__5" pX="0" pY="0"/>
+      </b>
+      <b name="buildpos_chest_4" x="4.5" y="-63.3" kX="131.84" kY="131.84" cX="1.34" cY="1.34" pX="61.2" pY="88.05" z="6">
+        <d name="buildpos_chest__5" pX="0" pY="0"/>
+      </b>
+      <b name="buildpos_chest_40" x="-28.1" y="-68.45" kX="-43.83" kY="-43.83" cX="1.04" cY="1.04" pX="61.35" pY="88.05" z="7">
+        <d name="buildpos_chest__5" pX="0" pY="0"/>
+      </b>
+      <b name="buildpos_chest_3" x="-5.2" y="-70.75" kX="0" kY="0" cX="5.25" cY="5.25" pX="54.75" pY="40.9" z="8">
+        <d name="buildpos_chest__8" pX="-36.7" pY="-27.15"/>
+      </b>
+      <b name="buildpos_chest_2" x="-0.85" y="-54.15" kX="48.61" kY="48.61" cX="0.45" cY="0.45" pX="12.3" pY="12.45" z="9">
+        <d name="buildpos_chest__4" pX="-0.9" pY="-0.9"/>
+      </b>
+      <b name="buildpos_chest_1" x="-13.65" y="-82.2" kX="48.61" kY="48.61" cX="0.51" cY="0.51" pX="12.2" pY="12.4" z="9">
+        <d name="buildpos_chest__4" pX="-0.9" pY="-0.9"/>
+      </b>
+    </armature>
+    <armature name="buildpos_chest_1">
+      <b name="buildpos_chest_12" x="-3.5" y="-56" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="buildpos_chest__10" pX="77.3" pY="58.2"/>
+        <d name="buildpos_chest__23" pX="85.2" pY="72"/>
+      </b>
+      <b name="head_buff" x="0.5" y="-166.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="1">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="blood" x="0.5" y="-156.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="2">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="hand" x="0.5" y="-49.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="3">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="hit" x="0.5" y="-49.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="4">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="body" x="0.5" y="-49.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="5">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="body1" x="0.5" y="-49.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="6">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="body_buff" x="0.5" y="-49.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="7">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="foot_ring" x="0.5" y="0.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="8">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="foot_buff" x="0.5" y="0.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="9">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="summon" x="0.5" y="0.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="10">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="event" x="0.5" y="0.5" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="11">
+        <d name="buildpos_chest__24" pX="0" pY="0"/>
+      </b>
+      <b name="buildpos_chest_11" x="43.25" y="-98.9" kX="9.59" kY="0" cX="1" cY="1.01" pX="0" pY="0" z="1">
+        <d name="buildpos_chest__18" pX="64.2" pY="44.4"/>
+      </b>
+      <b name="buildpos_chest_10" x="-3.25" y="-50" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="buildpos_chest__14" pX="67.2" pY="50.7"/>
+      </b>
+      <b name="buildpos_chest_7" x="-21.8" y="-75.05" kX="-3.21" kY="-3.21" cX="1.25" cY="1.25" pX="61.25" pY="87.95" z="3">
+        <d name="buildpos_chest__5" pX="0" pY="0"/>
+      </b>
+      <b name="buildpos_chest_6" x="-12.85" y="-73.9" kX="57.14" kY="57.14" cX="1.47" cY="1.47" pX="61.2" pY="88.05" z="4">
+        <d name="buildpos_chest__5" pX="0" pY="0"/>
+      </b>
+      <b name="buildpos_chest_5" x="-1.15" y="-71.3" kX="99.64" kY="99.64" cX="1.16" cY="1.16" pX="61.3" pY="88.2" z="5">
+        <d name="buildpos_chest__5" pX="0" pY="0"/>
+      </b>
+      <b name="buildpos_chest_4" x="4.5" y="-63.3" kX="131.84" kY="131.84" cX="1.34" cY="1.34" pX="61.2" pY="88.05" z="6">
+        <d name="buildpos_chest__5" pX="0" pY="0"/>
+      </b>
+      <b name="buildpos_chest_40" x="-28.1" y="-68.45" kX="-43.83" kY="-43.83" cX="1.04" cY="1.04" pX="61.35" pY="88.05" z="7">
+        <d name="buildpos_chest__5" pX="0" pY="0"/>
+      </b>
+      <b name="buildpos_chest_3" x="-5.2" y="-70.75" kX="0" kY="0" cX="5.25" cY="5.25" pX="54.75" pY="40.9" z="8">
+        <d name="buildpos_chest__8" pX="-36.7" pY="-27.15"/>
+      </b>
+      <b name="buildpos_chest_2" x="-0.85" y="-54.15" kX="48.61" kY="48.61" cX="0.45" cY="0.45" pX="12.3" pY="12.45" z="9">
+        <d name="buildpos_chest__4" pX="-0.9" pY="-0.9"/>
+      </b>
+      <b name="buildpos_chest_1" x="-13.65" y="-82.2" kX="48.61" kY="48.61" cX="0.51" cY="0.51" pX="12.2" pY="12.4" z="9">
+        <d name="buildpos_chest__4" pX="-0.9" pY="-0.9"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="buildpos_chest_4">
+      <mov name="idle" dr="28" to="0" drTW="28" lp="1" twE="NaN">
+        <b name="buildpos_chest_12" sc="1" dl="0">
+          <f x="-3.5" y="-56" cocos2d_x="-3.5" cocos2d_y="-56" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="28"/>
+        </b>
+        <b name="head_buff" sc="1" dl="0">
+          <f x="0.5" y="-166.5" cocos2d_x="0" cocos2d_y="-167" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="1" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="blood" sc="1" dl="0">
+          <f x="0.5" y="-156.5" cocos2d_x="0" cocos2d_y="-157" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="2" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="hand" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="3" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="hit" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="4" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="body" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="5" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="body1" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="6" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="body_buff" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="7" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="foot_ring" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="8" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="foot_buff" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="9" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="summon" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="10" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="event" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="11" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+      <mov name="dead" dr="165" to="0" drTW="165" lp="0" twE="NaN">
+        <b name="buildpos_chest_12" sc="1" dl="0">
+          <f x="-3.5" y="-56" cocos2d_x="-3.5" cocos2d_y="-56" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-3.5" y="-56" cocos2d_x="-3.5" cocos2d_y="-56" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="4"/>
+          <f x="-3.5" y="-50.5" cocos2d_x="-3.5" cocos2d_y="-50.5" kX="0" kY="0" cX="1" cY="0.91" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+          <f x="-3.5" y="-63" cocos2d_x="-3.5" cocos2d_y="-63" kX="0" kY="0" cX="1" cY="1.12" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="20.7" y="-27.2" cocos2d_x="20.7" cocos2d_y="-27.2" kX="13.85" kY="2.64" cX="1.03" cY="0.4" pX="0" pY="0" z="0" dI="1" dr="156">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="buildpos_chest_11" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="43.25" y="-98.9" cocos2d_x="43.25" cocos2d_y="-98.9" kX="9.59" kY="0" cX="1" cY="1.01" pX="0" pY="0" z="1" dI="0" twE="0" dr="2"/>
+          <f x="33.85" y="-100.2" cocos2d_x="33.85" cocos2d_y="-100.2" kX="-2.47" kY="-1.18" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="2"/>
+          <f x="35.75" y="-98.9" cocos2d_x="35.75" cocos2d_y="-98.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="152"/>
+        </b>
+        <b name="buildpos_chest_10" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="-3.25" y="-50" cocos2d_x="-3.25" cocos2d_y="-50" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="156"/>
+        </b>
+        <b name="buildpos_chest_7" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="-21.8" y="-75.05" cocos2d_x="-104.6" cocos2d_y="-180.75" kX="-3.21" kY="-3.21" cX="1.25" cY="1.25" pX="61.25" pY="87.95" z="3" dI="0" twE="0" dr="14"/>
+          <f x="-21.8" y="-75" cocos2d_x="-83.05" cocos2d_y="-163.05" kX="0" kY="0" cX="1" cY="1" pX="61.25" pY="88.05" z="3" dI="0" twE="0" dr="23"/>
+          <f x="-21.85" y="-75" cocos2d_x="-94.1" cocos2d_y="-154.25" kX="-7.53" kY="-7.53" cX="1" cY="1" pX="61.3" pY="88.05" z="3" dI="0" twE="0" dr="24"/>
+          <f x="-21.8" y="-75" cocos2d_x="-83.05" cocos2d_y="-163.05" kX="0" kY="0" cX="1" cY="1" pX="61.25" pY="88.05" z="3" dI="0" twE="0" dr="23"/>
+          <f x="-21.85" y="-75" cocos2d_x="-94.1" cocos2d_y="-154.25" kX="-7.53" kY="-7.53" cX="1" cY="1" pX="61.3" pY="88.05" z="3" dI="0" twE="0" dr="24"/>
+          <f x="-21.8" y="-75" cocos2d_x="-83.05" cocos2d_y="-163.05" kX="0" kY="0" cX="1" cY="1" pX="61.25" pY="88.05" z="3" dI="0" twE="0" dr="23"/>
+          <f x="-21.85" y="-75" cocos2d_x="-94.1" cocos2d_y="-154.25" kX="-7.53" kY="-7.53" cX="1" cY="1" pX="61.3" pY="88.05" z="3" dI="0" twE="0" dr="24"/>
+          <f x="-21.8" y="-75" cocos2d_x="-83.05" cocos2d_y="-163.05" kX="0" kY="0" cX="1" cY="1" pX="61.25" pY="88.05" z="3" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="buildpos_chest_6" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="-12.85" y="-73.9" cocos2d_x="47.05" cocos2d_y="-219.65" kX="57.14" kY="57.14" cX="1.47" cY="1.47" pX="61.2" pY="88.05" z="4" dI="0" twE="0" dr="14"/>
+          <f x="-12.8" y="-73.9" cocos2d_x="16.55" cocos2d_y="-177.05" kX="50.7" kY="50.7" cX="1" cY="1" pX="61.2" pY="88.05" z="4" dI="0" twE="0" dr="23"/>
+          <f x="-12.85" y="-73.9" cocos2d_x="36.8" cocos2d_y="-169" kX="62.38" kY="62.38" cX="1" cY="1" pX="61.25" pY="88.1" z="4" dI="0" twE="0" dr="24"/>
+          <f x="-12.8" y="-73.9" cocos2d_x="16.55" cocos2d_y="-177.05" kX="50.7" kY="50.7" cX="1" cY="1" pX="61.2" pY="88.05" z="4" dI="0" twE="0" dr="23"/>
+          <f x="-12.85" y="-73.9" cocos2d_x="36.8" cocos2d_y="-169" kX="62.38" kY="62.38" cX="1" cY="1" pX="61.25" pY="88.1" z="4" dI="0" twE="0" dr="24"/>
+          <f x="-12.8" y="-73.9" cocos2d_x="16.55" cocos2d_y="-177.05" kX="50.7" kY="50.7" cX="1" cY="1" pX="61.2" pY="88.05" z="4" dI="0" twE="0" dr="23"/>
+          <f x="-12.85" y="-73.9" cocos2d_x="36.8" cocos2d_y="-169" kX="62.38" kY="62.38" cX="1" cY="1" pX="61.25" pY="88.1" z="4" dI="0" twE="0" dr="24"/>
+          <f x="-12.8" y="-73.9" cocos2d_x="16.55" cocos2d_y="-177.05" kX="50.7" kY="50.7" cX="1" cY="1" pX="61.2" pY="88.05" z="4" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="buildpos_chest_5" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="-1.15" y="-71.3" cocos2d_x="111.85" cocos2d_y="-124.45" kX="99.64" kY="99.64" cX="1.16" cY="1.16" pX="61.3" pY="88.2" z="5" dI="0" twE="0" dr="14"/>
+          <f x="-1.15" y="-71.45" cocos2d_x="61" cocos2d_y="-116.45" kX="88.93" kY="88.93" cX="0.71" cY="0.71" pX="61.3" pY="88.1" z="5" dI="0" twE="0" dr="23"/>
+          <f x="-1.15" y="-71.45" cocos2d_x="69.6" cocos2d_y="-101.05" kX="102.14" kY="102.14" cX="0.71" cY="0.71" pX="61.3" pY="88.05" z="5" dI="0" twE="0" dr="24"/>
+          <f x="-1.15" y="-71.45" cocos2d_x="61" cocos2d_y="-116.45" kX="88.93" kY="88.93" cX="0.71" cY="0.71" pX="61.3" pY="88.1" z="5" dI="0" twE="0" dr="23"/>
+          <f x="-1.15" y="-71.45" cocos2d_x="69.6" cocos2d_y="-101.05" kX="102.14" kY="102.14" cX="0.71" cY="0.71" pX="61.3" pY="88.05" z="5" dI="0" twE="0" dr="24"/>
+          <f x="-1.15" y="-71.45" cocos2d_x="61" cocos2d_y="-116.45" kX="88.93" kY="88.93" cX="0.71" cY="0.71" pX="61.3" pY="88.1" z="5" dI="0" twE="0" dr="23"/>
+          <f x="-1.15" y="-71.45" cocos2d_x="69.6" cocos2d_y="-101.05" kX="102.14" kY="102.14" cX="0.71" cY="0.71" pX="61.3" pY="88.05" z="5" dI="0" twE="0" dr="24"/>
+          <f x="-1.15" y="-71.45" cocos2d_x="61" cocos2d_y="-116.45" kX="88.93" kY="88.93" cX="0.71" cY="0.71" pX="61.3" pY="88.1" z="5" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="buildpos_chest_4" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="4.5" y="-63.3" cocos2d_x="146.75" cocos2d_y="-45.75" kX="131.84" kY="131.84" cX="1.34" cY="1.34" pX="61.2" pY="88.05" z="6" dI="0" twE="0" dr="14"/>
+          <f x="4.5" y="-63.3" cocos2d_x="115.15" cocos2d_y="-74.8" kX="118.9" kY="118.9" cX="1.04" cY="1.04" pX="61.25" pY="88.05" z="6" dI="0" twE="0" dr="23"/>
+          <f x="4.45" y="-63.3" cocos2d_x="115.4" cocos2d_y="-54.45" kX="129.37" kY="129.37" cX="1.04" cY="1.04" pX="61.3" pY="88.1" z="6" dI="0" twE="0" dr="24"/>
+          <f x="4.5" y="-63.3" cocos2d_x="115.15" cocos2d_y="-74.8" kX="118.9" kY="118.9" cX="1.04" cY="1.04" pX="61.25" pY="88.05" z="6" dI="0" twE="0" dr="23"/>
+          <f x="4.45" y="-63.3" cocos2d_x="115.4" cocos2d_y="-54.45" kX="129.37" kY="129.37" cX="1.04" cY="1.04" pX="61.3" pY="88.1" z="6" dI="0" twE="0" dr="24"/>
+          <f x="4.5" y="-63.3" cocos2d_x="115.15" cocos2d_y="-74.8" kX="118.9" kY="118.9" cX="1.04" cY="1.04" pX="61.25" pY="88.05" z="6" dI="0" twE="0" dr="23"/>
+          <f x="4.45" y="-63.3" cocos2d_x="115.4" cocos2d_y="-54.45" kX="129.37" kY="129.37" cX="1.04" cY="1.04" pX="61.3" pY="88.1" z="6" dI="0" twE="0" dr="24"/>
+          <f x="4.5" y="-63.3" cocos2d_x="115.15" cocos2d_y="-74.8" kX="118.9" kY="118.9" cX="1.04" cY="1.04" pX="61.25" pY="88.05" z="6" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="buildpos_chest_40" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="-28.1" y="-68.45" cocos2d_x="-137.2" cocos2d_y="-90.2" kX="-43.83" kY="-43.83" cX="1.04" cY="1.04" pX="61.35" pY="88.05" z="7" dI="0" twE="0" dr="14"/>
+          <f x="-28.05" y="-68.4" cocos2d_x="-101.8" cocos2d_y="-89.6" kX="-39.11" kY="-39.11" cX="0.71" cY="0.71" pX="61.35" pY="88.05" z="7" dI="0" twE="0" dr="23"/>
+          <f x="-28.05" y="-68.4" cocos2d_x="-104.5" cocos2d_y="-75.55" kX="-49.82" kY="-49.82" cX="0.71" cY="0.71" pX="61.35" pY="88.15" z="7" dI="0" twE="0" dr="24"/>
+          <f x="-28.05" y="-68.4" cocos2d_x="-101.8" cocos2d_y="-89.6" kX="-39.11" kY="-39.11" cX="0.71" cY="0.71" pX="61.35" pY="88.05" z="7" dI="0" twE="0" dr="23"/>
+          <f x="-28.05" y="-68.4" cocos2d_x="-104.5" cocos2d_y="-75.55" kX="-49.82" kY="-49.82" cX="0.71" cY="0.71" pX="61.35" pY="88.15" z="7" dI="0" twE="0" dr="24"/>
+          <f x="-28.05" y="-68.4" cocos2d_x="-101.8" cocos2d_y="-89.6" kX="-39.11" kY="-39.11" cX="0.71" cY="0.71" pX="61.35" pY="88.05" z="7" dI="0" twE="0" dr="23"/>
+          <f x="-28.05" y="-68.4" cocos2d_x="-104.5" cocos2d_y="-75.55" kX="-49.82" kY="-49.82" cX="0.71" cY="0.71" pX="61.35" pY="88.15" z="7" dI="0" twE="0" dr="24"/>
+          <f x="-28.05" y="-68.4" cocos2d_x="-101.8" cocos2d_y="-89.6" kX="-39.11" kY="-39.11" cX="0.71" cY="0.71" pX="61.35" pY="88.05" z="7" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="buildpos_chest_3" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="-5.2" y="-70.75" cocos2d_x="-292.45" cocos2d_y="-285.35" kX="0" kY="0" cX="5.25" cY="5.25" pX="54.75" pY="40.9" z="8" dI="0" twE="0" dr="14">
+            <colorTransform a="0" r="0" g="0" b="0" aM="88" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.15" y="-70.85" cocos2d_x="-169.4" cocos2d_y="-193.55" kX="0" kY="0" cX="3" cY="3" pX="54.75" pY="40.9" z="8" dI="0" twE="0" dr="23">
+            <colorTransform a="0" r="0" g="0" b="0" aM="59" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.15" y="-70.8" cocos2d_x="-203.6" cocos2d_y="-219.05" kX="0" kY="0" cX="3.62" cY="3.62" pX="54.75" pY="40.9" z="8" dI="0" twE="0" dr="24">
+            <colorTransform a="0" r="0" g="0" b="0" aM="28" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.15" y="-70.85" cocos2d_x="-169.4" cocos2d_y="-193.55" kX="0" kY="0" cX="3" cY="3" pX="54.75" pY="40.9" z="8" dI="0" twE="0" dr="23">
+            <colorTransform a="0" r="0" g="0" b="0" aM="59" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.15" y="-70.8" cocos2d_x="-203.6" cocos2d_y="-219.05" kX="0" kY="0" cX="3.62" cY="3.62" pX="54.75" pY="40.9" z="8" dI="0" twE="0" dr="24">
+            <colorTransform a="0" r="0" g="0" b="0" aM="28" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.15" y="-70.85" cocos2d_x="-169.4" cocos2d_y="-193.55" kX="0" kY="0" cX="3" cY="3" pX="54.75" pY="40.9" z="8" dI="0" twE="0" dr="23">
+            <colorTransform a="0" r="0" g="0" b="0" aM="59" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.15" y="-70.8" cocos2d_x="-203.6" cocos2d_y="-219.05" kX="0" kY="0" cX="3.62" cY="3.62" pX="54.75" pY="40.9" z="8" dI="0" twE="0" dr="24">
+            <colorTransform a="0" r="0" g="0" b="0" aM="28" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.15" y="-70.85" cocos2d_x="-169.4" cocos2d_y="-193.55" kX="0" kY="0" cX="3" cY="3" pX="54.75" pY="40.9" z="8" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="59" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="buildpos_chest_2" sc="1" dl="0">
+          <f dr="23" dI="-1"/>
+          <f x="-0.85" y="-54.15" cocos2d_x="-0.3" cocos2d_y="-62.1" kX="48.61" kY="48.61" cX="0.45" cY="0.45" pX="12.3" pY="12.45" z="9" dI="0" twE="0" dr="4"/>
+          <f x="-1" y="-54.3" cocos2d_x="17.1" cocos2d_y="-63.75" kX="107.05" kY="107.05" cX="1.17" cY="1.17" pX="12.2" pY="12.35" z="9" dI="0" twE="0" dr="6"/>
+          <f x="-0.95" y="-54.25" cocos2d_x="20.5" cocos2d_y="-59.15" kX="121.74" kY="121.74" cX="1.26" cY="1.26" pX="12.25" pY="12.45" z="9" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="36" dI="-1"/>
+          <f x="-0.85" y="-54.15" cocos2d_x="-0.3" cocos2d_y="-62.1" kX="48.61" kY="48.61" cX="0.45" cY="0.45" pX="12.3" pY="12.45" z="9" dI="0" twE="0" dr="4"/>
+          <f x="-1" y="-54.3" cocos2d_x="17.1" cocos2d_y="-63.75" kX="107.05" kY="107.05" cX="1.17" cY="1.17" pX="12.2" pY="12.35" z="9" dI="0" twE="0" dr="6"/>
+          <f x="-0.95" y="-54.25" cocos2d_x="20.5" cocos2d_y="-59.15" kX="121.74" kY="121.74" cX="1.26" cY="1.26" pX="12.25" pY="12.45" z="9" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="36" dI="-1"/>
+          <f x="-0.85" y="-54.15" cocos2d_x="-0.3" cocos2d_y="-62.1" kX="48.61" kY="48.61" cX="0.45" cY="0.45" pX="12.3" pY="12.45" z="9" dI="0" twE="0" dr="4"/>
+          <f x="-1" y="-54.3" cocos2d_x="17.1" cocos2d_y="-63.75" kX="107.05" kY="107.05" cX="1.17" cY="1.17" pX="12.2" pY="12.35" z="9" dI="0" twE="0" dr="6"/>
+          <f x="-0.95" y="-54.25" cocos2d_x="20.5" cocos2d_y="-59.15" kX="121.74" kY="121.74" cX="1.26" cY="1.26" pX="12.25" pY="12.45" z="9" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="37" dI="-1"/>
+        </b>
+        <b name="buildpos_chest_1" sc="1" dl="0">
+          <f dr="52" dI="-1"/>
+          <f x="-13.65" y="-82.2" cocos2d_x="-13.05" cocos2d_y="-91" kX="48.61" kY="48.61" cX="0.51" cY="0.51" pX="12.2" pY="12.4" z="9" dI="0" twE="0" dr="4"/>
+          <f x="-13.8" y="-82.3" cocos2d_x="4.3" cocos2d_y="-91.75" kX="107.05" kY="107.05" cX="1.17" cY="1.17" pX="12.2" pY="12.35" z="9" dI="0" twE="0" dr="6"/>
+          <f x="-13.75" y="-82.25" cocos2d_x="7.7" cocos2d_y="-87.15" kX="121.74" kY="121.74" cX="1.26" cY="1.26" pX="12.25" pY="12.45" z="9" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="36" dI="-1"/>
+          <f x="-13.65" y="-82.2" cocos2d_x="-13.05" cocos2d_y="-91" kX="48.61" kY="48.61" cX="0.51" cY="0.51" pX="12.2" pY="12.4" z="9" dI="0" twE="0" dr="4"/>
+          <f x="-13.8" y="-82.3" cocos2d_x="4.3" cocos2d_y="-91.75" kX="107.05" kY="107.05" cX="1.17" cY="1.17" pX="12.2" pY="12.35" z="9" dI="0" twE="0" dr="6"/>
+          <f x="-13.75" y="-82.25" cocos2d_x="7.7" cocos2d_y="-87.15" kX="121.74" kY="121.74" cX="1.26" cY="1.26" pX="12.25" pY="12.45" z="9" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="36" dI="-1"/>
+          <f x="-13.65" y="-82.2" cocos2d_x="-13.05" cocos2d_y="-91" kX="48.61" kY="48.61" cX="0.51" cY="0.51" pX="12.2" pY="12.4" z="9" dI="0" twE="0" dr="4"/>
+          <f x="-13.8" y="-82.3" cocos2d_x="4.3" cocos2d_y="-91.75" kX="107.05" kY="107.05" cX="1.17" cY="1.17" pX="12.2" pY="12.35" z="9" dI="0" twE="0" dr="6"/>
+          <f x="-13.75" y="-82.25" cocos2d_x="7.7" cocos2d_y="-87.15" kX="121.74" kY="121.74" cX="1.26" cY="1.26" pX="12.25" pY="12.45" z="9" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="8" dI="-1"/>
+        </b>
+        <b name="head_buff" sc="1" dl="0">
+          <f x="0.5" y="-166.5" cocos2d_x="0" cocos2d_y="-167" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="0" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="blood" sc="1" dl="0">
+          <f x="0.5" y="-156.5" cocos2d_x="0" cocos2d_y="-157" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="1" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="hand" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="2" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="hit" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="3" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="body" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="4" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="body1" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="5" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="body_buff" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="6" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="foot_ring" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="7" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="foot_buff" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="8" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="summon" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="9" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="event" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="10" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+      <mov name="win" dr="28" to="0" drTW="28" lp="1" twE="NaN">
+        <b name="buildpos_chest_12" sc="1" dl="0">
+          <f x="-3.5" y="-56" cocos2d_x="-3.5" cocos2d_y="-56" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="28"/>
+        </b>
+        <b name="head_buff" sc="1" dl="0">
+          <f x="0.5" y="-166.5" cocos2d_x="0" cocos2d_y="-167" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="1" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="blood" sc="1" dl="0">
+          <f x="0.5" y="-156.5" cocos2d_x="0" cocos2d_y="-157" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="2" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="hand" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="3" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="hit" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="4" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="body" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="5" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="body1" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="6" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="body_buff" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="7" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="foot_ring" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="8" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="foot_buff" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="9" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="summon" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="10" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="event" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="11" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="buildpos_chest_2">
+      <mov name="idle" dr="28" to="0" drTW="28" lp="1" twE="NaN">
+        <b name="buildpos_chest_12" sc="1" dl="0">
+          <f x="-3.5" y="-56" cocos2d_x="-3.5" cocos2d_y="-56" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="28"/>
+        </b>
+        <b name="head_buff" sc="1" dl="0">
+          <f x="0.5" y="-166.5" cocos2d_x="0" cocos2d_y="-167" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="1" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="blood" sc="1" dl="0">
+          <f x="0.5" y="-156.5" cocos2d_x="0" cocos2d_y="-157" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="2" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="hand" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="3" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="hit" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="4" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="body" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="5" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="body1" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="6" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="body_buff" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="7" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="foot_ring" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="8" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="foot_buff" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="9" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="summon" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="10" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="event" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="11" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+      <mov name="dead" dr="165" to="0" drTW="165" lp="0" twE="NaN">
+        <b name="buildpos_chest_12" sc="1" dl="0">
+          <f x="-3.5" y="-56" cocos2d_x="-3.5" cocos2d_y="-56" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-3.5" y="-56" cocos2d_x="-3.5" cocos2d_y="-56" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="4"/>
+          <f x="-3.5" y="-50.5" cocos2d_x="-3.5" cocos2d_y="-50.5" kX="0" kY="0" cX="1" cY="0.91" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+          <f x="-3.5" y="-63" cocos2d_x="-3.5" cocos2d_y="-63" kX="0" kY="0" cX="1" cY="1.12" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="20.7" y="-27.2" cocos2d_x="20.7" cocos2d_y="-27.2" kX="13.85" kY="2.64" cX="1.03" cY="0.4" pX="0" pY="0" z="0" dI="1" dr="156">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="buildpos_chest_11" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="43.25" y="-98.9" cocos2d_x="43.25" cocos2d_y="-98.9" kX="9.59" kY="0" cX="1" cY="1.01" pX="0" pY="0" z="1" dI="0" twE="0" dr="2"/>
+          <f x="33.85" y="-100.2" cocos2d_x="33.85" cocos2d_y="-100.2" kX="-2.47" kY="-1.18" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="2"/>
+          <f x="35.75" y="-98.9" cocos2d_x="35.75" cocos2d_y="-98.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="152"/>
+        </b>
+        <b name="buildpos_chest_10" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="-3.25" y="-50" cocos2d_x="-3.25" cocos2d_y="-50" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="156"/>
+        </b>
+        <b name="buildpos_chest_7" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="-21.8" y="-75.05" cocos2d_x="-104.6" cocos2d_y="-180.75" kX="-3.21" kY="-3.21" cX="1.25" cY="1.25" pX="61.25" pY="87.95" z="3" dI="0" twE="0" dr="14"/>
+          <f x="-21.8" y="-75" cocos2d_x="-83.05" cocos2d_y="-163.05" kX="0" kY="0" cX="1" cY="1" pX="61.25" pY="88.05" z="3" dI="0" twE="0" dr="23"/>
+          <f x="-21.85" y="-75" cocos2d_x="-94.1" cocos2d_y="-154.25" kX="-7.53" kY="-7.53" cX="1" cY="1" pX="61.3" pY="88.05" z="3" dI="0" twE="0" dr="24"/>
+          <f x="-21.8" y="-75" cocos2d_x="-83.05" cocos2d_y="-163.05" kX="0" kY="0" cX="1" cY="1" pX="61.25" pY="88.05" z="3" dI="0" twE="0" dr="23"/>
+          <f x="-21.85" y="-75" cocos2d_x="-94.1" cocos2d_y="-154.25" kX="-7.53" kY="-7.53" cX="1" cY="1" pX="61.3" pY="88.05" z="3" dI="0" twE="0" dr="24"/>
+          <f x="-21.8" y="-75" cocos2d_x="-83.05" cocos2d_y="-163.05" kX="0" kY="0" cX="1" cY="1" pX="61.25" pY="88.05" z="3" dI="0" twE="0" dr="23"/>
+          <f x="-21.85" y="-75" cocos2d_x="-94.1" cocos2d_y="-154.25" kX="-7.53" kY="-7.53" cX="1" cY="1" pX="61.3" pY="88.05" z="3" dI="0" twE="0" dr="24"/>
+          <f x="-21.8" y="-75" cocos2d_x="-83.05" cocos2d_y="-163.05" kX="0" kY="0" cX="1" cY="1" pX="61.25" pY="88.05" z="3" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="buildpos_chest_6" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="-12.85" y="-73.9" cocos2d_x="47.05" cocos2d_y="-219.65" kX="57.14" kY="57.14" cX="1.47" cY="1.47" pX="61.2" pY="88.05" z="4" dI="0" twE="0" dr="14"/>
+          <f x="-12.8" y="-73.9" cocos2d_x="16.55" cocos2d_y="-177.05" kX="50.7" kY="50.7" cX="1" cY="1" pX="61.2" pY="88.05" z="4" dI="0" twE="0" dr="23"/>
+          <f x="-12.85" y="-73.9" cocos2d_x="36.8" cocos2d_y="-169" kX="62.38" kY="62.38" cX="1" cY="1" pX="61.25" pY="88.1" z="4" dI="0" twE="0" dr="24"/>
+          <f x="-12.8" y="-73.9" cocos2d_x="16.55" cocos2d_y="-177.05" kX="50.7" kY="50.7" cX="1" cY="1" pX="61.2" pY="88.05" z="4" dI="0" twE="0" dr="23"/>
+          <f x="-12.85" y="-73.9" cocos2d_x="36.8" cocos2d_y="-169" kX="62.38" kY="62.38" cX="1" cY="1" pX="61.25" pY="88.1" z="4" dI="0" twE="0" dr="24"/>
+          <f x="-12.8" y="-73.9" cocos2d_x="16.55" cocos2d_y="-177.05" kX="50.7" kY="50.7" cX="1" cY="1" pX="61.2" pY="88.05" z="4" dI="0" twE="0" dr="23"/>
+          <f x="-12.85" y="-73.9" cocos2d_x="36.8" cocos2d_y="-169" kX="62.38" kY="62.38" cX="1" cY="1" pX="61.25" pY="88.1" z="4" dI="0" twE="0" dr="24"/>
+          <f x="-12.8" y="-73.9" cocos2d_x="16.55" cocos2d_y="-177.05" kX="50.7" kY="50.7" cX="1" cY="1" pX="61.2" pY="88.05" z="4" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="buildpos_chest_5" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="-1.15" y="-71.3" cocos2d_x="111.85" cocos2d_y="-124.45" kX="99.64" kY="99.64" cX="1.16" cY="1.16" pX="61.3" pY="88.2" z="5" dI="0" twE="0" dr="14"/>
+          <f x="-1.15" y="-71.45" cocos2d_x="61" cocos2d_y="-116.45" kX="88.93" kY="88.93" cX="0.71" cY="0.71" pX="61.3" pY="88.1" z="5" dI="0" twE="0" dr="23"/>
+          <f x="-1.15" y="-71.45" cocos2d_x="69.6" cocos2d_y="-101.05" kX="102.14" kY="102.14" cX="0.71" cY="0.71" pX="61.3" pY="88.05" z="5" dI="0" twE="0" dr="24"/>
+          <f x="-1.15" y="-71.45" cocos2d_x="61" cocos2d_y="-116.45" kX="88.93" kY="88.93" cX="0.71" cY="0.71" pX="61.3" pY="88.1" z="5" dI="0" twE="0" dr="23"/>
+          <f x="-1.15" y="-71.45" cocos2d_x="69.6" cocos2d_y="-101.05" kX="102.14" kY="102.14" cX="0.71" cY="0.71" pX="61.3" pY="88.05" z="5" dI="0" twE="0" dr="24"/>
+          <f x="-1.15" y="-71.45" cocos2d_x="61" cocos2d_y="-116.45" kX="88.93" kY="88.93" cX="0.71" cY="0.71" pX="61.3" pY="88.1" z="5" dI="0" twE="0" dr="23"/>
+          <f x="-1.15" y="-71.45" cocos2d_x="69.6" cocos2d_y="-101.05" kX="102.14" kY="102.14" cX="0.71" cY="0.71" pX="61.3" pY="88.05" z="5" dI="0" twE="0" dr="24"/>
+          <f x="-1.15" y="-71.45" cocos2d_x="61" cocos2d_y="-116.45" kX="88.93" kY="88.93" cX="0.71" cY="0.71" pX="61.3" pY="88.1" z="5" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="buildpos_chest_4" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="4.5" y="-63.3" cocos2d_x="146.75" cocos2d_y="-45.75" kX="131.84" kY="131.84" cX="1.34" cY="1.34" pX="61.2" pY="88.05" z="6" dI="0" twE="0" dr="14"/>
+          <f x="4.5" y="-63.3" cocos2d_x="115.15" cocos2d_y="-74.8" kX="118.9" kY="118.9" cX="1.04" cY="1.04" pX="61.25" pY="88.05" z="6" dI="0" twE="0" dr="23"/>
+          <f x="4.45" y="-63.3" cocos2d_x="115.4" cocos2d_y="-54.45" kX="129.37" kY="129.37" cX="1.04" cY="1.04" pX="61.3" pY="88.1" z="6" dI="0" twE="0" dr="24"/>
+          <f x="4.5" y="-63.3" cocos2d_x="115.15" cocos2d_y="-74.8" kX="118.9" kY="118.9" cX="1.04" cY="1.04" pX="61.25" pY="88.05" z="6" dI="0" twE="0" dr="23"/>
+          <f x="4.45" y="-63.3" cocos2d_x="115.4" cocos2d_y="-54.45" kX="129.37" kY="129.37" cX="1.04" cY="1.04" pX="61.3" pY="88.1" z="6" dI="0" twE="0" dr="24"/>
+          <f x="4.5" y="-63.3" cocos2d_x="115.15" cocos2d_y="-74.8" kX="118.9" kY="118.9" cX="1.04" cY="1.04" pX="61.25" pY="88.05" z="6" dI="0" twE="0" dr="23"/>
+          <f x="4.45" y="-63.3" cocos2d_x="115.4" cocos2d_y="-54.45" kX="129.37" kY="129.37" cX="1.04" cY="1.04" pX="61.3" pY="88.1" z="6" dI="0" twE="0" dr="24"/>
+          <f x="4.5" y="-63.3" cocos2d_x="115.15" cocos2d_y="-74.8" kX="118.9" kY="118.9" cX="1.04" cY="1.04" pX="61.25" pY="88.05" z="6" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="buildpos_chest_40" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="-28.1" y="-68.45" cocos2d_x="-137.2" cocos2d_y="-90.2" kX="-43.83" kY="-43.83" cX="1.04" cY="1.04" pX="61.35" pY="88.05" z="7" dI="0" twE="0" dr="14"/>
+          <f x="-28.05" y="-68.4" cocos2d_x="-101.8" cocos2d_y="-89.6" kX="-39.11" kY="-39.11" cX="0.71" cY="0.71" pX="61.35" pY="88.05" z="7" dI="0" twE="0" dr="23"/>
+          <f x="-28.05" y="-68.4" cocos2d_x="-104.5" cocos2d_y="-75.55" kX="-49.82" kY="-49.82" cX="0.71" cY="0.71" pX="61.35" pY="88.15" z="7" dI="0" twE="0" dr="24"/>
+          <f x="-28.05" y="-68.4" cocos2d_x="-101.8" cocos2d_y="-89.6" kX="-39.11" kY="-39.11" cX="0.71" cY="0.71" pX="61.35" pY="88.05" z="7" dI="0" twE="0" dr="23"/>
+          <f x="-28.05" y="-68.4" cocos2d_x="-104.5" cocos2d_y="-75.55" kX="-49.82" kY="-49.82" cX="0.71" cY="0.71" pX="61.35" pY="88.15" z="7" dI="0" twE="0" dr="24"/>
+          <f x="-28.05" y="-68.4" cocos2d_x="-101.8" cocos2d_y="-89.6" kX="-39.11" kY="-39.11" cX="0.71" cY="0.71" pX="61.35" pY="88.05" z="7" dI="0" twE="0" dr="23"/>
+          <f x="-28.05" y="-68.4" cocos2d_x="-104.5" cocos2d_y="-75.55" kX="-49.82" kY="-49.82" cX="0.71" cY="0.71" pX="61.35" pY="88.15" z="7" dI="0" twE="0" dr="24"/>
+          <f x="-28.05" y="-68.4" cocos2d_x="-101.8" cocos2d_y="-89.6" kX="-39.11" kY="-39.11" cX="0.71" cY="0.71" pX="61.35" pY="88.05" z="7" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="buildpos_chest_3" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="-5.2" y="-70.75" cocos2d_x="-292.45" cocos2d_y="-285.35" kX="0" kY="0" cX="5.25" cY="5.25" pX="54.75" pY="40.9" z="8" dI="0" twE="0" dr="14">
+            <colorTransform a="0" r="0" g="0" b="0" aM="88" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.15" y="-70.85" cocos2d_x="-169.4" cocos2d_y="-193.55" kX="0" kY="0" cX="3" cY="3" pX="54.75" pY="40.9" z="8" dI="0" twE="0" dr="23">
+            <colorTransform a="0" r="0" g="0" b="0" aM="59" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.15" y="-70.8" cocos2d_x="-203.6" cocos2d_y="-219.05" kX="0" kY="0" cX="3.62" cY="3.62" pX="54.75" pY="40.9" z="8" dI="0" twE="0" dr="24">
+            <colorTransform a="0" r="0" g="0" b="0" aM="28" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.15" y="-70.85" cocos2d_x="-169.4" cocos2d_y="-193.55" kX="0" kY="0" cX="3" cY="3" pX="54.75" pY="40.9" z="8" dI="0" twE="0" dr="23">
+            <colorTransform a="0" r="0" g="0" b="0" aM="59" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.15" y="-70.8" cocos2d_x="-203.6" cocos2d_y="-219.05" kX="0" kY="0" cX="3.62" cY="3.62" pX="54.75" pY="40.9" z="8" dI="0" twE="0" dr="24">
+            <colorTransform a="0" r="0" g="0" b="0" aM="28" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.15" y="-70.85" cocos2d_x="-169.4" cocos2d_y="-193.55" kX="0" kY="0" cX="3" cY="3" pX="54.75" pY="40.9" z="8" dI="0" twE="0" dr="23">
+            <colorTransform a="0" r="0" g="0" b="0" aM="59" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.15" y="-70.8" cocos2d_x="-203.6" cocos2d_y="-219.05" kX="0" kY="0" cX="3.62" cY="3.62" pX="54.75" pY="40.9" z="8" dI="0" twE="0" dr="24">
+            <colorTransform a="0" r="0" g="0" b="0" aM="28" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.15" y="-70.85" cocos2d_x="-169.4" cocos2d_y="-193.55" kX="0" kY="0" cX="3" cY="3" pX="54.75" pY="40.9" z="8" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="59" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="buildpos_chest_2" sc="1" dl="0">
+          <f dr="23" dI="-1"/>
+          <f x="-0.85" y="-54.15" cocos2d_x="-0.3" cocos2d_y="-62.1" kX="48.61" kY="48.61" cX="0.45" cY="0.45" pX="12.3" pY="12.45" z="9" dI="0" twE="0" dr="4"/>
+          <f x="-1" y="-54.3" cocos2d_x="17.1" cocos2d_y="-63.75" kX="107.05" kY="107.05" cX="1.17" cY="1.17" pX="12.2" pY="12.35" z="9" dI="0" twE="0" dr="6"/>
+          <f x="-0.95" y="-54.25" cocos2d_x="20.5" cocos2d_y="-59.15" kX="121.74" kY="121.74" cX="1.26" cY="1.26" pX="12.25" pY="12.45" z="9" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="36" dI="-1"/>
+          <f x="-0.85" y="-54.15" cocos2d_x="-0.3" cocos2d_y="-62.1" kX="48.61" kY="48.61" cX="0.45" cY="0.45" pX="12.3" pY="12.45" z="9" dI="0" twE="0" dr="4"/>
+          <f x="-1" y="-54.3" cocos2d_x="17.1" cocos2d_y="-63.75" kX="107.05" kY="107.05" cX="1.17" cY="1.17" pX="12.2" pY="12.35" z="9" dI="0" twE="0" dr="6"/>
+          <f x="-0.95" y="-54.25" cocos2d_x="20.5" cocos2d_y="-59.15" kX="121.74" kY="121.74" cX="1.26" cY="1.26" pX="12.25" pY="12.45" z="9" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="36" dI="-1"/>
+          <f x="-0.85" y="-54.15" cocos2d_x="-0.3" cocos2d_y="-62.1" kX="48.61" kY="48.61" cX="0.45" cY="0.45" pX="12.3" pY="12.45" z="9" dI="0" twE="0" dr="4"/>
+          <f x="-1" y="-54.3" cocos2d_x="17.1" cocos2d_y="-63.75" kX="107.05" kY="107.05" cX="1.17" cY="1.17" pX="12.2" pY="12.35" z="9" dI="0" twE="0" dr="6"/>
+          <f x="-0.95" y="-54.25" cocos2d_x="20.5" cocos2d_y="-59.15" kX="121.74" kY="121.74" cX="1.26" cY="1.26" pX="12.25" pY="12.45" z="9" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="37" dI="-1"/>
+        </b>
+        <b name="buildpos_chest_1" sc="1" dl="0">
+          <f dr="52" dI="-1"/>
+          <f x="-13.65" y="-82.2" cocos2d_x="-13.05" cocos2d_y="-91" kX="48.61" kY="48.61" cX="0.51" cY="0.51" pX="12.2" pY="12.4" z="9" dI="0" twE="0" dr="4"/>
+          <f x="-13.8" y="-82.3" cocos2d_x="4.3" cocos2d_y="-91.75" kX="107.05" kY="107.05" cX="1.17" cY="1.17" pX="12.2" pY="12.35" z="9" dI="0" twE="0" dr="6"/>
+          <f x="-13.75" y="-82.25" cocos2d_x="7.7" cocos2d_y="-87.15" kX="121.74" kY="121.74" cX="1.26" cY="1.26" pX="12.25" pY="12.45" z="9" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="36" dI="-1"/>
+          <f x="-13.65" y="-82.2" cocos2d_x="-13.05" cocos2d_y="-91" kX="48.61" kY="48.61" cX="0.51" cY="0.51" pX="12.2" pY="12.4" z="9" dI="0" twE="0" dr="4"/>
+          <f x="-13.8" y="-82.3" cocos2d_x="4.3" cocos2d_y="-91.75" kX="107.05" kY="107.05" cX="1.17" cY="1.17" pX="12.2" pY="12.35" z="9" dI="0" twE="0" dr="6"/>
+          <f x="-13.75" y="-82.25" cocos2d_x="7.7" cocos2d_y="-87.15" kX="121.74" kY="121.74" cX="1.26" cY="1.26" pX="12.25" pY="12.45" z="9" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="36" dI="-1"/>
+          <f x="-13.65" y="-82.2" cocos2d_x="-13.05" cocos2d_y="-91" kX="48.61" kY="48.61" cX="0.51" cY="0.51" pX="12.2" pY="12.4" z="9" dI="0" twE="0" dr="4"/>
+          <f x="-13.8" y="-82.3" cocos2d_x="4.3" cocos2d_y="-91.75" kX="107.05" kY="107.05" cX="1.17" cY="1.17" pX="12.2" pY="12.35" z="9" dI="0" twE="0" dr="6"/>
+          <f x="-13.75" y="-82.25" cocos2d_x="7.7" cocos2d_y="-87.15" kX="121.74" kY="121.74" cX="1.26" cY="1.26" pX="12.25" pY="12.45" z="9" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="8" dI="-1"/>
+        </b>
+        <b name="head_buff" sc="1" dl="0">
+          <f x="0.5" y="-166.5" cocos2d_x="0" cocos2d_y="-167" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="0" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="blood" sc="1" dl="0">
+          <f x="0.5" y="-156.5" cocos2d_x="0" cocos2d_y="-157" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="1" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="hand" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="2" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="hit" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="3" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="body" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="4" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="body1" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="5" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="body_buff" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="6" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="foot_ring" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="7" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="foot_buff" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="8" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="summon" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="9" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="event" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="10" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+      <mov name="win" dr="28" to="0" drTW="28" lp="1" twE="NaN">
+        <b name="buildpos_chest_12" sc="1" dl="0">
+          <f x="-3.5" y="-56" cocos2d_x="-3.5" cocos2d_y="-56" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="28"/>
+        </b>
+        <b name="head_buff" sc="1" dl="0">
+          <f x="0.5" y="-166.5" cocos2d_x="0" cocos2d_y="-167" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="1" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="blood" sc="1" dl="0">
+          <f x="0.5" y="-156.5" cocos2d_x="0" cocos2d_y="-157" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="2" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="hand" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="3" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="hit" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="4" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="body" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="5" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="body1" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="6" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="body_buff" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="7" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="foot_ring" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="8" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="foot_buff" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="9" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="summon" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="10" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="event" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="11" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="buildpos_chest_3">
+      <mov name="idle" dr="28" to="0" drTW="28" lp="1" twE="NaN">
+        <b name="buildpos_chest_12" sc="1" dl="0">
+          <f x="-3.5" y="-56" cocos2d_x="-3.5" cocos2d_y="-56" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="28"/>
+        </b>
+        <b name="head_buff" sc="1" dl="0">
+          <f x="0.5" y="-166.5" cocos2d_x="0" cocos2d_y="-167" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="1" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="blood" sc="1" dl="0">
+          <f x="0.5" y="-156.5" cocos2d_x="0" cocos2d_y="-157" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="2" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="hand" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="3" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="hit" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="4" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="body" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="5" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="body1" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="6" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="body_buff" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="7" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="foot_ring" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="8" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="foot_buff" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="9" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="summon" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="10" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="event" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="11" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+      <mov name="dead" dr="165" to="0" drTW="165" lp="0" twE="NaN">
+        <b name="buildpos_chest_12" sc="1" dl="0">
+          <f x="-3.5" y="-56" cocos2d_x="-3.5" cocos2d_y="-56" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-3.5" y="-56" cocos2d_x="-3.5" cocos2d_y="-56" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="4"/>
+          <f x="-3.5" y="-50.5" cocos2d_x="-3.5" cocos2d_y="-50.5" kX="0" kY="0" cX="1" cY="0.91" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+          <f x="-3.5" y="-63" cocos2d_x="-3.5" cocos2d_y="-63" kX="0" kY="0" cX="1" cY="1.12" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="20.7" y="-27.2" cocos2d_x="20.7" cocos2d_y="-27.2" kX="13.85" kY="2.64" cX="1.03" cY="0.4" pX="0" pY="0" z="0" dI="1" dr="156">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="buildpos_chest_11" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="43.25" y="-98.9" cocos2d_x="43.25" cocos2d_y="-98.9" kX="9.59" kY="0" cX="1" cY="1.01" pX="0" pY="0" z="1" dI="0" twE="0" dr="2"/>
+          <f x="33.85" y="-100.2" cocos2d_x="33.85" cocos2d_y="-100.2" kX="-2.47" kY="-1.18" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="2"/>
+          <f x="35.75" y="-98.9" cocos2d_x="35.75" cocos2d_y="-98.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="152"/>
+        </b>
+        <b name="buildpos_chest_10" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="-3.25" y="-50" cocos2d_x="-3.25" cocos2d_y="-50" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="156"/>
+        </b>
+        <b name="buildpos_chest_7" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="-21.8" y="-75.05" cocos2d_x="-104.6" cocos2d_y="-180.75" kX="-3.21" kY="-3.21" cX="1.25" cY="1.25" pX="61.25" pY="87.95" z="3" dI="0" twE="0" dr="14"/>
+          <f x="-21.8" y="-75" cocos2d_x="-83.05" cocos2d_y="-163.05" kX="0" kY="0" cX="1" cY="1" pX="61.25" pY="88.05" z="3" dI="0" twE="0" dr="23"/>
+          <f x="-21.85" y="-75" cocos2d_x="-94.1" cocos2d_y="-154.25" kX="-7.53" kY="-7.53" cX="1" cY="1" pX="61.3" pY="88.05" z="3" dI="0" twE="0" dr="24"/>
+          <f x="-21.8" y="-75" cocos2d_x="-83.05" cocos2d_y="-163.05" kX="0" kY="0" cX="1" cY="1" pX="61.25" pY="88.05" z="3" dI="0" twE="0" dr="23"/>
+          <f x="-21.85" y="-75" cocos2d_x="-94.1" cocos2d_y="-154.25" kX="-7.53" kY="-7.53" cX="1" cY="1" pX="61.3" pY="88.05" z="3" dI="0" twE="0" dr="24"/>
+          <f x="-21.8" y="-75" cocos2d_x="-83.05" cocos2d_y="-163.05" kX="0" kY="0" cX="1" cY="1" pX="61.25" pY="88.05" z="3" dI="0" twE="0" dr="23"/>
+          <f x="-21.85" y="-75" cocos2d_x="-94.1" cocos2d_y="-154.25" kX="-7.53" kY="-7.53" cX="1" cY="1" pX="61.3" pY="88.05" z="3" dI="0" twE="0" dr="24"/>
+          <f x="-21.8" y="-75" cocos2d_x="-83.05" cocos2d_y="-163.05" kX="0" kY="0" cX="1" cY="1" pX="61.25" pY="88.05" z="3" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="buildpos_chest_6" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="-12.85" y="-73.9" cocos2d_x="47.05" cocos2d_y="-219.65" kX="57.14" kY="57.14" cX="1.47" cY="1.47" pX="61.2" pY="88.05" z="4" dI="0" twE="0" dr="14"/>
+          <f x="-12.8" y="-73.9" cocos2d_x="16.55" cocos2d_y="-177.05" kX="50.7" kY="50.7" cX="1" cY="1" pX="61.2" pY="88.05" z="4" dI="0" twE="0" dr="23"/>
+          <f x="-12.85" y="-73.9" cocos2d_x="36.8" cocos2d_y="-169" kX="62.38" kY="62.38" cX="1" cY="1" pX="61.25" pY="88.1" z="4" dI="0" twE="0" dr="24"/>
+          <f x="-12.8" y="-73.9" cocos2d_x="16.55" cocos2d_y="-177.05" kX="50.7" kY="50.7" cX="1" cY="1" pX="61.2" pY="88.05" z="4" dI="0" twE="0" dr="23"/>
+          <f x="-12.85" y="-73.9" cocos2d_x="36.8" cocos2d_y="-169" kX="62.38" kY="62.38" cX="1" cY="1" pX="61.25" pY="88.1" z="4" dI="0" twE="0" dr="24"/>
+          <f x="-12.8" y="-73.9" cocos2d_x="16.55" cocos2d_y="-177.05" kX="50.7" kY="50.7" cX="1" cY="1" pX="61.2" pY="88.05" z="4" dI="0" twE="0" dr="23"/>
+          <f x="-12.85" y="-73.9" cocos2d_x="36.8" cocos2d_y="-169" kX="62.38" kY="62.38" cX="1" cY="1" pX="61.25" pY="88.1" z="4" dI="0" twE="0" dr="24"/>
+          <f x="-12.8" y="-73.9" cocos2d_x="16.55" cocos2d_y="-177.05" kX="50.7" kY="50.7" cX="1" cY="1" pX="61.2" pY="88.05" z="4" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="buildpos_chest_5" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="-1.15" y="-71.3" cocos2d_x="111.85" cocos2d_y="-124.45" kX="99.64" kY="99.64" cX="1.16" cY="1.16" pX="61.3" pY="88.2" z="5" dI="0" twE="0" dr="14"/>
+          <f x="-1.15" y="-71.45" cocos2d_x="61" cocos2d_y="-116.45" kX="88.93" kY="88.93" cX="0.71" cY="0.71" pX="61.3" pY="88.1" z="5" dI="0" twE="0" dr="23"/>
+          <f x="-1.15" y="-71.45" cocos2d_x="69.6" cocos2d_y="-101.05" kX="102.14" kY="102.14" cX="0.71" cY="0.71" pX="61.3" pY="88.05" z="5" dI="0" twE="0" dr="24"/>
+          <f x="-1.15" y="-71.45" cocos2d_x="61" cocos2d_y="-116.45" kX="88.93" kY="88.93" cX="0.71" cY="0.71" pX="61.3" pY="88.1" z="5" dI="0" twE="0" dr="23"/>
+          <f x="-1.15" y="-71.45" cocos2d_x="69.6" cocos2d_y="-101.05" kX="102.14" kY="102.14" cX="0.71" cY="0.71" pX="61.3" pY="88.05" z="5" dI="0" twE="0" dr="24"/>
+          <f x="-1.15" y="-71.45" cocos2d_x="61" cocos2d_y="-116.45" kX="88.93" kY="88.93" cX="0.71" cY="0.71" pX="61.3" pY="88.1" z="5" dI="0" twE="0" dr="23"/>
+          <f x="-1.15" y="-71.45" cocos2d_x="69.6" cocos2d_y="-101.05" kX="102.14" kY="102.14" cX="0.71" cY="0.71" pX="61.3" pY="88.05" z="5" dI="0" twE="0" dr="24"/>
+          <f x="-1.15" y="-71.45" cocos2d_x="61" cocos2d_y="-116.45" kX="88.93" kY="88.93" cX="0.71" cY="0.71" pX="61.3" pY="88.1" z="5" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="buildpos_chest_4" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="4.5" y="-63.3" cocos2d_x="146.75" cocos2d_y="-45.75" kX="131.84" kY="131.84" cX="1.34" cY="1.34" pX="61.2" pY="88.05" z="6" dI="0" twE="0" dr="14"/>
+          <f x="4.5" y="-63.3" cocos2d_x="115.15" cocos2d_y="-74.8" kX="118.9" kY="118.9" cX="1.04" cY="1.04" pX="61.25" pY="88.05" z="6" dI="0" twE="0" dr="23"/>
+          <f x="4.45" y="-63.3" cocos2d_x="115.4" cocos2d_y="-54.45" kX="129.37" kY="129.37" cX="1.04" cY="1.04" pX="61.3" pY="88.1" z="6" dI="0" twE="0" dr="24"/>
+          <f x="4.5" y="-63.3" cocos2d_x="115.15" cocos2d_y="-74.8" kX="118.9" kY="118.9" cX="1.04" cY="1.04" pX="61.25" pY="88.05" z="6" dI="0" twE="0" dr="23"/>
+          <f x="4.45" y="-63.3" cocos2d_x="115.4" cocos2d_y="-54.45" kX="129.37" kY="129.37" cX="1.04" cY="1.04" pX="61.3" pY="88.1" z="6" dI="0" twE="0" dr="24"/>
+          <f x="4.5" y="-63.3" cocos2d_x="115.15" cocos2d_y="-74.8" kX="118.9" kY="118.9" cX="1.04" cY="1.04" pX="61.25" pY="88.05" z="6" dI="0" twE="0" dr="23"/>
+          <f x="4.45" y="-63.3" cocos2d_x="115.4" cocos2d_y="-54.45" kX="129.37" kY="129.37" cX="1.04" cY="1.04" pX="61.3" pY="88.1" z="6" dI="0" twE="0" dr="24"/>
+          <f x="4.5" y="-63.3" cocos2d_x="115.15" cocos2d_y="-74.8" kX="118.9" kY="118.9" cX="1.04" cY="1.04" pX="61.25" pY="88.05" z="6" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="buildpos_chest_40" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="-28.1" y="-68.45" cocos2d_x="-137.2" cocos2d_y="-90.2" kX="-43.83" kY="-43.83" cX="1.04" cY="1.04" pX="61.35" pY="88.05" z="7" dI="0" twE="0" dr="14"/>
+          <f x="-28.05" y="-68.4" cocos2d_x="-101.8" cocos2d_y="-89.6" kX="-39.11" kY="-39.11" cX="0.71" cY="0.71" pX="61.35" pY="88.05" z="7" dI="0" twE="0" dr="23"/>
+          <f x="-28.05" y="-68.4" cocos2d_x="-104.5" cocos2d_y="-75.55" kX="-49.82" kY="-49.82" cX="0.71" cY="0.71" pX="61.35" pY="88.15" z="7" dI="0" twE="0" dr="24"/>
+          <f x="-28.05" y="-68.4" cocos2d_x="-101.8" cocos2d_y="-89.6" kX="-39.11" kY="-39.11" cX="0.71" cY="0.71" pX="61.35" pY="88.05" z="7" dI="0" twE="0" dr="23"/>
+          <f x="-28.05" y="-68.4" cocos2d_x="-104.5" cocos2d_y="-75.55" kX="-49.82" kY="-49.82" cX="0.71" cY="0.71" pX="61.35" pY="88.15" z="7" dI="0" twE="0" dr="24"/>
+          <f x="-28.05" y="-68.4" cocos2d_x="-101.8" cocos2d_y="-89.6" kX="-39.11" kY="-39.11" cX="0.71" cY="0.71" pX="61.35" pY="88.05" z="7" dI="0" twE="0" dr="23"/>
+          <f x="-28.05" y="-68.4" cocos2d_x="-104.5" cocos2d_y="-75.55" kX="-49.82" kY="-49.82" cX="0.71" cY="0.71" pX="61.35" pY="88.15" z="7" dI="0" twE="0" dr="24"/>
+          <f x="-28.05" y="-68.4" cocos2d_x="-101.8" cocos2d_y="-89.6" kX="-39.11" kY="-39.11" cX="0.71" cY="0.71" pX="61.35" pY="88.05" z="7" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="buildpos_chest_3" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="-5.2" y="-70.75" cocos2d_x="-292.45" cocos2d_y="-285.35" kX="0" kY="0" cX="5.25" cY="5.25" pX="54.75" pY="40.9" z="8" dI="0" twE="0" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="88" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.2" y="-70.75" cocos2d_x="-248.5" cocos2d_y="-252.5" kX="0" kY="0" cX="4.44" cY="4.44" pX="54.75" pY="40.9" z="8" dI="0" twE="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="78" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.15" y="-70.85" cocos2d_x="-169.4" cocos2d_y="-193.55" kX="0" kY="0" cX="3" cY="3" pX="54.75" pY="40.9" z="8" dI="0" twE="0" dr="23">
+            <colorTransform a="0" r="0" g="0" b="0" aM="59" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.15" y="-70.8" cocos2d_x="-203.6" cocos2d_y="-219.05" kX="0" kY="0" cX="3.62" cY="3.62" pX="54.75" pY="40.9" z="8" dI="0" twE="0" dr="24">
+            <colorTransform a="0" r="0" g="0" b="0" aM="28" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.15" y="-70.85" cocos2d_x="-169.4" cocos2d_y="-193.55" kX="0" kY="0" cX="3" cY="3" pX="54.75" pY="40.9" z="8" dI="0" twE="0" dr="23">
+            <colorTransform a="0" r="0" g="0" b="0" aM="59" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.15" y="-70.8" cocos2d_x="-203.6" cocos2d_y="-219.05" kX="0" kY="0" cX="3.62" cY="3.62" pX="54.75" pY="40.9" z="8" dI="0" twE="0" dr="24">
+            <colorTransform a="0" r="0" g="0" b="0" aM="28" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.15" y="-70.85" cocos2d_x="-169.4" cocos2d_y="-193.55" kX="0" kY="0" cX="3" cY="3" pX="54.75" pY="40.9" z="8" dI="0" twE="0" dr="23">
+            <colorTransform a="0" r="0" g="0" b="0" aM="59" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.15" y="-70.8" cocos2d_x="-203.6" cocos2d_y="-219.05" kX="0" kY="0" cX="3.62" cY="3.62" pX="54.75" pY="40.9" z="8" dI="0" twE="0" dr="24">
+            <colorTransform a="0" r="0" g="0" b="0" aM="28" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.15" y="-70.85" cocos2d_x="-169.4" cocos2d_y="-193.55" kX="0" kY="0" cX="3" cY="3" pX="54.75" pY="40.9" z="8" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="59" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="buildpos_chest_2" sc="1" dl="0">
+          <f dr="23" dI="-1"/>
+          <f x="-0.85" y="-54.15" cocos2d_x="-0.3" cocos2d_y="-62.1" kX="48.61" kY="48.61" cX="0.45" cY="0.45" pX="12.3" pY="12.45" z="9" dI="0" twE="0" dr="4"/>
+          <f x="-1" y="-54.3" cocos2d_x="17.1" cocos2d_y="-63.75" kX="107.05" kY="107.05" cX="1.17" cY="1.17" pX="12.2" pY="12.35" z="9" dI="0" twE="0" dr="6"/>
+          <f x="-0.95" y="-54.25" cocos2d_x="20.5" cocos2d_y="-59.15" kX="121.74" kY="121.74" cX="1.26" cY="1.26" pX="12.25" pY="12.45" z="9" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="36" dI="-1"/>
+          <f x="-0.85" y="-54.15" cocos2d_x="-0.3" cocos2d_y="-62.1" kX="48.61" kY="48.61" cX="0.45" cY="0.45" pX="12.3" pY="12.45" z="9" dI="0" twE="0" dr="4"/>
+          <f x="-1" y="-54.3" cocos2d_x="17.1" cocos2d_y="-63.75" kX="107.05" kY="107.05" cX="1.17" cY="1.17" pX="12.2" pY="12.35" z="9" dI="0" twE="0" dr="6"/>
+          <f x="-0.95" y="-54.25" cocos2d_x="20.5" cocos2d_y="-59.15" kX="121.74" kY="121.74" cX="1.26" cY="1.26" pX="12.25" pY="12.45" z="9" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="36" dI="-1"/>
+          <f x="-0.85" y="-54.15" cocos2d_x="-0.3" cocos2d_y="-62.1" kX="48.61" kY="48.61" cX="0.45" cY="0.45" pX="12.3" pY="12.45" z="9" dI="0" twE="0" dr="4"/>
+          <f x="-1" y="-54.3" cocos2d_x="17.1" cocos2d_y="-63.75" kX="107.05" kY="107.05" cX="1.17" cY="1.17" pX="12.2" pY="12.35" z="9" dI="0" twE="0" dr="6"/>
+          <f x="-0.95" y="-54.25" cocos2d_x="20.5" cocos2d_y="-59.15" kX="121.74" kY="121.74" cX="1.26" cY="1.26" pX="12.25" pY="12.45" z="9" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="37" dI="-1"/>
+        </b>
+        <b name="buildpos_chest_1" sc="1" dl="0">
+          <f dr="52" dI="-1"/>
+          <f x="-13.65" y="-82.2" cocos2d_x="-13.05" cocos2d_y="-91" kX="48.61" kY="48.61" cX="0.51" cY="0.51" pX="12.2" pY="12.4" z="9" dI="0" twE="0" dr="4"/>
+          <f x="-13.8" y="-82.3" cocos2d_x="4.3" cocos2d_y="-91.75" kX="107.05" kY="107.05" cX="1.17" cY="1.17" pX="12.2" pY="12.35" z="9" dI="0" twE="0" dr="6"/>
+          <f x="-13.75" y="-82.25" cocos2d_x="7.7" cocos2d_y="-87.15" kX="121.74" kY="121.74" cX="1.26" cY="1.26" pX="12.25" pY="12.45" z="9" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="36" dI="-1"/>
+          <f x="-13.65" y="-82.2" cocos2d_x="-13.05" cocos2d_y="-91" kX="48.61" kY="48.61" cX="0.51" cY="0.51" pX="12.2" pY="12.4" z="9" dI="0" twE="0" dr="4"/>
+          <f x="-13.8" y="-82.3" cocos2d_x="4.3" cocos2d_y="-91.75" kX="107.05" kY="107.05" cX="1.17" cY="1.17" pX="12.2" pY="12.35" z="9" dI="0" twE="0" dr="6"/>
+          <f x="-13.75" y="-82.25" cocos2d_x="7.7" cocos2d_y="-87.15" kX="121.74" kY="121.74" cX="1.26" cY="1.26" pX="12.25" pY="12.45" z="9" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="36" dI="-1"/>
+          <f x="-13.65" y="-82.2" cocos2d_x="-13.05" cocos2d_y="-91" kX="48.61" kY="48.61" cX="0.51" cY="0.51" pX="12.2" pY="12.4" z="9" dI="0" twE="0" dr="4"/>
+          <f x="-13.8" y="-82.3" cocos2d_x="4.3" cocos2d_y="-91.75" kX="107.05" kY="107.05" cX="1.17" cY="1.17" pX="12.2" pY="12.35" z="9" dI="0" twE="0" dr="6"/>
+          <f x="-13.75" y="-82.25" cocos2d_x="7.7" cocos2d_y="-87.15" kX="121.74" kY="121.74" cX="1.26" cY="1.26" pX="12.25" pY="12.45" z="9" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="8" dI="-1"/>
+        </b>
+        <b name="head_buff" sc="1" dl="0">
+          <f x="0.5" y="-166.5" cocos2d_x="0" cocos2d_y="-167" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="0" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="blood" sc="1" dl="0">
+          <f x="0.5" y="-156.5" cocos2d_x="0" cocos2d_y="-157" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="1" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="hand" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="2" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="hit" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="3" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="body" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="4" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="body1" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="5" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="body_buff" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="6" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="foot_ring" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="7" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="foot_buff" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="8" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="summon" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="9" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="event" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="10" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+      <mov name="win" dr="28" to="0" drTW="28" lp="1" twE="NaN">
+        <b name="buildpos_chest_12" sc="1" dl="0">
+          <f x="-3.5" y="-56" cocos2d_x="-3.5" cocos2d_y="-56" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="28"/>
+        </b>
+        <b name="head_buff" sc="1" dl="0">
+          <f x="0.5" y="-166.5" cocos2d_x="0" cocos2d_y="-167" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="1" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="blood" sc="1" dl="0">
+          <f x="0.5" y="-156.5" cocos2d_x="0" cocos2d_y="-157" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="2" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="hand" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="3" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="hit" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="4" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="body" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="5" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="body1" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="6" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="body_buff" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="7" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="foot_ring" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="8" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="foot_buff" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="9" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="summon" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="10" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="event" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="11" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="buildpos_chest_1">
+      <mov name="idle" dr="28" to="0" drTW="28" lp="1" twE="NaN">
+        <b name="buildpos_chest_12" sc="1" dl="0">
+          <f x="-3.5" y="-56" cocos2d_x="-3.5" cocos2d_y="-56" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="28"/>
+        </b>
+        <b name="head_buff" sc="1" dl="0">
+          <f x="0.5" y="-166.5" cocos2d_x="0" cocos2d_y="-167" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="1" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="blood" sc="1" dl="0">
+          <f x="0.5" y="-156.5" cocos2d_x="0" cocos2d_y="-157" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="2" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="hand" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="3" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="hit" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="4" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="body" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="5" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="body1" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="6" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="body_buff" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="7" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="foot_ring" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="8" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="foot_buff" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="9" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="summon" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="10" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="event" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="11" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+      <mov name="dead" dr="165" to="0" drTW="165" lp="0" twE="NaN">
+        <b name="buildpos_chest_12" sc="1" dl="0">
+          <f x="-3.5" y="-56" cocos2d_x="-3.5" cocos2d_y="-56" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-3.5" y="-56" cocos2d_x="-3.5" cocos2d_y="-56" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="4"/>
+          <f x="-3.5" y="-50.5" cocos2d_x="-3.5" cocos2d_y="-50.5" kX="0" kY="0" cX="1" cY="0.91" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+          <f x="-3.5" y="-63" cocos2d_x="-3.5" cocos2d_y="-63" kX="0" kY="0" cX="1" cY="1.12" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="20.7" y="-27.2" cocos2d_x="20.7" cocos2d_y="-27.2" kX="13.85" kY="2.64" cX="1.03" cY="0.4" pX="0" pY="0" z="0" dI="1" dr="156">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="buildpos_chest_11" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="43.25" y="-98.9" cocos2d_x="43.25" cocos2d_y="-98.9" kX="9.59" kY="0" cX="1" cY="1.01" pX="0" pY="0" z="1" dI="0" twE="0" dr="2"/>
+          <f x="33.85" y="-100.2" cocos2d_x="33.85" cocos2d_y="-100.2" kX="-2.47" kY="-1.18" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="2"/>
+          <f x="35.75" y="-98.9" cocos2d_x="35.75" cocos2d_y="-98.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="152"/>
+        </b>
+        <b name="buildpos_chest_10" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="-3.25" y="-50" cocos2d_x="-3.25" cocos2d_y="-50" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="156"/>
+        </b>
+        <b name="buildpos_chest_7" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="-21.8" y="-75.05" cocos2d_x="-104.6" cocos2d_y="-180.75" kX="-3.21" kY="-3.21" cX="1.25" cY="1.25" pX="61.25" pY="87.95" z="3" dI="0" twE="0" dr="14"/>
+          <f x="-21.8" y="-75" cocos2d_x="-83.05" cocos2d_y="-163.05" kX="0" kY="0" cX="1" cY="1" pX="61.25" pY="88.05" z="3" dI="0" twE="0" dr="23"/>
+          <f x="-21.85" y="-75" cocos2d_x="-94.1" cocos2d_y="-154.25" kX="-7.53" kY="-7.53" cX="1" cY="1" pX="61.3" pY="88.05" z="3" dI="0" twE="0" dr="24"/>
+          <f x="-21.8" y="-75" cocos2d_x="-83.05" cocos2d_y="-163.05" kX="0" kY="0" cX="1" cY="1" pX="61.25" pY="88.05" z="3" dI="0" twE="0" dr="23"/>
+          <f x="-21.85" y="-75" cocos2d_x="-94.1" cocos2d_y="-154.25" kX="-7.53" kY="-7.53" cX="1" cY="1" pX="61.3" pY="88.05" z="3" dI="0" twE="0" dr="24"/>
+          <f x="-21.8" y="-75" cocos2d_x="-83.05" cocos2d_y="-163.05" kX="0" kY="0" cX="1" cY="1" pX="61.25" pY="88.05" z="3" dI="0" twE="0" dr="23"/>
+          <f x="-21.85" y="-75" cocos2d_x="-94.1" cocos2d_y="-154.25" kX="-7.53" kY="-7.53" cX="1" cY="1" pX="61.3" pY="88.05" z="3" dI="0" twE="0" dr="24"/>
+          <f x="-21.8" y="-75" cocos2d_x="-83.05" cocos2d_y="-163.05" kX="0" kY="0" cX="1" cY="1" pX="61.25" pY="88.05" z="3" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="buildpos_chest_6" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="-12.85" y="-73.9" cocos2d_x="47.05" cocos2d_y="-219.65" kX="57.14" kY="57.14" cX="1.47" cY="1.47" pX="61.2" pY="88.05" z="4" dI="0" twE="0" dr="14"/>
+          <f x="-12.8" y="-73.9" cocos2d_x="16.55" cocos2d_y="-177.05" kX="50.7" kY="50.7" cX="1" cY="1" pX="61.2" pY="88.05" z="4" dI="0" twE="0" dr="23"/>
+          <f x="-12.85" y="-73.9" cocos2d_x="36.8" cocos2d_y="-169" kX="62.38" kY="62.38" cX="1" cY="1" pX="61.25" pY="88.1" z="4" dI="0" twE="0" dr="24"/>
+          <f x="-12.8" y="-73.9" cocos2d_x="16.55" cocos2d_y="-177.05" kX="50.7" kY="50.7" cX="1" cY="1" pX="61.2" pY="88.05" z="4" dI="0" twE="0" dr="23"/>
+          <f x="-12.85" y="-73.9" cocos2d_x="36.8" cocos2d_y="-169" kX="62.38" kY="62.38" cX="1" cY="1" pX="61.25" pY="88.1" z="4" dI="0" twE="0" dr="24"/>
+          <f x="-12.8" y="-73.9" cocos2d_x="16.55" cocos2d_y="-177.05" kX="50.7" kY="50.7" cX="1" cY="1" pX="61.2" pY="88.05" z="4" dI="0" twE="0" dr="23"/>
+          <f x="-12.85" y="-73.9" cocos2d_x="36.8" cocos2d_y="-169" kX="62.38" kY="62.38" cX="1" cY="1" pX="61.25" pY="88.1" z="4" dI="0" twE="0" dr="24"/>
+          <f x="-12.8" y="-73.9" cocos2d_x="16.55" cocos2d_y="-177.05" kX="50.7" kY="50.7" cX="1" cY="1" pX="61.2" pY="88.05" z="4" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="buildpos_chest_5" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="-1.15" y="-71.3" cocos2d_x="111.85" cocos2d_y="-124.45" kX="99.64" kY="99.64" cX="1.16" cY="1.16" pX="61.3" pY="88.2" z="5" dI="0" twE="0" dr="14"/>
+          <f x="-1.15" y="-71.45" cocos2d_x="61" cocos2d_y="-116.45" kX="88.93" kY="88.93" cX="0.71" cY="0.71" pX="61.3" pY="88.1" z="5" dI="0" twE="0" dr="23"/>
+          <f x="-1.15" y="-71.45" cocos2d_x="69.6" cocos2d_y="-101.05" kX="102.14" kY="102.14" cX="0.71" cY="0.71" pX="61.3" pY="88.05" z="5" dI="0" twE="0" dr="24"/>
+          <f x="-1.15" y="-71.45" cocos2d_x="61" cocos2d_y="-116.45" kX="88.93" kY="88.93" cX="0.71" cY="0.71" pX="61.3" pY="88.1" z="5" dI="0" twE="0" dr="23"/>
+          <f x="-1.15" y="-71.45" cocos2d_x="69.6" cocos2d_y="-101.05" kX="102.14" kY="102.14" cX="0.71" cY="0.71" pX="61.3" pY="88.05" z="5" dI="0" twE="0" dr="24"/>
+          <f x="-1.15" y="-71.45" cocos2d_x="61" cocos2d_y="-116.45" kX="88.93" kY="88.93" cX="0.71" cY="0.71" pX="61.3" pY="88.1" z="5" dI="0" twE="0" dr="23"/>
+          <f x="-1.15" y="-71.45" cocos2d_x="69.6" cocos2d_y="-101.05" kX="102.14" kY="102.14" cX="0.71" cY="0.71" pX="61.3" pY="88.05" z="5" dI="0" twE="0" dr="24"/>
+          <f x="-1.15" y="-71.45" cocos2d_x="61" cocos2d_y="-116.45" kX="88.93" kY="88.93" cX="0.71" cY="0.71" pX="61.3" pY="88.1" z="5" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="buildpos_chest_4" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="4.5" y="-63.3" cocos2d_x="146.75" cocos2d_y="-45.75" kX="131.84" kY="131.84" cX="1.34" cY="1.34" pX="61.2" pY="88.05" z="6" dI="0" twE="0" dr="14"/>
+          <f x="4.5" y="-63.3" cocos2d_x="115.15" cocos2d_y="-74.8" kX="118.9" kY="118.9" cX="1.04" cY="1.04" pX="61.25" pY="88.05" z="6" dI="0" twE="0" dr="23"/>
+          <f x="4.45" y="-63.3" cocos2d_x="115.4" cocos2d_y="-54.45" kX="129.37" kY="129.37" cX="1.04" cY="1.04" pX="61.3" pY="88.1" z="6" dI="0" twE="0" dr="24"/>
+          <f x="4.5" y="-63.3" cocos2d_x="115.15" cocos2d_y="-74.8" kX="118.9" kY="118.9" cX="1.04" cY="1.04" pX="61.25" pY="88.05" z="6" dI="0" twE="0" dr="23"/>
+          <f x="4.45" y="-63.3" cocos2d_x="115.4" cocos2d_y="-54.45" kX="129.37" kY="129.37" cX="1.04" cY="1.04" pX="61.3" pY="88.1" z="6" dI="0" twE="0" dr="24"/>
+          <f x="4.5" y="-63.3" cocos2d_x="115.15" cocos2d_y="-74.8" kX="118.9" kY="118.9" cX="1.04" cY="1.04" pX="61.25" pY="88.05" z="6" dI="0" twE="0" dr="23"/>
+          <f x="4.45" y="-63.3" cocos2d_x="115.4" cocos2d_y="-54.45" kX="129.37" kY="129.37" cX="1.04" cY="1.04" pX="61.3" pY="88.1" z="6" dI="0" twE="0" dr="24"/>
+          <f x="4.5" y="-63.3" cocos2d_x="115.15" cocos2d_y="-74.8" kX="118.9" kY="118.9" cX="1.04" cY="1.04" pX="61.25" pY="88.05" z="6" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="buildpos_chest_40" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="-28.1" y="-68.45" cocos2d_x="-137.2" cocos2d_y="-90.2" kX="-43.83" kY="-43.83" cX="1.04" cY="1.04" pX="61.35" pY="88.05" z="7" dI="0" twE="0" dr="14"/>
+          <f x="-28.05" y="-68.4" cocos2d_x="-101.8" cocos2d_y="-89.6" kX="-39.11" kY="-39.11" cX="0.71" cY="0.71" pX="61.35" pY="88.05" z="7" dI="0" twE="0" dr="23"/>
+          <f x="-28.05" y="-68.4" cocos2d_x="-104.5" cocos2d_y="-75.55" kX="-49.82" kY="-49.82" cX="0.71" cY="0.71" pX="61.35" pY="88.15" z="7" dI="0" twE="0" dr="24"/>
+          <f x="-28.05" y="-68.4" cocos2d_x="-101.8" cocos2d_y="-89.6" kX="-39.11" kY="-39.11" cX="0.71" cY="0.71" pX="61.35" pY="88.05" z="7" dI="0" twE="0" dr="23"/>
+          <f x="-28.05" y="-68.4" cocos2d_x="-104.5" cocos2d_y="-75.55" kX="-49.82" kY="-49.82" cX="0.71" cY="0.71" pX="61.35" pY="88.15" z="7" dI="0" twE="0" dr="24"/>
+          <f x="-28.05" y="-68.4" cocos2d_x="-101.8" cocos2d_y="-89.6" kX="-39.11" kY="-39.11" cX="0.71" cY="0.71" pX="61.35" pY="88.05" z="7" dI="0" twE="0" dr="23"/>
+          <f x="-28.05" y="-68.4" cocos2d_x="-104.5" cocos2d_y="-75.55" kX="-49.82" kY="-49.82" cX="0.71" cY="0.71" pX="61.35" pY="88.15" z="7" dI="0" twE="0" dr="24"/>
+          <f x="-28.05" y="-68.4" cocos2d_x="-101.8" cocos2d_y="-89.6" kX="-39.11" kY="-39.11" cX="0.71" cY="0.71" pX="61.35" pY="88.05" z="7" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="buildpos_chest_3" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="-5.2" y="-70.75" cocos2d_x="-292.45" cocos2d_y="-285.35" kX="0" kY="0" cX="5.25" cY="5.25" pX="54.75" pY="40.9" z="8" dI="0" twE="0" dr="14">
+            <colorTransform a="0" r="0" g="0" b="0" aM="88" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.15" y="-70.85" cocos2d_x="-169.4" cocos2d_y="-193.55" kX="0" kY="0" cX="3" cY="3" pX="54.75" pY="40.9" z="8" dI="0" twE="0" dr="23">
+            <colorTransform a="0" r="0" g="0" b="0" aM="59" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.15" y="-70.8" cocos2d_x="-203.6" cocos2d_y="-219.05" kX="0" kY="0" cX="3.62" cY="3.62" pX="54.75" pY="40.9" z="8" dI="0" twE="0" dr="24">
+            <colorTransform a="0" r="0" g="0" b="0" aM="28" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.15" y="-70.85" cocos2d_x="-169.4" cocos2d_y="-193.55" kX="0" kY="0" cX="3" cY="3" pX="54.75" pY="40.9" z="8" dI="0" twE="0" dr="23">
+            <colorTransform a="0" r="0" g="0" b="0" aM="59" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.15" y="-70.8" cocos2d_x="-203.6" cocos2d_y="-219.05" kX="0" kY="0" cX="3.62" cY="3.62" pX="54.75" pY="40.9" z="8" dI="0" twE="0" dr="24">
+            <colorTransform a="0" r="0" g="0" b="0" aM="28" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.15" y="-70.85" cocos2d_x="-169.4" cocos2d_y="-193.55" kX="0" kY="0" cX="3" cY="3" pX="54.75" pY="40.9" z="8" dI="0" twE="0" dr="23">
+            <colorTransform a="0" r="0" g="0" b="0" aM="59" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.15" y="-70.8" cocos2d_x="-203.6" cocos2d_y="-219.05" kX="0" kY="0" cX="3.62" cY="3.62" pX="54.75" pY="40.9" z="8" dI="0" twE="0" dr="24">
+            <colorTransform a="0" r="0" g="0" b="0" aM="28" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.15" y="-70.85" cocos2d_x="-169.4" cocos2d_y="-193.55" kX="0" kY="0" cX="3" cY="3" pX="54.75" pY="40.9" z="8" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="59" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="buildpos_chest_2" sc="1" dl="0">
+          <f dr="23" dI="-1"/>
+          <f x="-0.85" y="-54.15" cocos2d_x="-0.3" cocos2d_y="-62.1" kX="48.61" kY="48.61" cX="0.45" cY="0.45" pX="12.3" pY="12.45" z="9" dI="0" twE="0" dr="4"/>
+          <f x="-1" y="-54.3" cocos2d_x="17.1" cocos2d_y="-63.75" kX="107.05" kY="107.05" cX="1.17" cY="1.17" pX="12.2" pY="12.35" z="9" dI="0" twE="0" dr="6"/>
+          <f x="-0.95" y="-54.25" cocos2d_x="20.5" cocos2d_y="-59.15" kX="121.74" kY="121.74" cX="1.26" cY="1.26" pX="12.25" pY="12.45" z="9" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="36" dI="-1"/>
+          <f x="-0.85" y="-54.15" cocos2d_x="-0.3" cocos2d_y="-62.1" kX="48.61" kY="48.61" cX="0.45" cY="0.45" pX="12.3" pY="12.45" z="9" dI="0" twE="0" dr="4"/>
+          <f x="-1" y="-54.3" cocos2d_x="17.1" cocos2d_y="-63.75" kX="107.05" kY="107.05" cX="1.17" cY="1.17" pX="12.2" pY="12.35" z="9" dI="0" twE="0" dr="6"/>
+          <f x="-0.95" y="-54.25" cocos2d_x="20.5" cocos2d_y="-59.15" kX="121.74" kY="121.74" cX="1.26" cY="1.26" pX="12.25" pY="12.45" z="9" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="36" dI="-1"/>
+          <f x="-0.85" y="-54.15" cocos2d_x="-0.3" cocos2d_y="-62.1" kX="48.61" kY="48.61" cX="0.45" cY="0.45" pX="12.3" pY="12.45" z="9" dI="0" twE="0" dr="4"/>
+          <f x="-1" y="-54.3" cocos2d_x="17.1" cocos2d_y="-63.75" kX="107.05" kY="107.05" cX="1.17" cY="1.17" pX="12.2" pY="12.35" z="9" dI="0" twE="0" dr="6"/>
+          <f x="-0.95" y="-54.25" cocos2d_x="20.5" cocos2d_y="-59.15" kX="121.74" kY="121.74" cX="1.26" cY="1.26" pX="12.25" pY="12.45" z="9" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="37" dI="-1"/>
+        </b>
+        <b name="buildpos_chest_1" sc="1" dl="0">
+          <f dr="52" dI="-1"/>
+          <f x="-13.65" y="-82.2" cocos2d_x="-13.05" cocos2d_y="-91" kX="48.61" kY="48.61" cX="0.51" cY="0.51" pX="12.2" pY="12.4" z="9" dI="0" twE="0" dr="4"/>
+          <f x="-13.8" y="-82.3" cocos2d_x="4.3" cocos2d_y="-91.75" kX="107.05" kY="107.05" cX="1.17" cY="1.17" pX="12.2" pY="12.35" z="9" dI="0" twE="0" dr="6"/>
+          <f x="-13.75" y="-82.25" cocos2d_x="7.7" cocos2d_y="-87.15" kX="121.74" kY="121.74" cX="1.26" cY="1.26" pX="12.25" pY="12.45" z="9" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="36" dI="-1"/>
+          <f x="-13.65" y="-82.2" cocos2d_x="-13.05" cocos2d_y="-91" kX="48.61" kY="48.61" cX="0.51" cY="0.51" pX="12.2" pY="12.4" z="9" dI="0" twE="0" dr="4"/>
+          <f x="-13.8" y="-82.3" cocos2d_x="4.3" cocos2d_y="-91.75" kX="107.05" kY="107.05" cX="1.17" cY="1.17" pX="12.2" pY="12.35" z="9" dI="0" twE="0" dr="6"/>
+          <f x="-13.75" y="-82.25" cocos2d_x="7.7" cocos2d_y="-87.15" kX="121.74" kY="121.74" cX="1.26" cY="1.26" pX="12.25" pY="12.45" z="9" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="36" dI="-1"/>
+          <f x="-13.65" y="-82.2" cocos2d_x="-13.05" cocos2d_y="-91" kX="48.61" kY="48.61" cX="0.51" cY="0.51" pX="12.2" pY="12.4" z="9" dI="0" twE="0" dr="4"/>
+          <f x="-13.8" y="-82.3" cocos2d_x="4.3" cocos2d_y="-91.75" kX="107.05" kY="107.05" cX="1.17" cY="1.17" pX="12.2" pY="12.35" z="9" dI="0" twE="0" dr="6"/>
+          <f x="-13.75" y="-82.25" cocos2d_x="7.7" cocos2d_y="-87.15" kX="121.74" kY="121.74" cX="1.26" cY="1.26" pX="12.25" pY="12.45" z="9" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="8" dI="-1"/>
+        </b>
+        <b name="head_buff" sc="1" dl="0">
+          <f x="0.5" y="-166.5" cocos2d_x="0" cocos2d_y="-167" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="0" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="blood" sc="1" dl="0">
+          <f x="0.5" y="-156.5" cocos2d_x="0" cocos2d_y="-157" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="1" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="hand" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="2" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="hit" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="3" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="body" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="4" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="body1" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="5" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="body_buff" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="6" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="foot_ring" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="7" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="foot_buff" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="8" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="summon" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="9" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="event" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="10" dI="0" dr="193">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+      <mov name="win" dr="28" to="0" drTW="28" lp="1" twE="NaN">
+        <b name="buildpos_chest_12" sc="1" dl="0">
+          <f x="-3.5" y="-56" cocos2d_x="-3.5" cocos2d_y="-56" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="28"/>
+        </b>
+        <b name="head_buff" sc="1" dl="0">
+          <f x="0.5" y="-166.5" cocos2d_x="0" cocos2d_y="-167" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="1" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="blood" sc="1" dl="0">
+          <f x="0.5" y="-156.5" cocos2d_x="0" cocos2d_y="-157" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="2" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="hand" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="3" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="hit" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="4" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="body" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="5" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="body1" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="6" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="body_buff" sc="1" dl="0">
+          <f x="0.5" y="-49.5" cocos2d_x="0" cocos2d_y="-50" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="7" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="foot_ring" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="8" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="foot_buff" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="9" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="summon" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="10" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="event" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.02" cY="0.01" pX="32.85" pY="45.5" z="11" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="buildpos_chest" width="512" height="1024">
+    <SubTexture name="buildpos_chest__14" width="135" height="102" cocos2d_pX="67.2" cocos2d_pY="50.7" x="0" y="405"/>
+    <SubTexture name="buildpos_chest__18" width="129" height="89" cocos2d_pX="64.2" cocos2d_pY="44.4" x="134" y="516"/>
+    <SubTexture name="buildpos_chest__10" width="188" height="117" cocos2d_pX="77.35" cocos2d_pY="58.2" x="147" y="296"/>
+    <SubTexture name="buildpos_chest__15" width="144" height="103" cocos2d_pX="66.5" cocos2d_pY="50.5" x="337" y="400"/>
+    <SubTexture name="buildpos_chest__19" width="133" height="94" cocos2d_pX="66.45" cocos2d_pY="46.25" x="273" y="505"/>
+    <SubTexture name="buildpos_chest__11" width="198" height="144" cocos2d_pX="83.95" cocos2d_pY="72.85" x="197" y="0"/>
+    <SubTexture name="buildpos_chest__16" width="145" height="102" cocos2d_pX="66.95" cocos2d_pY="50.5" x="337" y="296"/>
+    <SubTexture name="buildpos_chest__20" width="134" height="99" cocos2d_pX="63.15" cocos2d_pY="49.25" x="137" y="415"/>
+    <SubTexture name="buildpos_chest__12" width="195" height="148" cocos2d_pX="79.35" cocos2d_pY="73.2" x="0" y="0"/>
+    <SubTexture name="buildpos_chest__4" width="23" height="23" cocos2d_pX="-0.9" cocos2d_pY="-0.9" x="465" y="31"/>
+    <SubTexture name="buildpos_chest__8" width="38" height="29" cocos2d_pX="-36.7" cocos2d_pY="-27.15" x="465" y="0"/>
+    <SubTexture name="buildpos_chest__5" width="66" height="91" cocos2d_pX="0" cocos2d_pY="0" x="397" y="93"/>
+    <SubTexture name="buildpos_chest__17" width="145" height="107" cocos2d_pX="66" cocos2d_pY="54" x="0" y="296"/>
+    <SubTexture name="buildpos_chest__21" width="132" height="94" cocos2d_pX="61.5" cocos2d_pY="48" x="0" y="509"/>
+    <SubTexture name="buildpos_chest__24" width="66" height="91" cocos2d_pX="0" cocos2d_pY="0" x="397" y="0"/>
+    <SubTexture name="buildpos_chest__23" width="170" height="144" cocos2d_pX="85.2" cocos2d_pY="72" x="0" y="150"/>
+    <SubTexture name="buildpos_chest__13" width="193" height="148" cocos2d_pX="76.85" cocos2d_pY="73.05" x="197" y="146"/>
+  </TextureAtlas>
+</skeleton>

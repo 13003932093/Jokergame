@@ -1,0 +1,78 @@
+<skeleton name="path_11622" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="path_11622">
+      <b name="path_11622_1" x="0" y="0" kX="0" kY="0" cX="1" cY="0.34" pX="0" pY="0" z="0">
+        <d name="path_11622_9" pX="145.95" pY="141.55"/>
+      </b>
+      <b name="path_11622_2" x="2.85" y="1.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="path_11622_1" pX="30" pY="37.5"/>
+        <d name="path_11622_2" pX="74.5" pY="62.5"/>
+        <d name="path_11622_3" pX="99.5" pY="69.5"/>
+        <d name="path_11622_4" pX="117.5" pY="81"/>
+        <d name="path_11622_5" pX="134" pY="85"/>
+      </b>
+      <b name="event" x="0.5" y="0.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="path_11622_10" pX="0.5" pY="0.5"/>
+      </b>
+    </armature>
+    <armature name="path_11622_0">
+      <b name="hit_effect_11622_1" x="2.85" y="1.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="path_11622_1" pX="30" pY="37.5"/>
+        <d name="path_11622_2" pX="74.5" pY="62.5"/>
+        <d name="path_11622_3" pX="99.5" pY="69.5"/>
+        <d name="path_11622_4" pX="117.5" pY="81"/>
+        <d name="path_11622_5" pX="134" pY="85"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="path_11622">
+      <mov name="fly" dr="7" to="0" drTW="7" lp="1" twE="NaN">
+        <b name="path_11622_1" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="0.34" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="74.96" kY="22.88" cX="0.68" cY="0.81" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="94.37" kY="123.97" cX="0.4" cY="0.98" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="125.12" kY="170.84" cX="0.91" cY="0.53" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="-125.12" kY="-170.84" cX="0.91" cY="0.53" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="-94.37" kY="-123.97" cX="0.4" cY="0.98" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="-74.96" kY="-22.88" cX="0.68" cY="0.81" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+        </b>
+      </mov>
+      <mov name="hit" dr="6" to="0" drTW="6" lp="0" twE="NaN">
+        <b name="path_11622_2" sc="1" dl="0">
+          <f x="2.85" y="1.2" cocos2d_x="2.85" cocos2d_y="1.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="23.6" y="0" cocos2d_x="23.6" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="1"/>
+          <f x="29.5" y="-8.35" cocos2d_x="29.5" cocos2d_y="-8.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="1"/>
+          <f x="31.4" y="-0.2" cocos2d_x="31.4" cocos2d_y="-0.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="1"/>
+          <f x="40.35" y="-0.8" cocos2d_x="40.35" cocos2d_y="-0.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="1"/>
+          <f dr="1" dI="-1"/>
+        </b>
+        <b name="event" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0.5" cocos2d_y="0.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" evt="damage" dr="1"/>
+          <f dr="5" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="path_11622_0">
+      <mov name="effect" dr="6" to="0" drTW="6" lp="0" twE="NaN">
+        <b name="hit_effect_11622_1" sc="1" dl="0">
+          <f x="2.85" y="1.2" cocos2d_x="2.85" cocos2d_y="1.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="23.6" y="0" cocos2d_x="23.6" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="1"/>
+          <f x="29.5" y="-8.35" cocos2d_x="29.5" cocos2d_y="-8.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="1"/>
+          <f x="31.4" y="-0.2" cocos2d_x="31.4" cocos2d_y="-0.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="1"/>
+          <f x="40.35" y="-0.8" cocos2d_x="40.35" cocos2d_y="-0.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="1"/>
+          <f dr="1" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="path_11622" width="512" height="512">
+    <SubTexture name="path_11622_10" width="1" height="1" cocos2d_pX="0.5" cocos2d_pY="0.5" x="497" y="0"/>
+    <SubTexture name="path_11622_5" width="268" height="170" cocos2d_pX="134" cocos2d_pY="85" x="0" y="288"/>
+    <SubTexture name="path_11622_4" width="235" height="162" cocos2d_pX="117.5" cocos2d_pY="81" x="270" y="288"/>
+    <SubTexture name="path_11622_3" width="199" height="139" cocos2d_pX="99.5" cocos2d_pY="69.5" x="296" y="0"/>
+    <SubTexture name="path_11622_2" width="149" height="125" cocos2d_pX="74.5" cocos2d_pY="62.5" x="296" y="141"/>
+    <SubTexture name="path_11622_1" width="60" height="75" cocos2d_pX="30" cocos2d_pY="37.5" x="447" y="141"/>
+    <SubTexture name="path_11622_9" width="294" height="286" cocos2d_pX="145.95" cocos2d_pY="141.55" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

@@ -1,0 +1,42 @@
+<skeleton name="city_room_selected" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="city_room_selected">
+   <b name="city_room_selected_1" x="-3.05" y="-39.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="city_room_selected_1" pX="99" pY="51"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="city_room_selected">
+   <mov name="show" dr="8" to="0" drTW="8" lp="0" twE="NaN">
+    <b name="city_room_selected_1" sc="1" dl="0">
+     <f x="-3.05" y="-39.55" cocos2d_x="-3.05" cocos2d_y="-39.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="3">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-3.05" y="-39.55" cocos2d_x="-3.05" cocos2d_y="-39.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="4"/>
+     <f x="-3.05" y="-39.55" cocos2d_x="-3.05" cocos2d_y="-39.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+    </b>
+   </mov>
+   <mov name="xunhuan" dr="25" to="0" drTW="25" lp="0" twE="NaN">
+    <b name="city_room_selected_1" sc="1" dl="0">
+     <f x="-3.05" y="-39.55" cocos2d_x="-3.05" cocos2d_y="-39.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="12"/>
+     <f x="-3.05" y="-39.55" cocos2d_x="-3.05" cocos2d_y="-39.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="12">
+      <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-3.05" y="-39.55" cocos2d_x="-3.05" cocos2d_y="-39.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+    </b>
+   </mov>
+   <mov name="hide" dr="5" to="0" drTW="5" lp="0" twE="NaN">
+    <b name="city_room_selected_1" sc="1" dl="0">
+     <f x="-3.05" y="-39.55" cocos2d_x="-3.05" cocos2d_y="-39.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="4"/>
+     <f x="-3.05" y="-39.55" cocos2d_x="-3.05" cocos2d_y="-39.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="city_room_selected" width="256" height="128">
+  <SubTexture name="city_room_selected_1" width="198" height="102" cocos2d_pX="99" cocos2d_pY="51" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

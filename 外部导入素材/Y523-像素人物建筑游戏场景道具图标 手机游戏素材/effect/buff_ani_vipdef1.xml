@@ -1,0 +1,197 @@
+<skeleton name="buff_ani_vipdef1" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="buff_ani_vipdef4">
+      <b name="buff_ani_vipdef4_3" x="1.25" y="-143.25" kX="0" kY="0" cX="0.41" cY="0.41" pX="7.95" pY="-195.45" z="0">
+        <d name="buff_ani_vipdef1_1" isArmature="1"/>
+      </b>
+      <b name="buff_ani_vipdef4_2" x="2.3" y="-140.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-26.5" z="1">
+        <d name="buff_ani_vipdef1_30" pX="28.35" pY="50.5"/>
+      </b>
+      <b name="buff_ani_vipdef4_1" x="2.3" y="-140.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-26.5" z="2">
+        <d name="buff_ani_vipdef1_30" pX="28.35" pY="50.5"/>
+      </b>
+    </armature>
+    <armature name="buff_ani_vipdef3">
+      <b name="buff_ani_vipdef3_3" x="0.75" y="-138.25" kX="0" kY="0" cX="0.41" cY="0.41" pX="7.95" pY="-195.45" z="0">
+        <d name="buff_ani_vipdef1_1" isArmature="1"/>
+      </b>
+      <b name="buff_ani_vipdef3_2" x="1.8" y="-135.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-26.5" z="1">
+        <d name="buff_ani_vipdef1_4" pX="27.65" pY="53"/>
+      </b>
+      <b name="buff_ani_vipdef3_1" x="1.8" y="-135.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-26.5" z="2">
+        <d name="buff_ani_vipdef1_4" pX="27.65" pY="53"/>
+      </b>
+    </armature>
+    <armature name="buff_ani_vipdef2">
+      <b name="buff_ani_vipdef2_3" x="0.25" y="-145.75" kX="0" kY="0" cX="0.41" cY="0.41" pX="7.95" pY="-195.45" z="0">
+        <d name="buff_ani_vipdef1_1" isArmature="1"/>
+      </b>
+      <b name="buff_ani_vipdef2_2" x="1.3" y="-142.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-26.5" z="1">
+        <d name="buff_ani_vipdef1_5" pX="27.05" pY="57.5"/>
+      </b>
+      <b name="buff_ani_vipdef2_1" x="1.3" y="-142.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-26.5" z="2">
+        <d name="buff_ani_vipdef1_5" pX="27.05" pY="57.5"/>
+      </b>
+    </armature>
+    <armature name="buff_ani_vipdef1">
+      <b name="buff_ani_vipdef1_3" x="0.25" y="-146.75" kX="0" kY="0" cX="0.41" cY="0.41" pX="7.95" pY="-195.45" z="0">
+        <d name="buff_ani_vipdef1_1" isArmature="1"/>
+      </b>
+      <b name="buff_ani_vipdef1_2" x="1.3" y="-143.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-26.5" z="1">
+        <d name="buff_ani_vipdef1_6" pX="29.05" pY="49"/>
+      </b>
+      <b name="buff_ani_vipdef1_1" x="1.3" y="-143.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-26.5" z="2">
+        <d name="buff_ani_vipdef1_6" pX="29.05" pY="49"/>
+      </b>
+    </armature>
+    <armature name="buff_ani_vipdef1_1">
+      <b name="图层 2" x="6.95" y="-198.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-108.6" z="0">
+        <d name="buff_ani_vipdef1_2" pX="80.35" pY="192.75"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="buff_ani_vipdef4">
+      <mov name="buff" dr="49" to="0" drTW="49" lp="1" twE="NaN">
+        <b name="buff_ani_vipdef4_3" sc="1" dl="0">
+          <f x="1.25" y="-143.25" cocos2d_x="-2" cocos2d_y="-63.25" kX="0" kY="0" cX="0.41" cY="0.41" pX="7.95" pY="-195.45" z="0" dI="0" twE="0" dr="24"/>
+          <f x="1.25" y="-143.25" cocos2d_x="-2.65" cocos2d_y="-47.25" kX="0" kY="0" cX="0.49" cY="0.49" pX="7.95" pY="-195.45" z="0" dI="0" twE="0" dr="24">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="1.25" y="-143.25" cocos2d_x="-2" cocos2d_y="-63.25" kX="0" kY="0" cX="0.41" cY="0.41" pX="7.95" pY="-195.45" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="buff_ani_vipdef4_2" sc="1" dl="0">
+          <f x="2.3" y="-140.1" cocos2d_x="2.3" cocos2d_y="-113.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-26.5" z="1" dI="0" dr="49"/>
+        </b>
+        <b name="buff_ani_vipdef4_1" sc="1" dl="0">
+          <f x="2.3" y="-140.1" cocos2d_x="2.3" cocos2d_y="-113.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-26.5" z="2" dI="0" twE="0" dr="9"/>
+          <f x="2.3" y="-140.1" cocos2d_x="2.3" cocos2d_y="-105.65" kX="0" kY="0" cX="1.3" cY="1.3" pX="0" pY="-26.5" z="2" dI="0" dr="40">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="buff_ani_vipdef3">
+      <mov name="buff" dr="49" to="0" drTW="49" lp="1" twE="NaN">
+        <b name="buff_ani_vipdef3_3" sc="1" dl="0">
+          <f x="0.75" y="-138.25" cocos2d_x="-2.5" cocos2d_y="-58.25" kX="0" kY="0" cX="0.41" cY="0.41" pX="7.95" pY="-195.45" z="0" dI="0" twE="0" dr="24"/>
+          <f x="0.75" y="-138.25" cocos2d_x="-3.15" cocos2d_y="-42.25" kX="0" kY="0" cX="0.49" cY="0.49" pX="7.95" pY="-195.45" z="0" dI="0" twE="0" dr="24">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.75" y="-138.25" cocos2d_x="-2.5" cocos2d_y="-58.25" kX="0" kY="0" cX="0.41" cY="0.41" pX="7.95" pY="-195.45" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="buff_ani_vipdef3_2" sc="1" dl="0">
+          <f x="1.8" y="-135.1" cocos2d_x="1.8" cocos2d_y="-108.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-26.5" z="1" dI="0" dr="49"/>
+        </b>
+        <b name="buff_ani_vipdef3_1" sc="1" dl="0">
+          <f x="1.8" y="-135.1" cocos2d_x="1.8" cocos2d_y="-108.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-26.5" z="2" dI="0" twE="0" dr="9"/>
+          <f x="1.8" y="-135.1" cocos2d_x="1.8" cocos2d_y="-104.15" kX="0" kY="0" cX="1.17" cY="1.17" pX="0" pY="-26.5" z="2" dI="0" dr="40">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="buff_ani_vipdef2">
+      <mov name="buff" dr="49" to="0" drTW="49" lp="1" twE="NaN">
+        <b name="buff_ani_vipdef2_3" sc="1" dl="0">
+          <f x="0.25" y="-145.75" cocos2d_x="-3" cocos2d_y="-65.75" kX="0" kY="0" cX="0.41" cY="0.41" pX="7.95" pY="-195.45" z="0" dI="0" twE="0" dr="24"/>
+          <f x="0.25" y="-145.75" cocos2d_x="-3.65" cocos2d_y="-49.75" kX="0" kY="0" cX="0.49" cY="0.49" pX="7.95" pY="-195.45" z="0" dI="0" twE="0" dr="24">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.25" y="-145.75" cocos2d_x="-3" cocos2d_y="-65.75" kX="0" kY="0" cX="0.41" cY="0.41" pX="7.95" pY="-195.45" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="buff_ani_vipdef2_2" sc="1" dl="0">
+          <f x="1.3" y="-142.6" cocos2d_x="1.3" cocos2d_y="-116.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-26.5" z="1" dI="0" dr="49"/>
+        </b>
+        <b name="buff_ani_vipdef2_1" sc="1" dl="0">
+          <f x="1.3" y="-142.6" cocos2d_x="1.3" cocos2d_y="-116.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-26.5" z="2" dI="0" twE="0" dr="8"/>
+          <f x="1.3" y="-142.6" cocos2d_x="1.3" cocos2d_y="-110.15" kX="0" kY="0" cX="1.23" cY="1.23" pX="0" pY="-26.5" z="2" dI="0" dr="41">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="buff_ani_vipdef1_1">
+      <mov name="buff" dr="49" to="0" drTW="49" lp="1" twE="NaN">
+        <b name="图层 2" sc="1" dl="0">
+          <f x="6.95" y="-198.3" cocos2d_x="6.95" cocos2d_y="-89.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-108.6" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="-6.8" cocos2d_y="-90.65" kX="7.28" kY="7.28" cX="1" cY="1" pX="0.05" pY="-108.6" z="0" dI="0" twE="0" dr="1" twR="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="-20.3" cocos2d_y="-93.25" kX="14.56" kY="14.56" cX="1" cY="1" pX="-0.05" pY="-108.6" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="-33.75" cocos2d_y="-97.75" kX="22.04" kY="22.04" cX="1" cY="1" pX="-0.05" pY="-108.6" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="-46.15" cocos2d_y="-103.75" kX="29.33" kY="29.33" cX="1" cY="1" pX="0" pY="-108.55" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="-57.7" cocos2d_y="-111.3" kX="36.62" kY="36.62" cX="1" cY="1" pX="0" pY="-108.6" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="-68.5" cocos2d_y="-120.45" kX="44.11" kY="44.11" cX="1" cY="1" pX="0" pY="-108.6" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="-77.8" cocos2d_y="-130.65" kX="51.41" kY="51.41" cX="1" cY="1" pX="0" pY="-108.65" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.25" cocos2d_x="-85.9" cocos2d_y="-142.25" kX="58.89" kY="58.89" cX="1" cY="1" pX="0" pY="-108.55" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="-92.3" cocos2d_y="-154.5" kX="66.19" kY="66.19" cX="1" cY="1" pX="-0.05" pY="-108.6" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="-97.1" cocos2d_y="-167.45" kX="73.48" kY="73.48" cX="1" cY="1" pX="0.05" pY="-108.6" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.25" cocos2d_x="-100.25" cocos2d_y="-181.2" kX="80.95" kY="80.95" cX="1" cY="1" pX="0.05" pY="-108.6" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="-101.6" cocos2d_y="-194.9" kX="88.23" kY="88.23" cX="1" cY="1" pX="0" pY="-108.6" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="-101.1" cocos2d_y="-208.7" kX="95.5" kY="95.5" cX="1" cY="1" pX="0" pY="-108.5" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="-98.9" cocos2d_y="-222.3" kX="102.79" kY="102.79" cX="1" cY="1" pX="0" pY="-108.65" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="-94.95" cocos2d_y="-235.55" kX="110.07" kY="110.07" cX="1" cY="1" pX="0.05" pY="-108.65" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="-89.2" cocos2d_y="-248.45" kX="117.55" kY="117.55" cX="1" cY="1" pX="0" pY="-108.6" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="-82.05" cocos2d_y="-260.25" kX="124.85" kY="124.85" cX="1" cY="1" pX="-0.05" pY="-108.6" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="-73.45" cocos2d_y="-271.05" kX="132.15" kY="132.15" cX="1" cY="1" pX="0.05" pY="-108.55" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="-63.3" cocos2d_y="-280.9" kX="139.63" kY="139.63" cX="1" cY="1" pX="0" pY="-108.55" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="-52.2" cocos2d_y="-289.15" kX="146.93" kY="146.93" cX="1" cY="1" pX="0" pY="-108.6" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="-39.9" cocos2d_y="-296.1" kX="154.41" kY="154.41" cX="1" cY="1" pX="-0.05" pY="-108.55" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="-27.1" cocos2d_y="-301.3" kX="161.7" kY="161.7" cX="1" cY="1" pX="0.05" pY="-108.6" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="-13.8" cocos2d_y="-304.85" kX="168.99" kY="168.99" cX="1" cY="1" pX="-0.05" pY="-108.65" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="0.25" cocos2d_y="-306.7" kX="176.46" kY="176.46" cX="1" cY="1" pX="0" pY="-108.7" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="13.65" cocos2d_y="-306.7" kX="-176.46" kY="-176.46" cX="1" cY="1" pX="0" pY="-108.65" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="27.7" cocos2d_y="-304.85" kX="-168.99" kY="-168.99" cX="1" cY="1" pX="0" pY="-108.6" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="41" cocos2d_y="-301.3" kX="-161.7" kY="-161.7" cX="1" cY="1" pX="-0.05" pY="-108.6" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="53.8" cocos2d_y="-296.1" kX="-154.41" kY="-154.41" cX="1" cY="1" pX="0" pY="-108.55" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="66.1" cocos2d_y="-289.15" kX="-146.93" kY="-146.93" cX="1" cY="1" pX="-0.05" pY="-108.55" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="77.2" cocos2d_y="-280.9" kX="-139.63" kY="-139.63" cX="1" cY="1" pX="0" pY="-108.6" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="87.35" cocos2d_y="-271.05" kX="-132.15" kY="-132.15" cX="1" cY="1" pX="0" pY="-108.55" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="95.95" cocos2d_y="-260.25" kX="-124.85" kY="-124.85" cX="1" cY="1" pX="0" pY="-108.6" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="103.1" cocos2d_y="-248.45" kX="-117.55" kY="-117.55" cX="1" cY="1" pX="0.05" pY="-108.65" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="108.85" cocos2d_y="-235.55" kX="-110.07" kY="-110.07" cX="1" cY="1" pX="-0.05" pY="-108.6" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="112.8" cocos2d_y="-222.3" kX="-102.79" kY="-102.79" cX="1" cY="1" pX="0" pY="-108.65" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="115" cocos2d_y="-208.7" kX="-95.5" kY="-95.5" cX="1" cY="1" pX="0.05" pY="-108.55" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="115.5" cocos2d_y="-194.9" kX="-88.23" kY="-88.23" cX="1" cY="1" pX="0" pY="-108.6" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.25" cocos2d_x="114.15" cocos2d_y="-181.2" kX="-80.95" kY="-80.95" cX="1" cY="1" pX="0" pY="-108.65" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="111" cocos2d_y="-167.45" kX="-73.48" kY="-73.48" cX="1" cY="1" pX="0" pY="-108.65" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="106.2" cocos2d_y="-154.5" kX="-66.19" kY="-66.19" cX="1" cY="1" pX="0" pY="-108.65" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.25" cocos2d_x="99.8" cocos2d_y="-142.25" kX="-58.89" kY="-58.89" cX="1" cY="1" pX="0" pY="-108.55" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="91.7" cocos2d_y="-130.65" kX="-51.41" kY="-51.41" cX="1" cY="1" pX="0" pY="-108.65" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="82.4" cocos2d_y="-120.45" kX="-44.11" kY="-44.11" cX="1" cY="1" pX="0" pY="-108.6" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="71.6" cocos2d_y="-111.3" kX="-36.62" kY="-36.62" cX="1" cY="1" pX="0.05" pY="-108.6" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="60.05" cocos2d_y="-103.75" kX="-29.33" kY="-29.33" cX="1" cY="1" pX="-0.05" pY="-108.55" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="47.65" cocos2d_y="-97.75" kX="-22.04" kY="-22.04" cX="1" cY="1" pX="0.05" pY="-108.6" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="34.2" cocos2d_y="-93.25" kX="-14.56" kY="-14.56" cX="1" cY="1" pX="0.05" pY="-108.6" z="0" dI="0" twE="0" dr="1"/>
+          <f x="6.95" y="-198.3" cocos2d_x="20.7" cocos2d_y="-90.65" kX="-7.28" kY="-7.28" cX="1" cY="1" pX="-0.05" pY="-108.55" z="0" dI="0" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="buff_ani_vipdef1">
+      <mov name="buff" dr="49" to="0" drTW="49" lp="1" twE="NaN">
+        <b name="buff_ani_vipdef1_3" sc="1" dl="0">
+          <f x="0.25" y="-146.75" cocos2d_x="-3" cocos2d_y="-66.75" kX="0" kY="0" cX="0.41" cY="0.41" pX="7.95" pY="-195.45" z="0" dI="0" twE="0" dr="24"/>
+          <f x="0.25" y="-146.75" cocos2d_x="-3.65" cocos2d_y="-50.75" kX="0" kY="0" cX="0.49" cY="0.49" pX="7.95" pY="-195.45" z="0" dI="0" twE="0" dr="24">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.25" y="-146.75" cocos2d_x="-3" cocos2d_y="-66.75" kX="0" kY="0" cX="0.41" cY="0.41" pX="7.95" pY="-195.45" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="buff_ani_vipdef1_2" sc="1" dl="0">
+          <f x="1.3" y="-143.6" cocos2d_x="1.3" cocos2d_y="-117.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-26.5" z="1" dI="0" dr="49"/>
+        </b>
+        <b name="buff_ani_vipdef1_1" sc="1" dl="0">
+          <f x="1.3" y="-143.6" cocos2d_x="1.3" cocos2d_y="-117.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-26.5" z="2" dI="0" twE="0" dr="9"/>
+          <f x="1.7" y="-144.4" cocos2d_x="1.7" cocos2d_y="-111.9" kX="0" kY="0" cX="1.23" cY="1.22" pX="0" pY="-26.55" z="2" dI="0" dr="40">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="buff_ani_vipdef1" width="256" height="256">
+    <SubTexture name="buff_ani_vipdef1_2" width="161" height="169" cocos2d_pX="80.35" cocos2d_pY="192.75" x="0" y="0"/>
+    <SubTexture name="buff_ani_vipdef1_6" width="53" height="46" cocos2d_pX="29.05" cocos2d_pY="49" x="163" y="144"/>
+    <SubTexture name="buff_ani_vipdef1_5" width="53" height="46" cocos2d_pX="27.05" cocos2d_pY="57.5" x="163" y="0"/>
+    <SubTexture name="buff_ani_vipdef1_4" width="53" height="46" cocos2d_pX="27.65" cocos2d_pY="53" x="163" y="96"/>
+    <SubTexture name="buff_ani_vipdef1_30" width="53" height="46" cocos2d_pX="28.35" cocos2d_pY="50.5" x="163" y="48"/>
+  </TextureAtlas>
+</skeleton>

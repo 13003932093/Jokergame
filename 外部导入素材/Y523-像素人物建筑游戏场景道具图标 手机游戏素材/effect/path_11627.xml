@@ -1,0 +1,33 @@
+<skeleton name="path_11627" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="path_11627">
+   <b name="path_11627_1" x="-20.6" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="path_11627_1" pX="26" pY="7"/>
+   </b>
+   <b name="event" x="1" y="1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="path_11627_2" pX="2" pY="2"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="path_11627">
+   <mov name="fly" dr="3" to="0" drTW="3" lp="1" twE="NaN">
+    <b name="path_11627_1" sc="1" dl="0">
+     <f x="-20.6" y="0" cocos2d_x="-20.6" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="3"/>
+    </b>
+    <b name="event" sc="1" dl="0">
+     <f x="1" y="1" cocos2d_x="1" cocos2d_y="1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="3"/>
+    </b>
+   </mov>
+   <mov name="hit" dr="3" to="0" drTW="3" lp="0" twE="NaN">
+    <b name="event" sc="1" dl="0">
+     <f x="1" y="1" cocos2d_x="1" cocos2d_y="1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" evt="damage" dr="3"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="path_11627" width="64" height="16">
+  <SubTexture name="path_11627_2" width="4" height="4" cocos2d_pX="1" cocos2d_pY="1" x="54" y="0"/>
+  <SubTexture name="path_11627_1" width="52" height="14" cocos2d_pX="26" cocos2d_pY="7" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

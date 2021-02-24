@@ -1,0 +1,25 @@
+<skeleton name="corpse" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="corpse">
+   <b name="corpse_1" x="-1.5" y="-0.5" kX="0" kY="0" cX="1" cY="1" pX="22.5" pY="17.5" z="0">
+    <d name="corpse_1" pX="0" pY="0"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="corpse">
+   <mov name="corpse" dr="29" to="0" drTW="29" lp="0" twE="NaN">
+    <b name="corpse_1" sc="1" dl="0">
+     <f x="-1.5" y="-0.5" cocos2d_x="-24" cocos2d_y="-18" kX="0" kY="0" cX="1" cY="1" pX="22.5" pY="17.5" z="0" dI="0" dr="17"/>
+     <f x="-1.5" y="-0.5" cocos2d_x="-24" cocos2d_y="-18" kX="0" kY="0" cX="1" cY="1" pX="22.5" pY="17.5" z="0" dI="0" twE="0" dr="11"/>
+     <f x="-1.5" y="-0.5" cocos2d_x="-24" cocos2d_y="-18" kX="0" kY="0" cX="1" cY="1" pX="22.5" pY="17.5" z="0" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="corpse" width="64" height="64">
+  <SubTexture name="corpse_1" width="45" height="35" cocos2d_pX="0" cocos2d_pY="0" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

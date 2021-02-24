@@ -1,0 +1,246 @@
+<skeleton name="linkagerotate" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="linkagerotate_3">
+   <b name="linkagerotate_3_6" x="0.05" y="-25.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="linkagerotate_11" pX="20.25" pY="22.5"/>
+   </b>
+   <b name="linkagerotate_3_5" x="-0.1" y="-25.35" kX="0" kY="0" cX="1.47" cY="1.07" pX="0" pY="0" z="1">
+    <d name="linkagerotate_9" pX="1.4" pY="21"/>
+   </b>
+   <b name="linkagerotate_3_4" x="-9.3" y="-37.5" kX="0" kY="0" cX="1.03" cY="0.21" pX="-0.05" pY="0" z="2">
+    <d name="linkagerotate_9" pX="1.4" pY="21"/>
+   </b>
+   <b name="linkagerotate_3_3" x="9.55" y="-37.5" kX="0" kY="0" cX="1.03" cY="0.21" pX="-0.05" pY="0" z="3">
+    <d name="linkagerotate_9" pX="1.4" pY="21"/>
+   </b>
+   <b name="linkagerotate_3_2" x="0.05" y="-25.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4">
+    <d name="linkagerotate_5" pX="20.25" pY="22.5"/>
+   </b>
+  </armature>
+  <armature name="linkagerotate_2">
+   <b name="linkagerotate_2_8" x="-1.6" y="-24.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="linkagerotate_10" pX="14.4" pY="20.8"/>
+   </b>
+   <b name="linkagerotate_2_7" x="1.7" y="-24.8" kX="0" kY="0" cX="2.16" cY="0.99" pX="-0.05" pY="0" z="1">
+    <d name="linkagerotate_7" pX="1.4" pY="21"/>
+   </b>
+   <b name="linkagerotate_2_6" x="-2.7" y="-31.45" kX="0" kY="0" cX="2.16" cY="0.24" pX="-0.05" pY="0" z="2">
+    <d name="linkagerotate_7" pX="1.4" pY="21"/>
+   </b>
+   <b name="linkagerotate_2_5" x="0.2" y="-4.6" kX="0" kY="0" cX="1" cY="1.88" pX="0" pY="-0.05" z="2">
+    <d name="linkagerotate_14" pX="4.75" pY="0.3"/>
+   </b>
+   <b name="linkagerotate_2_4" x="0.05" y="-45.2" kX="0" kY="0" cX="1" cY="1.88" pX="0" pY="-0.05" z="4">
+    <d name="linkagerotate_14" pX="4.75" pY="0.3"/>
+   </b>
+   <b name="linkagerotate_2_3" x="5.5" y="-27" kX="0" kY="0" cX="0.66" cY="1.88" pX="0" pY="-0.05" z="5">
+    <d name="linkagerotate_14" pX="4.75" pY="0.3"/>
+   </b>
+   <b name="linkagerotate_2_2" x="-1.6" y="-24.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5">
+    <d name="linkagerotate_4" pX="14.4" pY="20.8"/>
+   </b>
+  </armature>
+  <armature name="linkagerotate_1">
+   <b name="linkagerotate_1_5" x="-0.05" y="-24.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="linkagerotate_6" pX="20.25" pY="21"/>
+   </b>
+   <b name="linkagerotate_1_4" x="-9.15" y="-24.5" kX="0" kY="0" cX="0.9" cY="1" pX="-0.05" pY="0" z="1">
+    <d name="linkagerotate_8" pX="1.4" pY="21"/>
+   </b>
+   <b name="linkagerotate_1_3" x="10.25" y="-23.75" kX="0" kY="0" cX="1.04" cY="0.96" pX="-0.05" pY="0" z="2">
+    <d name="linkagerotate_8" pX="1.4" pY="21"/>
+   </b>
+   <b name="linkagerotate_1_2" x="-0.05" y="-24.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3">
+    <d name="linkagerotate_333" pX="20.25" pY="21"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="linkagerotate_3">
+   <mov name="effect" dr="60" to="0" drTW="60" lp="1" twE="NaN">
+    <b name="linkagerotate_3_6" sc="1" dl="0">
+     <f x="0.05" y="-25.35" cocos2d_x="0.05" cocos2d_y="-25.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="14"/>
+     <f x="4.85" y="-25.35" cocos2d_x="4.85" cocos2d_y="-25.35" kX="0" kY="0" cX="0.05" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+     <f x="-4.75" y="-25.35" cocos2d_x="-4.75" cocos2d_y="-25.35" kX="0" kY="180" cX="0.05" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="14"/>
+     <f x="0.05" y="-25.35" cocos2d_x="0.05" cocos2d_y="-25.35" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="15"/>
+     <f x="4.85" y="-25.35" cocos2d_x="4.85" cocos2d_y="-25.35" kX="0" kY="180" cX="0.05" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+     <f x="-5.95" y="-25.35" cocos2d_x="-5.95" cocos2d_y="-25.35" kX="0" kY="0" cX="0.05" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="14"/>
+     <f x="0.05" y="-25.35" cocos2d_x="0.05" cocos2d_y="-25.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+    </b>
+    <b name="linkagerotate_3_5" sc="1" dl="0">
+     <f x="-0.1" y="-25.35" cocos2d_x="-0.05" cocos2d_y="-25.35" kX="0" kY="0" cX="1.47" cY="1.07" pX="0" pY="0" z="1" dI="0" twE="0" dr="14"/>
+     <f x="-0.2" y="-25.35" cocos2d_x="-0.05" cocos2d_y="-25.35" kX="0" kY="0" cX="3.39" cY="1.07" pX="-0.05" pY="0" z="1" dI="0" dr="1"/>
+     <f x="-0.2" y="-25.35" cocos2d_x="-0.05" cocos2d_y="-25.35" kX="0" kY="0" cX="3.39" cY="1.07" pX="-0.05" pY="0" z="1" dI="0" twE="0" dr="14"/>
+     <f x="-0.1" y="-25.35" cocos2d_x="-0.05" cocos2d_y="-25.35" kX="0" kY="0" cX="1.47" cY="1.07" pX="0" pY="0" z="1" dI="0" twE="0" dr="15"/>
+     <f x="-0.2" y="-25.35" cocos2d_x="-0.05" cocos2d_y="-25.35" kX="0" kY="0" cX="3.39" cY="1.07" pX="-0.05" pY="0" z="1" dI="0" twE="0" dr="1"/>
+     <f x="-0.95" y="-25.35" cocos2d_x="-0.75" cocos2d_y="-25.35" kX="0" kY="0" cX="3.8" cY="1.07" pX="-0.05" pY="0" z="1" dI="0" twE="0" dr="14"/>
+     <f x="-0.1" y="-25.35" cocos2d_x="-0.05" cocos2d_y="-25.35" kX="0" kY="0" cX="1.47" cY="1.07" pX="0" pY="0" z="1" dI="0" dr="1"/>
+    </b>
+    <b name="linkagerotate_3_4" sc="1" dl="0">
+     <f dr="4" dI="-1"/>
+     <f x="-9.3" y="-37.5" cocos2d_x="-9.25" cocos2d_y="-37.5" kX="0" kY="0" cX="1.03" cY="0.21" pX="-0.05" pY="0" z="2" dI="0" twE="0" dr="10"/>
+     <f x="-2.05" y="-37.5" cocos2d_x="-2.05" cocos2d_y="-37.5" kX="0" kY="0" cX="2.37" cY="0.21" pX="0" pY="0" z="2" dI="0" dr="1"/>
+     <f x="2.05" y="-37.5" cocos2d_x="2.05" cocos2d_y="-37.5" kX="0" kY="0" cX="2.37" cY="0.21" pX="0" pY="0" z="2" dI="0" twE="0" dr="10"/>
+     <f x="9.35" y="-37.5" cocos2d_x="9.35" cocos2d_y="-37.5" kX="0" kY="0" cX="1.5" cY="0.21" pX="0" pY="0" z="2" dI="0" dr="1"/>
+     <f dr="7" dI="-1"/>
+     <f x="-8.8" y="-37.5" cocos2d_x="-8.75" cocos2d_y="-37.5" kX="0" kY="0" cX="1.03" cY="0.21" pX="-0.05" pY="0" z="2" dI="0" twE="0" dr="11"/>
+     <f x="-1.1" y="-37.5" cocos2d_x="-1.1" cocos2d_y="-37.5" kX="0" kY="0" cX="3.08" cY="0.21" pX="0" pY="0" z="2" dI="0" dr="1"/>
+     <f x="0.85" y="-37.5" cocos2d_x="0.85" cocos2d_y="-37.5" kX="0" kY="0" cX="3.16" cY="0.21" pX="0" pY="0" z="2" dI="0" twE="0" dr="10"/>
+     <f x="9.35" y="-37.5" cocos2d_x="9.35" cocos2d_y="-37.5" kX="0" kY="0" cX="1.5" cY="0.21" pX="0" pY="0" z="2" dI="0" dr="1"/>
+     <f dr="4" dI="-1"/>
+    </b>
+    <b name="linkagerotate_3_3" sc="1" dl="0">
+     <f dr="4" dI="-1"/>
+     <f x="9.55" y="-37.5" cocos2d_x="9.6" cocos2d_y="-37.5" kX="0" kY="0" cX="1.03" cY="0.21" pX="-0.05" pY="0" z="3" dI="0" twE="0" dr="10"/>
+     <f x="1.25" y="-37.5" cocos2d_x="1.4" cocos2d_y="-37.5" kX="0" kY="0" cX="2.81" cY="0.21" pX="-0.05" pY="0" z="3" dI="0" dr="1"/>
+     <f x="-1.55" y="-37.5" cocos2d_x="-1.4" cocos2d_y="-37.5" kX="0" kY="0" cX="2.81" cY="0.21" pX="-0.05" pY="0" z="3" dI="0" twE="0" dr="10"/>
+     <f x="-9.45" y="-37.5" cocos2d_x="-9.4" cocos2d_y="-37.5" kX="0" kY="0" cX="1.38" cY="0.21" pX="-0.05" pY="0" z="3" dI="0" dr="1"/>
+     <f dr="7" dI="-1"/>
+     <f x="9.55" y="-37.5" cocos2d_x="9.6" cocos2d_y="-37.5" kX="0" kY="0" cX="1.03" cY="0.21" pX="-0.05" pY="0" z="3" dI="0" twE="0" dr="11"/>
+     <f x="1.25" y="-37.5" cocos2d_x="1.4" cocos2d_y="-37.5" kX="0" kY="0" cX="2.81" cY="0.21" pX="-0.05" pY="0" z="3" dI="0" dr="1"/>
+     <f x="-2.8" y="-37.5" cocos2d_x="-2.65" cocos2d_y="-37.5" kX="0" kY="0" cX="2.81" cY="0.21" pX="-0.05" pY="0" z="3" dI="0" twE="0" dr="10"/>
+     <f x="-9.45" y="-37.5" cocos2d_x="-9.4" cocos2d_y="-37.5" kX="0" kY="0" cX="1.38" cY="0.21" pX="-0.05" pY="0" z="3" dI="0" dr="1"/>
+     <f dr="4" dI="-1"/>
+    </b>
+    <b name="linkagerotate_3_2" sc="1" dl="0">
+     <f x="0.05" y="-25.35" cocos2d_x="0.05" cocos2d_y="-25.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="14"/>
+     <f x="-4.75" y="-25.35" cocos2d_x="-4.75" cocos2d_y="-25.35" kX="0" kY="0" cX="0.05" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="1"/>
+     <f x="4.85" y="-25.35" cocos2d_x="4.85" cocos2d_y="-25.35" kX="0" kY="180" cX="0.05" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="14"/>
+     <f x="0.05" y="-25.35" cocos2d_x="0.05" cocos2d_y="-25.35" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="15"/>
+     <f x="-4.75" y="-25.35" cocos2d_x="-4.75" cocos2d_y="-25.35" kX="0" kY="180" cX="0.05" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="1"/>
+     <f x="4.85" y="-25.35" cocos2d_x="4.85" cocos2d_y="-25.35" kX="0" kY="0" cX="0.05" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="14"/>
+     <f x="0.05" y="-25.35" cocos2d_x="0.05" cocos2d_y="-25.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="linkagerotate_2">
+   <mov name="effect" dr="60" to="0" drTW="60" lp="1" twE="NaN">
+    <b name="linkagerotate_2_8" sc="1" dl="0">
+     <f x="-1.6" y="-24.8" cocos2d_x="-1.6" cocos2d_y="-24.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="8"/>
+     <f x="2.05" y="-24.8" cocos2d_x="2.05" cocos2d_y="-24.8" kX="0" kY="0" cX="0.46" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="6"/>
+     <f x="4.8" y="-24.8" cocos2d_x="4.8" cocos2d_y="-24.8" kX="0" kY="0" cX="0.06" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+     <f x="-4.8" y="-24.8" cocos2d_x="-4.8" cocos2d_y="-24.8" kX="0" kY="180" cX="0.06" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="14"/>
+     <f x="2" y="-24.8" cocos2d_x="2" cocos2d_y="-24.8" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="15"/>
+     <f x="4.8" y="-24.8" cocos2d_x="4.8" cocos2d_y="-24.8" kX="0" kY="180" cX="0.06" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+     <f x="-4.8" y="-24.8" cocos2d_x="-4.8" cocos2d_y="-24.8" kX="0" kY="0" cX="0.06" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="14"/>
+     <f x="-1.6" y="-24.8" cocos2d_x="-1.6" cocos2d_y="-24.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+    </b>
+    <b name="linkagerotate_2_7" sc="1" dl="0">
+     <f x="1.7" y="-24.8" cocos2d_x="1.8" cocos2d_y="-24.8" kX="0" kY="0" cX="2.16" cY="0.99" pX="-0.05" pY="0" z="1" dI="0" twE="0" dr="14"/>
+     <f x="-0.2" y="-24.8" cocos2d_x="-0.05" cocos2d_y="-24.8" kX="0" kY="0" cX="3.39" cY="0.99" pX="-0.05" pY="0" z="1" dI="0" twE="0" dr="1"/>
+     <f x="-0.2" y="-24.8" cocos2d_x="-0.05" cocos2d_y="-24.8" kX="0" kY="0" cX="3.39" cY="0.99" pX="-0.05" pY="0" z="1" dI="0" twE="0" dr="14"/>
+     <f x="-1.75" y="-24.8" cocos2d_x="-1.65" cocos2d_y="-24.8" kX="0" kY="0" cX="2.21" cY="0.99" pX="-0.05" pY="0" z="1" dI="0" twE="0" dr="15"/>
+     <f x="-0.2" y="-24.8" cocos2d_x="-0.05" cocos2d_y="-24.8" kX="0" kY="0" cX="3.39" cY="0.99" pX="-0.05" pY="0" z="1" dI="0" twE="0" dr="1"/>
+     <f x="-0.2" y="-24.8" cocos2d_x="-0.05" cocos2d_y="-24.8" kX="0" kY="0" cX="3.39" cY="0.99" pX="-0.05" pY="0" z="1" dI="0" twE="0" dr="14"/>
+     <f x="1.7" y="-24.8" cocos2d_x="1.8" cocos2d_y="-24.8" kX="0" kY="0" cX="2.16" cY="0.99" pX="-0.05" pY="0" z="1" dI="0" twE="0" dr="1"/>
+    </b>
+    <b name="linkagerotate_2_6" sc="1" dl="0">
+     <f dr="8" dI="-1"/>
+     <f x="-2.7" y="-31.45" cocos2d_x="-2.6" cocos2d_y="-31.45" kX="0" kY="0" cX="2.16" cY="0.24" pX="-0.05" pY="0" z="2" dI="0" twE="0" dr="6"/>
+     <f x="-2.3" y="-31.45" cocos2d_x="-2.2" cocos2d_y="-31.45" kX="0" kY="0" cX="2.16" cY="0.24" pX="-0.05" pY="0" z="2" dI="0" dr="1"/>
+     <f x="2.2" y="-31.45" cocos2d_x="2.3" cocos2d_y="-31.45" kX="0" kY="0" cX="2.16" cY="0.24" pX="-0.05" pY="0" z="2" dI="0" twE="0" dr="6"/>
+     <f x="3" y="-31.45" cocos2d_x="3.1" cocos2d_y="-31.45" kX="0" kY="0" cX="2.16" cY="0.24" pX="-0.05" pY="0" z="2" dI="0" dr="1"/>
+     <f dr="15" dI="-1"/>
+     <f x="5.2" y="-31.45" cocos2d_x="5.3" cocos2d_y="-31.45" kX="0" kY="0" cX="2.16" cY="0.24" pX="-0.05" pY="0" z="2" dI="0" twE="0" dr="7"/>
+     <f x="2.2" y="-31.45" cocos2d_x="2.3" cocos2d_y="-31.45" kX="0" kY="0" cX="2.16" cY="0.24" pX="-0.05" pY="0" z="2" dI="0" dr="1"/>
+     <f x="-2.1" y="-31.45" cocos2d_x="-2" cocos2d_y="-31.45" kX="0" kY="0" cX="2.16" cY="0.24" pX="-0.05" pY="0" z="2" dI="0" twE="0" dr="6"/>
+     <f x="-5.7" y="-31.45" cocos2d_x="-5.6" cocos2d_y="-31.45" kX="0" kY="0" cX="2.16" cY="0.24" pX="-0.05" pY="0" z="2" dI="0" dr="1"/>
+     <f dr="8" dI="-1"/>
+    </b>
+    <b name="linkagerotate_2_5" sc="1" dl="0">
+     <f x="0.2" y="-4.6" cocos2d_x="0.2" cocos2d_y="-4.5" kX="0" kY="0" cX="1" cY="1.88" pX="0" pY="-0.05" z="2" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="1.2" y="-4.6" cocos2d_x="1.2" cocos2d_y="-4.5" kX="0" kY="0" cX="1" cY="1.88" pX="0" pY="-0.05" z="3" dI="0" twE="0" dr="13"/>
+     <f x="0.2" y="-4.6" cocos2d_x="0.2" cocos2d_y="-4.5" kX="0" kY="0" cX="1" cY="1.88" pX="0" pY="-0.05" z="3" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="-0.3" y="-4.6" cocos2d_x="-0.3" cocos2d_y="-4.5" kX="0" kY="0" cX="1" cY="1.88" pX="0" pY="-0.05" z="2" dI="0" twE="NaN" tweenFrame="0" dr="13"/>
+     <f x="-1.1" y="-4.6" cocos2d_x="-1.1" cocos2d_y="-4.5" kX="0" kY="0" cX="1" cY="1.88" pX="0" pY="-0.05" z="2" dI="0" dr="1"/>
+     <f x="-0.3" y="-4.6" cocos2d_x="-0.3" cocos2d_y="-4.5" kX="0" kY="0" cX="1" cY="1.88" pX="0" pY="-0.05" z="2" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="1.65" y="-4.6" cocos2d_x="1.65" cocos2d_y="-4.5" kX="0" kY="0" cX="1" cY="1.88" pX="0" pY="-0.05" z="3" dI="0" twE="0" dr="14"/>
+     <f x="0.1" y="-4.6" cocos2d_x="0.1" cocos2d_y="-4.5" kX="0" kY="0" cX="1" cY="1.88" pX="0" pY="-0.05" z="3" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="-0.15" y="-4.6" cocos2d_x="-0.15" cocos2d_y="-4.5" kX="0" kY="0" cX="1" cY="1.88" pX="0" pY="-0.05" z="2" dI="0" twE="NaN" tweenFrame="0" dr="13"/>
+     <f x="-1.3" y="-4.6" cocos2d_x="-1.3" cocos2d_y="-4.5" kX="0" kY="0" cX="1" cY="1.88" pX="0" pY="-0.05" z="2" dI="0" dr="1"/>
+     <f dr="1" dI="-1"/>
+    </b>
+    <b name="linkagerotate_2_4" sc="1" dl="0">
+     <f x="0.05" y="-45.2" cocos2d_x="0.05" cocos2d_y="-45.1" kX="0" kY="0" cX="1" cY="1.88" pX="0" pY="-0.05" z="4" dI="0" twE="NaN" tweenFrame="0" dr="14"/>
+     <f x="0.15" y="-45.2" cocos2d_x="0.15" cocos2d_y="-45.1" kX="0" kY="0" cX="1" cY="1.88" pX="0" pY="-0.05" z="4" dI="0" dr="1"/>
+     <f x="-0.15" y="-45.2" cocos2d_x="-0.15" cocos2d_y="-45.1" kX="0" kY="0" cX="1" cY="1.88" pX="0" pY="-0.05" z="3" dI="0" twE="0" dr="14"/>
+     <f x="0.05" y="-45.2" cocos2d_x="0.05" cocos2d_y="-45.1" kX="0" kY="0" cX="1" cY="1.88" pX="0" pY="-0.05" z="3" dI="0" dr="1"/>
+     <f x="0.3" y="-45.2" cocos2d_x="0.3" cocos2d_y="-45.1" kX="0" kY="0" cX="1" cY="1.88" pX="0" pY="-0.05" z="4" dI="0" twE="NaN" tweenFrame="0" dr="14"/>
+     <f x="0.3" y="-45.2" cocos2d_x="0.3" cocos2d_y="-45.1" kX="0" kY="0" cX="1" cY="1.88" pX="0" pY="-0.05" z="4" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="-0.15" y="-45.2" cocos2d_x="-0.15" cocos2d_y="-45.1" kX="0" kY="0" cX="1" cY="1.88" pX="0" pY="-0.05" z="3" dI="0" twE="NaN" tweenFrame="0" dr="12"/>
+     <f x="-1.35" y="-45.2" cocos2d_x="-1.35" cocos2d_y="-45.1" kX="0" kY="0" cX="1.25" cY="1.88" pX="0" pY="-0.05" z="3" dI="0" dr="1"/>
+     <f dr="2" dI="-1"/>
+    </b>
+    <b name="linkagerotate_2_3" sc="1" dl="0">
+     <f dr="37" dI="-1"/>
+     <f x="5.5" y="-27" cocos2d_x="5.5" cocos2d_y="-26.9" kX="0" kY="0" cX="0.66" cY="1.88" pX="0" pY="-0.05" z="5" dI="0" twE="0" dr="7"/>
+     <f x="0.5" y="-26.95" cocos2d_x="0.5" cocos2d_y="-26.85" kX="0" kY="0" cX="1.04" cY="1.88" pX="0" pY="-0.05" z="5" dI="0" dr="1"/>
+     <f x="-0.65" y="-26.95" cocos2d_x="-0.65" cocos2d_y="-26.85" kX="0" kY="0" cX="1.04" cY="1.88" pX="0" pY="-0.05" z="5" dI="0" twE="0" dr="6"/>
+     <f x="-5.45" y="-26.95" cocos2d_x="-5.45" cocos2d_y="-26.85" kX="0" kY="0" cX="0.88" cY="1.88" pX="0" pY="-0.05" z="5" dI="0" dr="1"/>
+     <f dr="8" dI="-1"/>
+    </b>
+    <b name="linkagerotate_2_2" sc="1" dl="0">
+     <f x="-1.6" y="-24.8" cocos2d_x="-1.6" cocos2d_y="-24.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" twE="0" dr="14"/>
+     <f x="-4.8" y="-24.8" cocos2d_x="-4.8" cocos2d_y="-24.8" kX="0" kY="0" cX="0.06" cY="1" pX="0" pY="0" z="5" dI="0" dr="1"/>
+     <f x="4.8" y="-24.8" cocos2d_x="4.8" cocos2d_y="-24.8" kX="0" kY="180" cX="0.06" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="14"/>
+     <f x="2" y="-24.8" cocos2d_x="2" cocos2d_y="-24.8" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" twE="0" dr="15"/>
+     <f x="-4.8" y="-24.8" cocos2d_x="-4.8" cocos2d_y="-24.8" kX="0" kY="180" cX="0.06" cY="1" pX="0" pY="0" z="6" dI="0" dr="1"/>
+     <f x="4.8" y="-24.8" cocos2d_x="4.8" cocos2d_y="-24.8" kX="0" kY="0" cX="0.06" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="14"/>
+     <f x="-1.6" y="-24.8" cocos2d_x="-1.6" cocos2d_y="-24.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="linkagerotate_1">
+   <mov name="effect" dr="60" to="0" drTW="60" lp="1" twE="NaN">
+    <b name="linkagerotate_1_5" sc="1" dl="0">
+     <f x="-0.05" y="-24.5" cocos2d_x="-0.05" cocos2d_y="-24.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="14"/>
+     <f x="4.75" y="-24.5" cocos2d_x="4.75" cocos2d_y="-24.5" kX="0" kY="0" cX="0.06" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+     <f x="-4.15" y="-24.5" cocos2d_x="-4.15" cocos2d_y="-24.5" kX="0" kY="180" cX="0.06" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="14"/>
+     <f x="-0.1" y="-24.5" cocos2d_x="-0.1" cocos2d_y="-24.5" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="15"/>
+     <f x="4.6" y="-24.5" cocos2d_x="4.6" cocos2d_y="-24.5" kX="0" kY="180" cX="0.05" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+     <f x="-4.1" y="-24.5" cocos2d_x="-4.1" cocos2d_y="-24.5" kX="0" kY="0" cX="0.05" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="14"/>
+     <f x="0" y="-24.5" cocos2d_x="0" cocos2d_y="-24.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+    </b>
+    <b name="linkagerotate_1_4" sc="1" dl="0">
+     <f x="-9.15" y="-24.5" cocos2d_x="-9.1" cocos2d_y="-24.5" kX="0" kY="0" cX="0.9" cY="1" pX="-0.05" pY="0" z="1" dI="0" twE="0" dr="14"/>
+     <f x="-0.15" y="-24.5" cocos2d_x="0" cocos2d_y="-24.5" kX="0" kY="0" cX="2.86" cY="1" pX="-0.05" pY="0" z="1" dI="0" dr="1"/>
+     <f x="0.45" y="-24.5" cocos2d_x="0.6" cocos2d_y="-24.5" kX="0" kY="0" cX="3.01" cY="1" pX="-0.05" pY="0" z="1" dI="0" twE="0" dr="14"/>
+     <f x="8.85" y="-24.5" cocos2d_x="8.9" cocos2d_y="-24.5" kX="0" kY="0" cX="0.53" cY="1" pX="-0.1" pY="0" z="1" dI="0" twE="0" dr="15"/>
+     <f x="0.7" y="-24.5" cocos2d_x="1" cocos2d_y="-24.5" kX="0" kY="0" cX="2.88" cY="1" pX="-0.1" pY="0" z="1" dI="0" dr="1"/>
+     <f x="-0.9" y="-24.5" cocos2d_x="-0.6" cocos2d_y="-24.5" kX="0" kY="0" cX="2.88" cY="1" pX="-0.1" pY="0" z="1" dI="0" twE="0" dr="14"/>
+     <f x="-9.15" y="-24.5" cocos2d_x="-9.1" cocos2d_y="-24.5" kX="0" kY="0" cX="0.9" cY="1" pX="-0.05" pY="0" z="1" dI="0" twE="0" dr="1"/>
+    </b>
+    <b name="linkagerotate_1_3" sc="1" dl="0">
+     <f x="10.25" y="-23.75" cocos2d_x="10.3" cocos2d_y="-23.75" kX="0" kY="0" cX="1.04" cY="0.96" pX="-0.05" pY="0" z="2" dI="0" twE="0" dr="14"/>
+     <f x="0.95" y="-23.75" cocos2d_x="1.1" cocos2d_y="-23.75" kX="0" kY="0" cX="2.89" cY="0.96" pX="-0.05" pY="0" z="2" dI="0" dr="1"/>
+     <f x="-0.65" y="-23.75" cocos2d_x="-0.5" cocos2d_y="-23.75" kX="0" kY="0" cX="2.98" cY="0.96" pX="-0.05" pY="0" z="2" dI="0" twE="0" dr="14"/>
+     <f x="-10.7" y="-23.75" cocos2d_x="-10.65" cocos2d_y="-23.75" kX="0" kY="0" cX="0.51" cY="0.96" pX="-0.1" pY="0" z="2" dI="0" twE="0" dr="15"/>
+     <f x="-0.45" y="-23.75" cocos2d_x="-0.15" cocos2d_y="-23.75" kX="0" kY="0" cX="2.87" cY="0.96" pX="-0.1" pY="0" z="2" dI="0" dr="1"/>
+     <f x="0.55" y="-23.75" cocos2d_x="0.85" cocos2d_y="-23.75" kX="0" kY="0" cX="2.87" cY="0.96" pX="-0.1" pY="0" z="2" dI="0" twE="0" dr="14"/>
+     <f x="10.25" y="-23.75" cocos2d_x="10.3" cocos2d_y="-23.75" kX="0" kY="0" cX="1.04" cY="0.96" pX="-0.05" pY="0" z="2" dI="0" twE="0" dr="1"/>
+    </b>
+    <b name="linkagerotate_1_2" sc="1" dl="0">
+     <f x="-0.05" y="-24.5" cocos2d_x="-0.05" cocos2d_y="-24.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="14"/>
+     <f x="-3.45" y="-24.5" cocos2d_x="-3.45" cocos2d_y="-24.5" kX="0" kY="0" cX="0.06" cY="1" pX="0" pY="0" z="3" dI="0" dr="1"/>
+     <f x="4.45" y="-24.5" cocos2d_x="4.45" cocos2d_y="-24.5" kX="0" kY="180" cX="0.05" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="14"/>
+     <f x="-0.05" y="-24.5" cocos2d_x="-0.05" cocos2d_y="-24.5" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="15"/>
+     <f x="-3.45" y="-24.5" cocos2d_x="-3.45" cocos2d_y="-24.5" kX="0" kY="180" cX="0.05" cY="1" pX="0" pY="0" z="3" dI="0" dr="1"/>
+     <f x="4.35" y="-24.5" cocos2d_x="4.35" cocos2d_y="-24.5" kX="0" kY="0" cX="0.06" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="14"/>
+     <f x="-0.05" y="-24.5" cocos2d_x="-0.05" cocos2d_y="-24.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="linkagerotate" width="128" height="128">
+  <SubTexture name="linkagerotate_333" width="41" height="42" cocos2d_pX="20.25" cocos2d_pY="21" x="43" y="47"/>
+  <SubTexture name="linkagerotate_8" width="3" height="42" cocos2d_pX="1.4" cocos2d_pY="21" x="122" y="0"/>
+  <SubTexture name="linkagerotate_6" width="41" height="42" cocos2d_pX="20.25" cocos2d_pY="21" x="0" y="47"/>
+  <SubTexture name="linkagerotate_4" width="29" height="42" cocos2d_pX="14.4" cocos2d_pY="20.8" x="86" y="0"/>
+  <SubTexture name="linkagerotate_14" width="10" height="1" cocos2d_pX="4.75" cocos2d_pY="0.3" x="86" y="88"/>
+  <SubTexture name="linkagerotate_7" width="3" height="42" cocos2d_pX="1.4" cocos2d_pY="21" x="117" y="0"/>
+  <SubTexture name="linkagerotate_10" width="29" height="42" cocos2d_pX="14.4" cocos2d_pY="20.8" x="86" y="44"/>
+  <SubTexture name="linkagerotate_5" width="41" height="45" cocos2d_pX="20.25" cocos2d_pY="22.5" x="43" y="0"/>
+  <SubTexture name="linkagerotate_9" width="3" height="42" cocos2d_pX="1.4" cocos2d_pY="21" x="117" y="44"/>
+  <SubTexture name="linkagerotate_11" width="41" height="45" cocos2d_pX="20.25" cocos2d_pY="22.5" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

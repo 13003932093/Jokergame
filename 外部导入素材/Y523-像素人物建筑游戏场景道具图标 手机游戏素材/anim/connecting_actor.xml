@@ -1,0 +1,59 @@
+<skeleton name="connecting_actor" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="connecting_actor">
+      <b name="connecting_actor_2" x="-9" y="-14" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="connecting_actor_5" pX="40" pY="40"/>
+        <d name="connecting_actor_6" pX="40" pY="40"/>
+        <d name="connecting_actor_7" pX="40" pY="40"/>
+        <d name="connecting_actor_2" pX="40" pY="40"/>
+        <d name="connecting_actor_3" pX="40" pY="40"/>
+      </b>
+      <b name="connecting_actor_1" x="-31" y="-63.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="connecting_actor_4" pX="44" pY="44"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="connecting_actor">
+      <mov name="run" dr="51" to="0" drTW="51" lp="1" twE="NaN">
+        <b name="connecting_actor_2" sc="1" dl="0">
+          <f x="-9" y="-14" cocos2d_x="-9" cocos2d_y="-14" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-9" y="-14" cocos2d_x="-9" cocos2d_y="-14" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-9" y="-14" cocos2d_x="-9" cocos2d_y="-14" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-9" y="-14" cocos2d_x="-9" cocos2d_y="-14" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-9" y="-14" cocos2d_x="-9" cocos2d_y="-14" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-9" y="-14" cocos2d_x="-9" cocos2d_y="-14" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-9" y="-14" cocos2d_x="-9" cocos2d_y="-14" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-9" y="-14" cocos2d_x="-9" cocos2d_y="-14" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-9" y="-14" cocos2d_x="-9" cocos2d_y="-14" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-9" y="-14" cocos2d_x="-9" cocos2d_y="-14" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-9" y="-14" cocos2d_x="-9" cocos2d_y="-14" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-9" y="-14" cocos2d_x="-9" cocos2d_y="-14" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-9" y="-14" cocos2d_x="-9" cocos2d_y="-14" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-9" y="-14" cocos2d_x="-9" cocos2d_y="-14" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-9" y="-14" cocos2d_x="-9" cocos2d_y="-14" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-9" y="-14" cocos2d_x="-9" cocos2d_y="-14" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-10.6" y="-14" cocos2d_x="-10.6" cocos2d_y="-14" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="6"/>
+          <f x="2.2" y="-14" cocos2d_x="2.2" cocos2d_y="-14" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-4.2" y="-14" cocos2d_x="-4.2" cocos2d_y="-14" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="10"/>
+          <f x="-4.2" y="-14" cocos2d_x="-4.2" cocos2d_y="-14" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="1"/>
+        </b>
+        <b name="connecting_actor_1" sc="1" dl="0">
+          <f dr="32" dI="-1"/>
+          <f x="-31" y="-63.55" cocos2d_x="-31" cocos2d_y="-63.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="6"/>
+          <f x="56.35" y="-63.55" cocos2d_x="56.35" cocos2d_y="-63.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="11"/>
+          <f x="317.15" y="-63.55" cocos2d_x="317.15" cocos2d_y="-63.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+          <f dr="1" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="connecting_actor" width="256" height="256">
+    <SubTexture name="connecting_actor_4" width="88" height="88" cocos2d_pX="44" cocos2d_pY="44" x="0" y="0"/>
+    <SubTexture name="connecting_actor_3" width="80" height="80" cocos2d_pX="40" cocos2d_pY="40" x="0" y="90"/>
+    <SubTexture name="connecting_actor_2" width="80" height="80" cocos2d_pX="40" cocos2d_pY="40" x="172" y="82"/>
+    <SubTexture name="connecting_actor_7" width="80" height="80" cocos2d_pX="40" cocos2d_pY="40" x="90" y="0"/>
+    <SubTexture name="connecting_actor_6" width="80" height="80" cocos2d_pX="40" cocos2d_pY="40" x="172" y="0"/>
+    <SubTexture name="connecting_actor_5" width="80" height="80" cocos2d_pX="40" cocos2d_pY="40" x="90" y="82"/>
+  </TextureAtlas>
+</skeleton>

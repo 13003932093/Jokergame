@@ -1,0 +1,96 @@
+<skeleton name="rpg_continue" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="rpg_continue">
+      <b name="rpg_continue_6" x="-0.4" y="1.45" kX="0" kY="0" cX="4.85" cY="4.22" pX="-0.05" pY="-0.05" z="0">
+        <d name="rpg_continue__2" pX="78.7" pY="78.7"/>
+        <d name="rpg_continue__11" pX="78.7" pY="78.7"/>
+      </b>
+      <b name="rpg_continue_5" x="-77" y="197.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="rpg_continue__4" pX="32" pY="32"/>
+        <d name="rpg_continue__10" pX="32" pY="32"/>
+      </b>
+      <b name="rpg_continue_4" x="73" y="197.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="rpg_continue__6" pX="32" pY="32"/>
+        <d name="rpg_continue__9" pX="32" pY="32"/>
+      </b>
+      <b name="rpg_continue_3" x="-2" y="197.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3">
+        <d name="rpg_continue__5" pX="32" pY="32"/>
+        <d name="rpg_continue__8" pX="32" pY="32"/>
+      </b>
+      <b name="rpg_continue_2" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4">
+        <d name="rpg_continue__3" pX="204" pY="55.5"/>
+        <d name="rpg_continue__7" pX="69.5" pY="51.5"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="rpg_continue">
+      <mov name="effect" dr="80" to="0" drTW="80" lp="0" twE="NaN">
+        <b name="rpg_continue_6" sc="1" dl="0">
+          <f x="-0.4" y="1.45" cocos2d_x="-0.15" cocos2d_y="1.65" kX="0" kY="0" cX="4.85" cY="4.22" pX="-0.05" pY="-0.05" z="0" dI="0" twE="0" dr="18">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.4" y="1.45" cocos2d_x="-0.15" cocos2d_y="1.65" kX="0" kY="0" cX="4.85" cY="4.22" pX="-0.05" pY="-0.05" z="0" dI="0" dr="62"/>
+        </b>
+        <b name="rpg_continue_5" sc="1" dl="0">
+          <f dr="21" dI="-1"/>
+          <f x="-77" y="197.95" cocos2d_x="-77" cocos2d_y="197.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="59"/>
+        </b>
+        <b name="rpg_continue_4" sc="1" dl="0">
+          <f dr="21" dI="-1"/>
+          <f x="73" y="197.95" cocos2d_x="73" cocos2d_y="197.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="59"/>
+        </b>
+        <b name="rpg_continue_3" sc="1" dl="0">
+          <f dr="21" dI="-1"/>
+          <f x="-2" y="197.95" cocos2d_x="-2" cocos2d_y="197.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="59"/>
+        </b>
+        <b name="rpg_continue_2" sc="1" dl="0">
+          <f dr="21" dI="-1"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="50"/>
+        </b>
+      </mov>
+      <mov name="end" dr="80" to="0" drTW="80" lp="0" twE="NaN">
+        <b name="rpg_continue_6" sc="1" dl="0">
+          <f x="-0.4" y="1.45" cocos2d_x="-0.15" cocos2d_y="1.65" kX="0" kY="0" cX="4.85" cY="4.22" pX="-0.05" pY="-0.05" z="0" dI="1" twE="0" dr="18">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.4" y="1.45" cocos2d_x="-0.15" cocos2d_y="1.65" kX="0" kY="0" cX="4.85" cY="4.22" pX="-0.05" pY="-0.05" z="0" dI="1" dr="62"/>
+        </b>
+        <b name="rpg_continue_5" sc="1" dl="0">
+          <f dr="21" dI="-1"/>
+          <f x="-77" y="197.95" cocos2d_x="-77" cocos2d_y="197.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" dr="59"/>
+        </b>
+        <b name="rpg_continue_4" sc="1" dl="0">
+          <f dr="21" dI="-1"/>
+          <f x="73" y="197.95" cocos2d_x="73" cocos2d_y="197.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="1" dr="59"/>
+        </b>
+        <b name="rpg_continue_3" sc="1" dl="0">
+          <f dr="21" dI="-1"/>
+          <f x="-2" y="197.95" cocos2d_x="-2" cocos2d_y="197.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="1" dr="59"/>
+        </b>
+        <b name="rpg_continue_2" sc="1" dl="0">
+          <f dr="21" dI="-1"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="1" twE="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="1" dr="50"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="rpg_continue" width="512" height="512">
+    <SubTexture name="rpg_continue__7" width="139" height="103" cocos2d_pX="69.5" cocos2d_pY="51.5" x="320" y="264"/>
+    <SubTexture name="rpg_continue__3" width="407" height="110" cocos2d_pX="204" cocos2d_pY="55.5" x="0" y="0"/>
+    <SubTexture name="rpg_continue__8" width="64" height="64" cocos2d_pX="32" cocos2d_pY="32" x="386" y="132"/>
+    <SubTexture name="rpg_continue__5" width="64" height="64" cocos2d_pX="32" cocos2d_pY="32" x="320" y="112"/>
+    <SubTexture name="rpg_continue__9" width="64" height="64" cocos2d_pX="32" cocos2d_pY="32" x="386" y="198"/>
+    <SubTexture name="rpg_continue__6" width="64" height="64" cocos2d_pX="32" cocos2d_pY="32" x="409" y="0"/>
+    <SubTexture name="rpg_continue__10" width="64" height="64" cocos2d_pX="32" cocos2d_pY="32" x="320" y="178"/>
+    <SubTexture name="rpg_continue__4" width="64" height="64" cocos2d_pX="32" cocos2d_pY="32" x="409" y="66"/>
+    <SubTexture name="rpg_continue__11" width="158" height="158" cocos2d_pX="78.7" cocos2d_pY="78.7" x="160" y="112"/>
+    <SubTexture name="rpg_continue__2" width="158" height="158" cocos2d_pX="78.7" cocos2d_pY="78.7" x="0" y="112"/>
+  </TextureAtlas>
+</skeleton>

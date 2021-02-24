@@ -1,0 +1,151 @@
+<skeleton name="city_monster_loading" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="city_monster_loading">
+   <b name="lyt_monster_8" x="0.15" y="43.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="city_monster_loading_9" pX="231" pY="42.5"/>
+   </b>
+   <b name="lyt_monster_7" x="4.15" y="59.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="city_monster_loading_10" pX="85" pY="12"/>
+   </b>
+   <b name="lyt_monster_6" x="4.15" y="59.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="city_monster_loading_11" pX="54.5" pY="13.5"/>
+   </b>
+   <b name="lyt_monster_5" x="172.65" y="-26.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+    <d name="city_monster_loading_12" pX="47.5" pY="59.5"/>
+   </b>
+   <b name="lyt_monster_4" x="-130.85" y="13.35" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="3">
+    <d name="city_monster_loading_13" isArmature="1"/>
+   </b>
+   <b name="lyt_monster_3" x="-202.9" y="16.8" kX="0" kY="0" cX="0.95" cY="0.95" pX="0" pY="0" z="4">
+    <d name="city_monster_loading_1" isArmature="1"/>
+   </b>
+   <b name="lyt_monster_2" x="-163.85" y="25.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5">
+    <d name="city_monster_loading_1" isArmature="1"/>
+   </b>
+  </armature>
+  <armature name="city_monster_loading_13">
+   <b name="hero_ani_18028_3" x="0" y="-17" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="city_monster_loading_7" pX="32" pY="32"/>
+    <d name="city_monster_loading_6" pX="32" pY="32"/>
+    <d name="city_monster_loading_5" pX="32" pY="32"/>
+   </b>
+  </armature>
+  <armature name="city_monster_loading_1">
+   <b name="hero_ani_18022_4" x="0" y="-12.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="city_monster_loading_2" pX="17" pY="14.5"/>
+    <d name="city_monster_loading_3" pX="17.5" pY="14.5"/>
+    <d name="city_monster_loading_4" pX="16.5" pY="14"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="city_monster_loading_13">
+   <mov name="effect" dr="8" to="6" drTW="8" lp="1" twE="NaN">
+    <b name="hero_ani_18028_3" sc="1" dl="0">
+     <f x="0" y="-17" cocos2d_x="0" cocos2d_y="-17" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-17" cocos2d_x="0" cocos2d_y="-17" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-17" cocos2d_x="0" cocos2d_y="-17" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-17" cocos2d_x="0" cocos2d_y="-17" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="city_monster_loading_1">
+   <mov name="effect" dr="8" to="6" drTW="8" lp="1" twE="NaN">
+    <b name="hero_ani_18022_4" sc="1" dl="0">
+     <f x="0" y="-12.45" cocos2d_x="0" cocos2d_y="-12.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-12.45" cocos2d_x="0" cocos2d_y="-12.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-11.95" cocos2d_x="0" cocos2d_y="-11.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-12.45" cocos2d_x="0" cocos2d_y="-12.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="city_monster_loading">
+   <mov name="effect" dr="70" to="0" drTW="70" lp="0" twE="NaN">
+    <b name="lyt_monster_8" sc="1" dl="0">
+     <f x="0.15" y="43.2" cocos2d_x="0.15" cocos2d_y="43.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="5">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="0.15" y="43.2" cocos2d_x="0.15" cocos2d_y="43.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="56"/>
+     <f x="0.15" y="43.2" cocos2d_x="0.15" cocos2d_y="43.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="8"/>
+     <f x="0.15" y="43.2" cocos2d_x="0.15" cocos2d_y="43.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+    <b name="lyt_monster_7" sc="1" dl="0">
+     <f x="4.15" y="59.7" cocos2d_x="4.15" cocos2d_y="59.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="5">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="4.15" y="59.7" cocos2d_x="4.15" cocos2d_y="59.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="27"/>
+     <f x="4.15" y="59.7" cocos2d_x="4.15" cocos2d_y="59.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="3"/>
+     <f x="4.15" y="59.7" cocos2d_x="4.15" cocos2d_y="59.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="34" dI="-1"/>
+    </b>
+    <b name="lyt_monster_6" sc="1" dl="0">
+     <f dr="34" dI="-1"/>
+     <f x="4.15" y="59.7" cocos2d_x="4.15" cocos2d_y="59.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="3">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="4.15" y="59.7" cocos2d_x="4.15" cocos2d_y="59.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="24"/>
+     <f x="4.15" y="59.7" cocos2d_x="4.15" cocos2d_y="59.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="8"/>
+     <f x="4.15" y="59.7" cocos2d_x="4.15" cocos2d_y="59.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+    <b name="lyt_monster_5" sc="1" dl="0">
+     <f x="172.65" y="-26.8" cocos2d_x="172.65" cocos2d_y="-26.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="5">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="172.65" y="-26.8" cocos2d_x="172.65" cocos2d_y="-26.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="56"/>
+     <f x="172.65" y="-26.8" cocos2d_x="172.65" cocos2d_y="-26.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="8"/>
+     <f x="172.65" y="-26.8" cocos2d_x="172.65" cocos2d_y="-26.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+    <b name="lyt_monster_4" sc="1" dl="0">
+     <f x="-130.85" y="13.35" cocos2d_x="-130.85" cocos2d_y="13.35" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="3" dI="0" twE="0" dr="5">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-107.8" y="13.35" cocos2d_x="-107.8" cocos2d_y="13.35" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="3" dI="0" twE="0" dr="56"/>
+     <f x="150.25" y="13.35" cocos2d_x="150.25" cocos2d_y="13.35" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="3" dI="0" twE="0" dr="8"/>
+     <f x="150.25" y="13.35" cocos2d_x="150.25" cocos2d_y="13.35" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="3" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+    <b name="lyt_monster_3" sc="1" dl="0">
+     <f x="-202.9" y="16.8" cocos2d_x="-202.9" cocos2d_y="16.8" kX="0" kY="0" cX="0.95" cY="0.95" pX="0" pY="0" z="4" dI="0" twE="0" dr="5">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-177.8" y="16.8" cocos2d_x="-177.8" cocos2d_y="16.8" kX="0" kY="0" cX="0.95" cY="0.95" pX="0" pY="0" z="4" dI="0" twE="0" dr="56"/>
+     <f x="103.5" y="16.8" cocos2d_x="103.5" cocos2d_y="16.8" kX="0" kY="0" cX="0.95" cY="0.95" pX="0" pY="0" z="4" dI="0" twE="0" dr="8"/>
+     <f x="103.5" y="16.8" cocos2d_x="103.5" cocos2d_y="16.8" kX="0" kY="0" cX="0.95" cY="0.95" pX="0" pY="0" z="4" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+    <b name="lyt_monster_2" sc="1" dl="0">
+     <f x="-163.85" y="25.75" cocos2d_x="-163.85" cocos2d_y="25.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" twE="0" dr="5">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-139.6" y="25.75" cocos2d_x="-139.6" cocos2d_y="25.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" twE="0" dr="56"/>
+     <f x="131.8" y="25.75" cocos2d_x="131.8" cocos2d_y="25.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" twE="0" dr="8"/>
+     <f x="131.8" y="25.75" cocos2d_x="131.8" cocos2d_y="25.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="city_monster_loading" width="512" height="256">
+  <SubTexture name="city_monster_loading_4" width="33" height="28" cocos2d_pX="16.5" cocos2d_pY="14" x="464" y="62"/>
+  <SubTexture name="city_monster_loading_3" width="35" height="29" cocos2d_pX="17.5" cocos2d_pY="14.5" x="464" y="0"/>
+  <SubTexture name="city_monster_loading_2" width="34" height="29" cocos2d_pX="17" cocos2d_pY="14.5" x="464" y="31"/>
+  <SubTexture name="city_monster_loading_5" width="64" height="64" cocos2d_pX="32" cocos2d_pY="32" x="446" y="92"/>
+  <SubTexture name="city_monster_loading_6" width="64" height="64" cocos2d_pX="32" cocos2d_pY="32" x="97" y="113"/>
+  <SubTexture name="city_monster_loading_7" width="64" height="64" cocos2d_pX="32" cocos2d_pY="32" x="380" y="87"/>
+  <SubTexture name="city_monster_loading_12" width="95" height="119" cocos2d_pX="47.5" cocos2d_pY="59.5" x="0" y="87"/>
+  <SubTexture name="city_monster_loading_11" width="109" height="27" cocos2d_pX="54.5" cocos2d_pY="13.5" x="269" y="87"/>
+  <SubTexture name="city_monster_loading_10" width="170" height="24" cocos2d_pX="85" cocos2d_pY="12" x="97" y="87"/>
+  <SubTexture name="city_monster_loading_9" width="462" height="85" cocos2d_pX="231" cocos2d_pY="42.5" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

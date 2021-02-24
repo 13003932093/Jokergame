@@ -1,0 +1,42 @@
+<skeleton name="buff_ani_51407" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="buff_ani_51407">
+      <b name="buff_ani_51407_1" x="3.9" y="-75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="buff_ani_51407_22" pX="72" pY="101"/>
+        <d name="buff_ani_51407_21" pX="72" pY="101"/>
+        <d name="buff_ani_51407_20" pX="72" pY="101"/>
+        <d name="buff_ani_51407_19" pX="72" pY="101"/>
+        <d name="buff_ani_51407_18" pX="72" pY="101"/>
+        <d name="buff_ani_51407_17" pX="72" pY="101"/>
+        <d name="buff_ani_51407_16" pX="72" pY="101"/>
+        <d name="buff_ani_51407_15" pX="72" pY="101"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="buff_ani_51407">
+      <mov name="buff" dr="32" to="0" drTW="32" lp="1" twE="NaN">
+        <b name="buff_ani_51407_1" sc="1" dl="0">
+          <f x="3.9" y="-75" cocos2d_x="3.9" cocos2d_y="-75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+          <f x="3.9" y="-75" cocos2d_x="3.9" cocos2d_y="-75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+          <f x="3.9" y="-75" cocos2d_x="3.9" cocos2d_y="-75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="4"/>
+          <f x="3.9" y="-75" cocos2d_x="3.9" cocos2d_y="-75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="4"/>
+          <f x="3.9" y="-75" cocos2d_x="3.9" cocos2d_y="-75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="4"/>
+          <f x="3.9" y="-75" cocos2d_x="3.9" cocos2d_y="-75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="5" twE="NaN" tweenFrame="0" dr="4"/>
+          <f x="3.9" y="-75" cocos2d_x="3.9" cocos2d_y="-75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="6" twE="NaN" tweenFrame="0" dr="4"/>
+          <f x="3.9" y="-73" cocos2d_x="3.9" cocos2d_y="-73" kX="0" kY="0" cX="0.83" cY="0.83" pX="0" pY="0" z="0" dI="7" twE="NaN" tweenFrame="0" dr="4"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="buff_ani_51407" width="512" height="1024">
+    <SubTexture name="buff_ani_51407_15" width="144" height="202" cocos2d_pX="72" cocos2d_pY="101" x="146" y="0"/>
+    <SubTexture name="buff_ani_51407_16" width="144" height="202" cocos2d_pX="72" cocos2d_pY="101" x="0" y="408"/>
+    <SubTexture name="buff_ani_51407_17" width="144" height="202" cocos2d_pX="72" cocos2d_pY="101" x="0" y="204"/>
+    <SubTexture name="buff_ani_51407_18" width="144" height="202" cocos2d_pX="72" cocos2d_pY="101" x="146" y="408"/>
+    <SubTexture name="buff_ani_51407_19" width="144" height="202" cocos2d_pX="72" cocos2d_pY="101" x="0" y="0"/>
+    <SubTexture name="buff_ani_51407_20" width="144" height="202" cocos2d_pX="72" cocos2d_pY="101" x="292" y="0"/>
+    <SubTexture name="buff_ani_51407_21" width="144" height="202" cocos2d_pX="72" cocos2d_pY="101" x="146" y="204"/>
+    <SubTexture name="buff_ani_51407_22" width="144" height="202" cocos2d_pX="72" cocos2d_pY="101" x="292" y="204"/>
+  </TextureAtlas>
+</skeleton>

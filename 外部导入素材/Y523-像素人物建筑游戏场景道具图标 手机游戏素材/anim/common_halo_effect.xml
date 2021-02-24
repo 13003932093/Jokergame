@@ -1,0 +1,22 @@
+<skeleton name="common_halo_effect" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="common_halo_effect">
+   <b name="图层 1" x="-0.15" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="common_halo_effect_s_1" pX="132.95" pY="117.75"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="common_halo_effect">
+   <mov name="show" dr="165" to="0" drTW="165" lp="1" twE="NaN">
+    <b name="图层 1" sc="1" dl="0">
+     <f x="-0.15" y="0" cocos2d_x="-0.15" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="164"/>
+     <f x="-0.15" y="0" cocos2d_x="-0.15" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1" twR="1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="common_halo_effect" width="256" height="256">
+  <SubTexture name="common_halo_effect_s_1" width="254" height="234" cocos2d_pX="133" cocos2d_pY="117.75" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

@@ -1,0 +1,21 @@
+<skeleton name="buildpos_5014" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="buildpos_5014">
+   <b name="buildpos_5014_2" x="-6" y="-106.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="buildpos_5014_2" pX="66" pY="106.5"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="buildpos_5014">
+   <mov name="idle" dr="32" to="0" drTW="32" lp="0" twE="NaN">
+    <b name="buildpos_5014_2" sc="1" dl="0">
+     <f x="-6" y="-106.95" cocos2d_x="-6" cocos2d_y="-106.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="32"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="buildpos_5014" width="256" height="256">
+  <SubTexture name="buildpos_5014_2" width="132" height="213" cocos2d_pX="66" cocos2d_pY="106.5" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

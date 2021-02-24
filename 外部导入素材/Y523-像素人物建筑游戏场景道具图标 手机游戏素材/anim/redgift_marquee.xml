@@ -1,0 +1,209 @@
+<skeleton name="redgift_marquee" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="redgift_marquee_2">
+      <b name="redgift_marquee_2_6" x="542.15" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="redgift_marquee_2222" pX="344" pY="25"/>
+      </b>
+      <b name="redgift_marquee_2_5" x="-301" y="0" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="1">
+        <d name="redgift_marquee_5" pX="33.65" pY="25"/>
+      </b>
+      <b name="redgift_marquee_2_4" x="224.65" y="-1.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="redgift_marquee_1111" pX="29.05" pY="27.7"/>
+      </b>
+      <b name="redgift_marquee_text" x="266.65" y="0.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="redgift_marquee_0" pX="0" pY="12"/>
+      </b>
+      <b name="redgift_marquee_2_2" x="-61.9" y="0" kX="0" kY="0" cX="1.55" cY="1.23" pX="-0.1" pY="-0.05" z="3">
+        <d name="redgift_marquee_6" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="redgift_marquee_6">
+      <b name="Image 25.png" x="-0.05" y="-0.05" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0">
+        <d name="redgift_marquee_23" pX="81.8" pY="13.65"/>
+        <d name="redgift_marquee_24" pX="81.8" pY="13.65"/>
+        <d name="redgift_marquee_25" pX="81.8" pY="13.65"/>
+        <d name="redgift_marquee_26" pX="81.8" pY="13.65"/>
+        <d name="redgift_marquee_27" pX="81.8" pY="13.65"/>
+        <d name="redgift_marquee_28" pX="81.8" pY="13.65"/>
+        <d name="redgift_marquee_29" pX="81.8" pY="13.65"/>
+        <d name="redgift_marquee_30" pX="81.8" pY="13.65"/>
+        <d name="redgift_marquee_31" pX="81.8" pY="13.65"/>
+        <d name="redgift_marquee_32" pX="81.8" pY="13.65"/>
+        <d name="redgift_marquee_33" pX="81.8" pY="13.65"/>
+        <d name="redgift_marquee_34" pX="81.8" pY="13.65"/>
+        <d name="redgift_marquee_35" pX="81.8" pY="13.65"/>
+        <d name="redgift_marquee_36" pX="81.8" pY="13.65"/>
+        <d name="redgift_marquee_37" pX="81.8" pY="13.65"/>
+      </b>
+    </armature>
+    <armature name="redgift_marquee_1">
+      <b name="redgift_marquee_1_4" x="542.15" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="redgift_marquee_40" pX="344" pY="25"/>
+      </b>
+      <b name="redgift_marquee_1_3" x="219.45" y="-1.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="redgift_marquee_39" pX="14.5" pY="17.55"/>
+      </b>
+      <b name="redgift_marquee_text" x="245.85" y="0.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="redgift_marquee_38" pX="0" pY="12"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="redgift_marquee_6">
+      <mov name="effect" dr="30" to="0" drTW="30" lp="1" twE="NaN">
+        <b name="Image 25.png" sc="1" dl="0">
+          <f x="-0.05" y="-0.05" cocos2d_x="-0.05" cocos2d_y="-0.05" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-0.05" y="-0.05" cocos2d_x="-0.05" cocos2d_y="-0.05" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-0.05" y="-0.05" cocos2d_x="-0.05" cocos2d_y="-0.05" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-0.05" y="-0.05" cocos2d_x="-0.05" cocos2d_y="-0.05" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-0.05" y="-0.05" cocos2d_x="-0.05" cocos2d_y="-0.05" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-0.05" y="-0.05" cocos2d_x="-0.05" cocos2d_y="-0.05" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-0.05" y="-0.05" cocos2d_x="-0.05" cocos2d_y="-0.05" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="6" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-0.05" y="-0.05" cocos2d_x="-0.05" cocos2d_y="-0.05" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="7" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-0.05" y="-0.05" cocos2d_x="-0.05" cocos2d_y="-0.05" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="8" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-0.05" y="-0.05" cocos2d_x="-0.05" cocos2d_y="-0.05" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="9" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-0.05" y="-0.05" cocos2d_x="-0.05" cocos2d_y="-0.05" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="10" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-0.05" y="-0.05" cocos2d_x="-0.05" cocos2d_y="-0.05" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="11" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-0.05" y="-0.05" cocos2d_x="-0.05" cocos2d_y="-0.05" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="12" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-0.05" y="-0.05" cocos2d_x="-0.05" cocos2d_y="-0.05" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="13" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-0.05" y="-0.05" cocos2d_x="-0.05" cocos2d_y="-0.05" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="14" twE="NaN" tweenFrame="0" dr="2"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="redgift_marquee_2">
+      <mov name="effect" dr="480" to="0" drTW="480" lp="0" twE="NaN">
+        <b name="redgift_marquee_2_6" sc="1" dl="0">
+          <f x="542.15" y="0" cocos2d_x="542.15" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="1" dr="51">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="384"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="-1" dr="44"/>
+          <f x="-576.15" y="0" cocos2d_x="-576.15" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="redgift_marquee_2_5" sc="1" dl="0">
+          <f dr="63" dI="-1"/>
+          <f x="-301" y="0" cocos2d_x="-300.95" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="1" dI="0" twE="0" dr="26">
+            <colorTransform a="0" r="0" g="0" b="0" aM="95" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="270.8" y="0" cocos2d_x="270.85" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="53" dI="-1"/>
+          <f x="-301" y="0" cocos2d_x="-300.95" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="1" dI="0" twE="0" dr="26">
+            <colorTransform a="0" r="0" g="0" b="0" aM="95" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="270.8" y="0" cocos2d_x="270.85" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="75" dI="-1"/>
+          <f x="-301" y="0" cocos2d_x="-300.95" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="1" dI="0" twE="0" dr="26">
+            <colorTransform a="0" r="0" g="0" b="0" aM="95" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="270.8" y="0" cocos2d_x="270.85" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="58" dI="-1"/>
+          <f x="-301" y="0" cocos2d_x="-300.95" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="1" dI="0" twE="0" dr="26">
+            <colorTransform a="0" r="0" g="0" b="0" aM="95" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="270.8" y="0" cocos2d_x="270.85" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="49" dI="-1"/>
+          <f x="-301" y="0" cocos2d_x="-300.95" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="1" dI="0" twE="0" dr="26">
+            <colorTransform a="0" r="0" g="0" b="0" aM="95" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="270.8" y="0" cocos2d_x="270.85" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="47" dI="-1"/>
+        </b>
+        <b name="redgift_marquee_2_4" sc="1" dl="0">
+          <f x="224.65" y="-1.5" cocos2d_x="224.65" cocos2d_y="-1.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="1" dr="50">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-334.5" y="-1.5" cocos2d_x="-334.5" cocos2d_y="-1.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="385"/>
+          <f x="-334.5" y="-1.5" cocos2d_x="-334.5" cocos2d_y="-1.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="-1" dr="44"/>
+          <f x="-909.65" y="-1.5" cocos2d_x="-909.65" cocos2d_y="-1.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="redgift_marquee_text" sc="1" dl="0">
+          <f x="266.65" y="0.55" cocos2d_x="266.65" cocos2d_y="0.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="1" dr="52">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-275" y="0.55" cocos2d_x="-275" cocos2d_y="0.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="383"/>
+          <f x="-275" y="0.55" cocos2d_x="-275" cocos2d_y="0.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="-1" dr="44"/>
+          <f x="-861.15" y="0.55" cocos2d_x="-861.15" cocos2d_y="0.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="redgift_marquee_2_2" sc="1" dl="0">
+          <f dr="53" dI="-1"/>
+          <f x="-61.9" y="0" cocos2d_x="-61.75" cocos2d_y="0.05" kX="0" kY="0" cX="1.55" cY="1.23" pX="-0.1" pY="-0.05" z="3" dI="0" dr="382"/>
+          <f dr="45" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="redgift_marquee_1">
+      <mov name="effect" dr="240" to="0" drTW="240" lp="0" twE="NaN">
+        <b name="redgift_marquee_1_4" sc="1" dl="0">
+          <f x="542.15" y="0" cocos2d_x="542.15" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="1" dr="22">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="208"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="-1" dr="9"/>
+          <f x="-576.15" y="0" cocos2d_x="-576.15" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="redgift_marquee_1_3" sc="1" dl="0">
+          <f x="219.45" y="-1.5" cocos2d_x="219.45" cocos2d_y="-1.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="1" dr="21">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-322.7" y="-1.5" cocos2d_x="-322.7" cocos2d_y="-1.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="209"/>
+          <f x="-322.7" y="-1.5" cocos2d_x="-322.7" cocos2d_y="-1.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="-1" dr="9"/>
+          <f x="-898.85" y="-1.5" cocos2d_x="-898.85" cocos2d_y="-1.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="redgift_marquee_text" sc="1" dl="0">
+          <f x="245.85" y="0.55" cocos2d_x="245.85" cocos2d_y="0.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="1" dr="23">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-295.8" y="0.55" cocos2d_x="-295.8" cocos2d_y="0.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="207"/>
+          <f x="-295.8" y="0.55" cocos2d_x="-295.8" cocos2d_y="0.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="-1" dr="9"/>
+          <f x="-871.95" y="0.55" cocos2d_x="-871.95" cocos2d_y="0.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="redgift_marquee" width="1024" height="256">
+    <SubTexture name="redgift_marquee_38" width="512" height="24" cocos2d_pX="0" cocos2d_pY="12" x="0" y="130"/>
+    <SubTexture name="redgift_marquee_39" width="30" height="38" cocos2d_pX="14.5" cocos2d_pY="17.55" x="297" y="156"/>
+    <SubTexture name="redgift_marquee_40" width="688" height="50" cocos2d_pX="344" cocos2d_pY="25" x="0" y="0"/>
+    <SubTexture name="redgift_marquee_37" width="164" height="28" cocos2d_pX="81.8" cocos2d_pY="13.65" x="846" y="120"/>
+    <SubTexture name="redgift_marquee_36" width="164" height="28" cocos2d_pX="81.8" cocos2d_pY="13.65" x="846" y="150"/>
+    <SubTexture name="redgift_marquee_35" width="164" height="28" cocos2d_pX="81.8" cocos2d_pY="13.65" x="0" y="156"/>
+    <SubTexture name="redgift_marquee_34" width="164" height="28" cocos2d_pX="81.8" cocos2d_pY="13.65" x="856" y="30"/>
+    <SubTexture name="redgift_marquee_33" width="164" height="28" cocos2d_pX="81.8" cocos2d_pY="13.65" x="514" y="134"/>
+    <SubTexture name="redgift_marquee_32" width="164" height="28" cocos2d_pX="81.8" cocos2d_pY="13.65" x="856" y="60"/>
+    <SubTexture name="redgift_marquee_31" width="164" height="28" cocos2d_pX="81.8" cocos2d_pY="13.65" x="680" y="150"/>
+    <SubTexture name="redgift_marquee_30" width="164" height="28" cocos2d_pX="81.8" cocos2d_pY="13.65" x="856" y="90"/>
+    <SubTexture name="redgift_marquee_29" width="164" height="28" cocos2d_pX="81.8" cocos2d_pY="13.65" x="690" y="0"/>
+    <SubTexture name="redgift_marquee_28" width="164" height="28" cocos2d_pX="81.8" cocos2d_pY="13.65" x="680" y="120"/>
+    <SubTexture name="redgift_marquee_27" width="164" height="28" cocos2d_pX="81.8" cocos2d_pY="13.65" x="856" y="0"/>
+    <SubTexture name="redgift_marquee_26" width="164" height="28" cocos2d_pX="81.8" cocos2d_pY="13.65" x="690" y="30"/>
+    <SubTexture name="redgift_marquee_25" width="164" height="28" cocos2d_pX="81.8" cocos2d_pY="13.65" x="690" y="60"/>
+    <SubTexture name="redgift_marquee_24" width="164" height="28" cocos2d_pX="81.8" cocos2d_pY="13.65" x="690" y="90"/>
+    <SubTexture name="redgift_marquee_23" width="164" height="28" cocos2d_pX="81.8" cocos2d_pY="13.65" x="514" y="104"/>
+    <SubTexture name="redgift_marquee_0" width="512" height="24" cocos2d_pX="0" cocos2d_pY="12" x="0" y="104"/>
+    <SubTexture name="redgift_marquee_1111" width="59" height="56" cocos2d_pX="29.05" cocos2d_pY="27.7" x="236" y="156"/>
+    <SubTexture name="redgift_marquee_5" width="68" height="50" cocos2d_pX="33.65" cocos2d_pY="25" x="166" y="156"/>
+    <SubTexture name="redgift_marquee_2222" width="688" height="50" cocos2d_pX="344" cocos2d_pY="25" x="0" y="52"/>
+  </TextureAtlas>
+</skeleton>

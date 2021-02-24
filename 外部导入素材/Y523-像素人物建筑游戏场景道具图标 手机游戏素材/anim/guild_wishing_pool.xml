@@ -1,0 +1,956 @@
+<skeleton name="guild_wishing_pool" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="guild_wishing_pool">
+   <b name="guild_wishing_pool_18" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="guild_wishing_pool_8" pX="173.5" pY="190.5"/>
+   </b>
+   <b name="guild_wishing_pool_17" x="1.5" y="18" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="guild_wishing_pool_9" pX="137.5" pY="69"/>
+   </b>
+   <b name="guild_wishing_pool_16" x="-72.75" y="-10.75" kX="0" kY="0" cX="1" cY="1" pX="-0.5" pY="-26" z="2">
+    <d name="guild_wishing_pool_10" pX="4" pY="26.75"/>
+   </b>
+   <b name="guild_wishing_pool_15" x="81.2" y="-13.25" kX="0" kY="0" cX="1" cY="1" pX="-0.5" pY="-26" z="3">
+    <d name="guild_wishing_pool_11" pX="4" pY="26.75"/>
+   </b>
+   <b name="guild_wishing_pool_14" x="-36.75" y="-5.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4">
+    <d name="guild_wishing_pool_12" isArmature="1"/>
+   </b>
+   <b name="guild_wishing_pool_13" x="46.75" y="-8.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5">
+    <d name="guild_wishing_pool_13" isArmature="1"/>
+   </b>
+   <b name="guild_wishing_pool_12" x="7" y="-26.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="6">
+    <d name="guild_wishing_pool_34" pX="40" pY="14.5"/>
+    <d name="guild_wishing_pool_35" pX="40" pY="22.8"/>
+    <d name="guild_wishing_pool_20" pX="40" pY="41"/>
+   </b>
+   <b name="guild_wishing_pool_11" x="-2.8" y="-21.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6">
+    <d name="guild_wishing_pool_22" pX="23.5" pY="7"/>
+    <d name="guild_wishing_pool_26" pX="23.5" pY="16.25"/>
+    <d name="guild_wishing_pool_49" pX="26.5" pY="9.5"/>
+    <d name="guild_wishing_pool_50" pX="26.55" pY="21.65"/>
+    <d name="guild_wishing_pool_46" pX="34.5" pY="12"/>
+    <d name="guild_wishing_pool_47" pX="34.6" pY="27.3"/>
+   </b>
+   <b name="guild_wishing_pool_10" x="12.85" y="-129.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="8">
+    <d name="guild_wishing_pool_36" pX="70.6" pY="52.65"/>
+    <d name="guild_wishing_pool_37" pX="137.5" pY="79.45"/>
+    <d name="guild_wishing_pool_27" isArmature="1"/>
+    <d name="guild_wishing_pool_35" pX="40" pY="22.8"/>
+    <d name="guild_wishing_pool_34" pX="40" pY="14.5"/>
+   </b>
+   <b name="guild_wishing_pool_9" x="-2.6" y="-105.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8">
+    <d name="guild_wishing_pool_38" pX="22.5" pY="22.05"/>
+    <d name="guild_wishing_pool_26" pX="23.5" pY="16.25"/>
+    <d name="guild_wishing_pool_22" pX="23.5" pY="7"/>
+    <d name="guild_wishing_pool_51" pX="24.5" pY="33.5"/>
+    <d name="guild_wishing_pool_50" pX="26.55" pY="21.65"/>
+    <d name="guild_wishing_pool_49" pX="26.5" pY="9.5"/>
+    <d name="guild_wishing_pool_48" pX="40.5" pY="40"/>
+    <d name="guild_wishing_pool_47" pX="34.6" pY="27.3"/>
+    <d name="guild_wishing_pool_46" pX="34.5" pY="12"/>
+   </b>
+   <b name="guild_wishing_pool_8" x="-1.55" y="-93.9" kX="-16.47" kY="-16.47" cX="0.38" cY="0.38" pX="-0.1" pY="9.15" z="9">
+    <d name="guild_wishing_pool_6" pX="71.1" pY="58.05"/>
+   </b>
+   <b name="guild_wishing_pool_7" x="-2.4" y="-102.05" kX="0" kY="0" cX="0.38" cY="0.38" pX="0" pY="0" z="10">
+    <d name="guild_wishing_pool_4" pX="42.2" pY="42.2"/>
+   </b>
+   <b name="guild_wishing_pool_6" x="-2.75" y="-102.3" kX="0" kY="0" cX="0.38" cY="0.38" pX="39.8" pY="-14.8" z="11">
+    <d name="guild_wishing_pool_2" pX="59" pY="70.3"/>
+   </b>
+   <b name="guild_wishing_pool_5" x="-2.3" y="-102" kX="0" kY="0" cX="0.38" cY="0.38" pX="-20.1" pY="14.8" z="12">
+    <d name="guild_wishing_pool_3" pX="86.15" pY="58.05"/>
+   </b>
+   <b name="guild_wishing_pool_4" x="-15.05" y="-102.95" kX="0" kY="0" cX="0.9" cY="0.9" pX="-0.2" pY="0" z="9">
+    <d name="guild_wishing_pool_32" pX="7.05" pY="7.05"/>
+   </b>
+   <b name="guild_wishing_pool_3" x="2" y="-98.25" kX="0" kY="0" cX="0.83" cY="0.83" pX="-0.05" pY="-0.1" z="10">
+    <d name="guild_wishing_pool_31" pX="2.1" pY="2.1"/>
+   </b>
+   <b name="guild_wishing_pool_2" x="10.7" y="-102" kX="0" kY="0" cX="0.86" cY="0.86" pX="-0.1" pY="0" z="11">
+    <d name="guild_wishing_pool_32" pX="7.05" pY="7.05"/>
+   </b>
+  </armature>
+  <armature name="guild_wishing_pool_12">
+   <b name="guild_wishing_pool_2_2" x="6" y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="guild_wishing_pool_14" pX="6" pY="26"/>
+    <d name="guild_wishing_pool_15" pX="6" pY="26"/>
+    <d name="guild_wishing_pool_16" pX="6" pY="26"/>
+   </b>
+  </armature>
+  <armature name="guild_wishing_pool_13">
+   <b name="guild_wishing_pool_3_2" x="6" y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="guild_wishing_pool_15" pX="6" pY="26"/>
+    <d name="guild_wishing_pool_16" pX="6" pY="26"/>
+    <d name="guild_wishing_pool_14" pX="6" pY="26"/>
+   </b>
+  </armature>
+  <armature name="guild_wishing_pool_27">
+   <b name="guild_wishing_pool_1_2" x="8.25" y="44" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="guild_wishing_pool_28" pX="137.5" pY="116.5"/>
+    <d name="guild_wishing_pool_29" pX="137.5" pY="116.5"/>
+    <d name="guild_wishing_pool_30" pX="137.5" pY="116.5"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="guild_wishing_pool_12">
+   <mov name="idle" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+    <b name="guild_wishing_pool_2_2" sc="1" dl="0">
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="2"/>
+    </b>
+   </mov>
+   <mov name="show1" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+    <b name="guild_wishing_pool_2_2" sc="1" dl="0">
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="2"/>
+    </b>
+   </mov>
+   <mov name="show_idle1" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+    <b name="guild_wishing_pool_2_2" sc="1" dl="0">
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="2"/>
+    </b>
+   </mov>
+   <mov name="open1" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+    <b name="guild_wishing_pool_2_2" sc="1" dl="0">
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="2"/>
+    </b>
+   </mov>
+   <mov name="disappear1" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+    <b name="guild_wishing_pool_2_2" sc="1" dl="0">
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="2"/>
+    </b>
+   </mov>
+   <mov name="show2" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+    <b name="guild_wishing_pool_2_2" sc="1" dl="0">
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="2"/>
+    </b>
+   </mov>
+   <mov name="show_idle2" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+    <b name="guild_wishing_pool_2_2" sc="1" dl="0">
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="2"/>
+    </b>
+   </mov>
+   <mov name="open2" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+    <b name="guild_wishing_pool_2_2" sc="1" dl="0">
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="2"/>
+    </b>
+   </mov>
+   <mov name="disappear2" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+    <b name="guild_wishing_pool_2_2" sc="1" dl="0">
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="2"/>
+    </b>
+   </mov>
+   <mov name="show3" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+    <b name="guild_wishing_pool_2_2" sc="1" dl="0">
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="2"/>
+    </b>
+   </mov>
+   <mov name="show_idle3" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+    <b name="guild_wishing_pool_2_2" sc="1" dl="0">
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="2"/>
+    </b>
+   </mov>
+   <mov name="open3" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+    <b name="guild_wishing_pool_2_2" sc="1" dl="0">
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="2"/>
+    </b>
+   </mov>
+   <mov name="disappear3" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+    <b name="guild_wishing_pool_2_2" sc="1" dl="0">
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="2"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="guild_wishing_pool_13">
+   <mov name="idle" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+    <b name="guild_wishing_pool_3_2" sc="1" dl="0">
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="2"/>
+    </b>
+   </mov>
+   <mov name="show1" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+    <b name="guild_wishing_pool_3_2" sc="1" dl="0">
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="2"/>
+    </b>
+   </mov>
+   <mov name="show_idle1" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+    <b name="guild_wishing_pool_3_2" sc="1" dl="0">
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="2"/>
+    </b>
+   </mov>
+   <mov name="open1" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+    <b name="guild_wishing_pool_3_2" sc="1" dl="0">
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="2"/>
+    </b>
+   </mov>
+   <mov name="disappear1" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+    <b name="guild_wishing_pool_3_2" sc="1" dl="0">
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="2"/>
+    </b>
+   </mov>
+   <mov name="show2" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+    <b name="guild_wishing_pool_3_2" sc="1" dl="0">
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="2"/>
+    </b>
+   </mov>
+   <mov name="show_idle2" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+    <b name="guild_wishing_pool_3_2" sc="1" dl="0">
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="2"/>
+    </b>
+   </mov>
+   <mov name="open2" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+    <b name="guild_wishing_pool_3_2" sc="1" dl="0">
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="2"/>
+    </b>
+   </mov>
+   <mov name="disappear2" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+    <b name="guild_wishing_pool_3_2" sc="1" dl="0">
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="2"/>
+    </b>
+   </mov>
+   <mov name="show3" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+    <b name="guild_wishing_pool_3_2" sc="1" dl="0">
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="2"/>
+    </b>
+   </mov>
+   <mov name="show_idle3" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+    <b name="guild_wishing_pool_3_2" sc="1" dl="0">
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="2"/>
+    </b>
+   </mov>
+   <mov name="open3" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+    <b name="guild_wishing_pool_3_2" sc="1" dl="0">
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="2"/>
+    </b>
+   </mov>
+   <mov name="disappear3" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+    <b name="guild_wishing_pool_3_2" sc="1" dl="0">
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="2"/>
+     <f x="6" y="26" cocos2d_x="6" cocos2d_y="26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="2"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="guild_wishing_pool_27">
+   <mov name="show_idle1" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+    <b name="guild_wishing_pool_1_2" sc="1" dl="0">
+     <f x="8.25" y="44" cocos2d_x="8.25" cocos2d_y="44" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="8.25" y="44" cocos2d_x="8.25" cocos2d_y="44" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="8.25" y="44" cocos2d_x="8.25" cocos2d_y="44" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+    </b>
+   </mov>
+   <mov name="open1" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+    <b name="guild_wishing_pool_1_2" sc="1" dl="0">
+     <f x="8.25" y="44" cocos2d_x="8.25" cocos2d_y="44" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="8.25" y="44" cocos2d_x="8.25" cocos2d_y="44" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="8.25" y="44" cocos2d_x="8.25" cocos2d_y="44" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+    </b>
+   </mov>
+   <mov name="show_idle2" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+    <b name="guild_wishing_pool_1_2" sc="1" dl="0">
+     <f x="8.25" y="44" cocos2d_x="8.25" cocos2d_y="44" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="8.25" y="44" cocos2d_x="8.25" cocos2d_y="44" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="8.25" y="44" cocos2d_x="8.25" cocos2d_y="44" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+    </b>
+   </mov>
+   <mov name="open2" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+    <b name="guild_wishing_pool_1_2" sc="1" dl="0">
+     <f x="8.25" y="44" cocos2d_x="8.25" cocos2d_y="44" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="8.25" y="44" cocos2d_x="8.25" cocos2d_y="44" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="8.25" y="44" cocos2d_x="8.25" cocos2d_y="44" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+    </b>
+   </mov>
+   <mov name="show_idle3" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+    <b name="guild_wishing_pool_1_2" sc="1" dl="0">
+     <f x="8.25" y="44" cocos2d_x="8.25" cocos2d_y="44" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="8.25" y="44" cocos2d_x="8.25" cocos2d_y="44" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="8.25" y="44" cocos2d_x="8.25" cocos2d_y="44" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+    </b>
+   </mov>
+   <mov name="open3" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+    <b name="guild_wishing_pool_1_2" sc="1" dl="0">
+     <f x="8.25" y="44" cocos2d_x="8.25" cocos2d_y="44" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="8.25" y="44" cocos2d_x="8.25" cocos2d_y="44" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="8.25" y="44" cocos2d_x="8.25" cocos2d_y="44" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="guild_wishing_pool">
+   <mov name="idle" dr="59" to="0" drTW="59" lp="1" twE="NaN">
+    <b name="guild_wishing_pool_18" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="59"/>
+    </b>
+    <b name="guild_wishing_pool_17" sc="1" dl="0">
+     <f x="1.5" y="18" cocos2d_x="1.5" cocos2d_y="18" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="59"/>
+    </b>
+    <b name="guild_wishing_pool_16" sc="1" dl="0">
+     <f x="-72.75" y="-10.75" cocos2d_x="-72.25" cocos2d_y="15.25" kX="0" kY="0" cX="1" cY="1" pX="-0.5" pY="-26" z="2" dI="0" dr="59"/>
+    </b>
+    <b name="guild_wishing_pool_15" sc="1" dl="0">
+     <f x="81.2" y="-13.25" cocos2d_x="81.7" cocos2d_y="12.75" kX="0" kY="0" cX="1" cY="1" pX="-0.5" pY="-26" z="3" dI="0" dr="59"/>
+    </b>
+    <b name="guild_wishing_pool_14" sc="1" dl="0">
+     <f x="-36.75" y="-5.9" cocos2d_x="-36.75" cocos2d_y="-5.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="59"/>
+    </b>
+    <b name="guild_wishing_pool_13" sc="1" dl="0">
+     <f x="46.75" y="-8.9" cocos2d_x="46.75" cocos2d_y="-8.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="59"/>
+    </b>
+   </mov>
+   <mov name="show1" dr="15" to="0" drTW="15" lp="0" twE="NaN">
+    <b name="guild_wishing_pool_18" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="15"/>
+    </b>
+    <b name="guild_wishing_pool_17" sc="1" dl="0">
+     <f x="1.5" y="18" cocos2d_x="1.5" cocos2d_y="18" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="15"/>
+    </b>
+    <b name="guild_wishing_pool_16" sc="1" dl="0">
+     <f x="-72.75" y="-10.75" cocos2d_x="-72.25" cocos2d_y="15.25" kX="0" kY="0" cX="1" cY="1" pX="-0.5" pY="-26" z="2" dI="0" dr="15"/>
+    </b>
+    <b name="guild_wishing_pool_15" sc="1" dl="0">
+     <f x="81.2" y="-13.25" cocos2d_x="81.7" cocos2d_y="12.75" kX="0" kY="0" cX="1" cY="1" pX="-0.5" pY="-26" z="3" dI="0" dr="15"/>
+    </b>
+    <b name="guild_wishing_pool_14" sc="1" dl="0">
+     <f x="-36.75" y="-5.9" cocos2d_x="-36.75" cocos2d_y="-5.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="15"/>
+    </b>
+    <b name="guild_wishing_pool_13" sc="1" dl="0">
+     <f x="45.95" y="-8.9" cocos2d_x="45.95" cocos2d_y="-8.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="15"/>
+    </b>
+    <b name="guild_wishing_pool_12" sc="1" dl="0">
+     <f dr="4" dI="-1"/>
+     <f x="7" y="-26.45" cocos2d_x="7" cocos2d_y="-26.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="6" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="7" y="-34.75" cocos2d_x="7" cocos2d_y="-34.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="1" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="6.2" y="-60.6" cocos2d_x="6.2" cocos2d_y="-60.6" kX="0" kY="0" cX="1" cY="1.16" pX="0" pY="0" z="6" dI="2" twE="0" dr="2"/>
+     <f x="6.2" y="-52.4" cocos2d_x="6.2" cocos2d_y="-52.4" kX="0" kY="0" cX="1" cY="0.96" pX="0" pY="0" z="6" dI="2" twE="0" dr="2"/>
+     <f x="6.2" y="-54" cocos2d_x="6.2" cocos2d_y="-54" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="2" dr="4"/>
+    </b>
+    <b name="guild_wishing_pool_11" sc="1" dl="0">
+     <f x="-2.8" y="-21.25" cocos2d_x="-2.8" cocos2d_y="-21.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-2.8" y="-28.7" cocos2d_x="-2.8" cocos2d_y="-28.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-2.8" y="-45.4" cocos2d_x="-2.8" cocos2d_y="-45.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-2.8" y="-62.05" cocos2d_x="-2.8" cocos2d_y="-62.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="1" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="-2.8" y="-118.05" cocos2d_x="-2.8" cocos2d_y="-118.05" kX="0" kY="0" cX="1" cY="1.16" pX="0" pY="0" z="7" dI="1" twE="0" dr="2"/>
+     <f x="-2.8" y="-94.85" cocos2d_x="-2.8" cocos2d_y="-94.85" kX="0" kY="0" cX="1" cY="0.96" pX="0" pY="0" z="7" dI="1" twE="0" dr="2"/>
+     <f x="-2.8" y="-101.45" cocos2d_x="-2.8" cocos2d_y="-101.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="1" twE="0" dr="2"/>
+     <f x="-2.8" y="-99.5" cocos2d_x="-2.8" cocos2d_y="-99.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="1" dr="2"/>
+    </b>
+    <b name="guild_wishing_pool_10" sc="1" dl="0">
+     <f dr="10" dI="-1"/>
+     <f x="12.85" y="-129.55" cocos2d_x="12.85" cocos2d_y="-129.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="8" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="3.2" y="-106.6" cocos2d_x="3.2" cocos2d_y="-106.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="1" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="-4.7" y="-113.45" cocos2d_x="-4.7" cocos2d_y="-113.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="8" dI="2" dr="3"/>
+    </b>
+   </mov>
+   <mov name="show_idle1" dr="37" to="0" drTW="37" lp="1" twE="NaN">
+    <b name="guild_wishing_pool_18" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="37"/>
+    </b>
+    <b name="guild_wishing_pool_17" sc="1" dl="0">
+     <f x="1.5" y="18" cocos2d_x="1.5" cocos2d_y="18" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="37"/>
+    </b>
+    <b name="guild_wishing_pool_16" sc="1" dl="0">
+     <f x="-72.75" y="-10.75" cocos2d_x="-72.25" cocos2d_y="15.25" kX="0" kY="0" cX="1" cY="1" pX="-0.5" pY="-26" z="2" dI="0" dr="37"/>
+    </b>
+    <b name="guild_wishing_pool_15" sc="1" dl="0">
+     <f x="81.2" y="-13.25" cocos2d_x="81.7" cocos2d_y="12.75" kX="0" kY="0" cX="1" cY="1" pX="-0.5" pY="-26" z="3" dI="0" dr="37"/>
+    </b>
+    <b name="guild_wishing_pool_14" sc="1" dl="0">
+     <f x="-36.75" y="-5.9" cocos2d_x="-36.75" cocos2d_y="-5.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="37"/>
+    </b>
+    <b name="guild_wishing_pool_13" sc="1" dl="0">
+     <f x="45.95" y="-8.9" cocos2d_x="45.95" cocos2d_y="-8.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="37"/>
+    </b>
+    <b name="guild_wishing_pool_12" sc="1" dl="0">
+     <f x="6.2" y="-54" cocos2d_x="6.2" cocos2d_y="-54" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="2" dr="37"/>
+    </b>
+    <b name="guild_wishing_pool_11" sc="1" dl="0">
+     <f x="-2.8" y="-99.5" cocos2d_x="-2.8" cocos2d_y="-99.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="1" dr="37"/>
+    </b>
+    <b name="guild_wishing_pool_10" sc="1" dl="0">
+     <f x="-4.7" y="-113.45" cocos2d_x="-4.7" cocos2d_y="-113.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="8" dI="2" dr="37"/>
+    </b>
+   </mov>
+   <mov name="open1" dr="49" to="0" drTW="49" lp="0" twE="NaN">
+    <b name="guild_wishing_pool_18" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="49"/>
+    </b>
+    <b name="guild_wishing_pool_17" sc="1" dl="0">
+     <f x="1.5" y="18" cocos2d_x="1.5" cocos2d_y="18" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="49"/>
+    </b>
+    <b name="guild_wishing_pool_16" sc="1" dl="0">
+     <f x="-72.75" y="-10.75" cocos2d_x="-72.25" cocos2d_y="15.25" kX="0" kY="0" cX="1" cY="1" pX="-0.5" pY="-26" z="2" dI="0" dr="49"/>
+    </b>
+    <b name="guild_wishing_pool_15" sc="1" dl="0">
+     <f x="81.2" y="-13.25" cocos2d_x="81.7" cocos2d_y="12.75" kX="0" kY="0" cX="1" cY="1" pX="-0.5" pY="-26" z="3" dI="0" dr="49"/>
+    </b>
+    <b name="guild_wishing_pool_14" sc="1" dl="0">
+     <f x="-36.75" y="-5.9" cocos2d_x="-36.75" cocos2d_y="-5.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="49"/>
+    </b>
+    <b name="guild_wishing_pool_13" sc="1" dl="0">
+     <f x="45.95" y="-8.9" cocos2d_x="45.95" cocos2d_y="-8.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="49"/>
+    </b>
+    <b name="guild_wishing_pool_12" sc="1" dl="0">
+     <f x="6.2" y="-54" cocos2d_x="6.2" cocos2d_y="-54" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="2" dr="49"/>
+    </b>
+    <b name="guild_wishing_pool_11" sc="1" dl="0">
+     <f x="-2.8" y="-99.5" cocos2d_x="-2.8" cocos2d_y="-99.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="1" dr="5"/>
+     <f dr="44" dI="-1"/>
+    </b>
+    <b name="guild_wishing_pool_10" sc="1" dl="0">
+     <f x="-4.7" y="-113.45" cocos2d_x="-4.7" cocos2d_y="-113.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="7" dI="2" dr="49"/>
+    </b>
+    <b name="guild_wishing_pool_9" sc="1" dl="0">
+     <f dr="5" dI="-1"/>
+     <f x="-2.6" y="-105.3" cocos2d_x="-2.6" cocos2d_y="-105.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="0" dr="44"/>
+    </b>
+    <b name="guild_wishing_pool_8" sc="1" dl="0">
+     <f dr="4" dI="-1"/>
+     <f x="-1.55" y="-93.9" cocos2d_x="-2.5" cocos2d_y="-97.25" kX="-16.47" kY="-16.47" cX="0.38" cY="0.38" pX="-0.1" pY="9.15" z="9" dI="0" twE="0" dr="2"/>
+     <f x="-10.45" y="-90.3" cocos2d_x="-5.15" cocos2d_y="-106" kX="18.71" kY="18.71" cX="1.85" cY="1.85" pX="0" pY="8.95" z="9" dI="0" twE="0" dr="9"/>
+     <f x="-10.3" y="-95.95" cocos2d_x="-3.35" cocos2d_y="-104.95" kX="37.61" kY="37.61" cX="1.27" cY="1.27" pX="0" pY="8.95" z="9" dI="0" twE="0" dr="9"/>
+     <f x="-7.2" y="-99.85" cocos2d_x="0.5" cocos2d_y="-105" kX="56.65" kY="56.65" cX="1.04" cY="1.04" pX="0.1" pY="8.85" z="9" dI="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="23" dI="-1"/>
+    </b>
+    <b name="guild_wishing_pool_7" sc="1" dl="0">
+     <f dr="4" dI="-1"/>
+     <f x="-2.4" y="-102.05" cocos2d_x="-2.4" cocos2d_y="-102.05" kX="0" kY="0" cX="0.38" cY="0.38" pX="0" pY="0" z="10" dI="0" twE="0" dr="2"/>
+     <f x="-9.8" y="-100.25" cocos2d_x="-9.8" cocos2d_y="-100.25" kX="12.22" kY="12.22" cX="0.99" cY="0.99" pX="0" pY="0" z="10" dI="0" twE="0" dr="9"/>
+     <f x="-6.8" y="-102.25" cocos2d_x="-6.8" cocos2d_y="-102.25" kX="22.56" kY="22.56" cX="0.69" cY="0.69" pX="0" pY="0" z="10" dI="0" twE="0" dr="9"/>
+     <f x="-5.55" y="-98.9" cocos2d_x="-5.55" cocos2d_y="-98.9" kX="32.99" kY="32.99" cX="0.55" cY="0.55" pX="0" pY="0" z="10" dI="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="23" dI="-1"/>
+    </b>
+    <b name="guild_wishing_pool_6" sc="1" dl="0">
+     <f dr="4" dI="-1"/>
+     <f x="-2.75" y="-102.3" cocos2d_x="-17.9" cocos2d_y="-96.65" kX="0" kY="0" cX="0.38" cY="0.38" pX="39.8" pY="-14.8" z="11" dI="0" twE="0" dr="2"/>
+     <f x="-10.05" y="-101" cocos2d_x="-51.8" cocos2d_y="-94.85" kX="12.22" kY="12.22" cX="0.99" cY="0.99" pX="39.7" pY="-14.95" z="11" dI="0" twE="0" dr="9"/>
+     <f x="-5.55" y="-102.8" cocos2d_x="-34.95" cocos2d_y="-103.8" kX="22.56" kY="22.56" cX="0.69" cY="0.69" pX="39.85" pY="-14.95" z="11" dI="0" twE="0" dr="9"/>
+     <f x="-2.75" y="-99.5" cocos2d_x="-25.45" cocos2d_y="-104.5" kX="32.99" kY="32.99" cX="0.55" cY="0.55" pX="39.85" pY="-14.9" z="11" dI="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="23" dI="-1"/>
+    </b>
+    <b name="guild_wishing_pool_5" sc="1" dl="0">
+     <f dr="4" dI="-1"/>
+     <f x="-2.3" y="-102" cocos2d_x="5.35" cocos2d_y="-107.65" kX="0" kY="0" cX="0.38" cY="0.38" pX="-20.1" pY="14.8" z="12" dI="0" twE="0" dr="2"/>
+     <f x="-9.55" y="-99.95" cocos2d_x="4.4" cocos2d_y="-120.35" kX="-18.98" kY="-18.98" cX="0.99" cY="0.99" pX="-19.95" pY="14.85" z="12" dI="0" twE="0" dr="9"/>
+     <f x="-6.7" y="-101.95" cocos2d_x="0.95" cocos2d_y="-117.4" kX="-26.85" kY="-26.85" cX="0.69" cY="0.69" pX="-20" pY="14.95" z="12" dI="0" twE="0" dr="9"/>
+     <f x="-5.5" y="-98.75" cocos2d_x="-1.25" cocos2d_y="-111.65" kX="-35" kY="-35" cX="0.55" cY="0.55" pX="-19.95" pY="14.85" z="12" dI="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="23" dI="-1"/>
+    </b>
+    <b name="guild_wishing_pool_4" sc="1" dl="0">
+     <f dr="26" dI="-1"/>
+     <f x="-15.05" y="-102.95" cocos2d_x="-14.9" cocos2d_y="-102.95" kX="0" kY="0" cX="0.9" cY="0.9" pX="-0.2" pY="0" z="9" dI="0" dr="23"/>
+    </b>
+    <b name="guild_wishing_pool_3" sc="1" dl="0">
+     <f dr="26" dI="-1"/>
+     <f x="2" y="-98.25" cocos2d_x="2.05" cocos2d_y="-98.15" kX="0" kY="0" cX="0.83" cY="0.83" pX="-0.05" pY="-0.1" z="10" dI="0" dr="23"/>
+    </b>
+    <b name="guild_wishing_pool_2" sc="1" dl="0">
+     <f dr="26" dI="-1"/>
+     <f x="10.7" y="-102" cocos2d_x="10.8" cocos2d_y="-102" kX="0" kY="0" cX="0.86" cY="0.86" pX="-0.1" pY="0" z="11" dI="0" dr="23"/>
+    </b>
+   </mov>
+   <mov name="disappear1" dr="12" to="0" drTW="12" lp="0" twE="NaN">
+    <b name="guild_wishing_pool_18" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="12"/>
+    </b>
+    <b name="guild_wishing_pool_17" sc="1" dl="0">
+     <f x="1.5" y="18" cocos2d_x="1.5" cocos2d_y="18" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="12"/>
+    </b>
+    <b name="guild_wishing_pool_16" sc="1" dl="0">
+     <f x="-72.75" y="-10.75" cocos2d_x="-72.25" cocos2d_y="15.25" kX="0" kY="0" cX="1" cY="1" pX="-0.5" pY="-26" z="2" dI="0" dr="12"/>
+    </b>
+    <b name="guild_wishing_pool_15" sc="1" dl="0">
+     <f x="81.2" y="-13.25" cocos2d_x="81.7" cocos2d_y="12.75" kX="0" kY="0" cX="1" cY="1" pX="-0.5" pY="-26" z="3" dI="0" dr="12"/>
+    </b>
+    <b name="guild_wishing_pool_14" sc="1" dl="0">
+     <f x="-36.75" y="-5.9" cocos2d_x="-36.75" cocos2d_y="-5.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="12"/>
+    </b>
+    <b name="guild_wishing_pool_13" sc="1" dl="0">
+     <f x="45.95" y="-8.9" cocos2d_x="45.95" cocos2d_y="-8.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="12"/>
+    </b>
+    <b name="guild_wishing_pool_10" sc="1" dl="0">
+     <f x="7" y="-34.75" cocos2d_x="7" cocos2d_y="-34.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="7" y="-26.45" cocos2d_x="7" cocos2d_y="-26.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="6" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+     <f dr="8" dI="-1"/>
+    </b>
+    <b name="guild_wishing_pool_9" sc="1" dl="0">
+     <f x="-2.8" y="-62.05" cocos2d_x="-2.8" cocos2d_y="-62.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-2.8" y="-45.4" cocos2d_x="-2.8" cocos2d_y="-45.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-2.8" y="-28.7" cocos2d_x="-2.8" cocos2d_y="-28.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-2.8" y="-21.25" cocos2d_x="-2.8" cocos2d_y="-21.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+     <f dr="4" dI="-1"/>
+    </b>
+   </mov>
+   <mov name="show2" dr="15" to="0" drTW="15" lp="0" twE="NaN">
+    <b name="guild_wishing_pool_18" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="15"/>
+    </b>
+    <b name="guild_wishing_pool_17" sc="1" dl="0">
+     <f x="1.5" y="18" cocos2d_x="1.5" cocos2d_y="18" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="15"/>
+    </b>
+    <b name="guild_wishing_pool_16" sc="1" dl="0">
+     <f x="-72.75" y="-10.75" cocos2d_x="-72.25" cocos2d_y="15.25" kX="0" kY="0" cX="1" cY="1" pX="-0.5" pY="-26" z="2" dI="0" dr="15"/>
+    </b>
+    <b name="guild_wishing_pool_15" sc="1" dl="0">
+     <f x="81.2" y="-13.25" cocos2d_x="81.7" cocos2d_y="12.75" kX="0" kY="0" cX="1" cY="1" pX="-0.5" pY="-26" z="3" dI="0" dr="15"/>
+    </b>
+    <b name="guild_wishing_pool_14" sc="1" dl="0">
+     <f x="-36.75" y="-5.9" cocos2d_x="-36.75" cocos2d_y="-5.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="15"/>
+    </b>
+    <b name="guild_wishing_pool_13" sc="1" dl="0">
+     <f x="45.95" y="-8.9" cocos2d_x="45.95" cocos2d_y="-8.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="15"/>
+    </b>
+    <b name="guild_wishing_pool_12" sc="1" dl="0">
+     <f dr="4" dI="-1"/>
+     <f x="7" y="-26.45" cocos2d_x="7" cocos2d_y="-26.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="6" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="7" y="-34.75" cocos2d_x="7" cocos2d_y="-34.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="1" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="6.2" y="-60.6" cocos2d_x="6.2" cocos2d_y="-60.6" kX="0" kY="0" cX="1" cY="1.16" pX="0" pY="0" z="6" dI="2" twE="0" dr="2"/>
+     <f x="6.2" y="-52.4" cocos2d_x="6.2" cocos2d_y="-52.4" kX="0" kY="0" cX="1" cY="0.96" pX="0" pY="0" z="6" dI="2" twE="0" dr="2"/>
+     <f x="6.2" y="-54" cocos2d_x="6.2" cocos2d_y="-54" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="2" dr="4"/>
+    </b>
+    <b name="guild_wishing_pool_11" sc="1" dl="0">
+     <f x="-2.85" y="-20.75" cocos2d_x="-2.85" cocos2d_y="-20.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-2" y="-25.25" cocos2d_x="-1.95" cocos2d_y="-25.25" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="6" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-2" y="-43.25" cocos2d_x="-1.95" cocos2d_y="-43.25" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="7" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-2" y="-59.45" cocos2d_x="-1.95" cocos2d_y="-59.45" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="7" dI="3" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="-2" y="-113.45" cocos2d_x="-1.95" cocos2d_y="-113.45" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="7" dI="3" twE="0" dr="2"/>
+     <f x="-2" y="-90.95" cocos2d_x="-1.95" cocos2d_y="-90.95" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="7" dI="3" twE="0" dr="2"/>
+     <f x="-2" y="-99.95" cocos2d_x="-1.95" cocos2d_y="-99.95" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="7" dI="3" twE="0" dr="2"/>
+     <f x="-2" y="-96.8" cocos2d_x="-1.95" cocos2d_y="-96.8" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="7" dI="3" dr="2"/>
+    </b>
+    <b name="guild_wishing_pool_10" sc="1" dl="0">
+     <f dr="10" dI="-1"/>
+     <f x="12.85" y="-129.55" cocos2d_x="12.85" cocos2d_y="-129.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="8" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="3.2" y="-106.6" cocos2d_x="3.2" cocos2d_y="-106.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="1" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="-4.7" y="-113.45" cocos2d_x="-4.7" cocos2d_y="-113.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="8" dI="2" dr="3"/>
+    </b>
+   </mov>
+   <mov name="show_idle2" dr="37" to="0" drTW="37" lp="1" twE="NaN">
+    <b name="guild_wishing_pool_18" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="37"/>
+    </b>
+    <b name="guild_wishing_pool_17" sc="1" dl="0">
+     <f x="1.5" y="18" cocos2d_x="1.5" cocos2d_y="18" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="37"/>
+    </b>
+    <b name="guild_wishing_pool_16" sc="1" dl="0">
+     <f x="-72.75" y="-10.75" cocos2d_x="-72.25" cocos2d_y="15.25" kX="0" kY="0" cX="1" cY="1" pX="-0.5" pY="-26" z="2" dI="0" dr="37"/>
+    </b>
+    <b name="guild_wishing_pool_15" sc="1" dl="0">
+     <f x="81.2" y="-13.25" cocos2d_x="81.7" cocos2d_y="12.75" kX="0" kY="0" cX="1" cY="1" pX="-0.5" pY="-26" z="3" dI="0" dr="37"/>
+    </b>
+    <b name="guild_wishing_pool_14" sc="1" dl="0">
+     <f x="-36.75" y="-5.9" cocos2d_x="-36.75" cocos2d_y="-5.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="37"/>
+    </b>
+    <b name="guild_wishing_pool_13" sc="1" dl="0">
+     <f x="45.95" y="-8.9" cocos2d_x="45.95" cocos2d_y="-8.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="37"/>
+    </b>
+    <b name="guild_wishing_pool_12" sc="1" dl="0">
+     <f x="6.2" y="-54" cocos2d_x="6.2" cocos2d_y="-54" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="2" dr="37"/>
+    </b>
+    <b name="guild_wishing_pool_11" sc="1" dl="0">
+     <f x="-2" y="-96.8" cocos2d_x="-1.95" cocos2d_y="-96.8" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="7" dI="3" dr="37"/>
+    </b>
+    <b name="guild_wishing_pool_10" sc="1" dl="0">
+     <f x="-4.7" y="-113.45" cocos2d_x="-4.7" cocos2d_y="-113.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="8" dI="2" dr="37"/>
+    </b>
+   </mov>
+   <mov name="open2" dr="49" to="0" drTW="49" lp="0" twE="NaN">
+    <b name="guild_wishing_pool_18" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="49"/>
+    </b>
+    <b name="guild_wishing_pool_17" sc="1" dl="0">
+     <f x="1.5" y="18" cocos2d_x="1.5" cocos2d_y="18" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="49"/>
+    </b>
+    <b name="guild_wishing_pool_16" sc="1" dl="0">
+     <f x="-72.75" y="-10.75" cocos2d_x="-72.25" cocos2d_y="15.25" kX="0" kY="0" cX="1" cY="1" pX="-0.5" pY="-26" z="2" dI="0" dr="49"/>
+    </b>
+    <b name="guild_wishing_pool_15" sc="1" dl="0">
+     <f x="81.2" y="-13.25" cocos2d_x="81.7" cocos2d_y="12.75" kX="0" kY="0" cX="1" cY="1" pX="-0.5" pY="-26" z="3" dI="0" dr="49"/>
+    </b>
+    <b name="guild_wishing_pool_14" sc="1" dl="0">
+     <f x="-36.75" y="-5.9" cocos2d_x="-36.75" cocos2d_y="-5.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="49"/>
+    </b>
+    <b name="guild_wishing_pool_13" sc="1" dl="0">
+     <f x="45.95" y="-8.9" cocos2d_x="45.95" cocos2d_y="-8.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="49"/>
+    </b>
+    <b name="guild_wishing_pool_12" sc="1" dl="0">
+     <f x="6.2" y="-54" cocos2d_x="6.2" cocos2d_y="-54" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="2" dr="49"/>
+    </b>
+    <b name="guild_wishing_pool_11" sc="1" dl="0">
+     <f x="-2" y="-96.8" cocos2d_x="-1.95" cocos2d_y="-96.8" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="7" dI="3" dr="5"/>
+     <f dr="44" dI="-1"/>
+    </b>
+    <b name="guild_wishing_pool_10" sc="1" dl="0">
+     <f x="-4.7" y="-113.45" cocos2d_x="-4.7" cocos2d_y="-113.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="7" dI="2" dr="49"/>
+    </b>
+    <b name="guild_wishing_pool_9" sc="1" dl="0">
+     <f dr="5" dI="-1"/>
+     <f x="-1.45" y="-102.95" cocos2d_x="-1.45" cocos2d_y="-102.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="3" dr="44"/>
+    </b>
+    <b name="guild_wishing_pool_8" sc="1" dl="0">
+     <f dr="4" dI="-1"/>
+     <f x="-1.55" y="-93.9" cocos2d_x="-2.5" cocos2d_y="-97.25" kX="-16.47" kY="-16.47" cX="0.38" cY="0.38" pX="-0.1" pY="9.15" z="9" dI="0" twE="0" dr="2"/>
+     <f x="-10.45" y="-90.3" cocos2d_x="-5.15" cocos2d_y="-106" kX="18.71" kY="18.71" cX="1.85" cY="1.85" pX="0" pY="8.95" z="9" dI="0" twE="0" dr="9"/>
+     <f x="-10.3" y="-95.95" cocos2d_x="-3.35" cocos2d_y="-104.95" kX="37.61" kY="37.61" cX="1.27" cY="1.27" pX="0" pY="8.95" z="9" dI="0" twE="0" dr="9"/>
+     <f x="-7.2" y="-99.85" cocos2d_x="0.5" cocos2d_y="-105" kX="56.65" kY="56.65" cX="1.04" cY="1.04" pX="0.1" pY="8.85" z="9" dI="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="23" dI="-1"/>
+    </b>
+    <b name="guild_wishing_pool_7" sc="1" dl="0">
+     <f dr="4" dI="-1"/>
+     <f x="-2.4" y="-102.05" cocos2d_x="-2.4" cocos2d_y="-102.05" kX="0" kY="0" cX="0.38" cY="0.38" pX="0" pY="0" z="10" dI="0" twE="0" dr="2"/>
+     <f x="-9.8" y="-100.25" cocos2d_x="-9.8" cocos2d_y="-100.25" kX="12.22" kY="12.22" cX="0.99" cY="0.99" pX="0" pY="0" z="10" dI="0" twE="0" dr="9"/>
+     <f x="-6.8" y="-102.25" cocos2d_x="-6.8" cocos2d_y="-102.25" kX="22.56" kY="22.56" cX="0.69" cY="0.69" pX="0" pY="0" z="10" dI="0" twE="0" dr="9"/>
+     <f x="-5.55" y="-98.9" cocos2d_x="-5.55" cocos2d_y="-98.9" kX="32.99" kY="32.99" cX="0.55" cY="0.55" pX="0" pY="0" z="10" dI="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="23" dI="-1"/>
+    </b>
+    <b name="guild_wishing_pool_6" sc="1" dl="0">
+     <f dr="4" dI="-1"/>
+     <f x="-2.75" y="-102.3" cocos2d_x="-17.9" cocos2d_y="-96.65" kX="0" kY="0" cX="0.38" cY="0.38" pX="39.8" pY="-14.8" z="11" dI="0" twE="0" dr="2"/>
+     <f x="-10.05" y="-101" cocos2d_x="-51.8" cocos2d_y="-94.85" kX="12.22" kY="12.22" cX="0.99" cY="0.99" pX="39.7" pY="-14.95" z="11" dI="0" twE="0" dr="9"/>
+     <f x="-5.55" y="-102.8" cocos2d_x="-34.95" cocos2d_y="-103.8" kX="22.56" kY="22.56" cX="0.69" cY="0.69" pX="39.85" pY="-14.95" z="11" dI="0" twE="0" dr="9"/>
+     <f x="-2.75" y="-99.5" cocos2d_x="-25.45" cocos2d_y="-104.5" kX="32.99" kY="32.99" cX="0.55" cY="0.55" pX="39.85" pY="-14.9" z="11" dI="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="23" dI="-1"/>
+    </b>
+    <b name="guild_wishing_pool_5" sc="1" dl="0">
+     <f dr="4" dI="-1"/>
+     <f x="-2.3" y="-102" cocos2d_x="5.35" cocos2d_y="-107.65" kX="0" kY="0" cX="0.38" cY="0.38" pX="-20.1" pY="14.8" z="12" dI="0" twE="0" dr="2"/>
+     <f x="-9.55" y="-99.95" cocos2d_x="4.4" cocos2d_y="-120.35" kX="-18.98" kY="-18.98" cX="0.99" cY="0.99" pX="-19.95" pY="14.85" z="12" dI="0" twE="0" dr="9"/>
+     <f x="-6.7" y="-101.95" cocos2d_x="0.95" cocos2d_y="-117.4" kX="-26.85" kY="-26.85" cX="0.69" cY="0.69" pX="-20" pY="14.95" z="12" dI="0" twE="0" dr="9"/>
+     <f x="-5.5" y="-98.75" cocos2d_x="-1.25" cocos2d_y="-111.65" kX="-35" kY="-35" cX="0.55" cY="0.55" pX="-19.95" pY="14.85" z="12" dI="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="23" dI="-1"/>
+    </b>
+    <b name="guild_wishing_pool_4" sc="1" dl="0">
+     <f dr="26" dI="-1"/>
+     <f x="-15.05" y="-102.95" cocos2d_x="-14.9" cocos2d_y="-102.95" kX="0" kY="0" cX="0.9" cY="0.9" pX="-0.2" pY="0" z="9" dI="0" dr="23"/>
+    </b>
+    <b name="guild_wishing_pool_3" sc="1" dl="0">
+     <f dr="26" dI="-1"/>
+     <f x="2" y="-98.25" cocos2d_x="2.05" cocos2d_y="-98.15" kX="0" kY="0" cX="0.83" cY="0.83" pX="-0.05" pY="-0.1" z="10" dI="0" dr="23"/>
+    </b>
+    <b name="guild_wishing_pool_2" sc="1" dl="0">
+     <f dr="26" dI="-1"/>
+     <f x="10.7" y="-102" cocos2d_x="10.8" cocos2d_y="-102" kX="0" kY="0" cX="0.86" cY="0.86" pX="-0.1" pY="0" z="11" dI="0" dr="23"/>
+    </b>
+   </mov>
+   <mov name="disappear2" dr="12" to="0" drTW="12" lp="0" twE="NaN">
+    <b name="guild_wishing_pool_18" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="12"/>
+    </b>
+    <b name="guild_wishing_pool_17" sc="1" dl="0">
+     <f x="1.5" y="18" cocos2d_x="1.5" cocos2d_y="18" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="12"/>
+    </b>
+    <b name="guild_wishing_pool_16" sc="1" dl="0">
+     <f x="-72.75" y="-10.75" cocos2d_x="-72.25" cocos2d_y="15.25" kX="0" kY="0" cX="1" cY="1" pX="-0.5" pY="-26" z="2" dI="0" dr="12"/>
+    </b>
+    <b name="guild_wishing_pool_15" sc="1" dl="0">
+     <f x="81.2" y="-13.25" cocos2d_x="81.7" cocos2d_y="12.75" kX="0" kY="0" cX="1" cY="1" pX="-0.5" pY="-26" z="3" dI="0" dr="12"/>
+    </b>
+    <b name="guild_wishing_pool_14" sc="1" dl="0">
+     <f x="-36.75" y="-5.9" cocos2d_x="-36.75" cocos2d_y="-5.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="12"/>
+    </b>
+    <b name="guild_wishing_pool_13" sc="1" dl="0">
+     <f x="45.95" y="-8.9" cocos2d_x="45.95" cocos2d_y="-8.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="12"/>
+    </b>
+    <b name="guild_wishing_pool_10" sc="1" dl="0">
+     <f x="7" y="-34.75" cocos2d_x="7" cocos2d_y="-34.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="7" y="-26.45" cocos2d_x="7" cocos2d_y="-26.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="6" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+     <f dr="8" dI="-1"/>
+    </b>
+    <b name="guild_wishing_pool_9" sc="1" dl="0">
+     <f x="-2" y="-59.45" cocos2d_x="-1.95" cocos2d_y="-59.45" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="7" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-2" y="-43.25" cocos2d_x="-1.95" cocos2d_y="-43.25" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="7" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-2" y="-25.25" cocos2d_x="-1.95" cocos2d_y="-25.25" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="6" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-2.85" y="-20.75" cocos2d_x="-2.85" cocos2d_y="-20.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+     <f dr="4" dI="-1"/>
+    </b>
+   </mov>
+   <mov name="show3" dr="15" to="0" drTW="15" lp="0" twE="NaN">
+    <b name="guild_wishing_pool_18" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="15"/>
+    </b>
+    <b name="guild_wishing_pool_17" sc="1" dl="0">
+     <f x="1.5" y="18" cocos2d_x="1.5" cocos2d_y="18" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="15"/>
+    </b>
+    <b name="guild_wishing_pool_16" sc="1" dl="0">
+     <f x="-72.75" y="-10.75" cocos2d_x="-72.25" cocos2d_y="15.25" kX="0" kY="0" cX="1" cY="1" pX="-0.5" pY="-26" z="2" dI="0" dr="15"/>
+    </b>
+    <b name="guild_wishing_pool_15" sc="1" dl="0">
+     <f x="81.2" y="-13.25" cocos2d_x="81.7" cocos2d_y="12.75" kX="0" kY="0" cX="1" cY="1" pX="-0.5" pY="-26" z="3" dI="0" dr="15"/>
+    </b>
+    <b name="guild_wishing_pool_14" sc="1" dl="0">
+     <f x="-36.75" y="-5.9" cocos2d_x="-36.75" cocos2d_y="-5.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="15"/>
+    </b>
+    <b name="guild_wishing_pool_13" sc="1" dl="0">
+     <f x="45.95" y="-8.9" cocos2d_x="45.95" cocos2d_y="-8.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="15"/>
+    </b>
+    <b name="guild_wishing_pool_12" sc="1" dl="0">
+     <f dr="4" dI="-1"/>
+     <f x="7" y="-26.45" cocos2d_x="7" cocos2d_y="-26.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="6" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="7" y="-34.75" cocos2d_x="7" cocos2d_y="-34.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="1" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="6.2" y="-60.6" cocos2d_x="6.2" cocos2d_y="-60.6" kX="0" kY="0" cX="1" cY="1.16" pX="0" pY="0" z="6" dI="2" twE="0" dr="2"/>
+     <f x="6.2" y="-52.4" cocos2d_x="6.2" cocos2d_y="-52.4" kX="0" kY="0" cX="1" cY="0.96" pX="0" pY="0" z="6" dI="2" twE="0" dr="2"/>
+     <f x="6.2" y="-54" cocos2d_x="6.2" cocos2d_y="-54" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="2" dr="4"/>
+    </b>
+    <b name="guild_wishing_pool_11" sc="1" dl="0">
+     <f x="-3.15" y="-23.2" cocos2d_x="-3.15" cocos2d_y="-23.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-1.5" y="-28.8" cocos2d_x="-1.5" cocos2d_y="-28.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="6" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-2.8" y="-45.5" cocos2d_x="-2.8" cocos2d_y="-45.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="7" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-4.35" y="-61.75" cocos2d_x="-4.35" cocos2d_y="-61.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="7" dI="5" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="-3.45" y="-115.2" cocos2d_x="-3.45" cocos2d_y="-115.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="7" dI="5" twE="0" dr="2"/>
+     <f x="-1.9" y="-95.6" cocos2d_x="-1.9" cocos2d_y="-95.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="7" dI="5" twE="0" dr="2"/>
+     <f x="-1.45" y="-103.55" cocos2d_x="-1.45" cocos2d_y="-103.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="7" dI="5" twE="0" dr="2"/>
+     <f x="-1.45" y="-101.55" cocos2d_x="-1.45" cocos2d_y="-101.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="7" dI="5" dr="2"/>
+    </b>
+    <b name="guild_wishing_pool_10" sc="1" dl="0">
+     <f dr="10" dI="-1"/>
+     <f x="12.85" y="-138.55" cocos2d_x="12.85" cocos2d_y="-138.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="8" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="3.2" y="-119.2" cocos2d_x="3.2" cocos2d_y="-119.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="1" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="-4.7" y="-122.45" cocos2d_x="-4.7" cocos2d_y="-122.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="8" dI="2" dr="3"/>
+    </b>
+   </mov>
+   <mov name="show_idle3" dr="37" to="0" drTW="37" lp="1" twE="NaN">
+    <b name="guild_wishing_pool_18" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="37"/>
+    </b>
+    <b name="guild_wishing_pool_17" sc="1" dl="0">
+     <f x="1.5" y="18" cocos2d_x="1.5" cocos2d_y="18" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="37"/>
+    </b>
+    <b name="guild_wishing_pool_16" sc="1" dl="0">
+     <f x="-72.75" y="-10.75" cocos2d_x="-72.25" cocos2d_y="15.25" kX="0" kY="0" cX="1" cY="1" pX="-0.5" pY="-26" z="2" dI="0" dr="37"/>
+    </b>
+    <b name="guild_wishing_pool_15" sc="1" dl="0">
+     <f x="81.2" y="-13.25" cocos2d_x="81.7" cocos2d_y="12.75" kX="0" kY="0" cX="1" cY="1" pX="-0.5" pY="-26" z="3" dI="0" dr="37"/>
+    </b>
+    <b name="guild_wishing_pool_14" sc="1" dl="0">
+     <f x="-36.75" y="-5.9" cocos2d_x="-36.75" cocos2d_y="-5.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="37"/>
+    </b>
+    <b name="guild_wishing_pool_13" sc="1" dl="0">
+     <f x="45.95" y="-8.9" cocos2d_x="45.95" cocos2d_y="-8.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="37"/>
+    </b>
+    <b name="guild_wishing_pool_12" sc="1" dl="0">
+     <f x="6.2" y="-54" cocos2d_x="6.2" cocos2d_y="-54" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="2" dr="37"/>
+    </b>
+    <b name="guild_wishing_pool_11" sc="1" dl="0">
+     <f x="-1.45" y="-101.55" cocos2d_x="-1.45" cocos2d_y="-101.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="7" dI="5" dr="37"/>
+    </b>
+    <b name="guild_wishing_pool_10" sc="1" dl="0">
+     <f x="-4.7" y="-122.45" cocos2d_x="-4.7" cocos2d_y="-122.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="8" dI="2" dr="37"/>
+    </b>
+   </mov>
+   <mov name="open3" dr="49" to="0" drTW="49" lp="0" twE="NaN">
+    <b name="guild_wishing_pool_18" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="49"/>
+    </b>
+    <b name="guild_wishing_pool_17" sc="1" dl="0">
+     <f x="1.5" y="18" cocos2d_x="1.5" cocos2d_y="18" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="49"/>
+    </b>
+    <b name="guild_wishing_pool_16" sc="1" dl="0">
+     <f x="-72.75" y="-10.75" cocos2d_x="-72.25" cocos2d_y="15.25" kX="0" kY="0" cX="1" cY="1" pX="-0.5" pY="-26" z="2" dI="0" dr="49"/>
+    </b>
+    <b name="guild_wishing_pool_15" sc="1" dl="0">
+     <f x="81.2" y="-13.25" cocos2d_x="81.7" cocos2d_y="12.75" kX="0" kY="0" cX="1" cY="1" pX="-0.5" pY="-26" z="3" dI="0" dr="49"/>
+    </b>
+    <b name="guild_wishing_pool_14" sc="1" dl="0">
+     <f x="-36.75" y="-5.9" cocos2d_x="-36.75" cocos2d_y="-5.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="49"/>
+    </b>
+    <b name="guild_wishing_pool_13" sc="1" dl="0">
+     <f x="45.95" y="-8.9" cocos2d_x="45.95" cocos2d_y="-8.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="49"/>
+    </b>
+    <b name="guild_wishing_pool_12" sc="1" dl="0">
+     <f x="6.2" y="-54" cocos2d_x="6.2" cocos2d_y="-54" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="2" dr="49"/>
+    </b>
+    <b name="guild_wishing_pool_11" sc="1" dl="0">
+     <f x="-1.45" y="-101.55" cocos2d_x="-1.45" cocos2d_y="-101.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="7" dI="5" dr="5"/>
+     <f dr="44" dI="-1"/>
+    </b>
+    <b name="guild_wishing_pool_10" sc="1" dl="0">
+     <f x="-4.7" y="-122.45" cocos2d_x="-4.7" cocos2d_y="-122.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="7" dI="2" dr="49"/>
+    </b>
+    <b name="guild_wishing_pool_9" sc="1" dl="0">
+     <f dr="5" dI="-1"/>
+     <f x="0.55" y="-115.75" cocos2d_x="0.55" cocos2d_y="-115.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="6" dr="44"/>
+    </b>
+    <b name="guild_wishing_pool_8" sc="1" dl="0">
+     <f dr="4" dI="-1"/>
+     <f x="-1.55" y="-93.9" cocos2d_x="-2.5" cocos2d_y="-97.25" kX="-16.47" kY="-16.47" cX="0.38" cY="0.38" pX="-0.1" pY="9.15" z="9" dI="0" twE="0" dr="2"/>
+     <f x="-10.45" y="-90.3" cocos2d_x="-5.15" cocos2d_y="-106" kX="18.71" kY="18.71" cX="1.85" cY="1.85" pX="0" pY="8.95" z="9" dI="0" twE="0" dr="9"/>
+     <f x="-10.3" y="-95.95" cocos2d_x="-3.35" cocos2d_y="-104.95" kX="37.61" kY="37.61" cX="1.27" cY="1.27" pX="0" pY="8.95" z="9" dI="0" twE="0" dr="9"/>
+     <f x="-7.2" y="-99.85" cocos2d_x="0.5" cocos2d_y="-105" kX="56.65" kY="56.65" cX="1.04" cY="1.04" pX="0.1" pY="8.85" z="9" dI="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="23" dI="-1"/>
+    </b>
+    <b name="guild_wishing_pool_7" sc="1" dl="0">
+     <f dr="4" dI="-1"/>
+     <f x="-2.4" y="-102.05" cocos2d_x="-2.4" cocos2d_y="-102.05" kX="0" kY="0" cX="0.38" cY="0.38" pX="0" pY="0" z="10" dI="0" twE="0" dr="2"/>
+     <f x="-9.8" y="-100.25" cocos2d_x="-9.8" cocos2d_y="-100.25" kX="12.22" kY="12.22" cX="0.99" cY="0.99" pX="0" pY="0" z="10" dI="0" twE="0" dr="9"/>
+     <f x="-6.8" y="-102.25" cocos2d_x="-6.8" cocos2d_y="-102.25" kX="22.56" kY="22.56" cX="0.69" cY="0.69" pX="0" pY="0" z="10" dI="0" twE="0" dr="9"/>
+     <f x="-5.55" y="-98.9" cocos2d_x="-5.55" cocos2d_y="-98.9" kX="32.99" kY="32.99" cX="0.55" cY="0.55" pX="0" pY="0" z="10" dI="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="23" dI="-1"/>
+    </b>
+    <b name="guild_wishing_pool_6" sc="1" dl="0">
+     <f dr="4" dI="-1"/>
+     <f x="-2.75" y="-102.3" cocos2d_x="-17.9" cocos2d_y="-96.65" kX="0" kY="0" cX="0.38" cY="0.38" pX="39.8" pY="-14.8" z="11" dI="0" twE="0" dr="2"/>
+     <f x="-10.05" y="-101" cocos2d_x="-51.8" cocos2d_y="-94.85" kX="12.22" kY="12.22" cX="0.99" cY="0.99" pX="39.7" pY="-14.95" z="11" dI="0" twE="0" dr="9"/>
+     <f x="-5.55" y="-102.8" cocos2d_x="-34.95" cocos2d_y="-103.8" kX="22.56" kY="22.56" cX="0.69" cY="0.69" pX="39.85" pY="-14.95" z="11" dI="0" twE="0" dr="9"/>
+     <f x="-2.75" y="-99.5" cocos2d_x="-25.45" cocos2d_y="-104.5" kX="32.99" kY="32.99" cX="0.55" cY="0.55" pX="39.85" pY="-14.9" z="11" dI="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="23" dI="-1"/>
+    </b>
+    <b name="guild_wishing_pool_5" sc="1" dl="0">
+     <f dr="4" dI="-1"/>
+     <f x="-2.3" y="-102" cocos2d_x="5.35" cocos2d_y="-107.65" kX="0" kY="0" cX="0.38" cY="0.38" pX="-20.1" pY="14.8" z="12" dI="0" twE="0" dr="2"/>
+     <f x="-9.55" y="-99.95" cocos2d_x="4.4" cocos2d_y="-120.35" kX="-18.98" kY="-18.98" cX="0.99" cY="0.99" pX="-19.95" pY="14.85" z="12" dI="0" twE="0" dr="9"/>
+     <f x="-6.7" y="-101.95" cocos2d_x="0.95" cocos2d_y="-117.4" kX="-26.85" kY="-26.85" cX="0.69" cY="0.69" pX="-20" pY="14.95" z="12" dI="0" twE="0" dr="9"/>
+     <f x="-5.5" y="-98.75" cocos2d_x="-1.25" cocos2d_y="-111.65" kX="-35" kY="-35" cX="0.55" cY="0.55" pX="-19.95" pY="14.85" z="12" dI="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="23" dI="-1"/>
+    </b>
+    <b name="guild_wishing_pool_4" sc="1" dl="0">
+     <f dr="26" dI="-1"/>
+     <f x="-15.05" y="-102.95" cocos2d_x="-14.9" cocos2d_y="-102.95" kX="0" kY="0" cX="0.9" cY="0.9" pX="-0.2" pY="0" z="9" dI="0" dr="23"/>
+    </b>
+    <b name="guild_wishing_pool_3" sc="1" dl="0">
+     <f dr="26" dI="-1"/>
+     <f x="2" y="-98.25" cocos2d_x="2.05" cocos2d_y="-98.15" kX="0" kY="0" cX="0.83" cY="0.83" pX="-0.05" pY="-0.1" z="10" dI="0" dr="23"/>
+    </b>
+    <b name="guild_wishing_pool_2" sc="1" dl="0">
+     <f dr="26" dI="-1"/>
+     <f x="10.7" y="-102" cocos2d_x="10.8" cocos2d_y="-102" kX="0" kY="0" cX="0.86" cY="0.86" pX="-0.1" pY="0" z="11" dI="0" dr="23"/>
+    </b>
+   </mov>
+   <mov name="disappear3" dr="12" to="0" drTW="12" lp="0" twE="NaN">
+    <b name="guild_wishing_pool_18" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="12"/>
+    </b>
+    <b name="guild_wishing_pool_17" sc="1" dl="0">
+     <f x="1.5" y="18" cocos2d_x="1.5" cocos2d_y="18" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="12"/>
+    </b>
+    <b name="guild_wishing_pool_16" sc="1" dl="0">
+     <f x="-72.75" y="-10.75" cocos2d_x="-72.25" cocos2d_y="15.25" kX="0" kY="0" cX="1" cY="1" pX="-0.5" pY="-26" z="2" dI="0" dr="12"/>
+    </b>
+    <b name="guild_wishing_pool_15" sc="1" dl="0">
+     <f x="81.2" y="-13.25" cocos2d_x="81.7" cocos2d_y="12.75" kX="0" kY="0" cX="1" cY="1" pX="-0.5" pY="-26" z="3" dI="0" dr="12"/>
+    </b>
+    <b name="guild_wishing_pool_14" sc="1" dl="0">
+     <f x="-36.75" y="-5.9" cocos2d_x="-36.75" cocos2d_y="-5.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="12"/>
+    </b>
+    <b name="guild_wishing_pool_13" sc="1" dl="0">
+     <f x="45.95" y="-8.9" cocos2d_x="45.95" cocos2d_y="-8.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="12"/>
+    </b>
+    <b name="guild_wishing_pool_10" sc="1" dl="0">
+     <f x="7" y="-34.75" cocos2d_x="7" cocos2d_y="-34.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="7" y="-26.45" cocos2d_x="7" cocos2d_y="-26.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="6" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+     <f dr="8" dI="-1"/>
+    </b>
+    <b name="guild_wishing_pool_9" sc="1" dl="0">
+     <f x="-4.35" y="-61.75" cocos2d_x="-4.35" cocos2d_y="-61.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="7" dI="7" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-2.8" y="-45.5" cocos2d_x="-2.8" cocos2d_y="-45.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="7" dI="7" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-1.5" y="-28.8" cocos2d_x="-1.5" cocos2d_y="-28.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="6" dI="7" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-3.15" y="-23.2" cocos2d_x="-3.15" cocos2d_y="-23.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="8" twE="NaN" tweenFrame="0" dr="2"/>
+     <f dr="4" dI="-1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="guild_wishing_pool" width="1024" height="1024">
+  <SubTexture name="guild_wishing_pool_30" width="275" height="233" cocos2d_pX="137.5" cocos2d_pY="116.5" x="349" y="235"/>
+  <SubTexture name="guild_wishing_pool_29" width="275" height="233" cocos2d_pX="137.5" cocos2d_pY="116.5" x="626" y="0"/>
+  <SubTexture name="guild_wishing_pool_28" width="275" height="233" cocos2d_pX="137.5" cocos2d_pY="116.5" x="349" y="0"/>
+  <SubTexture name="guild_wishing_pool_16" width="12" height="52" cocos2d_pX="6" cocos2d_pY="26" x="990" y="57"/>
+  <SubTexture name="guild_wishing_pool_15" width="12" height="52" cocos2d_pX="6" cocos2d_pY="26" x="1004" y="57"/>
+  <SubTexture name="guild_wishing_pool_14" width="12" height="52" cocos2d_pX="6" cocos2d_pY="26" x="985" y="111"/>
+  <SubTexture name="guild_wishing_pool_31" width="5" height="5" cocos2d_pX="2.1" cocos2d_pY="2.1" x="1014" y="0"/>
+  <SubTexture name="guild_wishing_pool_32" width="15" height="15" cocos2d_pX="7.05" cocos2d_pY="7.05" x="999" y="111"/>
+  <SubTexture name="guild_wishing_pool_3" width="163" height="143" cocos2d_pX="86.15" cocos2d_pY="58.05" x="626" y="396"/>
+  <SubTexture name="guild_wishing_pool_2" width="166" height="134" cocos2d_pX="59" cocos2d_pY="70.3" x="791" y="427"/>
+  <SubTexture name="guild_wishing_pool_4" width="85" height="85" cocos2d_pX="42.2" cocos2d_pY="42.2" x="903" y="0"/>
+  <SubTexture name="guild_wishing_pool_6" width="143" height="117" cocos2d_pX="71.1" cocos2d_pY="58.05" x="277" y="470"/>
+  <SubTexture name="guild_wishing_pool_48" width="81" height="80" cocos2d_pX="40.5" cocos2d_pY="40" x="903" y="171"/>
+  <SubTexture name="guild_wishing_pool_51" width="49" height="67" cocos2d_pX="24.5" cocos2d_pY="33.5" x="903" y="358"/>
+  <SubTexture name="guild_wishing_pool_38" width="45" height="45" cocos2d_pX="22.5" cocos2d_pY="22.05" x="975" y="301"/>
+  <SubTexture name="guild_wishing_pool_37" width="275" height="159" cocos2d_pX="137.5" cocos2d_pY="79.45" x="626" y="235"/>
+  <SubTexture name="guild_wishing_pool_36" width="142" height="106" cocos2d_pX="70.6" cocos2d_pY="52.65" x="422" y="470"/>
+  <SubTexture name="guild_wishing_pool_47" width="70" height="55" cocos2d_pX="34.6" cocos2d_pY="27.3" x="903" y="301"/>
+  <SubTexture name="guild_wishing_pool_46" width="69" height="24" cocos2d_pX="34.5" cocos2d_pY="12" x="277" y="427"/>
+  <SubTexture name="guild_wishing_pool_50" width="54" height="42" cocos2d_pX="26.55" cocos2d_pY="21.65" x="277" y="383"/>
+  <SubTexture name="guild_wishing_pool_49" width="53" height="19" cocos2d_pX="26.5" cocos2d_pY="9.5" x="954" y="383"/>
+  <SubTexture name="guild_wishing_pool_26" width="47" height="33" cocos2d_pX="23.5" cocos2d_pY="16.25" x="975" y="348"/>
+  <SubTexture name="guild_wishing_pool_22" width="47" height="14" cocos2d_pX="23.5" cocos2d_pY="7" x="954" y="404"/>
+  <SubTexture name="guild_wishing_pool_20" width="80" height="82" cocos2d_pX="40" cocos2d_pY="41" x="903" y="87"/>
+  <SubTexture name="guild_wishing_pool_35" width="80" height="46" cocos2d_pX="40" cocos2d_pY="22.8" x="903" y="253"/>
+  <SubTexture name="guild_wishing_pool_34" width="80" height="29" cocos2d_pX="40" cocos2d_pY="14.5" x="791" y="396"/>
+  <SubTexture name="guild_wishing_pool_11" width="10" height="55" cocos2d_pX="4" cocos2d_pY="26.75" x="990" y="0"/>
+  <SubTexture name="guild_wishing_pool_10" width="10" height="55" cocos2d_pX="4" cocos2d_pY="26.75" x="1002" y="0"/>
+  <SubTexture name="guild_wishing_pool_9" width="275" height="138" cocos2d_pX="137.5" cocos2d_pY="69" x="0" y="383"/>
+  <SubTexture name="guild_wishing_pool_8" width="347" height="381" cocos2d_pX="173.5" cocos2d_pY="190.5" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

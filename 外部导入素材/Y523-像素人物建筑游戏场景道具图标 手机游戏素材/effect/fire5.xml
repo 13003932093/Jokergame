@@ -1,0 +1,130 @@
+<skeleton name="fire5" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="fire5">
+   <b name="fire5_2" x="2.25" y="-6.9" kX="0" kY="0" cX="1" cY="0.51" pX="0" pY="0" z="0">
+    <d name="fire5_23" pX="33.1" pY="52"/>
+    <d name="fire5_24" pX="21" pY="27.65"/>
+    <d name="fire5_2" pX="39.5" pY="58.1"/>
+    <d name="fire5_3" pX="40.3" pY="60.9"/>
+    <d name="fire5_4" pX="41.5" pY="64.7"/>
+    <d name="fire5_5" pX="42.8" pY="69.2"/>
+    <d name="fire5_6" pX="43.2" pY="68.6"/>
+    <d name="fire5_7" pX="43.6" pY="69.2"/>
+    <d name="fire5_8" pX="43.6" pY="71.4"/>
+    <d name="fire5_9" pX="43.2" pY="70.8"/>
+    <d name="fire5_10" pX="42.4" pY="79.1"/>
+    <d name="fire5_11" pX="39.2" pY="79.1"/>
+   </b>
+   <b name="fire5_1" x="2.3" y="-11" kX="0" kY="180" cX="1" cY="0.51" pX="0" pY="0" z="1">
+    <d name="fire5_6" pX="43.2" pY="68.6"/>
+    <d name="fire5_7" pX="43.6" pY="69.2"/>
+    <d name="fire5_8" pX="43.6" pY="71.4"/>
+    <d name="fire5_9" pX="43.2" pY="70.8"/>
+    <d name="fire5_10" pX="42.4" pY="79.1"/>
+    <d name="fire5_11" pX="39.2" pY="79.1"/>
+    <d name="fire5_23" pX="33.1" pY="52"/>
+    <d name="fire5_24" pX="21" pY="27.65"/>
+    <d name="fire5_2" pX="39.5" pY="58.1"/>
+    <d name="fire5_3" pX="40.3" pY="60.9"/>
+    <d name="fire5_4" pX="41.5" pY="64.7"/>
+    <d name="fire5_5" pX="42.8" pY="69.2"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="fire5">
+   <mov name="effect" dr="24" to="0" drTW="24" lp="1" twE="NaN">
+    <b name="fire5_2" sc="1" dl="0">
+     <f x="2.25" y="-6.9" cocos2d_x="2.25" cocos2d_y="-6.9" kX="0" kY="0" cX="1" cY="0.51" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="2.3" y="-8.2" cocos2d_x="2.3" cocos2d_y="-8.2" kX="0" kY="0" cX="1" cY="0.51" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="3.45" y="-8.95" cocos2d_x="3.45" cocos2d_y="-8.95" kX="0" kY="0" cX="1" cY="0.51" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="3.65" y="-10.1" cocos2d_x="3.65" cocos2d_y="-10.1" kX="0" kY="0" cX="1" cY="0.51" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="2.85" y="-11.15" cocos2d_x="2.85" cocos2d_y="-11.15" kX="0" kY="0" cX="1" cY="0.51" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="2.65" y="-12.05" cocos2d_x="2.65" cocos2d_y="-12.05" kX="0" kY="0" cX="1" cY="0.51" pX="0" pY="0" z="0" dI="5" twE="NaN" tweenFrame="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="2.1" y="-11" cocos2d_x="2.1" cocos2d_y="-11" kX="0" kY="0" cX="1" cY="0.51" pX="0" pY="0" z="0" dI="6" twE="NaN" tweenFrame="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="2.25" y="-11" cocos2d_x="2.25" cocos2d_y="-11" kX="0" kY="0" cX="1" cY="0.51" pX="0" pY="0" z="0" dI="7" twE="NaN" tweenFrame="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="2.1" y="-11.85" cocos2d_x="2.1" cocos2d_y="-11.85" kX="0" kY="0" cX="1" cY="0.51" pX="0" pY="0" z="0" dI="8" twE="NaN" tweenFrame="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="2.1" y="-11.75" cocos2d_x="2.1" cocos2d_y="-11.75" kX="0" kY="0" cX="1" cY="0.51" pX="0" pY="0" z="0" dI="9" twE="NaN" tweenFrame="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="1.7" y="-13.25" cocos2d_x="1.7" cocos2d_y="-13.25" kX="0" kY="0" cX="1" cY="0.51" pX="0" pY="0" z="0" dI="10" twE="NaN" tweenFrame="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="1.7" y="-14.05" cocos2d_x="1.7" cocos2d_y="-14.05" kX="0" kY="0" cX="1" cY="0.51" pX="0" pY="0" z="0" dI="11" twE="NaN" tweenFrame="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+    <b name="fire5_1" sc="1" dl="0">
+     <f x="2.3" y="-11" cocos2d_x="2.3" cocos2d_y="-11" kX="0" kY="180" cX="1" cY="0.51" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="2.15" y="-11" cocos2d_x="2.15" cocos2d_y="-11" kX="0" kY="180" cX="1" cY="0.51" pX="0" pY="0" z="1" dI="1" twE="NaN" tweenFrame="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="2.3" y="-11.85" cocos2d_x="2.3" cocos2d_y="-11.85" kX="0" kY="180" cX="1" cY="0.51" pX="0" pY="0" z="1" dI="2" twE="NaN" tweenFrame="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="2.3" y="-11.75" cocos2d_x="2.3" cocos2d_y="-11.75" kX="0" kY="180" cX="1" cY="0.51" pX="0" pY="0" z="1" dI="3" twE="NaN" tweenFrame="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="2.7" y="-13.55" cocos2d_x="2.7" cocos2d_y="-13.55" kX="0" kY="180" cX="1" cY="0.51" pX="0" pY="0" z="1" dI="4" twE="NaN" tweenFrame="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="2.7" y="-14.35" cocos2d_x="2.7" cocos2d_y="-14.35" kX="0" kY="180" cX="1" cY="0.51" pX="0" pY="0" z="1" dI="5" twE="NaN" tweenFrame="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="2.15" y="-6.9" cocos2d_x="2.15" cocos2d_y="-6.9" kX="0" kY="180" cX="1" cY="0.51" pX="0" pY="0" z="1" dI="6" twE="NaN" tweenFrame="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="2.1" y="-8.2" cocos2d_x="2.1" cocos2d_y="-8.2" kX="0" kY="180" cX="1" cY="0.51" pX="0" pY="0" z="1" dI="7" twE="NaN" tweenFrame="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="0.95" y="-8.95" cocos2d_x="0.95" cocos2d_y="-8.95" kX="0" kY="180" cX="1" cY="0.51" pX="0" pY="0" z="1" dI="8" twE="NaN" tweenFrame="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="0.75" y="-10.1" cocos2d_x="0.75" cocos2d_y="-10.1" kX="0" kY="180" cX="1" cY="0.51" pX="0" pY="0" z="1" dI="9" twE="NaN" tweenFrame="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="1.55" y="-10.85" cocos2d_x="1.55" cocos2d_y="-10.85" kX="0" kY="180" cX="1" cY="0.51" pX="0" pY="0" z="1" dI="10" twE="NaN" tweenFrame="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="1.75" y="-11.75" cocos2d_x="1.75" cocos2d_y="-11.75" kX="0" kY="180" cX="1" cY="0.51" pX="0" pY="0" z="1" dI="11" twE="NaN" tweenFrame="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="fire5" width="512" height="512">
+  <SubTexture name="fire5_11" width="79" height="159" cocos2d_pX="39.2" cocos2d_pY="79.1" x="87" y="0"/>
+  <SubTexture name="fire5_10" width="85" height="159" cocos2d_pX="42.4" cocos2d_pY="79.1" x="0" y="0"/>
+  <SubTexture name="fire5_9" width="87" height="142" cocos2d_pX="43.2" cocos2d_pY="70.8" x="258" y="0"/>
+  <SubTexture name="fire5_8" width="88" height="143" cocos2d_pX="43.6" cocos2d_pY="71.4" x="168" y="0"/>
+  <SubTexture name="fire5_7" width="88" height="139" cocos2d_pX="43.6" cocos2d_pY="69.2" x="347" y="0"/>
+  <SubTexture name="fire5_6" width="87" height="138" cocos2d_pX="43.2" cocos2d_pY="68.6" x="347" y="141"/>
+  <SubTexture name="fire5_5" width="86" height="139" cocos2d_pX="42.8" cocos2d_pY="69.2" x="258" y="144"/>
+  <SubTexture name="fire5_4" width="84" height="130" cocos2d_pX="41.5" cocos2d_pY="64.7" x="168" y="145"/>
+  <SubTexture name="fire5_3" width="81" height="122" cocos2d_pX="40.3" cocos2d_pY="60.9" x="0" y="161"/>
+  <SubTexture name="fire5_2" width="79" height="117" cocos2d_pX="39.5" cocos2d_pY="58.1" x="83" y="161"/>
+  <SubTexture name="fire5_24" width="42" height="56" cocos2d_pX="21" cocos2d_pY="27.65" x="437" y="107"/>
+  <SubTexture name="fire5_23" width="67" height="105" cocos2d_pX="33.1" cocos2d_pY="52" x="437" y="0"/>
+ </TextureAtlas>
+</skeleton>

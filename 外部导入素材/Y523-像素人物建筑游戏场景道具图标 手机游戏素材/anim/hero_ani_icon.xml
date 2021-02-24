@@ -1,0 +1,146 @@
+<skeleton name="hero_ani_icon" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="hero_ani_icon_ssr">
+      <b name="hero_ani_icon_ssr_6" x="-0.6" y="-0.8" kX="0" kY="0" cX="1.41" cY="1.41" pX="0" pY="0" z="0">
+        <d name="hero_ani_icon__64" pX="48.5" pY="48.5"/>
+        <d name="hero_ani_icon__65" pX="48.5" pY="48.5"/>
+        <d name="hero_ani_icon__66" pX="48.5" pY="48.5"/>
+        <d name="hero_ani_icon__67" pX="48.5" pY="48.5"/>
+        <d name="hero_ani_icon__68" pX="48.5" pY="48.5"/>
+        <d name="hero_ani_icon__69" pX="48.5" pY="48.5"/>
+        <d name="hero_ani_icon__70" pX="48.5" pY="48.5"/>
+        <d name="hero_ani_icon__71" pX="48.5" pY="48.5"/>
+        <d name="hero_ani_icon__72" pX="48.5" pY="48.5"/>
+        <d name="hero_ani_icon__73" pX="48.5" pY="48.5"/>
+      </b>
+    </armature>
+    <armature name="hero_ani_icon_sr">
+      <b name="hero_ani_icon_sr_2" x="-4.7" y="-0.6" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="0">
+        <d name="hero_ani_icon__74" pX="76.5" pY="76.5"/>
+        <d name="hero_ani_icon__75" pX="76.5" pY="76.5"/>
+        <d name="hero_ani_icon__76" pX="80" pY="80"/>
+        <d name="hero_ani_icon__77" pX="76.5" pY="76.5"/>
+        <d name="hero_ani_icon__78" pX="76.5" pY="76.5"/>
+        <d name="hero_ani_icon__79" pX="76.5" pY="76.5"/>
+        <d name="hero_ani_icon__80" pX="76.5" pY="76.5"/>
+        <d name="hero_ani_icon__81" pX="76.5" pY="76.5"/>
+        <d name="hero_ani_icon__82" pX="76.5" pY="76.5"/>
+        <d name="hero_ani_icon__83" pX="76.5" pY="76.5"/>
+        <d name="hero_ani_icon__84" pX="76" pY="76"/>
+        <d name="hero_ani_icon__85" pX="76.5" pY="76.5"/>
+        <d name="hero_ani_icon__86" pX="76.5" pY="76.5"/>
+        <d name="hero_ani_icon__87" pX="76.5" pY="76.5"/>
+        <d name="hero_ani_icon__88" pX="76.5" pY="76.5"/>
+        <d name="hero_ani_icon__89" pX="76.5" pY="76.5"/>
+      </b>
+    </armature>
+    <armature name="hero_ani_icon_s">
+      <b name="hero_ani_icon_s_2" x="3.35" y="-2.95" kX="179.22" kY="179.22" cX="1.39" cY="1.39" pX="0" pY="0" z="0">
+        <d name="hero_ani_icon__105" pX="69.65" pY="69.65"/>
+        <d name="hero_ani_icon__107" pX="69.65" pY="69.65"/>
+        <d name="hero_ani_icon__103" pX="69.65" pY="69.65"/>
+        <d name="hero_ani_icon__99" pX="69.65" pY="69.65"/>
+        <d name="hero_ani_icon__101" pX="69.65" pY="69.65"/>
+        <d name="hero_ani_icon__109" pX="69.65" pY="69.65"/>
+        <d name="hero_ani_icon__111" pX="69.65" pY="69.65"/>
+        <d name="hero_ani_icon__113" pX="69.65" pY="69.65"/>
+        <d name="hero_ani_icon__115" pX="69.65" pY="69.65"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="hero_ani_icon_ssr">
+      <mov name="idle" dr="40" to="0" drTW="40" lp="1" twE="NaN">
+        <b name="hero_ani_icon_ssr_6" sc="1" dl="0">
+          <f x="-0.6" y="-0.8" cocos2d_x="-0.6" cocos2d_y="-0.8" kX="0" kY="0" cX="1.41" cY="1.41" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+          <f x="-0.6" y="-0.8" cocos2d_x="-0.6" cocos2d_y="-0.8" kX="0" kY="0" cX="1.41" cY="1.41" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+          <f x="-0.6" y="-0.8" cocos2d_x="-0.6" cocos2d_y="-0.8" kX="0" kY="0" cX="1.41" cY="1.41" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="4"/>
+          <f x="-0.6" y="-0.8" cocos2d_x="-0.6" cocos2d_y="-0.8" kX="0" kY="0" cX="1.41" cY="1.41" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="4"/>
+          <f x="-0.6" y="-0.8" cocos2d_x="-0.6" cocos2d_y="-0.8" kX="0" kY="0" cX="1.41" cY="1.41" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="4"/>
+          <f x="-0.6" y="-0.8" cocos2d_x="-0.6" cocos2d_y="-0.8" kX="0" kY="0" cX="1.41" cY="1.41" pX="0" pY="0" z="0" dI="5" twE="NaN" tweenFrame="0" dr="4"/>
+          <f x="-0.6" y="-0.8" cocos2d_x="-0.6" cocos2d_y="-0.8" kX="0" kY="0" cX="1.41" cY="1.41" pX="0" pY="0" z="0" dI="6" twE="NaN" tweenFrame="0" dr="4"/>
+          <f x="-0.6" y="-0.8" cocos2d_x="-0.6" cocos2d_y="-0.8" kX="0" kY="0" cX="1.41" cY="1.41" pX="0" pY="0" z="0" dI="7" twE="NaN" tweenFrame="0" dr="4"/>
+          <f x="-1.3" y="-0.8" cocos2d_x="-1.3" cocos2d_y="-0.8" kX="0" kY="0" cX="1.41" cY="1.41" pX="0" pY="0" z="0" dI="8" twE="NaN" tweenFrame="0" dr="4"/>
+          <f x="-0.6" y="-0.8" cocos2d_x="-0.6" cocos2d_y="-0.8" kX="0" kY="0" cX="1.41" cY="1.41" pX="0" pY="0" z="0" dI="9" twE="NaN" tweenFrame="0" dr="4"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="hero_ani_icon_sr">
+      <mov name="idle" dr="48" to="0" drTW="48" lp="1" twE="NaN">
+        <b name="hero_ani_icon_sr_2" sc="1" dl="0">
+          <f x="-4.7" y="-0.6" cocos2d_x="-4.7" cocos2d_y="-0.6" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="-4.7" y="-0.6" cocos2d_x="-4.7" cocos2d_y="-0.6" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="-5.4" y="-1.3" cocos2d_x="-5.4" cocos2d_y="-1.3" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="-4.7" y="-0.6" cocos2d_x="-4.7" cocos2d_y="-0.6" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="-4.7" y="-0.6" cocos2d_x="-4.7" cocos2d_y="-0.6" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="-4.7" y="-0.6" cocos2d_x="-4.7" cocos2d_y="-0.6" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="0" dI="5" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="-4.7" y="-0.6" cocos2d_x="-4.7" cocos2d_y="-0.6" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="0" dI="6" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="-4.7" y="-0.6" cocos2d_x="-4.7" cocos2d_y="-0.6" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="0" dI="7" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="-4.7" y="-0.6" cocos2d_x="-4.7" cocos2d_y="-0.6" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="0" dI="8" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="-4.7" y="-0.6" cocos2d_x="-4.7" cocos2d_y="-0.6" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="0" dI="9" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="-5.4" y="-1.3" cocos2d_x="-5.4" cocos2d_y="-1.3" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="0" dI="10" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="-4.7" y="-0.6" cocos2d_x="-4.7" cocos2d_y="-0.6" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="0" dI="11" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="-4.7" y="-0.6" cocos2d_x="-4.7" cocos2d_y="-0.6" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="0" dI="12" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="-4.7" y="-0.6" cocos2d_x="-4.7" cocos2d_y="-0.6" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="0" dI="13" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="-4.7" y="-0.6" cocos2d_x="-4.7" cocos2d_y="-0.6" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="0" dI="14" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="-4.7" y="-0.6" cocos2d_x="-4.7" cocos2d_y="-0.6" kX="0" kY="0" cX="1.4" cY="1.4" pX="0" pY="0" z="0" dI="15" twE="NaN" tweenFrame="0" dr="3"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="hero_ani_icon_s">
+      <mov name="idle" dr="36" to="0" drTW="36" lp="1" twE="NaN">
+        <b name="hero_ani_icon_s_2" sc="1" dl="0">
+          <f x="3.35" y="-2.95" cocos2d_x="3.35" cocos2d_y="-2.95" kX="179.22" kY="179.22" cX="1.39" cY="1.39" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="1.15" y="0.1" cocos2d_x="1.15" cocos2d_y="0.1" kX="-179.52" kY="-179.52" cX="1.39" cY="1.39" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="-5.5" y="3.6" cocos2d_x="-5.5" cocos2d_y="3.6" kX="-90.65" kY="-90.65" cX="1.39" cY="1.39" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="646.45" y="346.1" cocos2d_x="-2.6" cocos2d_y="-4.55" kX="0" kY="0" cX="1.39" cY="1.39" pX="466.05" pY="251.8" z="0" dI="3" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="646.45" y="346.1" cocos2d_x="-2.6" cocos2d_y="-4.55" kX="0" kY="0" cX="1.39" cY="1.39" pX="466.05" pY="251.8" z="0" dI="4" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="646.45" y="346.1" cocos2d_x="-2.6" cocos2d_y="-4.55" kX="0" kY="0" cX="1.39" cY="1.39" pX="466.05" pY="251.8" z="0" dI="2" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="-2.6" y="-4.55" cocos2d_x="-2.6" cocos2d_y="-4.55" kX="0" kY="0" cX="1.39" cY="1.39" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="646.45" y="346.1" cocos2d_x="-2.6" cocos2d_y="-4.55" kX="0" kY="0" cX="1.39" cY="1.39" pX="466.05" pY="251.8" z="0" dI="1" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="646.45" y="346.1" cocos2d_x="-2.6" cocos2d_y="-4.55" kX="0" kY="0" cX="1.39" cY="1.39" pX="466.05" pY="251.8" z="0" dI="5" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="646.45" y="346.1" cocos2d_x="-2.6" cocos2d_y="-4.55" kX="0" kY="0" cX="1.39" cY="1.39" pX="466.05" pY="251.8" z="0" dI="6" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="646.45" y="346.1" cocos2d_x="-2.6" cocos2d_y="-4.55" kX="0" kY="0" cX="1.39" cY="1.39" pX="466.05" pY="251.8" z="0" dI="7" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="646.45" y="346.1" cocos2d_x="-2.6" cocos2d_y="-4.55" kX="0" kY="0" cX="1.39" cY="1.39" pX="466.05" pY="251.8" z="0" dI="8" twE="NaN" tweenFrame="0" dr="3"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="hero_ani_icon" width="1024" height="1024">
+    <SubTexture name="hero_ani_icon__115" width="140" height="140" cocos2d_pX="69.65" cocos2d_pY="69.65" x="774" y="452"/>
+    <SubTexture name="hero_ani_icon__113" width="140" height="140" cocos2d_pX="69.65" cocos2d_pY="69.65" x="0" y="459"/>
+    <SubTexture name="hero_ani_icon__111" width="140" height="140" cocos2d_pX="69.65" cocos2d_pY="69.65" x="426" y="465"/>
+    <SubTexture name="hero_ani_icon__109" width="140" height="140" cocos2d_pX="69.65" cocos2d_pY="69.65" x="774" y="310"/>
+    <SubTexture name="hero_ani_icon__101" width="140" height="140" cocos2d_pX="69.65" cocos2d_pY="69.65" x="620" y="464"/>
+    <SubTexture name="hero_ani_icon__99" width="140" height="140" cocos2d_pX="69.65" cocos2d_pY="69.65" x="284" y="465"/>
+    <SubTexture name="hero_ani_icon__103" width="140" height="140" cocos2d_pX="69.65" cocos2d_pY="69.65" x="142" y="465"/>
+    <SubTexture name="hero_ani_icon__107" width="140" height="140" cocos2d_pX="69.65" cocos2d_pY="69.65" x="0" y="317"/>
+    <SubTexture name="hero_ani_icon__105" width="140" height="140" cocos2d_pX="69.65" cocos2d_pY="69.65" x="762" y="594"/>
+    <SubTexture name="hero_ani_icon__89" width="153" height="153" cocos2d_pX="76.5" cocos2d_pY="76.5" x="155" y="310"/>
+    <SubTexture name="hero_ani_icon__88" width="153" height="153" cocos2d_pX="76.5" cocos2d_pY="76.5" x="627" y="0"/>
+    <SubTexture name="hero_ani_icon__87" width="153" height="153" cocos2d_pX="76.5" cocos2d_pY="76.5" x="162" y="155"/>
+    <SubTexture name="hero_ani_icon__86" width="153" height="153" cocos2d_pX="76.5" cocos2d_pY="76.5" x="472" y="155"/>
+    <SubTexture name="hero_ani_icon__85" width="153" height="153" cocos2d_pX="76.5" cocos2d_pY="76.5" x="782" y="155"/>
+    <SubTexture name="hero_ani_icon__84" width="152" height="152" cocos2d_pX="76" cocos2d_pY="76" x="620" y="310"/>
+    <SubTexture name="hero_ani_icon__83" width="153" height="153" cocos2d_pX="76.5" cocos2d_pY="76.5" x="465" y="310"/>
+    <SubTexture name="hero_ani_icon__82" width="153" height="153" cocos2d_pX="76.5" cocos2d_pY="76.5" x="782" y="0"/>
+    <SubTexture name="hero_ani_icon__81" width="153" height="153" cocos2d_pX="76.5" cocos2d_pY="76.5" x="162" y="0"/>
+    <SubTexture name="hero_ani_icon__80" width="153" height="153" cocos2d_pX="76.5" cocos2d_pY="76.5" x="317" y="0"/>
+    <SubTexture name="hero_ani_icon__79" width="153" height="153" cocos2d_pX="76.5" cocos2d_pY="76.5" x="472" y="0"/>
+    <SubTexture name="hero_ani_icon__78" width="153" height="153" cocos2d_pX="76.5" cocos2d_pY="76.5" x="627" y="155"/>
+    <SubTexture name="hero_ani_icon__77" width="153" height="153" cocos2d_pX="76.5" cocos2d_pY="76.5" x="310" y="310"/>
+    <SubTexture name="hero_ani_icon__76" width="160" height="160" cocos2d_pX="80" cocos2d_pY="80" x="0" y="0"/>
+    <SubTexture name="hero_ani_icon__75" width="153" height="153" cocos2d_pX="76.5" cocos2d_pY="76.5" x="317" y="155"/>
+    <SubTexture name="hero_ani_icon__74" width="153" height="153" cocos2d_pX="76.5" cocos2d_pY="76.5" x="0" y="162"/>
+    <SubTexture name="hero_ani_icon__73" width="97" height="97" cocos2d_pX="48.5" cocos2d_pY="48.5" x="904" y="607"/>
+    <SubTexture name="hero_ani_icon__72" width="97" height="97" cocos2d_pX="48.5" cocos2d_pY="48.5" x="916" y="310"/>
+    <SubTexture name="hero_ani_icon__71" width="97" height="97" cocos2d_pX="48.5" cocos2d_pY="48.5" x="0" y="601"/>
+    <SubTexture name="hero_ani_icon__70" width="97" height="97" cocos2d_pX="48.5" cocos2d_pY="48.5" x="396" y="607"/>
+    <SubTexture name="hero_ani_icon__69" width="97" height="97" cocos2d_pX="48.5" cocos2d_pY="48.5" x="99" y="607"/>
+    <SubTexture name="hero_ani_icon__68" width="97" height="97" cocos2d_pX="48.5" cocos2d_pY="48.5" x="916" y="409"/>
+    <SubTexture name="hero_ani_icon__67" width="97" height="97" cocos2d_pX="48.5" cocos2d_pY="48.5" x="916" y="508"/>
+    <SubTexture name="hero_ani_icon__66" width="97" height="97" cocos2d_pX="48.5" cocos2d_pY="48.5" x="568" y="606"/>
+    <SubTexture name="hero_ani_icon__65" width="97" height="97" cocos2d_pX="48.5" cocos2d_pY="48.5" x="198" y="607"/>
+    <SubTexture name="hero_ani_icon__64" width="97" height="97" cocos2d_pX="48.5" cocos2d_pY="48.5" x="297" y="607"/>
+  </TextureAtlas>
+</skeleton>

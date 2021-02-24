@@ -1,0 +1,54 @@
+<skeleton name="buff_ani_31034" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="buff_ani_31034">
+   <b name="buff_ani_31034_1" x="0" y="-39" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="buff_ani_31034_1" pX="90.25" pY="71"/>
+    <d name="buff_ani_31034_3" pX="90.25" pY="71"/>
+    <d name="buff_ani_31034_4" pX="90.25" pY="71"/>
+    <d name="buff_ani_31034_5" pX="90.25" pY="71"/>
+    <d name="buff_ani_31034_6" pX="90.25" pY="71"/>
+    <d name="buff_ani_31034_7" pX="90.25" pY="71"/>
+    <d name="buff_ani_31034_8" pX="90.25" pY="71"/>
+    <d name="buff_ani_31034_9" pX="90.25" pY="71"/>
+    <d name="buff_ani_31034_10" pX="90.25" pY="71"/>
+    <d name="buff_ani_31034_11" pX="90.25" pY="71"/>
+    <d name="buff_ani_31034_12" pX="90.25" pY="71"/>
+    <d name="buff_ani_31034_13" pX="90.25" pY="71"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="buff_ani_31034">
+   <mov name="buff" dr="24" to="0" drTW="24" lp="1" twE="NaN">
+    <b name="buff_ani_31034_1" sc="1" dl="0">
+     <f x="0" y="-39" cocos2d_x="0" cocos2d_y="-39" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-39" cocos2d_x="0" cocos2d_y="-39" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-39" cocos2d_x="0" cocos2d_y="-39" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-39" cocos2d_x="0" cocos2d_y="-39" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-39" cocos2d_x="0" cocos2d_y="-39" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-39" cocos2d_x="0" cocos2d_y="-39" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-39" cocos2d_x="0" cocos2d_y="-39" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="6" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-39" cocos2d_x="0" cocos2d_y="-39" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="7" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-39" cocos2d_x="0" cocos2d_y="-39" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="8" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-39" cocos2d_x="0" cocos2d_y="-39" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="9" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-39" cocos2d_x="0" cocos2d_y="-39" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="10" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-39" cocos2d_x="0" cocos2d_y="-39" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="11" twE="NaN" tweenFrame="0" dr="2"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="buff_ani_31034" width="1024" height="512">
+  <SubTexture name="buff_ani_31034_13" width="181" height="142" cocos2d_pX="90.25" cocos2d_pY="71" x="183" y="0"/>
+  <SubTexture name="buff_ani_31034_12" width="181" height="142" cocos2d_pX="90.25" cocos2d_pY="71" x="366" y="144"/>
+  <SubTexture name="buff_ani_31034_11" width="181" height="142" cocos2d_pX="90.25" cocos2d_pY="71" x="549" y="0"/>
+  <SubTexture name="buff_ani_31034_10" width="181" height="142" cocos2d_pX="90.25" cocos2d_pY="71" x="183" y="288"/>
+  <SubTexture name="buff_ani_31034_9" width="181" height="142" cocos2d_pX="90.25" cocos2d_pY="71" x="0" y="144"/>
+  <SubTexture name="buff_ani_31034_8" width="181" height="142" cocos2d_pX="90.25" cocos2d_pY="71" x="0" y="288"/>
+  <SubTexture name="buff_ani_31034_7" width="181" height="142" cocos2d_pX="90.25" cocos2d_pY="71" x="0" y="0"/>
+  <SubTexture name="buff_ani_31034_6" width="181" height="142" cocos2d_pX="90.25" cocos2d_pY="71" x="366" y="0"/>
+  <SubTexture name="buff_ani_31034_5" width="181" height="142" cocos2d_pX="90.25" cocos2d_pY="71" x="732" y="0"/>
+  <SubTexture name="buff_ani_31034_4" width="181" height="142" cocos2d_pX="90.25" cocos2d_pY="71" x="183" y="144"/>
+  <SubTexture name="buff_ani_31034_3" width="181" height="142" cocos2d_pX="90.25" cocos2d_pY="71" x="549" y="144"/>
+  <SubTexture name="buff_ani_31034_1" width="181" height="142" cocos2d_pX="90.25" cocos2d_pY="71" x="732" y="144"/>
+ </TextureAtlas>
+</skeleton>

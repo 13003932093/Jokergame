@@ -1,0 +1,117 @@
+<skeleton name="guide_chapter_effect" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="guide_chapter_effect">
+      <b name="lyt_guide_chapter_8" x="0" y="0" kX="0" kY="0" cX="5" cY="5" pX="0" pY="0" z="0">
+        <d name="guide_chapter_effect_2" pX="113.6" pY="63.6"/>
+      </b>
+      <b name="lyt_guide_chapter_7" x="5.45" y="-220.75" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-0.05" z="1">
+        <d name="guide_chapter_effect_8" pX="287.1" pY="24.05"/>
+      </b>
+      <b name="lyt_guide_chapter_6" x="-0.85" y="178.6" kX="180" kY="0" cX="2" cY="2" pX="0" pY="-0.05" z="2">
+        <d name="guide_chapter_effect_8" pX="287.1" pY="24.05"/>
+      </b>
+      <b name="lyt_guide_chapter_5" x="0" y="-43.4" kX="0" kY="0" cX="1" cY="0.33" pX="0" pY="0" z="1">
+        <d name="guide_chapter_effect_6" pX="567.95" pY="183"/>
+      </b>
+      <b name="lyt_guide_chapter_4" x="-557.15" y="-42.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4">
+        <d name="guide_chapter_effect_4" pX="66" pY="11"/>
+      </b>
+      <b name="lyt_guide_chapter_3" x="-756.25" y="-63.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4">
+        <d name="guide_chapter_effect_5" pX="362" pY="4.5"/>
+      </b>
+      <b name="lyt_guide_chapter_2" x="-658.2" y="-92.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4">
+        <d name="guide_chapter_effect_3" pX="138" pY="18.5"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="guide_chapter_effect">
+      <mov name="effect" dr="118" to="0" drTW="118" lp="0" twE="NaN">
+        <b name="lyt_guide_chapter_8" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="5" cY="5" pX="0" pY="0" z="0" dI="0" twE="0" dr="17">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="5" cY="5" pX="0" pY="0" z="0" dI="0" dr="86"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="5" cY="5" pX="0" pY="0" z="0" dI="0" twE="0" dr="14"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="5" cY="5" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="lyt_guide_chapter_7" sc="1" dl="0">
+          <f dr="24" dI="-1"/>
+          <f x="5.45" y="-220.75" cocos2d_x="5.45" cocos2d_y="-220.65" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-0.05" z="1" dI="0" twE="0" dr="6">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="5.45" y="-220.75" cocos2d_x="5.45" cocos2d_y="-220.65" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-0.05" z="1" dI="0" dr="70"/>
+          <f x="5.45" y="-220.75" cocos2d_x="5.45" cocos2d_y="-220.65" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-0.05" z="1" dI="0" twE="0" dr="9"/>
+          <f x="5.45" y="-220.75" cocos2d_x="5.45" cocos2d_y="-220.65" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-0.05" z="1" dI="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="lyt_guide_chapter_6" sc="1" dl="0">
+          <f dr="24" dI="-1"/>
+          <f x="-0.85" y="178.6" cocos2d_x="-0.85" cocos2d_y="178.5" kX="180" kY="0" cX="2" cY="2" pX="0" pY="-0.05" z="2" dI="0" twE="0" dr="6">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.85" y="178.6" cocos2d_x="-0.85" cocos2d_y="178.5" kX="180" kY="0" cX="2" cY="2" pX="0" pY="-0.05" z="2" dI="0" dr="70"/>
+          <f x="-0.85" y="178.6" cocos2d_x="-0.85" cocos2d_y="178.5" kX="180" kY="0" cX="2" cY="2" pX="0" pY="-0.05" z="2" dI="0" twE="0" dr="9"/>
+          <f x="-0.85" y="178.6" cocos2d_x="-0.85" cocos2d_y="178.5" kX="180" kY="0" cX="2" cY="2" pX="0" pY="-0.05" z="2" dI="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="lyt_guide_chapter_5" sc="1" dl="0">
+          <f dr="18" dI="-1"/>
+          <f x="0" y="-43.4" cocos2d_x="0" cocos2d_y="-43.4" kX="0" kY="0" cX="1" cY="0.33" pX="0" pY="0" z="1" dI="0" twE="1" dr="6">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="-43.4" cocos2d_x="0" cocos2d_y="-43.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="81"/>
+          <f x="0" y="-43.4" cocos2d_x="0" cocos2d_y="-43.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0.99" dr="7"/>
+          <f x="0" y="-43.4" cocos2d_x="0" cocos2d_y="-43.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="6">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="lyt_guide_chapter_4" sc="1" dl="0">
+          <f dr="42" dI="-1"/>
+          <f x="-557.15" y="-42.5" cocos2d_x="-557.15" cocos2d_y="-42.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="0.98" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-1" y="-42.5" cocos2d_x="-1" cocos2d_y="-42.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="51"/>
+          <f x="-1" y="-42.5" cocos2d_x="-1" cocos2d_y="-42.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="8"/>
+          <f x="-1" y="-42.5" cocos2d_x="-1" cocos2d_y="-42.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="12">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="lyt_guide_chapter_3" sc="1" dl="0">
+          <f dr="37" dI="-1"/>
+          <f x="-756.25" y="-63.5" cocos2d_x="-756.25" cocos2d_y="-63.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="0.72" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-1.1" y="-63.5" cocos2d_x="-1.1" cocos2d_y="-63.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="53"/>
+          <f x="-1.1" y="-63.5" cocos2d_x="-1.1" cocos2d_y="-63.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" twE="0" dr="8"/>
+          <f x="-1.1" y="-63.5" cocos2d_x="-1.1" cocos2d_y="-63.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="15">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="lyt_guide_chapter_2" sc="1" dl="0">
+          <f dr="31" dI="-1"/>
+          <f x="-658.2" y="-92.5" cocos2d_x="-658.2" cocos2d_y="-92.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="0.9" dr="6">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-1.05" y="-92.5" cocos2d_x="-1.05" cocos2d_y="-92.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" dr="55"/>
+          <f x="-1.05" y="-92.5" cocos2d_x="-1.05" cocos2d_y="-92.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" twE="0" dr="8"/>
+          <f x="-1.05" y="-92.5" cocos2d_x="-1.05" cocos2d_y="-92.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" dr="18">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="guide_chapter_effect" width="2048" height="512">
+    <SubTexture name="guide_chapter_effect_3" width="276" height="37" cocos2d_pX="138" cocos2d_pY="18.5" x="1138" y="85"/>
+    <SubTexture name="guide_chapter_effect_5" width="724" height="9" cocos2d_pX="362" cocos2d_pY="4.5" x="1138" y="0"/>
+    <SubTexture name="guide_chapter_effect_4" width="132" height="22" cocos2d_pX="66" cocos2d_pY="11" x="1864" y="0"/>
+    <SubTexture name="guide_chapter_effect_6" width="1136" height="372" cocos2d_pX="567.95" cocos2d_pY="183" x="0" y="0"/>
+    <SubTexture name="guide_chapter_effect_8" width="568" height="72" cocos2d_pX="287.05" cocos2d_pY="24.05" x="1138" y="11"/>
+    <SubTexture name="guide_chapter_effect_2" width="228" height="128" cocos2d_pX="113.6" cocos2d_pY="63.6" x="1708" y="24"/>
+  </TextureAtlas>
+</skeleton>

@@ -1,0 +1,29 @@
+<skeleton name="sign_in_item_back_effect" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="sign_in_item_back_effect">
+      <b name="图层 1" x="0.2" y="0.2" kX="0" kY="0" cX="1" cY="1" pX="0.2" pY="0.2" z="0">
+        <d name="sign_in_item_back_effect_s_1" pX="79.65" pY="75.75"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="sign_in_item_back_effect">
+      <mov name="show" dr="234" to="0" drTW="234" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.2" y="0.2" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0.2" pY="0.2" z="0" dI="0" twE="0" dr="31"/>
+          <f x="0.2" y="0.2" cocos2d_x="0.2" cocos2d_y="-0.1" kX="47.89" kY="47.89" cX="1" cY="1" pX="0.2" pY="0.2" z="0" dI="0" twE="0" dr="42">
+            <colorTransform a="0" r="0" g="0" b="0" aM="28" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.2" y="0.2" cocos2d_x="0.5" cocos2d_y="0.1" kX="112.79" kY="112.79" cX="1" cY="1" pX="0.2" pY="0.2" z="0" dI="0" twE="0" dr="61"/>
+          <f x="0.15" y="0.2" cocos2d_x="0.3" cocos2d_y="0.5" kX="-152.95" kY="-152.95" cX="1" cY="1" pX="0.25" pY="0.15" z="0" dI="0" twE="0" dr="99">
+            <colorTransform a="0" r="0" g="0" b="0" aM="32" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.2" y="0.2" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0.2" pY="0.2" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="sign_in_item_back_effect" width="256" height="256">
+    <SubTexture name="sign_in_item_back_effect_s_1" width="160" height="152" cocos2d_pX="79.65" cocos2d_pY="75.75" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

@@ -1,0 +1,93 @@
+<skeleton name="exploreEffect" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="exploreEffect">
+   <b name="exploreEffect_hero_pos_11414_4" x="-3.6" y="51.8" kX="85.72" kY="79.68" cX="3.72" cY="4.21" pX="0" pY="0" z="0">
+    <d name="exploreEffect_yuanjian_8" pX="15.05" pY="22.9"/>
+   </b>
+   <b name="exploreEffect_hero_pos_11414_5" x="4.35" y="62.2" kX="14.8" kY="10.19" cX="2.2" cY="1.85" pX="0" pY="0" z="1">
+    <d name="exploreEffect_yuanjian_8" pX="15.05" pY="22.9"/>
+   </b>
+   <b name="exploreEffect_hero_pos_11414_40" x="-53.35" y="20.25" kX="40.92" kY="30.35" cX="1.93" cY="1.89" pX="0" pY="0" z="2">
+    <d name="exploreEffect_yuanjian_8" pX="15.05" pY="22.9"/>
+   </b>
+   <b name="exploreEffect_hero_pos_11414_3" x="-2.1" y="38.7" kX="10" kY="6.84" cX="2.05" cY="1.48" pX="0" pY="0" z="3">
+    <d name="exploreEffect_yuanjian_8" pX="15.05" pY="22.9"/>
+   </b>
+   <b name="exploreEffect_hero_pos_11414_30" x="-16.3" y="45.2" kX="56.18" kY="45.45" cX="1.61" cY="1.68" pX="0" pY="0" z="4">
+    <d name="exploreEffect_yuanjian_8" pX="15.05" pY="22.9"/>
+   </b>
+   <b name="exploreEffect_rgr" x="14.3" y="29.75" kX="56.18" kY="45.45" cX="5.79" cY="6.31" pX="0" pY="0" z="5">
+    <d name="exploreEffect_yuanjian_8" pX="15.05" pY="22.9"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="exploreEffect">
+   <mov name="effect" dr="26" to="0" drTW="26" lp="0" twE="NaN">
+    <b name="exploreEffect_hero_pos_11414_4" sc="1" dl="0">
+     <f x="-3.6" y="51.8" cocos2d_x="-3.6" cocos2d_y="51.8" kX="85.72" kY="79.68" cX="3.72" cY="4.21" pX="0" pY="0" z="0" dI="0" twE="0" dr="5">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="9.3" y="74.75" cocos2d_x="9.3" cocos2d_y="74.75" kX="85.72" kY="79.68" cX="5.05" cY="5.71" pX="0" pY="0" z="0" dI="0" twE="0" dr="15"/>
+     <f x="2.75" y="109.7" cocos2d_x="2.75" cocos2d_y="109.7" kX="85.72" kY="79.68" cX="6.69" cY="8.55" pX="0" pY="0" z="0" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="5" dI="-1"/>
+    </b>
+    <b name="exploreEffect_hero_pos_11414_5" sc="1" dl="0">
+     <f x="4.35" y="62.2" cocos2d_x="4.35" cocos2d_y="62.2" kX="14.8" kY="10.19" cX="2.2" cY="1.85" pX="0" pY="0" z="1" dI="0" twE="0" dr="4">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="111.85" y="92.1" cocos2d_x="111.85" cocos2d_y="92.1" kX="14.8" kY="10.19" cX="4.56" cY="3.83" pX="0" pY="0" z="1" dI="0" twE="1" dr="17"/>
+     <f x="171.1" y="112.15" cocos2d_x="171.1" cocos2d_y="112.15" kX="14.8" kY="10.19" cX="5.9" cY="4.95" pX="0" pY="0" z="0" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="4" dI="-1"/>
+    </b>
+    <b name="exploreEffect_hero_pos_11414_40" sc="1" dl="0">
+     <f x="-53.35" y="20.25" cocos2d_x="-53.35" cocos2d_y="20.25" kX="40.92" kY="30.35" cX="1.93" cY="1.89" pX="0" pY="0" z="2" dI="0" twE="0" dr="4">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-99.25" y="4.35" cocos2d_x="-99.25" cocos2d_y="4.35" kX="40.92" kY="30.35" cX="6.07" cY="5.92" pX="0" pY="0" z="0" dI="0" twE="1" dr="20"/>
+     <f x="-136" y="-34.85" cocos2d_x="-136" cocos2d_y="-34.85" kX="40.92" kY="30.35" cX="6.71" cY="6.54" pX="0" pY="0" z="0" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="1" dI="-1"/>
+    </b>
+    <b name="exploreEffect_hero_pos_11414_3" sc="1" dl="0">
+     <f x="-2.1" y="38.7" cocos2d_x="-2.1" cocos2d_y="38.7" kX="10" kY="6.84" cX="2.05" cY="1.48" pX="0" pY="0" z="3" dI="0" twE="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="137.05" y="13.05" cocos2d_x="137.05" cocos2d_y="13.05" kX="10" kY="6.84" cX="6.21" cY="4.46" pX="0" pY="0" z="2" dI="0" twE="1" dr="20"/>
+     <f x="202.4" y="-15.25" cocos2d_x="202.4" cocos2d_y="-15.25" kX="10" kY="6.84" cX="9.22" cY="6.63" pX="0" pY="0" z="1" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="3" dI="-1"/>
+    </b>
+    <b name="exploreEffect_hero_pos_11414_30" sc="1" dl="0">
+     <f x="-16.3" y="45.2" cocos2d_x="-16.3" cocos2d_y="45.2" kX="56.18" kY="45.45" cX="1.61" cY="1.68" pX="0" pY="0" z="4" dI="0" twE="0" dr="4">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-67.8" y="70.3" cocos2d_x="-67.8" cocos2d_y="70.3" kX="56.18" kY="45.45" cX="5.11" cY="5.56" pX="0" pY="0" z="3" dI="0" twE="1" dr="18"/>
+     <f x="-130.45" y="88.5" cocos2d_x="-130.45" cocos2d_y="88.5" kX="56.18" kY="45.45" cX="6" cY="6.24" pX="0" pY="0" z="2" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="3" dI="-1"/>
+    </b>
+    <b name="exploreEffect_rgr" sc="1" dl="0">
+     <f x="14.3" y="29.75" cocos2d_x="14.3" cocos2d_y="29.75" kX="56.18" kY="45.45" cX="5.79" cY="6.31" pX="0" pY="0" z="5" dI="0" twE="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="20.65" y="8.35" cocos2d_x="20.65" cocos2d_y="8.35" kX="56.18" kY="45.45" cX="6.61" cY="7.2" pX="0" pY="0" z="3" dI="0" twE="0" dr="21"/>
+     <f x="73.65" y="-53.6" cocos2d_x="73.65" cocos2d_y="-53.6" kX="56.18" kY="45.45" cX="8.26" cY="9" pX="0" pY="0" z="1" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="2" dI="-1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="exploreEffect" width="32" height="64">
+  <SubTexture name="exploreEffect_yuanjian_8" width="30" height="35" cocos2d_pX="15.05" cocos2d_pY="22.9" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

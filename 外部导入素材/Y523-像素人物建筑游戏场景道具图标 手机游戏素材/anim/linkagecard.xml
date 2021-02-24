@@ -1,0 +1,115 @@
+<skeleton name="linkagecard" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="linkagecard_3">
+   <b name="linkagecard_3_4" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="linkagecard_6" pX="123" pY="179.5"/>
+   </b>
+   <b name="linkagecard_3_3" x="0" y="0" kX="0" kY="0" cX="0.08" cY="1" pX="0" pY="0" z="0">
+    <d name="linkagecard_8" pX="123" pY="179.5"/>
+   </b>
+   <b name="linkagecard_3_2" x="96.2" y="0" kX="0" kY="0" cX="0.45" cY="1" pX="0" pY="0" z="1">
+    <d name="linkagecard_9" pX="6.5" pY="179.5"/>
+   </b>
+  </armature>
+  <armature name="linkagecard_2">
+   <b name="linkagecard_2_4" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="linkagecard_4" pX="123" pY="179.5"/>
+   </b>
+   <b name="linkagecard_2_3" x="0" y="0" kX="0" kY="0" cX="0.08" cY="1" pX="0" pY="0" z="0">
+    <d name="linkagecard_8" pX="123" pY="179.5"/>
+   </b>
+   <b name="linkagecard_2_2" x="96.2" y="0" kX="0" kY="0" cX="0.45" cY="1" pX="0" pY="0" z="1">
+    <d name="linkagecard_9" pX="6.5" pY="179.5"/>
+   </b>
+  </armature>
+  <armature name="linkagecard_1">
+   <b name="linkagecard_1_4" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="linkagecard_5" pX="123" pY="179.5"/>
+   </b>
+   <b name="linkagecard_1_3" x="0" y="0" kX="0" kY="0" cX="0.08" cY="1" pX="0" pY="0" z="0">
+    <d name="linkagecard_8" pX="123" pY="179.5"/>
+   </b>
+   <b name="linkagecard_1_2" x="96.2" y="0" kX="0" kY="0" cX="0.45" cY="1" pX="0" pY="0" z="1">
+    <d name="linkagecard_9" pX="6.5" pY="179.5"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="linkagecard_3">
+   <mov name="effect" dr="20" to="0" drTW="20" lp="0" twE="NaN">
+    <b name="linkagecard_3_4" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="5"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.03" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+     <f dr="14" dI="-1"/>
+    </b>
+    <b name="linkagecard_3_3" sc="1" dl="0">
+     <f dr="6" dI="-1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.08" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="5"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="8"/>
+    </b>
+    <b name="linkagecard_3_2" sc="1" dl="0">
+     <f dr="1" dI="-1"/>
+     <f x="96.2" y="0" cocos2d_x="96.2" cocos2d_y="0" kX="0" kY="0" cX="0.45" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="4"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.62" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+     <f x="-7.4" y="0" cocos2d_x="-7.4" cocos2d_y="0" kX="0" kY="0" cX="0.54" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="4"/>
+     <f x="-98.15" y="0" cocos2d_x="-98.15" cocos2d_y="0" kX="0" kY="0" cX="0.34" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+     <f dr="9" dI="-1"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="linkagecard_2">
+   <mov name="effect" dr="20" to="0" drTW="20" lp="0" twE="NaN">
+    <b name="linkagecard_2_4" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="5"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.03" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+     <f dr="14" dI="-1"/>
+    </b>
+    <b name="linkagecard_2_3" sc="1" dl="0">
+     <f dr="6" dI="-1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.08" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="5"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="8"/>
+    </b>
+    <b name="linkagecard_2_2" sc="1" dl="0">
+     <f dr="1" dI="-1"/>
+     <f x="96.2" y="0" cocos2d_x="96.2" cocos2d_y="0" kX="0" kY="0" cX="0.45" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="4"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.62" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+     <f x="-7.4" y="0" cocos2d_x="-7.4" cocos2d_y="0" kX="0" kY="0" cX="0.54" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="4"/>
+     <f x="-98.15" y="0" cocos2d_x="-98.15" cocos2d_y="0" kX="0" kY="0" cX="0.34" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+     <f dr="9" dI="-1"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="linkagecard_1">
+   <mov name="effect" dr="20" to="0" drTW="20" lp="0" twE="NaN">
+    <b name="linkagecard_1_4" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="5"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.03" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+     <f dr="14" dI="-1"/>
+    </b>
+    <b name="linkagecard_1_3" sc="1" dl="0">
+     <f dr="6" dI="-1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.08" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="5"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="8"/>
+    </b>
+    <b name="linkagecard_1_2" sc="1" dl="0">
+     <f dr="1" dI="-1"/>
+     <f x="96.2" y="0" cocos2d_x="96.2" cocos2d_y="0" kX="0" kY="0" cX="0.45" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="4"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.62" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+     <f x="-7.4" y="0" cocos2d_x="-7.4" cocos2d_y="0" kX="0" kY="0" cX="0.54" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="4"/>
+     <f x="-98.15" y="0" cocos2d_x="-98.15" cocos2d_y="0" kX="0" kY="0" cX="0.34" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+     <f dr="9" dI="-1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="linkagecard" width="1024" height="512">
+  <SubTexture name="linkagecard_5" width="246" height="359" cocos2d_pX="123" cocos2d_pY="179.5" x="0" y="0"/>
+  <SubTexture name="linkagecard_4" width="246" height="359" cocos2d_pX="123" cocos2d_pY="179.5" x="744" y="0"/>
+  <SubTexture name="linkagecard_9" width="13" height="359" cocos2d_pX="6.5" cocos2d_pY="179.5" x="992" y="0"/>
+  <SubTexture name="linkagecard_8" width="246" height="359" cocos2d_pX="123" cocos2d_pY="179.5" x="248" y="0"/>
+  <SubTexture name="linkagecard_6" width="246" height="359" cocos2d_pX="123" cocos2d_pY="179.5" x="496" y="0"/>
+ </TextureAtlas>
+</skeleton>

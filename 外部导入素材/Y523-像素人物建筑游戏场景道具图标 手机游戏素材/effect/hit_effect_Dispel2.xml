@@ -1,0 +1,25 @@
+<skeleton name="hit_effect_Dispel2" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="hit_effect_Dispel2">
+   <b name="hit_effect_Dispel2_1" x="0" y="-34" kX="0" kY="0" cX="1.43" cY="1.43" pX="0" pY="0" z="0">
+    <d name="hit_effect_Dispel2_rs1_3" pX="27" pY="12.6"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="hit_effect_Dispel2">
+   <mov name="effect" dr="39" to="0" drTW="39" lp="0" twE="NaN">
+    <b name="hit_effect_Dispel2_1" sc="1" dl="0">
+     <f x="0" y="-34" cocos2d_x="0" cocos2d_y="-34" kX="0" kY="0" cX="1.43" cY="1.43" pX="0" pY="0" z="0" dI="0" twE="0" dr="5"/>
+     <f x="0" y="-87" cocos2d_x="0" cocos2d_y="-87" kX="0" kY="0" cX="1.83" cY="1.83" pX="0" pY="0" z="0" dI="0" twE="0" dr="33"/>
+     <f x="0" y="-205" cocos2d_x="0" cocos2d_y="-205" kX="0" kY="0" cX="2.25" cY="2.25" pX="0" pY="0" z="0" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="hit_effect_Dispel2" width="64" height="32">
+  <SubTexture name="hit_effect_Dispel2_rs1_3" width="54" height="26" cocos2d_pX="27" cocos2d_pY="12.6" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

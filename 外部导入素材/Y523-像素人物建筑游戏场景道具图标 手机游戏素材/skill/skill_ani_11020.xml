@@ -1,0 +1,32 @@
+<skeleton name="skill_ani_11020" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="skill_ani_11020">
+      <b name="skill_ani_11020_1" x="-0.25" y="-0.7" kX="-18.7" kY="-18.7" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="skill_ani_11020_1" pX="5.5" pY="6.25"/>
+      </b>
+      <b name="event" x="0.5" y="0.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="skill_ani_11020_0" pX="0.5" pY="0.5"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="skill_ani_11020">
+      <mov name="fly" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+        <b name="skill_ani_11020_1" sc="1" dl="0">
+          <f x="-0.25" y="-0.7" cocos2d_x="-0.25" cocos2d_y="-0.7" kX="-18.7" kY="-18.7" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="5"/>
+          <f x="-0.25" y="-0.7" cocos2d_x="-0.25" cocos2d_y="-0.7" kX="-18.7" kY="-18.7" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1" twR="1"/>
+        </b>
+      </mov>
+      <mov name="hit" dr="5" to="0" drTW="5" lp="0" twE="NaN">
+        <b name="event" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0.5" cocos2d_y="0.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" evt="damage" dr="1"/>
+          <f dr="4" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="skill_ani_11020" width="16" height="16">
+    <SubTexture name="skill_ani_11020_0" width="1" height="1" cocos2d_pX="0.5" cocos2d_pY="0.5" x="13" y="0"/>
+    <SubTexture name="skill_ani_11020_1" width="11" height="14" cocos2d_pX="5.5" cocos2d_pY="6.25" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

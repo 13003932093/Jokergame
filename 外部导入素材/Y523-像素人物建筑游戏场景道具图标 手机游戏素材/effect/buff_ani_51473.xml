@@ -1,0 +1,21 @@
+<skeleton name="buff_ani_51473" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="buff_ani_51473">
+      <b name="图层 1" x="3" y="-68.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="buff_ani_51473_1" pX="97.35" pY="93.85"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="buff_ani_51473">
+      <mov name="buff" dr="13" to="0" drTW="13" lp="0" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="3" y="-68.05" cocos2d_x="3" cocos2d_y="-68.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="13"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="buff_ani_51473" width="256" height="256">
+    <SubTexture name="buff_ani_51473_1" width="195" height="188" cocos2d_pX="97.35" cocos2d_pY="93.85" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

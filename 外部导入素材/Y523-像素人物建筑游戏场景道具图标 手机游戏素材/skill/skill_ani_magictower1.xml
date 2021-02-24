@@ -1,0 +1,114 @@
+<skeleton name="skill_ani_magictower1" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="skill_ani_magictower1">
+      <b name="skill_ani_magictower_13" x="-333.25" y="1.05" kX="0" kY="0" cX="1" cY="0.55" pX="0" pY="0" z="0">
+        <d name="skill_ani_magictower1_15" pX="334" pY="126"/>
+      </b>
+      <b name="skill_ani_magictower_12" x="-295.75" y="0.3" kX="0" kY="0" cX="0.93" cY="0.6" pX="0" pY="0" z="1">
+        <d name="skill_ani_magictower1_2" pX="359.65" pY="52"/>
+      </b>
+      <b name="skill_ani_magictower_10" x="-596" y="13.25" kX="0" kY="0" cX="0.16" cY="0.71" pX="0" pY="0" z="2">
+        <d name="skill_ani_magictower1_5" pX="145.25" pY="13.65"/>
+      </b>
+      <b name="skill_ani_magictower_9" x="-326.55" y="-9.5" kX="0" kY="0" cX="1.49" cY="1.08" pX="0" pY="0" z="3">
+        <d name="skill_ani_magictower1_5" pX="145.25" pY="13.65"/>
+      </b>
+      <b name="skill_ani_magictower_8" x="-564.4" y="-20.7" kX="0" kY="0" cX="0.33" cY="0.71" pX="0" pY="0" z="4">
+        <d name="skill_ani_magictower1_4" pX="154.9" pY="1.75"/>
+      </b>
+      <b name="skill_ani_magictower_7" x="-311.85" y="17.8" kX="0" kY="0" cX="1.23" cY="0.71" pX="0" pY="0" z="5">
+        <d name="skill_ani_magictower1_4" pX="154.9" pY="1.75"/>
+      </b>
+      <b name="skill_ani_magictower_6" x="-536" y="-1.1" kX="0" kY="0" cX="0.51" cY="0.49" pX="0" pY="0" z="6">
+        <d name="skill_ani_magictower1_4" pX="154.9" pY="1.75"/>
+      </b>
+      <b name="skill_ani_magictower_5" x="-303.8" y="3.4" kX="0" kY="0" cX="1" cY="0.71" pX="0" pY="0" z="7">
+        <d name="skill_ani_magictower1_11" pX="304.55" pY="66.5"/>
+        <d name="skill_ani_magictower1_12" pX="304.55" pY="66.5"/>
+        <d name="skill_ani_magictower1_13" pX="304.55" pY="66.5"/>
+        <d name="skill_ani_magictower1_14" pX="304.55" pY="66.5"/>
+      </b>
+      <b name="skill_ani_magictower_4" x="-302.45" y="2.7" kX="0" kY="0" cX="1" cY="0.78" pX="0" pY="0" z="8">
+        <d name="skill_ani_magictower1_7" pX="302.9" pY="64.5"/>
+        <d name="skill_ani_magictower1_8" pX="302.9" pY="64.5"/>
+        <d name="skill_ani_magictower1_9" pX="302.9" pY="64.5"/>
+        <d name="skill_ani_magictower1_10" pX="302.9" pY="64.5"/>
+      </b>
+      <b name="event" x="0.5" y="0.65" kX="0" kY="0" cX="1" cY="0.71" pX="0" pY="0" z="0">
+        <d name="skill_ani_magictower1_16" pX="0.5" pY="0.5"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="skill_ani_magictower1">
+      <mov name="fly" dr="4" to="0" drTW="4" lp="1" twE="NaN">
+        <b name="skill_ani_magictower_13" sc="1" dl="0">
+          <f x="-333.25" y="1.05" cocos2d_x="-333.25" cocos2d_y="1.05" kX="0" kY="0" cX="1" cY="0.55" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="-333.25" y="1.05" cocos2d_x="-333.25" cocos2d_y="1.05" kX="0" kY="0" cX="1" cY="0.55" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+        </b>
+        <b name="skill_ani_magictower_12" sc="1" dl="0">
+          <f x="-295.75" y="0.3" cocos2d_x="-295.75" cocos2d_y="0.3" kX="0" kY="0" cX="0.93" cY="0.6" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+          <f x="-295.75" y="0.3" cocos2d_x="-295.75" cocos2d_y="0.3" kX="0" kY="0" cX="0.93" cY="0.56" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+          <f x="-295.75" y="0.3" cocos2d_x="-295.75" cocos2d_y="0.3" kX="0" kY="0" cX="0.93" cY="0.6" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+          <f x="-295.75" y="0.3" cocos2d_x="-295.75" cocos2d_y="0.3" kX="0" kY="0" cX="0.93" cY="0.56" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+        </b>
+        <b name="skill_ani_magictower_10" sc="1" dl="0">
+          <f x="-596" y="13.25" cocos2d_x="-596" cocos2d_y="13.25" kX="0" kY="0" cX="0.16" cY="0.71" pX="0" pY="0" z="2" dI="0" twE="0" dr="3"/>
+          <f x="-398.15" y="13.25" cocos2d_x="-398.15" cocos2d_y="13.25" kX="0" kY="0" cX="1.19" cY="0.71" pX="0" pY="0" z="2" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="skill_ani_magictower_9" sc="1" dl="0">
+          <f x="-326.55" y="-9.5" cocos2d_x="-326.55" cocos2d_y="-9.5" kX="0" kY="0" cX="1.49" cY="1.08" pX="0" pY="0" z="3" dI="0" twE="0" dr="3"/>
+          <f x="-111.65" y="-9.5" cocos2d_x="-111.65" cocos2d_y="-9.5" kX="0" kY="0" cX="0.57" cY="1.08" pX="0" pY="0" z="3" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="skill_ani_magictower_8" sc="1" dl="0">
+          <f x="-564.4" y="-20.7" cocos2d_x="-564.4" cocos2d_y="-20.7" kX="0" kY="0" cX="0.33" cY="0.71" pX="0" pY="0" z="4" dI="0" twE="0" dr="3"/>
+          <f x="-379.35" y="-20.7" cocos2d_x="-379.35" cocos2d_y="-20.7" kX="0" kY="0" cX="1.23" cY="0.71" pX="0" pY="0" z="4" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="skill_ani_magictower_7" sc="1" dl="0">
+          <f x="-311.85" y="17.8" cocos2d_x="-311.85" cocos2d_y="17.8" kX="0" kY="0" cX="1.23" cY="0.71" pX="0" pY="0" z="5" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+          <f x="-231.05" y="17.8" cocos2d_x="-231.05" cocos2d_y="17.8" kX="0" kY="0" cX="1.38" cY="0.71" pX="0" pY="0" z="5" dI="0" twE="0" dr="2"/>
+          <f x="-118.95" y="17.8" cocos2d_x="-118.95" cocos2d_y="17.8" kX="0" kY="0" cX="0.7" cY="0.71" pX="0" pY="0" z="5" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="skill_ani_magictower_6" sc="1" dl="0">
+          <f x="-536" y="-1.1" cocos2d_x="-536" cocos2d_y="-1.1" kX="0" kY="0" cX="0.51" cY="0.49" pX="0" pY="0" z="6" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+          <f x="-369.25" y="-1.1" cocos2d_x="-369.25" cocos2d_y="-1.1" kX="0" kY="0" cX="0.96" cY="0.49" pX="0" pY="0" z="6" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+          <f x="-202.5" y="-1.1" cocos2d_x="-202.5" cocos2d_y="-1.1" kX="0" kY="0" cX="0.95" cY="0.49" pX="0" pY="0" z="6" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+          <f x="-66.85" y="-1.1" cocos2d_x="-66.85" cocos2d_y="-1.1" kX="0" kY="0" cX="0.37" cY="0.49" pX="0" pY="0" z="6" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+        </b>
+        <b name="skill_ani_magictower_5" sc="1" dl="0">
+          <f x="-303.8" y="3.4" cocos2d_x="-303.8" cocos2d_y="3.4" kX="0" kY="0" cX="1" cY="0.71" pX="0" pY="0" z="7" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+          <f x="-303.8" y="3.4" cocos2d_x="-303.8" cocos2d_y="3.4" kX="0" kY="0" cX="1" cY="0.71" pX="0" pY="0" z="7" dI="1" twE="NaN" tweenFrame="0" dr="1"/>
+          <f x="-303.8" y="3.4" cocos2d_x="-303.8" cocos2d_y="3.4" kX="0" kY="0" cX="1" cY="0.71" pX="0" pY="0" z="7" dI="2" twE="NaN" tweenFrame="0" dr="1"/>
+          <f x="-303.8" y="3.4" cocos2d_x="-303.8" cocos2d_y="3.4" kX="0" kY="0" cX="1" cY="0.71" pX="0" pY="0" z="7" dI="3" twE="NaN" tweenFrame="0" dr="1"/>
+        </b>
+        <b name="skill_ani_magictower_4" sc="1" dl="0">
+          <f x="-302.45" y="2.7" cocos2d_x="-302.45" cocos2d_y="2.7" kX="0" kY="0" cX="1" cY="0.78" pX="0" pY="0" z="8" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+          <f x="-302.45" y="2.7" cocos2d_x="-302.45" cocos2d_y="2.7" kX="0" kY="0" cX="1" cY="0.78" pX="0" pY="0" z="8" dI="1" twE="NaN" tweenFrame="0" dr="1"/>
+          <f x="-302.45" y="2.7" cocos2d_x="-302.45" cocos2d_y="2.7" kX="0" kY="0" cX="1" cY="0.78" pX="0" pY="0" z="8" dI="2" twE="NaN" tweenFrame="0" dr="1"/>
+          <f x="-302.45" y="2.7" cocos2d_x="-302.45" cocos2d_y="2.7" kX="0" kY="0" cX="1" cY="0.78" pX="0" pY="0" z="8" dI="3" twE="NaN" tweenFrame="0" dr="1"/>
+        </b>
+      </mov>
+      <mov name="hit" dr="4" to="0" drTW="4" lp="0" twE="NaN">
+        <b name="event" sc="1" dl="0">
+          <f x="0.5" y="0.65" cocos2d_x="0.5" cocos2d_y="0.65" kX="0" kY="0" cX="1" cY="0.71" pX="0" pY="0" z="0" dI="0" evt="damage" dr="1"/>
+          <f dr="3" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="skill_ani_magictower1" width="1024" height="2048">
+    <SubTexture name="skill_ani_magictower1_16" width="1" height="1" cocos2d_pX="0.5" cocos2d_pY="0.5" x="963" y="0"/>
+    <SubTexture name="skill_ani_magictower1_10" width="606" height="129" cocos2d_pX="302.9" cocos2d_pY="64.5" x="0" y="1032"/>
+    <SubTexture name="skill_ani_magictower1_9" width="606" height="129" cocos2d_pX="302.9" cocos2d_pY="64.5" x="0" y="1294"/>
+    <SubTexture name="skill_ani_magictower1_8" width="606" height="129" cocos2d_pX="302.9" cocos2d_pY="64.5" x="0" y="901"/>
+    <SubTexture name="skill_ani_magictower1_7" width="606" height="129" cocos2d_pX="302.9" cocos2d_pY="64.5" x="0" y="1163"/>
+    <SubTexture name="skill_ani_magictower1_14" width="610" height="133" cocos2d_pX="304.55" cocos2d_pY="66.5" x="0" y="631"/>
+    <SubTexture name="skill_ani_magictower1_13" width="610" height="133" cocos2d_pX="304.55" cocos2d_pY="66.5" x="0" y="496"/>
+    <SubTexture name="skill_ani_magictower1_12" width="610" height="133" cocos2d_pX="304.55" cocos2d_pY="66.5" x="0" y="766"/>
+    <SubTexture name="skill_ani_magictower1_11" width="610" height="134" cocos2d_pX="304.55" cocos2d_pY="66.5" x="0" y="360"/>
+    <SubTexture name="skill_ani_magictower1_4" width="310" height="4" cocos2d_pX="154.9" cocos2d_pY="1.75" x="670" y="30"/>
+    <SubTexture name="skill_ani_magictower1_5" width="291" height="28" cocos2d_pX="145.25" cocos2d_pY="13.65" x="670" y="0"/>
+    <SubTexture name="skill_ani_magictower1_2" width="680" height="104" cocos2d_pX="359.65" cocos2d_pY="52" x="0" y="254"/>
+    <SubTexture name="skill_ani_magictower1_15" width="668" height="252" cocos2d_pX="334" cocos2d_pY="126" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

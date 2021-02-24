@@ -1,0 +1,21 @@
+<skeleton name="guild_gvg" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="gvg_ani">
+      <b name="guild_gvg_1" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="guild_gvg_1" pX="98" pY="97.5"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="gvg_ani">
+      <mov name="effect" dr="56" to="0" drTW="56" lp="1" twE="NaN">
+        <b name="guild_gvg_1" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="56"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="guild_gvg" width="256" height="256">
+    <SubTexture name="guild_gvg_1" width="200" height="200" cocos2d_pX="98" cocos2d_pY="97.5" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

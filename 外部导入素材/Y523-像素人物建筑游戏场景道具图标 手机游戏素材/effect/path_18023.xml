@@ -1,0 +1,51 @@
+<skeleton name="path_18023" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="path_18023">
+      <b name="path_18023_2" x="-0.4" y="0.25" kX="0" kY="0" cX="1.3" cY="1.3" pX="0.7" pY="0.45" z="0">
+        <d name="path_18023_9" pX="11.2" pY="10.45"/>
+      </b>
+      <b name="path_18023_1" x="-0.6" y="1.3" kX="0" kY="0" cX="1.3" cY="1.3" pX="0" pY="0" z="0">
+        <d name="path_18023_16" pX="23.45" pY="28.75"/>
+        <d name="path_18023_10" pX="29.65" pY="37.4"/>
+        <d name="path_18023_11" pX="32.1" pY="36.55"/>
+        <d name="path_18023_13" pX="28" pY="28.35"/>
+        <d name="path_18023_14" pX="31.3" pY="32.45"/>
+        <d name="path_18023_15" pX="35" pY="35.75"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="path_18023">
+      <mov name="fly" dr="6" to="0" drTW="6" lp="1" twE="2">
+        <b name="path_18023_2" sc="1" dl="0">
+          <f x="-0.4" y="0.25" cocos2d_x="-1.3" cocos2d_y="-0.35" kX="0" kY="0" cX="1.3" cY="1.3" pX="0.7" pY="0.45" z="0" dI="0" dr="1"/>
+          <f x="-0.4" y="0.25" cocos2d_x="-0.35" cocos2d_y="-0.85" kX="60.14" kY="60.14" cX="1.3" cY="1.3" pX="0.7" pY="0.45" z="0" dI="0" dr="1"/>
+          <f x="-0.4" y="0.25" cocos2d_x="0.55" cocos2d_y="-0.35" kX="119.86" kY="119.86" cX="1.3" cY="1.3" pX="0.75" pY="0.35" z="0" dI="0" dr="1"/>
+          <f x="-0.4" y="0.25" cocos2d_x="0.5" cocos2d_y="0.85" kX="180" kY="180" cX="1.3" cY="1.3" pX="0.7" pY="0.45" z="0" dI="0" dr="1"/>
+          <f x="-0.4" y="0.25" cocos2d_x="-0.45" cocos2d_y="1.35" kX="-119.86" kY="-119.86" cX="1.3" cY="1.3" pX="0.75" pY="0.45" z="0" dI="0" dr="1"/>
+          <f x="-0.4" y="0.25" cocos2d_x="-1.4" cocos2d_y="0.85" kX="-60.14" kY="-60.14" cX="1.3" cY="1.3" pX="0.8" pY="0.45" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+      <mov name="hit" dr="12" to="0" drTW="12" lp="0" twE="NaN">
+        <b name="path_18023_1" sc="1" dl="0">
+          <f x="-0.6" y="1.3" cocos2d_x="-0.6" cocos2d_y="1.3" kX="0" kY="0" cX="1.3" cY="1.3" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="0.5" y="0.85" cocos2d_x="0.5" cocos2d_y="0.85" kX="0" kY="0" cX="1.3" cY="1.3" pX="0" pY="0" z="0" dI="1" dr="2"/>
+          <f x="0.25" y="-2.3" cocos2d_x="0.25" cocos2d_y="-2.3" kX="0" kY="0" cX="1.3" cY="1.3" pX="0" pY="0" z="0" dI="2" dr="2"/>
+          <f x="0.5" y="0.75" cocos2d_x="0.5" cocos2d_y="0.75" kX="0" kY="0" cX="1.3" cY="1.3" pX="0" pY="0" z="0" dI="3" dr="2"/>
+          <f x="0.1" y="1" cocos2d_x="0.1" cocos2d_y="1" kX="0" kY="0" cX="1.3" cY="1.3" pX="0" pY="0" z="0" dI="4" dr="2"/>
+          <f x="0.5" y="0.65" cocos2d_x="0.5" cocos2d_y="0.65" kX="0" kY="0" cX="1.3" cY="1.3" pX="0" pY="0" z="0" dI="5" dr="2"/>
+          <f dr="1" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="path_18023" width="256" height="256">
+    <SubTexture name="path_18023_15" width="70" height="72" cocos2d_pX="35" cocos2d_pY="35.75" x="0" y="0"/>
+    <SubTexture name="path_18023_14" width="63" height="65" cocos2d_pX="31.3" cocos2d_pY="32.45" x="0" y="74"/>
+    <SubTexture name="path_18023_13" width="56" height="57" cocos2d_pX="28" cocos2d_pY="28.35" x="65" y="76"/>
+    <SubTexture name="path_18023_11" width="65" height="74" cocos2d_pX="32.1" cocos2d_pY="36.55" x="72" y="0"/>
+    <SubTexture name="path_18023_10" width="60" height="75" cocos2d_pX="29.65" cocos2d_pY="37.4" x="139" y="0"/>
+    <SubTexture name="path_18023_16" width="47" height="58" cocos2d_pX="23.45" cocos2d_pY="28.75" x="201" y="0"/>
+    <SubTexture name="path_18023_9" width="23" height="21" cocos2d_pX="11.2" cocos2d_pY="10.45" x="201" y="60"/>
+  </TextureAtlas>
+</skeleton>

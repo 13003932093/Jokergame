@@ -1,0 +1,83 @@
+<skeleton name="herolevelup" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="herolevelup">
+      <b name="ccefe" x="-0.15" y="-2.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-13" z="0">
+        <d name="bvbgbfg" pX="59.5" pY="34.55"/>
+      </b>
+      <b name="wwer" x="-15.55" y="-11.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-214.25" z="0">
+        <d name="guagn_01" pX="21.75" pY="228.35"/>
+        <d name="guagn_02" pX="51.95" pY="259.5"/>
+        <d name="guagn_03" pX="137.25" pY="310.75"/>
+        <d name="guagn_04" pX="141.4" pY="197.65"/>
+      </b>
+      <b name="ffff" x="-8.85" y="19.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-103.3" z="2">
+        <d name="xing_01" pX="123.3" pY="115.8"/>
+        <d name="xing_02" pX="121.15" pY="124.5"/>
+        <d name="xing_03" pX="119.1" pY="128.95"/>
+        <d name="xing_04" pX="117.15" pY="128.85"/>
+        <d name="xing_05" pX="115.2" pY="128.9"/>
+        <d name="xing_06" pX="101.85" pY="129.45"/>
+        <d name="xing_07" pX="100.1" pY="130.3"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="herolevelup">
+      <mov name="levelup" dr="42" to="0" drTW="42" lp="0" twE="NaN">
+        <b name="ccefe" sc="1" dl="0">
+          <f dr="2" dI="-1"/>
+          <f x="-0.15" y="-2.55" cocos2d_x="-0.15" cocos2d_y="10.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-13" z="0" dI="0" twE="0.4" dr="14">
+            <colorTransform a="0" r="247" g="247" b="247" aM="100" rM="3" gM="3" bM="3"/>
+          </f>
+          <f x="-0.15" y="-22.95" cocos2d_x="-0.15" cocos2d_y="-9.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-13" z="0" dI="0" twE="0.1" dr="9">
+            <colorTransform a="0" r="20" g="20" b="20" aM="100" rM="92" gM="92" bM="92"/>
+          </f>
+          <f x="-0.15" y="-27.5" cocos2d_x="-0.15" cocos2d_y="-14.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-13" z="0" dI="0" dr="5">
+            <colorTransform a="0" r="13" g="13" b="13" aM="100" rM="95" gM="95" bM="95"/>
+          </f>
+          <f x="-0.15" y="-27.5" cocos2d_x="-0.15" cocos2d_y="-14.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-13" z="0" dI="0" twE="0" dr="11">
+            <colorTransform a="0" r="13" g="13" b="13" aM="100" rM="95" gM="95" bM="95"/>
+          </f>
+          <f x="-0.15" y="-27.5" cocos2d_x="-0.15" cocos2d_y="-14.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-13" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="13" g="13" b="13" aM="0" rM="95" gM="95" bM="95"/>
+          </f>
+        </b>
+        <b name="wwer" sc="1" dl="0">
+          <f x="-15.55" y="-11.65" cocos2d_x="-15.55" cocos2d_y="202.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-214.25" z="0" dI="0" dr="1"/>
+          <f x="-15.55" y="-11.65" cocos2d_x="-15.55" cocos2d_y="202.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-214.25" z="1" dI="1" dr="2"/>
+          <f x="-15.55" y="-11.65" cocos2d_x="-15.55" cocos2d_y="202.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-214.25" z="1" dI="2" dr="1"/>
+          <f x="-15.55" y="-11.65" cocos2d_x="-15.55" cocos2d_y="202.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-214.25" z="1" dI="3" twE="0" dr="2"/>
+          <f x="-15.55" y="-11.65" cocos2d_x="-15.55" cocos2d_y="202.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-214.25" z="1" dI="3" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="33" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="35" dI="-1"/>
+        </b>
+        <b name="ffff" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="-8.85" y="19.3" cocos2d_x="-8.85" cocos2d_y="122.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-103.3" z="2" dI="0" dr="2"/>
+          <f x="-8.85" y="19.3" cocos2d_x="-8.85" cocos2d_y="122.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-103.3" z="1" dI="1" dr="2"/>
+          <f x="-8.85" y="19.3" cocos2d_x="-8.85" cocos2d_y="122.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-103.3" z="1" dI="2" dr="2"/>
+          <f x="-8.85" y="19.3" cocos2d_x="-8.85" cocos2d_y="122.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-103.3" z="1" dI="3" dr="2"/>
+          <f x="-8.85" y="19.3" cocos2d_x="-8.85" cocos2d_y="122.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-103.3" z="1" dI="4" dr="2"/>
+          <f x="-8.85" y="19.3" cocos2d_x="-8.85" cocos2d_y="122.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-103.3" z="1" dI="5" dr="2"/>
+          <f x="-8.85" y="19.3" cocos2d_x="-8.85" cocos2d_y="122.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-103.3" z="1" dI="6" dr="2"/>
+          <f dr="24" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="herolevelup" width="512" height="512">
+    <SubTexture name="xing_07" width="176" height="24" cocos2d_pX="101.05" cocos2d_pY="130.8" x="302" y="276"/>
+    <SubTexture name="xing_06" width="179" height="26" cocos2d_pX="103.6" cocos2d_pY="130.05" x="0" y="244"/>
+    <SubTexture name="xing_05" width="193" height="30" cocos2d_pX="117.5" cocos2d_pY="130.7" x="312" y="210"/>
+    <SubTexture name="xing_04" width="196" height="31" cocos2d_pX="119.5" cocos2d_pY="131.05" x="312" y="142"/>
+    <SubTexture name="xing_03" width="192" height="33" cocos2d_pX="122.3" cocos2d_pY="131.45" x="312" y="175"/>
+    <SubTexture name="xing_02" width="188" height="32" cocos2d_pX="124.75" cocos2d_pY="127.6" x="312" y="242"/>
+    <SubTexture name="xing_01" width="176" height="27" cocos2d_pX="126.7" cocos2d_pY="116.7" x="0" y="272"/>
+    <SubTexture name="guagn_04" width="321" height="21" cocos2d_pX="141.4" cocos2d_pY="197.65" x="0" y="302"/>
+    <SubTexture name="guagn_03" width="310" height="242" cocos2d_pX="137.25" cocos2d_pY="310.75" x="0" y="0"/>
+    <SubTexture name="guagn_02" width="125" height="140" cocos2d_pX="51.95" cocos2d_pY="259.5" x="312" y="0"/>
+    <SubTexture name="guagn_01" width="67" height="75" cocos2d_pX="21.75" cocos2d_pY="228.4" x="439" y="0"/>
+    <SubTexture name="bvbgbfg" width="119" height="40" cocos2d_pX="59.5" cocos2d_pY="34.55" x="181" y="244"/>
+  </TextureAtlas>
+</skeleton>

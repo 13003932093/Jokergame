@@ -1,0 +1,392 @@
+<skeleton name="skill_show_door" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="skill_show_tv">
+   <b name="skill_show_tv_4" x="0" y="6.05" kX="0" kY="0" cX="1.24" cY="4.02" pX="0" pY="0" z="0">
+    <d name="skill_show_tv_14" pX="180" pY="6.5"/>
+   </b>
+   <b name="skill_show_tv_3" x="0" y="-3.2" kX="90" kY="90" cX="0.78" cY="2.82" pX="0" pY="0" z="1">
+    <d name="skill_show_tv_14" pX="180" pY="6.5"/>
+   </b>
+   <b name="skill_show_tv_2" x="2.15" y="3.15" kX="0" kY="0" cX="2.81" cY="2.81" pX="0" pY="0" z="2">
+    <d name="skill_show_tv_13" pX="50" pY="50"/>
+   </b>
+   <b name="skill_show_tv_1" x="0.1" y="-2.15" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="2">
+    <d name="skill_show_tv_12" pX="109.6" pY="62.8"/>
+    <d name="skill_show_tv_11" pX="54.8" pY="31.4"/>
+   </b>
+  </armature>
+  <armature name="skill_show_door">
+   <b name="skill_show_door_13" x="0" y="38.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="skill_show_door_10" pX="65" pY="102.5"/>
+   </b>
+   <b name="hero" x="-1.75" y="83.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="skill_show_door_11" pX="2.75" pY="2.75"/>
+   </b>
+   <b name="skill_show_door_11" x="0" y="38.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+    <d name="skill_show_door_3" pX="65" pY="102.5"/>
+    <d name="skill_show_door_13" pX="65" pY="83"/>
+    <d name="skill_show_door_16" pX="65" pY="74"/>
+    <d name="skill_show_door_4" pX="65" pY="69.35"/>
+    <d name="skill_show_door_14" pX="65" pY="57.05"/>
+    <d name="skill_show_door_5" pX="65" pY="41.85"/>
+    <d name="skill_show_door_15" pX="65" pY="33.8"/>
+    <d name="skill_show_door_6" pX="65" pY="27.6"/>
+   </b>
+   <b name="skill_show_door_14" x="-39.6" y="121.9" kX="-58.64" kY="140.62" cX="1.14" cY="0.99" pX="1.15" pY="0.55" z="3">
+    <d name="skill_show_door_1" pX="13.15" pY="12.3"/>
+    <d name="skill_show_door_11" pX="2.75" pY="2.75"/>
+   </b>
+   <b name="skill_show_door_9" x="4.65" y="126.6" kX="-58.64" kY="140.62" cX="1.11" cY="0.97" pX="1.1" pY="0.55" z="4">
+    <d name="skill_show_door_1" pX="13.15" pY="12.3"/>
+   </b>
+   <b name="skill_show_door_8" x="-18" y="126.4" kX="36.98" kY="-137.65" cX="1.29" cY="1.07" pX="1.2" pY="0.6" z="5">
+    <d name="skill_show_door_1" pX="13.15" pY="12.3"/>
+   </b>
+   <b name="skill_show_door_7" x="-2.05" y="123.3" kX="60.69" kY="-113.94" cX="2.04" cY="1.7" pX="1.25" pY="0.65" z="6">
+    <d name="skill_show_door_1" pX="13.15" pY="12.3"/>
+   </b>
+   <b name="skill_show_door_6" x="-3.35" y="96.9" kX="34.76" kY="-150.2" cX="2.21" cY="1.83" pX="1.1" pY="0.6" z="7">
+    <d name="skill_show_door_1" pX="13.15" pY="12.3"/>
+   </b>
+   <b name="skill_show_door_5" x="24.05" y="125.9" kX="95.22" kY="-74.19" cX="1.22" cY="1.2" pX="1.15" pY="0.55" z="6">
+    <d name="skill_show_door_1" pX="13.15" pY="12.3"/>
+   </b>
+   <b name="skill_show_door_4" x="-39.75" y="71.5" kX="95.22" kY="-74.19" cX="1.77" cY="1.73" pX="1.1" pY="0.6" z="9">
+    <d name="skill_show_door_1" pX="13.15" pY="12.3"/>
+   </b>
+   <b name="skill_show_door_3" x="29.9" y="59.6" kX="116.46" kY="-52.96" cX="1.77" cY="1.73" pX="1.2" pY="0.6" z="10">
+    <d name="skill_show_door_1" pX="13.15" pY="12.3"/>
+   </b>
+   <b name="skill_show_door_2" x="0" y="-86.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3">
+    <d name="skill_show_door_8" pX="43" pY="43"/>
+    <d name="skill_show_door_9" pX="43.5" pY="44"/>
+   </b>
+   <b name="txt" x="-1.75" y="96.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3">
+    <d name="skill_show_door_11" pX="2.75" pY="2.75"/>
+   </b>
+  </armature>
+  <armature name="skill_show_tv_quan">
+   <b name="skill_show_tv_quan_11" x="23.95" y="-5.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="skill_show_tv_2" pX="43.5" pY="44"/>
+   </b>
+   <b name="skill_show_tv_quan_10" x="-19.45" y="14.3" kX="-135" kY="-135" cX="1.1" cY="1.1" pX="0" pY="0" z="1">
+    <d name="skill_show_tv_2" pX="43.5" pY="44"/>
+   </b>
+   <b name="skill_show_tv_quan_9" x="22.7" y="30.95" kX="98.45" kY="98.45" cX="0.8" cY="0.8" pX="0" pY="0" z="2">
+    <d name="skill_show_tv_2" pX="43.5" pY="44"/>
+   </b>
+   <b name="skill_show_tv_quan_8" x="-10.65" y="-20.6" kX="-75.77" kY="-75.77" cX="0.9" cY="0.9" pX="0" pY="0" z="3">
+    <d name="skill_show_tv_2" pX="43.5" pY="44"/>
+   </b>
+   <b name="skill_show_tv_quan_7" x="21.6" y="18.3" kX="52.46" kY="52.46" cX="1" cY="1" pX="0" pY="0" z="4">
+    <d name="skill_show_tv_2" pX="43.5" pY="44"/>
+   </b>
+   <b name="skill_show_tv_quan_6" x="-20.7" y="-3.9" kX="-82.54" kY="-82.54" cX="1.1" cY="1.1" pX="0" pY="0" z="5">
+    <d name="skill_show_tv_2" pX="43.5" pY="44"/>
+   </b>
+   <b name="skill_show_tv_quan_5" x="-12" y="38.35" kX="159.67" kY="159.67" cX="1" cY="1" pX="0" pY="0" z="6">
+    <d name="skill_show_tv_2" pX="43.5" pY="44"/>
+   </b>
+   <b name="skill_show_tv_quan_4" x="5.05" y="-31.5" kX="-33.97" kY="-33.97" cX="0.9" cY="0.9" pX="0" pY="0" z="7">
+    <d name="skill_show_tv_2" pX="43.5" pY="44"/>
+   </b>
+   <b name="skill_show_tv_quan_3" x="-5.05" y="21.1" kX="0" kY="0" cX="2.01" cY="2.01" pX="0" pY="0" z="8">
+    <d name="skill_show_tv_13" pX="50" pY="50"/>
+   </b>
+   <b name="skill_show_tv_quan_2" x="-5.05" y="21.1" kX="0" kY="0" cX="2.77" cY="2.77" pX="0" pY="0" z="9">
+    <d name="skill_show_tv_13" pX="50" pY="50"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="skill_show_tv">
+   <mov name="idle" dr="67" to="0" drTW="67" lp="0" twE="NaN">
+    <b name="skill_show_tv_4" sc="1" dl="0">
+     <f dr="1" dI="-1"/>
+     <f x="0" y="6.05" cocos2d_x="0" cocos2d_y="6.05" kX="0" kY="0" cX="1.24" cY="4.02" pX="0" pY="0" z="0" dI="0" dr="1"/>
+     <f dr="1" dI="-1"/>
+     <f x="0" y="6.05" cocos2d_x="0" cocos2d_y="6.05" kX="0" kY="0" cX="1.24" cY="4.02" pX="0" pY="0" z="0" dI="0" dr="1"/>
+     <f x="-2.4" y="6.05" cocos2d_x="-2.4" cocos2d_y="6.05" kX="0" kY="0" cX="0.75" cY="0.75" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+     <f dr="62" dI="-1"/>
+    </b>
+    <b name="skill_show_tv_3" sc="1" dl="0">
+     <f dr="1" dI="-1"/>
+     <f x="0" y="-3.2" cocos2d_x="0" cocos2d_y="-3.2" kX="90" kY="90" cX="0.78" cY="2.82" pX="0" pY="0" z="1" dI="0" dr="1"/>
+     <f dr="1" dI="-1"/>
+     <f x="0" y="-3.2" cocos2d_x="0" cocos2d_y="-3.2" kX="90" kY="90" cX="0.78" cY="2.82" pX="0" pY="0" z="1" dI="0" dr="1"/>
+     <f x="-2.4" y="6.05" cocos2d_x="-2.4" cocos2d_y="6.05" kX="90" kY="90" cX="0.29" cY="0.7" pX="0" pY="0" z="1" dI="0" twE="0" dr="1"/>
+     <f dr="62" dI="-1"/>
+    </b>
+    <b name="skill_show_tv_2" sc="1" dl="0">
+     <f dr="3" dI="-1"/>
+     <f x="2.15" y="3.15" cocos2d_x="2.15" cocos2d_y="3.15" kX="0" kY="0" cX="2.81" cY="2.81" pX="0" pY="0" z="2" dI="0" dr="1"/>
+     <f x="-1.2" y="4.4" cocos2d_x="-1.2" cocos2d_y="4.4" kX="0" kY="0" cX="0.75" cY="0.75" pX="0" pY="0" z="2" dI="0" twE="0" dr="1"/>
+     <f dr="62" dI="-1"/>
+    </b>
+    <b name="skill_show_tv_1" sc="1" dl="0">
+     <f dr="1" dI="-1"/>
+     <f x="0.1" y="-2.15" cocos2d_x="0.1" cocos2d_y="-2.15" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="2" dI="0" dr="1"/>
+     <f x="0.1" y="-2.15" cocos2d_x="0.1" cocos2d_y="-2.15" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="0" dI="1" twE="0" dr="8"/>
+     <f x="0.1" y="-2.15" cocos2d_x="0.1" cocos2d_y="-2.15" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="0" dI="1" dr="57">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+   </mov>
+  </animation>
+  <animation name="skill_show_door">
+   <mov name="open" dr="92" to="0" drTW="92" lp="0" twE="NaN">
+    <b name="skill_show_door_13" sc="1" dl="0">
+     <f x="0" y="38.8" cocos2d_x="0" cocos2d_y="38.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="37"/>
+     <f x="0" y="38.8" cocos2d_x="0" cocos2d_y="38.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="55"/>
+    </b>
+    <b name="hero" sc="1" dl="0">
+     <f x="-1.75" y="83.95" cocos2d_x="-1.75" cocos2d_y="83.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="92"/>
+    </b>
+    <b name="skill_show_door_11" sc="1" dl="0">
+     <f x="0" y="38.8" cocos2d_x="0" cocos2d_y="38.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="NaN" tweenFrame="0" dr="37"/>
+     <f x="0" y="38.8" cocos2d_x="0" cocos2d_y="38.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="NaN" tweenFrame="0" dr="19"/>
+     <f x="0" y="26.8" cocos2d_x="0" cocos2d_y="26.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="18.25" cocos2d_x="0" cocos2d_y="18.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="13.45" cocos2d_x="0" cocos2d_y="13.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="1.25" cocos2d_x="0" cocos2d_y="1.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-14.05" cocos2d_x="0" cocos2d_y="-14.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-24" cocos2d_x="0" cocos2d_y="-24" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="6" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-28.3" cocos2d_x="0" cocos2d_y="-28.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="7" twE="0" dr="7"/>
+     <f x="0" y="-53.5" cocos2d_x="0" cocos2d_y="-53.5" kX="0" kY="0" cX="1" cY="0.09" pX="0" pY="0" z="2" dI="7" dr="1"/>
+     <f dr="16" dI="-1"/>
+    </b>
+    <b name="skill_show_door_14" sc="1" dl="0">
+     <f dr="44" dI="-1"/>
+     <f x="-39.6" y="121.9" cocos2d_x="-39.1" cocos2d_y="120.8" kX="-58.64" kY="140.62" cX="1.14" cY="0.99" pX="1.15" pY="0.55" z="3" dI="0" twE="0" dr="12">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-44.3" y="113.55" cocos2d_x="-43.2" cocos2d_y="111.2" kX="-58.67" kY="140.65" cX="2.49" cY="2.18" pX="1.1" pY="0.55" z="3" dI="0" twE="0" dr="3">
+      <colorTransform a="0" r="0" g="0" b="0" aM="63" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-54.55" y="110.95" cocos2d_x="-52.45" cocos2d_y="106.4" kX="-58.67" kY="140.64" cX="4.79" cY="4.19" pX="1.05" pY="0.55" z="3" dI="0" twE="0" dr="12">
+      <colorTransform a="0" r="0" g="0" b="0" aM="25" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-60.5" y="109.15" cocos2d_x="-57.95" cocos2d_y="103" kX="-58.64" kY="140.62" cX="6.33" cY="5.54" pX="1.1" pY="0.6" z="3" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="19" dI="-1"/>
+     <f x="-1.75" y="97.95" cocos2d_x="-1.75" cocos2d_y="97.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="1" dr="1"/>
+    </b>
+    <b name="skill_show_door_9" sc="1" dl="0">
+     <f dr="44" dI="-1"/>
+     <f x="4.65" y="126.6" cocos2d_x="5.15" cocos2d_y="125.55" kX="-58.64" kY="140.62" cX="1.11" cY="0.97" pX="1.1" pY="0.55" z="4" dI="0" twE="0" dr="12">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="2.9" y="119.25" cocos2d_x="3.9" cocos2d_y="117.15" kX="-58.67" kY="140.64" cX="2.23" cY="1.95" pX="1.1" pY="0.5" z="4" dI="0" twE="0" dr="3">
+      <colorTransform a="0" r="0" g="0" b="0" aM="75" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="6.1" y="119.65" cocos2d_x="8.1" cocos2d_y="115.35" kX="-58.67" kY="140.64" cX="4.56" cY="3.99" pX="1.1" pY="0.55" z="3" dI="0" twE="0" dr="14">
+      <colorTransform a="0" r="0" g="0" b="0" aM="75" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="12.1" y="119.9" cocos2d_x="16.05" cocos2d_y="111.35" kX="-58.64" kY="140.62" cX="9.01" cY="7.88" pX="1.1" pY="0.6" z="3" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="18" dI="-1"/>
+    </b>
+    <b name="skill_show_door_8" sc="1" dl="0">
+     <f dr="47" dI="-1"/>
+     <f x="-18" y="126.4" cocos2d_x="-16.5" cocos2d_y="126.9" kX="36.98" kY="-137.65" cX="1.29" cY="1.07" pX="1.2" pY="0.6" z="5" dI="0" twE="0" dr="9">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-25.75" y="114.1" cocos2d_x="-22.9" cocos2d_y="114.85" kX="35.34" kY="-139.17" cX="2.41" cY="2" pX="1.1" pY="0.6" z="5" dI="0" twE="0" dr="4">
+      <colorTransform a="0" r="0" g="0" b="0" aM="74" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-24.85" y="91.9" cocos2d_x="-18.75" cocos2d_y="93" kX="28.85" kY="-145.66" cX="5.12" cY="4.25" pX="1.15" pY="0.6" z="5" dI="0" twE="0" dr="8">
+      <colorTransform a="0" r="0" g="0" b="0" aM="72" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-24.2" y="76.3" cocos2d_x="-15.75" cocos2d_y="77.15" kX="24.54" kY="-150.09" cX="7.01" cY="5.82" pX="1.15" pY="0.6" z="5" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="23" dI="-1"/>
+    </b>
+    <b name="skill_show_door_7" sc="1" dl="0">
+     <f dr="58" dI="-1"/>
+     <f x="-2.05" y="123.3" cocos2d_x="-0.1" cocos2d_y="125" kX="60.69" kY="-113.94" cX="2.04" cY="1.7" pX="1.25" pY="0.65" z="6" dI="0" twE="0" dr="5">
+      <colorTransform a="0" r="0" g="0" b="0" aM="75" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="1.1" y="135.3" cocos2d_x="5" cocos2d_y="138.5" kX="62.93" kY="-113.83" cX="3.84" cY="3.5" pX="1.2" pY="0.6" z="5" dI="0" twE="0" dr="9">
+      <colorTransform a="0" r="0" g="0" b="0" aM="75" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="3.65" y="146.35" cocos2d_x="9.6" cocos2d_y="151" kX="64.75" kY="-113.94" cX="5.4" cY="5.05" pX="1.2" pY="0.7" z="4" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="19" dI="-1"/>
+    </b>
+    <b name="skill_show_door_6" sc="1" dl="0">
+     <f dr="57" dI="-1"/>
+     <f x="-3.35" y="96.9" cocos2d_x="-0.5" cocos2d_y="97.25" kX="34.76" kY="-150.2" cX="2.21" cY="1.83" pX="1.1" pY="0.6" z="7" dI="0" twE="0" dr="5">
+      <colorTransform a="0" r="0" g="0" b="0" aM="75" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-2.3" y="84.95" cocos2d_x="3.9" cocos2d_y="85.75" kX="34.81" kY="-150.19" cX="4.85" cY="4.02" pX="1.1" pY="0.65" z="5" dI="0" twE="0" dr="11">
+      <colorTransform a="0" r="0" g="0" b="0" aM="75" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-1.15" y="74.65" cocos2d_x="8.35" cocos2d_y="75.45" kX="34.76" kY="-150.2" cX="7.52" cY="6.23" pX="1.1" pY="0.65" z="4" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="18" dI="-1"/>
+    </b>
+    <b name="skill_show_door_5" sc="1" dl="0">
+     <f dr="46" dI="-1"/>
+     <f x="24.05" y="125.9" cocos2d_x="24.4" cocos2d_y="127.25" kX="95.22" kY="-74.19" cX="1.22" cY="1.2" pX="1.15" pY="0.55" z="6" dI="0" twE="0" dr="10">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="28.55" y="113.25" cocos2d_x="29.35" cocos2d_y="115.95" kX="93.78" kY="-76.2" cX="2.44" cY="2.42" pX="1.1" pY="0.65" z="8" dI="0" twE="0" dr="4">
+      <colorTransform a="0" r="0" g="0" b="0" aM="74" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="52.45" y="102.8" cocos2d_x="54.9" cocos2d_y="108.6" kX="88.49" kY="-83.7" cX="5.14" cY="5.15" pX="1.2" pY="0.65" z="8" dI="0" twE="0" dr="8">
+      <colorTransform a="0" r="0" g="0" b="0" aM="72" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="69.25" y="95.35" cocos2d_x="73.35" cocos2d_y="103.05" kX="84.93" kY="-89.04" cX="7.02" cY="7.05" pX="1.15" pY="0.6" z="8" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="23" dI="-1"/>
+    </b>
+    <b name="skill_show_door_4" sc="1" dl="0">
+     <f dr="58" dI="-1"/>
+     <f x="-39.75" y="71.5" cocos2d_x="-39.25" cocos2d_y="73.55" kX="95.22" kY="-74.19" cX="1.77" cY="1.73" pX="1.1" pY="0.6" z="9" dI="0" twE="0" dr="5">
+      <colorTransform a="0" r="0" g="0" b="0" aM="75" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-44.3" y="50.3" cocos2d_x="-43.3" cocos2d_y="54.55" kX="95.06" kY="-74.22" cX="3.68" cY="3.61" pX="1.15" pY="0.6" z="5" dI="0" twE="0" dr="11">
+      <colorTransform a="0" r="0" g="0" b="0" aM="75" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-50.2" y="22" cocos2d_x="-48.5" cocos2d_y="29.15" kX="95.22" kY="-74.19" cX="6.14" cY="6.03" pX="1.15" pY="0.65" z="3" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="17" dI="-1"/>
+    </b>
+    <b name="skill_show_door_3" sc="1" dl="0">
+     <f dr="58" dI="-1"/>
+     <f x="29.9" y="59.6" cocos2d_x="29.6" cocos2d_y="61.7" kX="116.46" kY="-52.96" cX="1.77" cY="1.73" pX="1.2" pY="0.6" z="10" dI="0" twE="0" dr="5">
+      <colorTransform a="0" r="0" g="0" b="0" aM="75" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="33.3" y="38.05" cocos2d_x="32.7" cocos2d_y="42.4" kX="116.3" kY="-52.98" cX="3.68" cY="3.61" pX="1.15" pY="0.6" z="6" dI="0" twE="0" dr="11">
+      <colorTransform a="0" r="0" g="0" b="0" aM="75" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="38" y="9.65" cocos2d_x="37" cocos2d_y="16.9" kX="116.46" kY="-52.96" cX="6.14" cY="6.03" pX="1.1" pY="0.6" z="4" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="17" dI="-1"/>
+    </b>
+    <b name="skill_show_door_2" sc="1" dl="0">
+     <f x="0" y="-86.8" cocos2d_x="0" cocos2d_y="-86.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="NaN" tweenFrame="0" dr="37"/>
+     <f x="0" y="-86.8" cocos2d_x="0" cocos2d_y="-86.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="1" twE="NaN" tweenFrame="0" dr="55"/>
+    </b>
+   </mov>
+   <mov name="on" dr="1" to="0">
+    <b name="skill_show_door_13" sc="1" dl="0">
+     <f x="0" y="38.8" cocos2d_x="0" cocos2d_y="38.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+    </b>
+    <b name="hero" sc="1" dl="0">
+     <f x="-1.75" y="83.95" cocos2d_x="-1.75" cocos2d_y="83.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+    </b>
+    <b name="skill_show_door_2" sc="1" dl="0">
+     <f x="0" y="-86.8" cocos2d_x="0" cocos2d_y="-86.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="1" twE="NaN" tweenFrame="0" dr="1"/>
+    </b>
+   </mov>
+   <mov name="off" dr="1" to="0">
+    <b name="skill_show_door_13" sc="1" dl="0">
+     <f x="0" y="38.8" cocos2d_x="0" cocos2d_y="38.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+    </b>
+    <b name="hero" sc="1" dl="0">
+     <f x="-1.75" y="83.95" cocos2d_x="-1.75" cocos2d_y="83.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+    </b>
+    <b name="skill_show_door_11" sc="1" dl="0">
+     <f x="0" y="38.8" cocos2d_x="0" cocos2d_y="38.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+    </b>
+    <b name="txt" sc="1" dl="0">
+     <f x="-1.75" y="96.95" cocos2d_x="-1.75" cocos2d_y="96.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="1"/>
+    </b>
+    <b name="skill_show_door_2" sc="1" dl="0">
+     <f x="0" y="-86.8" cocos2d_x="0" cocos2d_y="-86.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="skill_show_tv_quan">
+   <mov name="idle" dr="11" to="0" drTW="11" lp="0" twE="NaN">
+    <b name="skill_show_tv_quan_11" sc="1" dl="0">
+     <f x="23.95" y="-5.7" cocos2d_x="23.95" cocos2d_y="-5.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0.53" dr="10"/>
+     <f x="119" y="-97.95" cocos2d_x="119" cocos2d_y="-97.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+    <b name="skill_show_tv_quan_10" sc="1" dl="0">
+     <f x="-19.45" y="14.3" cocos2d_x="-19.45" cocos2d_y="14.3" kX="-135" kY="-135" cX="1.1" cY="1.1" pX="0" pY="0" z="1" dI="0" twE="0.53" dr="10"/>
+     <f x="-151.85" y="12.25" cocos2d_x="-151.85" cocos2d_y="12.25" kX="-135" kY="-135" cX="1.1" cY="1.1" pX="0" pY="0" z="1" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+    <b name="skill_show_tv_quan_9" sc="1" dl="0">
+     <f x="22.7" y="30.95" cocos2d_x="22.7" cocos2d_y="30.95" kX="98.45" kY="98.45" cX="0.8" cY="0.8" pX="0" pY="0" z="2" dI="0" twE="0.53" dr="10"/>
+     <f x="99.95" y="138.6" cocos2d_x="99.95" cocos2d_y="138.6" kX="98.45" kY="98.45" cX="0.8" cY="0.8" pX="0" pY="0" z="2" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+    <b name="skill_show_tv_quan_8" sc="1" dl="0">
+     <f x="-10.65" y="-20.6" cocos2d_x="-10.65" cocos2d_y="-20.6" kX="-75.77" kY="-75.77" cX="0.9" cY="0.9" pX="0" pY="0" z="3" dI="0" twE="0.53" dr="10"/>
+     <f x="-76.6" y="-135.45" cocos2d_x="-76.6" cocos2d_y="-135.45" kX="-75.77" kY="-75.77" cX="0.9" cY="0.9" pX="0" pY="0" z="3" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+    <b name="skill_show_tv_quan_7" sc="1" dl="0">
+     <f x="21.6" y="18.3" cocos2d_x="21.6" cocos2d_y="18.3" kX="52.46" kY="52.46" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="0.53" dr="10"/>
+     <f x="152.65" y="37.5" cocos2d_x="152.65" cocos2d_y="37.5" kX="52.46" kY="52.46" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+    <b name="skill_show_tv_quan_6" sc="1" dl="0">
+     <f x="-20.7" y="-3.9" cocos2d_x="-20.7" cocos2d_y="-3.9" kX="-82.54" kY="-82.54" cX="1.1" cY="1.1" pX="0" pY="0" z="5" dI="0" twE="0.53" dr="10"/>
+     <f x="-99.75" y="-110.1" cocos2d_x="-99.75" cocos2d_y="-110.1" kX="-82.54" kY="-82.54" cX="1.1" cY="1.1" pX="0" pY="0" z="5" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+    <b name="skill_show_tv_quan_5" sc="1" dl="0">
+     <f x="-12" y="38.35" cocos2d_x="-12" cocos2d_y="38.35" kX="159.67" kY="159.67" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" twE="0.53" dr="10"/>
+     <f x="-69.15" y="157.8" cocos2d_x="-69.15" cocos2d_y="157.8" kX="159.67" kY="159.67" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+    <b name="skill_show_tv_quan_4" sc="1" dl="0">
+     <f x="5.05" y="-31.5" cocos2d_x="5.05" cocos2d_y="-31.5" kX="-33.97" kY="-33.97" cX="0.9" cY="0.9" pX="0" pY="0" z="7" dI="0" twE="0.53" dr="10"/>
+     <f x="32.4" y="-161.1" cocos2d_x="32.4" cocos2d_y="-161.1" kX="-33.97" kY="-33.97" cX="0.9" cY="0.9" pX="0" pY="0" z="7" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+    <b name="skill_show_tv_quan_3" sc="1" dl="0">
+     <f x="-5.05" y="21.1" cocos2d_x="-5.05" cocos2d_y="21.1" kX="0" kY="0" cX="2.01" cY="2.01" pX="0" pY="0" z="8" dI="0" twE="0" dr="5"/>
+     <f x="-5.05" y="21.1" cocos2d_x="-5.05" cocos2d_y="21.1" kX="0" kY="0" cX="3.81" cY="3.81" pX="0" pY="0" z="8" dI="0" dr="6">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+    <b name="skill_show_tv_quan_2" sc="1" dl="0">
+     <f x="-5.05" y="21.1" cocos2d_x="-5.05" cocos2d_y="21.1" kX="0" kY="0" cX="2.77" cY="2.77" pX="0" pY="0" z="9" dI="0" dr="2"/>
+     <f dr="9" dI="-1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="skill_show_door" width="512" height="1024">
+  <SubTexture name="skill_show_tv_2" width="87" height="88" cocos2d_pX="43.5" cocos2d_pY="44" x="132" y="143"/>
+  <SubTexture name="skill_show_door_9" width="87" height="88" cocos2d_pX="43.5" cocos2d_pY="44" x="132" y="233"/>
+  <SubTexture name="skill_show_door_8" width="86" height="86" cocos2d_pX="43" cocos2d_pY="43" x="132" y="323"/>
+  <SubTexture name="skill_show_door_1" width="29" height="26" cocos2d_pX="13.15" cocos2d_pY="12.3" x="322" y="363"/>
+  <SubTexture name="skill_show_door_6" width="130" height="56" cocos2d_pX="65" cocos2d_pY="27.6" x="322" y="444"/>
+  <SubTexture name="skill_show_door_15" width="130" height="68" cocos2d_pX="65" cocos2d_pY="33.8" x="0" y="428"/>
+  <SubTexture name="skill_show_door_5" width="130" height="84" cocos2d_pX="65" cocos2d_pY="41.85" x="353" y="358"/>
+  <SubTexture name="skill_show_door_14" width="130" height="115" cocos2d_pX="65" cocos2d_pY="57.05" x="0" y="311"/>
+  <SubTexture name="skill_show_door_4" width="130" height="139" cocos2d_pX="65" cocos2d_pY="69.35" x="221" y="222"/>
+  <SubTexture name="skill_show_door_16" width="130" height="149" cocos2d_pX="65" cocos2d_pY="74" x="354" y="207"/>
+  <SubTexture name="skill_show_door_13" width="130" height="166" cocos2d_pX="65" cocos2d_pY="83" x="0" y="143"/>
+  <SubTexture name="skill_show_door_3" width="130" height="205" cocos2d_pX="65" cocos2d_pY="102.5" x="362" y="0"/>
+  <SubTexture name="skill_show_door_11" width="6" height="6" cocos2d_pX="2.75" cocos2d_pY="2.75" x="494" y="0"/>
+  <SubTexture name="skill_show_door_10" width="130" height="205" cocos2d_pX="65" cocos2d_pY="102.5" x="222" y="15"/>
+  <SubTexture name="skill_show_tv_11" width="110" height="63" cocos2d_pX="54.8" cocos2d_pY="31.4" x="132" y="465"/>
+  <SubTexture name="skill_show_tv_12" width="220" height="126" cocos2d_pX="109.6" cocos2d_pY="62.8" x="0" y="15"/>
+  <SubTexture name="skill_show_tv_13" width="100" height="100" cocos2d_pX="50" cocos2d_pY="50" x="220" y="363"/>
+  <SubTexture name="skill_show_tv_14" width="360" height="13" cocos2d_pX="180" cocos2d_pY="6.5" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

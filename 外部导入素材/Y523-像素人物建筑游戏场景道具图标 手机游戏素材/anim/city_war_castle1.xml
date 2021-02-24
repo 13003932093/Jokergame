@@ -1,0 +1,102 @@
+<skeleton name="city_war_castle1" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="city_war_castle1_3">
+      <b name="city_war_castle_3_2" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="city_war_castle1__5" pX="78" pY="73"/>
+        <d name="city_war_castle1__6" pX="78" pY="73"/>
+        <d name="city_war_castle1__7" pX="78" pY="73"/>
+      </b>
+    </armature>
+    <armature name="city_war_castle1_2">
+      <b name="city_war_castle_2_2" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="city_war_castle1__8" pX="98" pY="93"/>
+        <d name="city_war_castle1__9" pX="98" pY="93"/>
+        <d name="city_war_castle1__10" pX="98" pY="93"/>
+      </b>
+    </armature>
+    <armature name="city_war_castle1_1">
+      <b name="city_war_castle_1_2" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="city_war_castle1__3" pX="113" pY="108"/>
+        <d name="city_war_castle1__2" pX="113" pY="108"/>
+        <d name="city_war_castle1__4" pX="113" pY="108"/>
+      </b>
+    </armature>
+    <armature name="city_war_castle1">
+      <b name="city_war_castle1" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="city_war_castle1__11" pX="128" pY="123"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="city_war_castle1_3">
+      <mov name="idle" dr="9" to="0" drTW="9" lp="0" twE="NaN">
+        <b name="city_war_castle_3_2" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="9"/>
+        </b>
+      </mov>
+      <mov name="damage" dr="10" to="0" drTW="10" lp="0" twE="NaN">
+        <b name="city_war_castle_3_2" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="10"/>
+        </b>
+      </mov>
+      <mov name="dead" dr="11" to="0" drTW="11" lp="0" twE="NaN">
+        <b name="city_war_castle_3_2" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="11"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="city_war_castle1_2">
+      <mov name="idle" dr="9" to="0" drTW="9" lp="0" twE="NaN">
+        <b name="city_war_castle_2_2" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="9"/>
+        </b>
+      </mov>
+      <mov name="damage" dr="10" to="0" drTW="10" lp="0" twE="NaN">
+        <b name="city_war_castle_2_2" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="10"/>
+        </b>
+      </mov>
+      <mov name="dead" dr="11" to="0" drTW="11" lp="0" twE="NaN">
+        <b name="city_war_castle_2_2" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="11"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="city_war_castle1_1">
+      <mov name="idle" dr="9" to="0" drTW="9" lp="0" twE="NaN">
+        <b name="city_war_castle_1_2" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="9"/>
+        </b>
+      </mov>
+      <mov name="damage" dr="10" to="0" drTW="10" lp="0" twE="NaN">
+        <b name="city_war_castle_1_2" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="10"/>
+        </b>
+      </mov>
+      <mov name="dead" dr="11" to="0" drTW="11" lp="0" twE="NaN">
+        <b name="city_war_castle_1_2" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="11"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="city_war_castle1">
+      <mov name="idle" dr="10" to="0" drTW="10" lp="0" twE="NaN">
+        <b name="city_war_castle1" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="10"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="city_war_castle1" width="1024" height="1024">
+    <SubTexture name="city_war_castle1__11" width="256" height="246" cocos2d_pX="128" cocos2d_pY="123" x="0" y="0"/>
+    <SubTexture name="city_war_castle1__4" width="226" height="216" cocos2d_pX="113" cocos2d_pY="108" x="714" y="0"/>
+    <SubTexture name="city_war_castle1__2" width="226" height="216" cocos2d_pX="113" cocos2d_pY="108" x="258" y="0"/>
+    <SubTexture name="city_war_castle1__3" width="226" height="216" cocos2d_pX="113" cocos2d_pY="108" x="486" y="0"/>
+    <SubTexture name="city_war_castle1__10" width="196" height="186" cocos2d_pX="98" cocos2d_pY="93" x="654" y="218"/>
+    <SubTexture name="city_war_castle1__9" width="196" height="186" cocos2d_pX="98" cocos2d_pY="93" x="258" y="218"/>
+    <SubTexture name="city_war_castle1__8" width="196" height="186" cocos2d_pX="98" cocos2d_pY="93" x="456" y="218"/>
+    <SubTexture name="city_war_castle1__7" width="156" height="146" cocos2d_pX="78" cocos2d_pY="73" x="852" y="218"/>
+    <SubTexture name="city_war_castle1__6" width="156" height="146" cocos2d_pX="78" cocos2d_pY="73" x="852" y="366"/>
+    <SubTexture name="city_war_castle1__5" width="156" height="146" cocos2d_pX="78" cocos2d_pY="73" x="0" y="248"/>
+  </TextureAtlas>
+</skeleton>

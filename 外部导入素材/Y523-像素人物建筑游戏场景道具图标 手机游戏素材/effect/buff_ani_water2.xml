@@ -1,0 +1,123 @@
+<skeleton name="buff_ani_water2" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="buff_ani_water2">
+      <b name="buff_ani_water2_8" x="-3.9" y="-0.1" kX="0" kY="180" cX="1.35" cY="1.35" pX="0" pY="0" z="0">
+        <d name="buff_ani_water2_1" pX="3.1" pY="2.6"/>
+      </b>
+      <b name="buff_ani_water2_7" x="-18.1" y="-0.1" kX="0" kY="180" cX="1.09" cY="1.09" pX="0" pY="0" z="1">
+        <d name="buff_ani_water2_1" pX="3.1" pY="2.6"/>
+      </b>
+      <b name="buff_ani_water2_6" x="5.5" y="3.2" kX="-1.48" kY="178.52" cX="0.63" cY="0.63" pX="0" pY="0" z="2">
+        <d name="buff_ani_water2_5" pX="6.4" pY="0.6"/>
+      </b>
+      <b name="buff_ani_water2_5" x="7.55" y="-0.05" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="3">
+        <d name="buff_ani_water2_4" pX="2.1" pY="3.35"/>
+      </b>
+      <b name="buff_ani_water2_4" x="-13.55" y="-3.3" kX="0" kY="180" cX="0.64" cY="1" pX="0" pY="0" z="4">
+        <d name="buff_ani_water2_3" pX="3" pY="0.15"/>
+      </b>
+      <b name="buff_ani_water2_3" x="-15.05" y="3.15" kX="0" kY="180" cX="0.64" cY="1" pX="0" pY="0" z="3">
+        <d name="buff_ani_water2_3" pX="3" pY="0.15"/>
+      </b>
+      <b name="buff_ani_water2_2" x="-6.25" y="-3.15" kX="180" kY="178.48" cX="0.56" cY="0.96" pX="0" pY="0" z="4">
+        <d name="buff_ani_water2_2" pX="7" pY="0.45"/>
+      </b>
+      <b name="buff_ani_water2_1" x="-0.65" y="2.9" kX="0" kY="180" cX="0.89" cY="1.2" pX="0" pY="0" z="6">
+        <d name="buff_ani_water2_2" pX="7" pY="0.45"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="buff_ani_water2">
+      <mov name="effect" dr="30" to="0" drTW="30" lp="1" twE="NaN">
+        <b name="buff_ani_water2_8" sc="1" dl="0">
+          <f x="-3.9" y="-0.1" cocos2d_x="-3.9" cocos2d_y="-0.1" kX="0" kY="180" cX="1.35" cY="1.35" pX="0" pY="0" z="0" dI="0" twE="0" dr="15"/>
+          <f x="-18.1" y="-0.1" cocos2d_x="-18.1" cocos2d_y="-0.1" kX="0" kY="180" cX="1.09" cY="1.09" pX="0" pY="0" z="0" dI="0" twE="0" dr="14"/>
+          <f x="-32.3" y="-0.1" cocos2d_x="-32.3" cocos2d_y="-0.1" kX="0" kY="180" cX="0.83" cY="0.83" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="buff_ani_water2_7" sc="1" dl="0">
+          <f x="-18.1" y="-0.1" cocos2d_x="-18.1" cocos2d_y="-0.1" kX="0" kY="180" cX="1.09" cY="1.09" pX="0" pY="0" z="1" dI="0" twE="0" dr="14"/>
+          <f x="-32.3" y="-0.1" cocos2d_x="-32.3" cocos2d_y="-0.1" kX="0" kY="180" cX="0.83" cY="0.83" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-3.9" y="-0.1" cocos2d_x="-3.9" cocos2d_y="-0.1" kX="0" kY="180" cX="1.35" cY="1.35" pX="0" pY="0" z="1" dI="0" twE="0" dr="14"/>
+          <f x="-17.15" y="-0.1" cocos2d_x="-17.15" cocos2d_y="-0.1" kX="0" kY="180" cX="1.11" cY="1.11" pX="0" pY="0" z="1" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="buff_ani_water2_6" sc="1" dl="0">
+          <f x="5.5" y="3.2" cocos2d_x="5.5" cocos2d_y="3.2" kX="-1.48" kY="178.52" cX="0.63" cY="0.63" pX="0" pY="0" z="2" dI="0" twE="0" dr="6"/>
+          <f x="1.95" y="4.2" cocos2d_x="1.95" cocos2d_y="4.2" kX="23.82" kY="179.48" cX="1.11" cY="1.28" pX="0" pY="0" z="2" dI="0" twE="0" dr="6"/>
+          <f x="-1.55" y="5.15" cocos2d_x="-1.55" cocos2d_y="5.15" kX="49.27" kY="-179.72" cX="1.59" cY="1.93" pX="0" pY="0" z="2" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="40" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="2" dI="-1"/>
+          <f x="5.5" y="3.2" cocos2d_x="5.5" cocos2d_y="3.2" kX="-1.48" kY="178.52" cX="0.63" cY="0.63" pX="0" pY="0" z="2" dI="0" twE="0" dr="6"/>
+          <f x="1.95" y="4.2" cocos2d_x="1.95" cocos2d_y="4.2" kX="23.82" kY="179.48" cX="1.11" cY="1.28" pX="0" pY="0" z="2" dI="0" twE="0" dr="6"/>
+          <f x="-1.55" y="5.15" cocos2d_x="-1.55" cocos2d_y="5.15" kX="49.27" kY="-179.72" cX="1.59" cY="1.93" pX="0" pY="0" z="2" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="40" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="2" dI="-1"/>
+        </b>
+        <b name="buff_ani_water2_5" sc="1" dl="0">
+          <f x="7.55" y="-0.05" cocos2d_x="7.55" cocos2d_y="-0.05" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="7"/>
+          <f x="7.65" y="0" cocos2d_x="7.65" cocos2d_y="0" kX="-1.62" kY="-179.48" cX="1.26" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="7"/>
+          <f x="7.55" y="-0.05" cocos2d_x="7.55" cocos2d_y="-0.05" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+          <f x="7.55" y="-0.05" cocos2d_x="7.55" cocos2d_y="-0.05" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="7"/>
+          <f x="7.65" y="0" cocos2d_x="7.65" cocos2d_y="0" kX="-1.62" kY="-179.48" cX="1.26" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="7"/>
+          <f x="7.55" y="-0.05" cocos2d_x="7.55" cocos2d_y="-0.05" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+        </b>
+        <b name="buff_ani_water2_4" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="-13.55" y="-3.3" cocos2d_x="-13.55" cocos2d_y="-3.3" kX="0" kY="180" cX="0.64" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="7"/>
+          <f x="-16" y="-3.3" cocos2d_x="-16" cocos2d_y="-3.3" kX="0" kY="180" cX="1.42" cY="1" pX="0" pY="0" z="4" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="39" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="7" dI="-1"/>
+          <f x="-13.55" y="-3.3" cocos2d_x="-13.55" cocos2d_y="-3.3" kX="0" kY="180" cX="0.64" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="7"/>
+          <f x="-16" y="-3.3" cocos2d_x="-16" cocos2d_y="-3.3" kX="0" kY="180" cX="1.42" cY="1" pX="0" pY="0" z="4" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="39" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="3" dI="-1"/>
+        </b>
+        <b name="buff_ani_water2_3" sc="1" dl="0">
+          <f dr="7" dI="-1"/>
+          <f x="-15.05" y="3.15" cocos2d_x="-15.05" cocos2d_y="3.15" kX="0" kY="180" cX="0.64" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="7"/>
+          <f x="-17.5" y="3.15" cocos2d_x="-17.5" cocos2d_y="3.15" kX="0" kY="180" cX="1.42" cY="1" pX="0" pY="0" z="3" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="39" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="7" dI="-1"/>
+          <f x="-15.05" y="3.15" cocos2d_x="-15.05" cocos2d_y="3.15" kX="0" kY="180" cX="0.64" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="7"/>
+          <f x="-17.5" y="3.15" cocos2d_x="-17.5" cocos2d_y="3.15" kX="0" kY="180" cX="1.42" cY="1" pX="0" pY="0" z="3" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="39" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="buff_ani_water2_2" sc="1" dl="0">
+          <f x="-6.25" y="-3.15" cocos2d_x="-6.25" cocos2d_y="-3.15" kX="180" kY="178.48" cX="0.56" cY="0.96" pX="0" pY="0" z="4" dI="0" twE="0" dr="4"/>
+          <f x="-8.6" y="-3.1" cocos2d_x="-8.6" cocos2d_y="-3.1" kX="180" kY="178.41" cX="0.9" cY="0.96" pX="0" pY="0" z="6" dI="0" twE="0" dr="7"/>
+          <f x="-4.5" y="-3.25" cocos2d_x="-4.5" cocos2d_y="-3.25" kX="180" kY="178.41" cX="0.31" cY="0.96" pX="0" pY="0" z="6" dI="0" dr="1"/>
+          <f x="-4.5" y="-3.25" cocos2d_x="-4.5" cocos2d_y="-3.25" kX="180" kY="178.41" cX="0.31" cY="0.96" pX="0" pY="0" z="4" dI="0" twE="0" dr="7"/>
+          <f x="-8.6" y="-3.1" cocos2d_x="-8.6" cocos2d_y="-3.1" kX="180" kY="178.41" cX="0.9" cY="0.96" pX="0" pY="0" z="6" dI="0" twE="0" dr="7"/>
+          <f x="-4.5" y="-3.25" cocos2d_x="-4.5" cocos2d_y="-3.25" kX="180" kY="178.41" cX="0.31" cY="0.96" pX="0" pY="0" z="6" dI="0" dr="1"/>
+          <f x="-4.5" y="-3.25" cocos2d_x="-4.5" cocos2d_y="-3.25" kX="180" kY="178.41" cX="0.31" cY="0.96" pX="0" pY="0" z="4" dI="0" twE="0" dr="2"/>
+          <f x="-5.65" y="-3.15" cocos2d_x="-5.65" cocos2d_y="-3.15" kX="180" kY="178.48" cX="0.48" cY="0.96" pX="0" pY="0" z="4" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="buff_ani_water2_1" sc="1" dl="0">
+          <f x="-0.65" y="2.9" cocos2d_x="-0.65" cocos2d_y="2.9" kX="0" kY="180" cX="0.89" cY="1.2" pX="0" pY="0" z="6" dI="0" twE="0" dr="7"/>
+          <f x="-5.45" y="2.9" cocos2d_x="-5.45" cocos2d_y="2.9" kX="0" kY="180" cX="1.58" cY="1.2" pX="0" pY="0" z="5" dI="0" twE="0" dr="7"/>
+          <f x="-0.65" y="2.9" cocos2d_x="-0.65" cocos2d_y="2.9" kX="0" kY="180" cX="0.89" cY="1.2" pX="0" pY="0" z="5" dI="0" dr="1"/>
+          <f x="-0.65" y="2.9" cocos2d_x="-0.65" cocos2d_y="2.9" kX="0" kY="180" cX="0.89" cY="1.2" pX="0" pY="0" z="6" dI="0" twE="0" dr="7"/>
+          <f x="-5.45" y="2.9" cocos2d_x="-5.45" cocos2d_y="2.9" kX="0" kY="180" cX="1.58" cY="1.2" pX="0" pY="0" z="5" dI="0" twE="0" dr="7"/>
+          <f x="-0.65" y="2.9" cocos2d_x="-0.65" cocos2d_y="2.9" kX="0" kY="180" cX="0.89" cY="1.2" pX="0" pY="0" z="5" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="buff_ani_water2" width="16" height="32">
+    <SubTexture name="buff_ani_water2_2" width="14" height="1" cocos2d_pX="7" cocos2d_pY="0.45" x="0" y="0"/>
+    <SubTexture name="buff_ani_water2_3" width="7" height="1" cocos2d_pX="3" cocos2d_pY="0.15" x="0" y="15"/>
+    <SubTexture name="buff_ani_water2_4" width="5" height="7" cocos2d_pX="2.1" cocos2d_pY="3.35" x="9" y="7"/>
+    <SubTexture name="buff_ani_water2_5" width="13" height="2" cocos2d_pX="6.4" cocos2d_pY="0.6" x="0" y="3"/>
+    <SubTexture name="buff_ani_water2_1" width="7" height="6" cocos2d_pX="3.1" cocos2d_pY="2.6" x="0" y="7"/>
+  </TextureAtlas>
+</skeleton>

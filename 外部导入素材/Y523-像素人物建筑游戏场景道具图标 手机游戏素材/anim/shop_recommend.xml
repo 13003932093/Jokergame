@@ -1,0 +1,183 @@
+<skeleton name="shop_recommend" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="shop_recommend_4">
+      <b name="图层 4" x="0.1" y="0.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="shop_recommend_55" pX="35" pY="36"/>
+      </b>
+      <b name="图层 5" x="-16.2" y="-16.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="1">
+        <d name="shop_recommend_58" pX="20.8" pY="19.05"/>
+        <d name="shop_recommend_59" pX="23.55" pY="20.8"/>
+        <d name="shop_recommend_60" pX="25.05" pY="24.9"/>
+        <d name="shop_recommend_61" pX="26.25" pY="28"/>
+        <d name="shop_recommend_62" pX="26" pY="27.75"/>
+        <d name="shop_recommend_63" pX="25.05" pY="23.9"/>
+        <d name="shop_recommend_64" pX="20" pY="21.15"/>
+        <d name="shop_recommend_65" pX="14.35" pY="15.35"/>
+      </b>
+    </armature>
+    <armature name="shop_recommend_3">
+      <b name="图层 4" x="-0.1" y="0.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="shop_recommend_32" pX="35" pY="36"/>
+      </b>
+      <b name="图层 5" x="-19.9" y="-16.55" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="1">
+        <d name="shop_recommend_35" pX="16" pY="18.4"/>
+        <d name="shop_recommend_36" pX="19.2" pY="22.75"/>
+        <d name="shop_recommend_37" pX="25.7" pY="26.8"/>
+        <d name="shop_recommend_38" pX="27.1" pY="28.15"/>
+        <d name="shop_recommend_39" pX="27.85" pY="27.6"/>
+        <d name="shop_recommend_40" pX="26.25" pY="26.5"/>
+        <d name="shop_recommend_41" pX="20.8" pY="24.6"/>
+        <d name="shop_recommend_42" pX="16.75" pY="19.45"/>
+      </b>
+    </armature>
+    <armature name="shop_recommend_2">
+      <b name="图层 4" x="0.5" y="0.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="shop_recommend_21" pX="35" pY="36"/>
+      </b>
+      <b name="图层 5" x="-16.2" y="-16.55" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="1">
+        <d name="shop_recommend_24" pX="22.35" pY="21.3"/>
+        <d name="shop_recommend_25" pX="24" pY="20.65"/>
+        <d name="shop_recommend_26" pX="27.4" pY="26.75"/>
+        <d name="shop_recommend_27" pX="29.75" pY="28.45"/>
+        <d name="shop_recommend_28" pX="28.65" pY="29.5"/>
+        <d name="shop_recommend_29" pX="27.6" pY="28.15"/>
+        <d name="shop_recommend_30" pX="24.6" pY="21.9"/>
+        <d name="shop_recommend_31" pX="18.4" pY="16.5"/>
+      </b>
+    </armature>
+    <armature name="shop_recommend_1">
+      <b name="图层 2" x="0" y="0.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="shop_recommend_43" pX="35" pY="36"/>
+      </b>
+      <b name="图层 6" x="-19.45" y="-22.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="shop_recommend_46" pX="21.1" pY="16.25"/>
+        <d name="shop_recommend_47" pX="24.1" pY="17.05"/>
+        <d name="shop_recommend_48" pX="27.05" pY="21.95"/>
+        <d name="shop_recommend_49" pX="28.45" pY="25.75"/>
+        <d name="shop_recommend_50" pX="29.5" pY="26.55"/>
+        <d name="shop_recommend_51" pX="30" pY="26.25"/>
+        <d name="shop_recommend_52" pX="25.7" pY="22.7"/>
+        <d name="shop_recommend_53" pX="20.3" pY="17.05"/>
+        <d name="shop_recommend_54" pX="13.8" pY="11.6"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="shop_recommend_4">
+      <mov name="run" dr="58" to="0" drTW="58" lp="0" twE="NaN">
+        <b name="图层 4" sc="1" dl="0">
+          <f x="0.1" y="0.15" cocos2d_x="0.1" cocos2d_y="0.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="58"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f dr="2" dI="-1"/>
+          <f x="-16.2" y="-16.65" cocos2d_x="-16.2" cocos2d_y="-16.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="1" dI="0" dr="2"/>
+          <f x="-13.1" y="-14.1" cocos2d_x="-13.05" cocos2d_y="-14.1" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="1" dI="1" dr="2"/>
+          <f x="-8.8" y="-9.25" cocos2d_x="-8.8" cocos2d_y="-9.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="1" dI="2" dr="2"/>
+          <f x="-2.2" y="-3.8" cocos2d_x="-2.2" cocos2d_y="-3.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="3" dr="2"/>
+          <f x="2.25" y="0.65" cocos2d_x="2.25" cocos2d_y="0.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="4" dr="2"/>
+          <f x="6.7" y="8.05" cocos2d_x="6.7" cocos2d_y="8.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="5" dr="2"/>
+          <f x="13.35" y="12.7" cocos2d_x="13.35" cocos2d_y="12.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="6" dr="2"/>
+          <f x="18.55" y="17.75" cocos2d_x="18.55" cocos2d_y="17.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="7" dr="2"/>
+          <f dr="40" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="shop_recommend_3">
+      <mov name="run" dr="33" to="0" drTW="33" lp="0" twE="NaN">
+        <b name="图层 4" sc="1" dl="0">
+          <f x="-0.1" y="0.25" cocos2d_x="-0.1" cocos2d_y="0.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="33"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f dr="2" dI="-1"/>
+          <f x="-19.9" y="-16.55" cocos2d_x="-19.85" cocos2d_y="-16.55" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-17.7" y="-15.5" cocos2d_x="-17.7" cocos2d_y="-15.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="1" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-10.65" y="-9.8" cocos2d_x="-10.65" cocos2d_y="-9.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="1" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-6.1" y="-6.25" cocos2d_x="-6.05" cocos2d_y="-6.25" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="1" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="1.2" y="0.25" cocos2d_x="1.2" cocos2d_y="0.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="6.1" y="4.55" cocos2d_x="6.1" cocos2d_y="4.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="10.4" y="9.7" cocos2d_x="10.4" cocos2d_y="9.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="6" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="16.65" y="15.9" cocos2d_x="16.65" cocos2d_y="15.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="7" twE="NaN" tweenFrame="0" dr="2"/>
+          <f dr="15" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="shop_recommend_2">
+      <mov name="run" dr="33" to="0" drTW="33" lp="0" twE="NaN">
+        <b name="图层 4" sc="1" dl="0">
+          <f x="0.5" y="0.2" cocos2d_x="0.5" cocos2d_y="0.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="33"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f dr="2" dI="-1"/>
+          <f x="-16.2" y="-16.55" cocos2d_x="-16.15" cocos2d_y="-16.55" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-13.8" y="-15.9" cocos2d_x="-13.8" cocos2d_y="-15.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="1" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-5.7" y="-8.45" cocos2d_x="-5.7" cocos2d_y="-8.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="1" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-2.65" y="-4.05" cocos2d_x="-2.65" cocos2d_y="-4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="1" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0.95" y="-0.25" cocos2d_x="0.95" cocos2d_y="-0.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="5.3" y="5.45" cocos2d_x="5.3" cocos2d_y="5.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="9.35" y="13.8" cocos2d_x="9.35" cocos2d_y="13.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="6" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="15.05" y="17.6" cocos2d_x="15.05" cocos2d_y="17.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="7" twE="NaN" tweenFrame="0" dr="2"/>
+          <f dr="15" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="shop_recommend_1">
+      <mov name="run" dr="45" to="0" drTW="45" lp="0" twE="NaN">
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0" y="0.5" cocos2d_x="0" cocos2d_y="0.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="45"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f dr="2" dI="-1"/>
+          <f x="-19.45" y="-22.1" cocos2d_x="-19.45" cocos2d_y="-22.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-10.55" y="-17.5" cocos2d_x="-10.5" cocos2d_y="-17.5" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="0" z="1" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-7.55" y="-11" cocos2d_x="-7.55" cocos2d_y="-10.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="1" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-4.6" y="-6.15" cocos2d_x="-4.55" cocos2d_y="-6.1" kX="0" kY="0" cX="1" cY="1" pX="-0.05" pY="-0.05" z="1" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-0.25" y="-2.1" cocos2d_x="-0.25" cocos2d_y="-2.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="1" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="4.05" y="5.25" cocos2d_x="4.05" cocos2d_y="5.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="8.4" y="12" cocos2d_x="8.4" cocos2d_y="12" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="6" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="11.65" y="16.6" cocos2d_x="11.65" cocos2d_y="16.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="7" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="18.15" y="21.45" cocos2d_x="18.15" cocos2d_y="21.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="8" twE="NaN" tweenFrame="0" dr="2"/>
+          <f dr="25" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="shop_recommend" width="512" height="256">
+    <SubTexture name="shop_recommend_54" width="28" height="24" cocos2d_pX="13.8" cocos2d_pY="11.6" x="167" y="155"/>
+    <SubTexture name="shop_recommend_53" width="41" height="35" cocos2d_pX="20.3" cocos2d_pY="17.05" x="143" y="181"/>
+    <SubTexture name="shop_recommend_52" width="52" height="46" cocos2d_pX="25.7" cocos2d_pY="22.7" x="204" y="132"/>
+    <SubTexture name="shop_recommend_51" width="61" height="53" cocos2d_pX="30" cocos2d_pY="26.25" x="410" y="0"/>
+    <SubTexture name="shop_recommend_50" width="59" height="54" cocos2d_pX="29.5" cocos2d_pY="26.55" x="410" y="55"/>
+    <SubTexture name="shop_recommend_49" width="57" height="52" cocos2d_pX="28.45" cocos2d_pY="25.75" x="57" y="74"/>
+    <SubTexture name="shop_recommend_48" width="55" height="44" cocos2d_pX="27.05" cocos2d_pY="21.95" x="57" y="128"/>
+    <SubTexture name="shop_recommend_47" width="49" height="35" cocos2d_pX="24.1" cocos2d_pY="17.05" x="308" y="175"/>
+    <SubTexture name="shop_recommend_46" width="43" height="33" cocos2d_pX="21.1" cocos2d_pY="16.25" x="197" y="180"/>
+    <SubTexture name="shop_recommend_43" width="70" height="72" cocos2d_pX="35" cocos2d_pY="36" x="72" y="0"/>
+    <SubTexture name="shop_recommend_31" width="37" height="34" cocos2d_pX="18.4" cocos2d_pY="16.5" x="473" y="41"/>
+    <SubTexture name="shop_recommend_30" width="50" height="44" cocos2d_pX="24.6" cocos2d_pY="21.9" x="0" y="133"/>
+    <SubTexture name="shop_recommend_29" width="56" height="57" cocos2d_pX="27.6" cocos2d_pY="28.15" x="288" y="59"/>
+    <SubTexture name="shop_recommend_28" width="58" height="59" cocos2d_pX="28.65" cocos2d_pY="29.5" x="350" y="0"/>
+    <SubTexture name="shop_recommend_27" width="60" height="57" cocos2d_pX="29.75" cocos2d_pY="28.45" x="288" y="0"/>
+    <SubTexture name="shop_recommend_26" width="55" height="54" cocos2d_pX="27.4" cocos2d_pY="26.75" x="116" y="74"/>
+    <SubTexture name="shop_recommend_25" width="48" height="42" cocos2d_pX="24" cocos2d_pY="20.65" x="378" y="169"/>
+    <SubTexture name="shop_recommend_24" width="45" height="43" cocos2d_pX="22.35" cocos2d_pY="21.3" x="52" y="174"/>
+    <SubTexture name="shop_recommend_21" width="70" height="72" cocos2d_pX="35" cocos2d_pY="36" x="0" y="0"/>
+    <SubTexture name="shop_recommend_42" width="34" height="39" cocos2d_pX="16.75" cocos2d_pY="19.45" x="473" y="0"/>
+    <SubTexture name="shop_recommend_41" width="42" height="50" cocos2d_pX="20.8" cocos2d_pY="24.6" x="459" y="168"/>
+    <SubTexture name="shop_recommend_40" width="53" height="53" cocos2d_pX="26.25" cocos2d_pY="26.5" x="269" y="118"/>
+    <SubTexture name="shop_recommend_39" width="56" height="56" cocos2d_pX="27.85" cocos2d_pY="27.6" x="346" y="61"/>
+    <SubTexture name="shop_recommend_38" width="55" height="57" cocos2d_pX="27.1" cocos2d_pY="28.15" x="0" y="74"/>
+    <SubTexture name="shop_recommend_37" width="52" height="54" cocos2d_pX="25.7" cocos2d_pY="26.8" x="324" y="119"/>
+    <SubTexture name="shop_recommend_36" width="39" height="46" cocos2d_pX="19.2" cocos2d_pY="22.75" x="173" y="74"/>
+    <SubTexture name="shop_recommend_35" width="32" height="37" cocos2d_pX="16" cocos2d_pY="18.4" x="471" y="77"/>
+    <SubTexture name="shop_recommend_32" width="70" height="72" cocos2d_pX="35" cocos2d_pY="36" x="216" y="0"/>
+    <SubTexture name="shop_recommend_65" width="29" height="31" cocos2d_pX="14.35" cocos2d_pY="15.35" x="173" y="122"/>
+    <SubTexture name="shop_recommend_64" width="40" height="43" cocos2d_pX="20" cocos2d_pY="21.15" x="0" y="179"/>
+    <SubTexture name="shop_recommend_63" width="51" height="48" cocos2d_pX="25.05" cocos2d_pY="23.9" x="114" y="130"/>
+    <SubTexture name="shop_recommend_62" width="53" height="56" cocos2d_pX="26" cocos2d_pY="27.75" x="404" y="111"/>
+    <SubTexture name="shop_recommend_61" width="53" height="56" cocos2d_pX="26.25" cocos2d_pY="28" x="214" y="74"/>
+    <SubTexture name="shop_recommend_60" width="51" height="50" cocos2d_pX="25.05" cocos2d_pY="24.9" x="459" y="116"/>
+    <SubTexture name="shop_recommend_59" width="48" height="42" cocos2d_pX="23.55" cocos2d_pY="20.8" x="258" y="173"/>
+    <SubTexture name="shop_recommend_58" width="42" height="39" cocos2d_pX="20.8" cocos2d_pY="19.05" x="99" y="180"/>
+    <SubTexture name="shop_recommend_55" width="70" height="72" cocos2d_pX="35" cocos2d_pY="36" x="144" y="0"/>
+  </TextureAtlas>
+</skeleton>

@@ -1,0 +1,403 @@
+<skeleton name="camp_map_city" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="camp_map_effect_22">
+      <b name="camp_map_effect_22_13" x="1" y="0" kX="0" kY="0" cX="1" cY="1" pX="72.5" pY="141" z="0">
+        <d name="camp_map_effect_77" pX="0" pY="0"/>
+      </b>
+      <b name="camp_map_effect_22_12" x="8.95" y="24.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="camp_map_effect_23" pX="100" pY="232.5"/>
+      </b>
+      <b name="camp_map_effect_22_11" x="0" y="-24.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="camp_map_effect_30" pX="92.5" pY="104"/>
+      </b>
+      <b name="camp_map_effect_22_10" x="36" y="-56.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3">
+        <d name="camp_map_effect_20" pX="22" pY="35.5"/>
+      </b>
+      <b name="camp_map_effect_22_9" x="-13.5" y="-44" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4">
+        <d name="camp_map_effect_19" pX="13.5" pY="54.5"/>
+      </b>
+      <b name="camp_map_effect_22_8" x="-71.5" y="-80.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5">
+        <d name="camp_map_effect_18" pX="19.5" pY="45"/>
+      </b>
+      <b name="camp_map_effect_22_7" x="26.5" y="-99" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6">
+        <d name="camp_map_effect_17" pX="18" pY="49.5"/>
+      </b>
+      <b name="camp_map_effect_22_6" x="60" y="-67.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6">
+        <d name="camp_map_effect_16" pX="37" pY="47"/>
+      </b>
+      <b name="camp_map_effect_22_5" x="-34" y="-83" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7">
+        <d name="camp_map_effect_15" pX="10.5" pY="46.5"/>
+      </b>
+      <b name="camp_map_effect_22_4" x="-30" y="-122.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8">
+        <d name="camp_map_effect_14" pX="17.5" pY="41"/>
+      </b>
+      <b name="camp_map_effect_22_3" x="11" y="-76" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="10">
+        <d name="camp_map_effect_13" pX="16.5" pY="43"/>
+      </b>
+      <b name="camp_map_effect_22_2" x="-3.5" y="-137" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="11">
+        <d name="camp_map_effect_12" pX="9" pY="54"/>
+      </b>
+      <b name="camp_map_effect_22_1" x="-46" y="-53.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="12">
+        <d name="camp_map_effect_11" pX="19" pY="47"/>
+      </b>
+    </armature>
+    <armature name="camp_map_city_yellow">
+      <b name="camp_map_city_yellow_2" x="0" y="-46.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="camp_map_city_6" pX="5.6" pY="5.6"/>
+      </b>
+      <b name="camp_map_city_yellow_1" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="camp_map_city_11" pX="56" pY="60.5"/>
+      </b>
+    </armature>
+    <armature name="camp_map_city_red">
+      <b name="camp_map_city_red_2" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="camp_map_city_9" pX="39" pY="32"/>
+      </b>
+      <b name="camp_map_city_red_1" x="-0.15" y="-23.65" kX="0" kY="0" cX="1.96" cY="1.96" pX="0" pY="0" z="1">
+        <d name="camp_map_city_3" isArmature="1"/>
+      </b>
+    </armature>
+    <armature name="camp_map_city_blue">
+      <b name="camp_map_city_blue_3" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="56" pY="72.5" z="0">
+        <d name="camp_map_city_13" pX="0" pY="0"/>
+      </b>
+      <b name="camp_map_city_blue_2" x="4.65" y="-48.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="camp_map_city_4" pX="4.55" pY="4.55"/>
+      </b>
+      <b name="camp_map_city_blue_1" x="-5.45" y="-48.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="camp_map_city_4" pX="4.55" pY="4.55"/>
+      </b>
+    </armature>
+    <armature name="camp_map_city_3">
+      <b name="camp_map_city_3_8" x="0.15" y="3.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="camp_map_city_8" isArmature="1"/>
+      </b>
+      <b name="camp_map_city_3_7" x="1.1" y="-2.05" kX="0" kY="0" cX="0.83" cY="0.66" pX="0" pY="0" z="1">
+        <d name="camp_map_city_2" pX="3.35" pY="3.35"/>
+      </b>
+      <b name="camp_map_city_3_6" x="2.7" y="-6.4" kX="0" kY="0" cX="1.08" cY="0.86" pX="0" pY="0" z="2">
+        <d name="camp_map_city_2" pX="3.35" pY="3.35"/>
+      </b>
+      <b name="camp_map_city_3_5" x="3.75" y="-9.6" kX="0" kY="0" cX="1.26" cY="1" pX="0" pY="0" z="3">
+        <d name="camp_map_city_2" pX="3.35" pY="3.35"/>
+      </b>
+      <b name="camp_map_city_3_4" x="4.25" y="-11.3" kX="0" kY="0" cX="1.36" cY="1.08" pX="0" pY="0" z="4">
+        <d name="camp_map_city_2" pX="3.35" pY="3.35"/>
+      </b>
+      <b name="camp_map_city_3_3" x="4.75" y="-12.75" kX="0" kY="0" cX="1.44" cY="1.15" pX="0" pY="0" z="5">
+        <d name="camp_map_city_2" pX="3.35" pY="3.35"/>
+      </b>
+      <b name="camp_map_city_3_2" x="-0.25" y="2.2" kX="0" kY="0" cX="0.58" cY="0.46" pX="0" pY="0" z="5">
+        <d name="camp_map_city_2" pX="3.35" pY="3.35"/>
+      </b>
+      <b name="camp_map_city_3_1" x="-0.25" y="2.2" kX="0" kY="0" cX="0.58" cY="0.46" pX="0" pY="0" z="6">
+        <d name="camp_map_city_2" pX="3.35" pY="3.35"/>
+      </b>
+    </armature>
+    <armature name="camp_map_city_8">
+      <b name="camp_map_city_8_1" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="camp_map_city_7" pX="3.05" pY="0.7"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="camp_map_effect_22">
+      <mov name="effect" dr="32" to="0" drTW="32" lp="1" twE="NaN">
+        <b name="camp_map_effect_22_13" sc="1" dl="0">
+          <f x="1" y="0" cocos2d_x="-71.5" cocos2d_y="-141" kX="0" kY="0" cX="1" cY="1" pX="72.5" pY="141" z="0" dI="0" dr="32"/>
+        </b>
+        <b name="camp_map_effect_22_12" sc="1" dl="0">
+          <f dr="11" dI="-1"/>
+          <f x="8.95" y="24.45" cocos2d_x="8.95" cocos2d_y="24.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="12">
+            <colorTransform a="0" r="0" g="0" b="0" aM="42" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="8.95" y="24.45" cocos2d_x="8.95" cocos2d_y="24.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="9"/>
+        </b>
+        <b name="camp_map_effect_22_11" sc="1" dl="0">
+          <f x="0" y="-24.45" cocos2d_x="0" cocos2d_y="-24.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="32"/>
+        </b>
+        <b name="camp_map_effect_22_10" sc="1" dl="0">
+          <f x="36" y="-56.55" cocos2d_x="36" cocos2d_y="-56.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="15">
+            <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="36" y="-56.55" cocos2d_x="36" cocos2d_y="-56.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="16"/>
+          <f x="36" y="-56.55" cocos2d_x="36" cocos2d_y="-56.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="camp_map_effect_22_9" sc="1" dl="0">
+          <f x="-13.5" y="-44" cocos2d_x="-13.5" cocos2d_y="-44" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="15">
+            <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-13.5" y="-44" cocos2d_x="-13.5" cocos2d_y="-44" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="16"/>
+          <f x="-13.5" y="-44" cocos2d_x="-13.5" cocos2d_y="-44" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="camp_map_effect_22_8" sc="1" dl="0">
+          <f x="-71.5" y="-80.5" cocos2d_x="-71.5" cocos2d_y="-80.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" twE="0" dr="15">
+            <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-71.5" y="-80.5" cocos2d_x="-71.5" cocos2d_y="-80.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" twE="0" dr="16"/>
+          <f x="-71.5" y="-80.5" cocos2d_x="-71.5" cocos2d_y="-80.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="camp_map_effect_22_7" sc="1" dl="0">
+          <f x="26.5" y="-99" cocos2d_x="26.5" cocos2d_y="-99" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" twE="0" dr="15">
+            <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="26.5" y="-99" cocos2d_x="26.5" cocos2d_y="-99" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" twE="0" dr="16"/>
+          <f x="26.5" y="-99" cocos2d_x="26.5" cocos2d_y="-99" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="camp_map_effect_22_6" sc="1" dl="0">
+          <f x="60" y="-67.5" cocos2d_x="60" cocos2d_y="-67.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" twE="0" dr="7">
+            <colorTransform a="0" r="0" g="0" b="0" aM="80" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="60" y="-67.5" cocos2d_x="60" cocos2d_y="-67.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" twE="0" dr="17">
+            <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="60" y="-67.5" cocos2d_x="60" cocos2d_y="-67.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" twE="0" dr="7"/>
+          <f x="60" y="-67.5" cocos2d_x="60" cocos2d_y="-67.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="83" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="camp_map_effect_22_5" sc="1" dl="0">
+          <f x="-34" y="-83" cocos2d_x="-34" cocos2d_y="-83" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" twE="0" dr="7">
+            <colorTransform a="0" r="0" g="0" b="0" aM="80" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-34" y="-83" cocos2d_x="-34" cocos2d_y="-83" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="0" twE="0" dr="17">
+            <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-34" y="-83" cocos2d_x="-34" cocos2d_y="-83" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="0" twE="0" dr="7"/>
+          <f x="-34" y="-83" cocos2d_x="-34" cocos2d_y="-83" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="83" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="camp_map_effect_22_4" sc="1" dl="0">
+          <f x="-30" y="-122.5" cocos2d_x="-30" cocos2d_y="-122.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="0" twE="0" dr="7">
+            <colorTransform a="0" r="0" g="0" b="0" aM="80" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-30" y="-122.5" cocos2d_x="-30" cocos2d_y="-122.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="9" dI="0" twE="0" dr="17">
+            <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-30" y="-122.5" cocos2d_x="-30" cocos2d_y="-122.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="9" dI="0" twE="0" dr="7"/>
+          <f x="-30" y="-122.5" cocos2d_x="-30" cocos2d_y="-122.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="9" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="83" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="camp_map_effect_22_3" sc="1" dl="0">
+          <f x="11" y="-76" cocos2d_x="11" cocos2d_y="-76" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="10" dI="0" twE="0" dr="16"/>
+          <f x="11" y="-76" cocos2d_x="11" cocos2d_y="-76" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="10" dI="0" twE="0" dr="15">
+            <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="11" y="-76" cocos2d_x="11" cocos2d_y="-76" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="10" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="camp_map_effect_22_2" sc="1" dl="0">
+          <f x="-3.5" y="-137" cocos2d_x="-3.5" cocos2d_y="-137" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="11" dI="0" twE="0" dr="16"/>
+          <f x="-3.5" y="-137" cocos2d_x="-3.5" cocos2d_y="-137" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="11" dI="0" twE="0" dr="15">
+            <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-3.5" y="-137" cocos2d_x="-3.5" cocos2d_y="-137" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="11" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="camp_map_effect_22_1" sc="1" dl="0">
+          <f x="-46" y="-53.5" cocos2d_x="-46" cocos2d_y="-53.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="12" dI="0" twE="0" dr="16"/>
+          <f x="-46" y="-53.5" cocos2d_x="-46" cocos2d_y="-53.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="12" dI="0" twE="0" dr="15">
+            <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-46" y="-53.5" cocos2d_x="-46" cocos2d_y="-53.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="12" dI="0" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="camp_map_city_yellow">
+      <mov name="effect" dr="68" to="0" drTW="68" lp="1" twE="NaN">
+        <b name="camp_map_city_yellow_2" sc="1" dl="0">
+          <f x="0" y="-46.7" cocos2d_x="0" cocos2d_y="-46.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="18">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="-46.7" cocos2d_x="0" cocos2d_y="-46.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="17"/>
+          <f x="0" y="-46.7" cocos2d_x="0" cocos2d_y="-46.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="33">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="camp_map_city_yellow_1" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="68"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="camp_map_city_red">
+      <mov name="effect" dr="76" to="0" drTW="76" lp="1" twE="NaN">
+        <b name="camp_map_city_red_2" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="76"/>
+        </b>
+        <b name="camp_map_city_red_1" sc="1" dl="0">
+          <f x="-0.15" y="-23.65" cocos2d_x="-0.15" cocos2d_y="-23.65" kX="0" kY="0" cX="1.96" cY="1.96" pX="0" pY="0" z="1" dI="0" dr="76"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="camp_map_city_blue">
+      <mov name="effect" dr="87" to="0" drTW="87" lp="1" twE="NaN">
+        <b name="camp_map_city_blue_3" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="-56" cocos2d_y="-72.5" kX="0" kY="0" cX="1" cY="1" pX="56" pY="72.5" z="0" dI="0" dr="87"/>
+        </b>
+        <b name="camp_map_city_blue_2" sc="1" dl="0">
+          <f x="4.65" y="-48.2" cocos2d_x="4.65" cocos2d_y="-48.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="27">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="4.65" y="-48.2" cocos2d_x="4.65" cocos2d_y="-48.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="29"/>
+          <f x="4.65" y="-48.2" cocos2d_x="4.65" cocos2d_y="-48.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="30"/>
+          <f x="4.65" y="-48.2" cocos2d_x="4.65" cocos2d_y="-48.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="camp_map_city_blue_1" sc="1" dl="0">
+          <f x="-5.45" y="-48.15" cocos2d_x="-5.45" cocos2d_y="-48.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="27">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.45" y="-48.15" cocos2d_x="-5.45" cocos2d_y="-48.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="29"/>
+          <f x="-5.45" y="-48.15" cocos2d_x="-5.45" cocos2d_y="-48.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="30"/>
+          <f x="-5.45" y="-48.15" cocos2d_x="-5.45" cocos2d_y="-48.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="camp_map_city_8">
+      <mov name="effect" dr="27" to="6" drTW="27" lp="0" twE="NaN">
+        <b name="camp_map_city_8_1" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="27"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="camp_map_city_3">
+      <mov name="effect" dr="44" to="0" drTW="44" lp="1" twE="NaN">
+        <b name="camp_map_city_3_8" sc="1" dl="0">
+          <f x="0.15" y="3.2" cocos2d_x="0.15" cocos2d_y="3.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="12">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.15" y="3.2" cocos2d_x="0.15" cocos2d_y="3.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="9"/>
+          <f x="0.15" y="3.2" cocos2d_x="0.15" cocos2d_y="3.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.15" y="3.2" cocos2d_x="0.15" cocos2d_y="3.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="12">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.15" y="3.2" cocos2d_x="0.15" cocos2d_y="3.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="9"/>
+          <f x="0.15" y="3.2" cocos2d_x="0.15" cocos2d_y="3.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="camp_map_city_3_7" sc="1" dl="0">
+          <f x="1.1" y="-2.05" cocos2d_x="1.1" cocos2d_y="-2.05" kX="0" kY="0" cX="0.83" cY="0.66" pX="0" pY="0" z="1" dI="0" twE="0" dr="36">
+            <colorTransform a="0" r="0" g="0" b="0" aM="45" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="4.85" y="-13.05" cocos2d_x="4.85" cocos2d_y="-13.05" kX="0" kY="0" cX="1.46" cY="1.16" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="7" dI="-1"/>
+        </b>
+        <b name="camp_map_city_3_6" sc="1" dl="0">
+          <f x="2.7" y="-6.4" cocos2d_x="2.7" cocos2d_y="-6.4" kX="0" kY="0" cX="1.08" cY="0.86" pX="0" pY="0" z="2" dI="0" twE="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="27" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="4.85" y="-13.05" cocos2d_x="4.85" cocos2d_y="-13.05" kX="0" kY="0" cX="1.46" cY="1.16" pX="0" pY="0" z="2" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="8" dI="-1"/>
+          <f x="-0.25" y="2.2" cocos2d_x="-0.25" cocos2d_y="2.2" kX="0" kY="0" cX="0.58" cY="0.46" pX="0" pY="0" z="1" dI="0" twE="1" dr="6">
+            <colorTransform a="0" r="0" g="0" b="0" aM="62" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="1.05" y="-1.75" cocos2d_x="1.05" cocos2d_y="-1.75" kX="0" kY="0" cX="0.81" cY="0.65" pX="0" pY="0" z="1" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="46" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="camp_map_city_3_5" sc="1" dl="0">
+          <f x="3.75" y="-9.6" cocos2d_x="3.75" cocos2d_y="-9.6" kX="0" kY="0" cX="1.26" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="20">
+            <colorTransform a="0" r="0" g="0" b="0" aM="14" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="4.85" y="-13.05" cocos2d_x="4.85" cocos2d_y="-13.05" kX="0" kY="0" cX="1.46" cY="1.16" pX="0" pY="0" z="3" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="8" dI="-1"/>
+          <f x="-0.25" y="2.2" cocos2d_x="-0.25" cocos2d_y="2.2" kX="0" kY="0" cX="0.58" cY="0.46" pX="0" pY="0" z="2" dI="0" twE="1" dr="14">
+            <colorTransform a="0" r="0" g="0" b="0" aM="62" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="2.6" y="-6.1" cocos2d_x="2.6" cocos2d_y="-6.1" kX="0" kY="0" cX="1.06" cY="0.84" pX="0" pY="0" z="2" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="28" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="camp_map_city_3_4" sc="1" dl="0">
+          <f x="4.25" y="-11.3" cocos2d_x="4.25" cocos2d_y="-11.3" kX="0" kY="0" cX="1.36" cY="1.08" pX="0" pY="0" z="4" dI="0" twE="0" dr="14">
+            <colorTransform a="0" r="0" g="0" b="0" aM="7" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="4.85" y="-13.05" cocos2d_x="4.85" cocos2d_y="-13.05" kX="0" kY="0" cX="1.46" cY="1.16" pX="0" pY="0" z="4" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="6" dI="-1"/>
+          <f x="-0.25" y="2.2" cocos2d_x="-0.25" cocos2d_y="2.2" kX="0" kY="0" cX="0.58" cY="0.46" pX="0" pY="0" z="3" dI="0" twE="1" dr="22">
+            <colorTransform a="0" r="0" g="0" b="0" aM="62" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="3.65" y="-9.45" cocos2d_x="3.65" cocos2d_y="-9.45" kX="0" kY="0" cX="1.25" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="15" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="camp_map_city_3_3" sc="1" dl="0">
+          <f x="4.75" y="-12.75" cocos2d_x="4.75" cocos2d_y="-12.75" kX="0" kY="0" cX="1.44" cY="1.15" pX="0" pY="0" z="5" dI="0" twE="0" dr="6">
+            <colorTransform a="0" r="0" g="0" b="0" aM="1" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="4.85" y="-13.05" cocos2d_x="4.85" cocos2d_y="-13.05" kX="0" kY="0" cX="1.46" cY="1.16" pX="0" pY="0" z="5" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="8" dI="-1"/>
+          <f x="-0.25" y="2.2" cocos2d_x="-0.25" cocos2d_y="2.2" kX="0" kY="0" cX="0.58" cY="0.46" pX="0" pY="0" z="4" dI="0" twE="1" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="62" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="4.25" y="-11.2" cocos2d_x="4.25" cocos2d_y="-11.2" kX="0" kY="0" cX="1.35" cY="1.08" pX="0" pY="0" z="4" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="7" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="camp_map_city_3_2" sc="1" dl="0">
+          <f dr="7" dI="-1"/>
+          <f x="-0.25" y="2.2" cocos2d_x="-0.25" cocos2d_y="2.2" kX="0" kY="0" cX="0.58" cY="0.46" pX="0" pY="0" z="5" dI="0" twE="1" dr="36">
+            <colorTransform a="0" r="0" g="0" b="0" aM="62" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="4.75" y="-12.65" cocos2d_x="4.75" cocos2d_y="-12.65" kX="0" kY="0" cX="1.44" cY="1.14" pX="0" pY="0" z="5" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="2" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="camp_map_city_3_1" sc="1" dl="0">
+          <f x="-0.25" y="2.2" cocos2d_x="-0.25" cocos2d_y="2.2" kX="0" kY="0" cX="0.58" cY="0.46" pX="0" pY="0" z="6" dI="0" twE="1" dr="43">
+            <colorTransform a="0" r="0" g="0" b="0" aM="62" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="4.85" y="-13.05" cocos2d_x="4.85" cocos2d_y="-13.05" kX="0" kY="0" cX="1.46" cY="1.16" pX="0" pY="0" z="6" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="camp_map_city" width="512" height="1024">
+    <SubTexture name="camp_map_city_7" width="7" height="2" cocos2d_pX="3.05" cocos2d_pY="0.7" x="500" y="133"/>
+    <SubTexture name="camp_map_city_2" width="7" height="7" cocos2d_pX="3.35" cocos2d_pY="3.35" x="500" y="124"/>
+    <SubTexture name="camp_map_city_4" width="12" height="12" cocos2d_pX="4.55" cocos2d_pY="4.55" x="486" y="124"/>
+    <SubTexture name="camp_map_city_13" width="112" height="145" cocos2d_pX="0" cocos2d_pY="0" x="349" y="0"/>
+    <SubTexture name="camp_map_city_9" width="78" height="64" cocos2d_pX="39" cocos2d_pY="32" x="202" y="284"/>
+    <SubTexture name="camp_map_city_11" width="112" height="121" cocos2d_pX="56" cocos2d_pY="60.5" x="349" y="147"/>
+    <SubTexture name="camp_map_city_6" width="12" height="12" cocos2d_pX="5.6" cocos2d_pY="5.6" x="492" y="110"/>
+    <SubTexture name="camp_map_effect_11" width="38" height="94" cocos2d_pX="19" cocos2d_pY="47" x="282" y="284"/>
+    <SubTexture name="camp_map_effect_12" width="18" height="108" cocos2d_pX="9" cocos2d_pY="54" x="492" y="0"/>
+    <SubTexture name="camp_map_effect_13" width="33" height="86" cocos2d_pX="16.5" cocos2d_pY="43" x="425" y="270"/>
+    <SubTexture name="camp_map_effect_14" width="35" height="82" cocos2d_pX="17.5" cocos2d_pY="41" x="202" y="350"/>
+    <SubTexture name="camp_map_effect_15" width="21" height="93" cocos2d_pX="10.5" cocos2d_pY="46.5" x="463" y="111"/>
+    <SubTexture name="camp_map_effect_16" width="74" height="94" cocos2d_pX="37" cocos2d_pY="47" x="349" y="270"/>
+    <SubTexture name="camp_map_effect_17" width="36" height="99" cocos2d_pX="18" cocos2d_pY="49.5" x="463" y="206"/>
+    <SubTexture name="camp_map_effect_18" width="39" height="90" cocos2d_pX="19.5" cocos2d_pY="45" x="460" y="307"/>
+    <SubTexture name="camp_map_effect_19" width="27" height="109" cocos2d_pX="13.5" cocos2d_pY="54.5" x="463" y="0"/>
+    <SubTexture name="camp_map_effect_20" width="44" height="71" cocos2d_pX="22" cocos2d_pY="35.5" x="322" y="366"/>
+    <SubTexture name="camp_map_effect_30" width="185" height="208" cocos2d_pX="92.5" cocos2d_pY="104" x="202" y="439"/>
+    <SubTexture name="camp_map_effect_23" width="200" height="465" cocos2d_pX="100" cocos2d_pY="232.5" x="0" y="0"/>
+    <SubTexture name="camp_map_effect_77" width="145" height="282" cocos2d_pX="0" cocos2d_pY="0" x="202" y="0"/>
+  </TextureAtlas>
+</skeleton>

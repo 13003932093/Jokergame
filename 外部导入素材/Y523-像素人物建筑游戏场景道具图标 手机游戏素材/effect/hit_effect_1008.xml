@@ -1,0 +1,25 @@
+<skeleton name="hit_effect_1008" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="hit_effect_1008">
+   <b name="hit_effect_1008_rs1_2" x="0.5" y="-0.4" kX="0" kY="0" cX="1.57" cY="1.57" pX="0" pY="0" z="0">
+    <d name="hit_effect_1008_rs1_1" pX="31.4" pY="40.5"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="hit_effect_1008">
+   <mov name="effect" dr="7" to="0" drTW="7" lp="0" twE="NaN">
+    <b name="hit_effect_1008_rs1_2" sc="1" dl="0">
+     <f x="0.5" y="-0.4" cocos2d_x="0.5" cocos2d_y="-0.4" kX="0" kY="0" cX="1.57" cY="1.57" pX="0" pY="0" z="0" dI="0" dr="1"/>
+     <f x="0.5" y="-0.4" cocos2d_x="0.5" cocos2d_y="-0.4" kX="0" kY="0" cX="1.57" cY="1.57" pX="0" pY="0" z="0" dI="0" twE="0" dr="5"/>
+     <f x="0.5" y="-0.4" cocos2d_x="0.5" cocos2d_y="-0.4" kX="0" kY="0" cX="1.57" cY="1.57" pX="0" pY="0" z="0" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="hit_effect_1008" width="128" height="128">
+  <SubTexture name="hit_effect_1008_rs1_1" width="67" height="68" cocos2d_pX="31.4" cocos2d_pY="40.5" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

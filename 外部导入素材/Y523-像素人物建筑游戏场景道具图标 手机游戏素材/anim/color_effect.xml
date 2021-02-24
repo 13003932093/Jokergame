@@ -1,0 +1,178 @@
+<skeleton name="color_effect" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="color_yellow">
+      <b name="color_yellow_1" x="-0.05" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="color_effect_44" pX="31.5" pY="62"/>
+      </b>
+    </armature>
+    <armature name="color_white">
+      <b name="color_white_1" x="-0.05" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="color_effect_41" pX="31.5" pY="58.25"/>
+      </b>
+    </armature>
+    <armature name="color_red">
+      <b name="color_red_1" x="-0.1" y="0.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="color_effect_45" pX="31.5" pY="57"/>
+      </b>
+    </armature>
+    <armature name="color_purple">
+      <b name="color_purple_1" x="-0.05" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="color_effect_39" pX="31.5" pY="59"/>
+      </b>
+    </armature>
+    <armature name="color_pink">
+      <b name="color_pink_1" x="-0.05" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="color_effect_46" pX="31.5" pY="59"/>
+      </b>
+    </armature>
+    <armature name="color_orange">
+      <b name="color_orange_1" x="-0.05" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="color_effect_43" pX="31.5" pY="61"/>
+      </b>
+    </armature>
+    <armature name="color_lightblue">
+      <b name="color_lightblue_1" x="-0.05" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="color_effect_42" pX="31.5" pY="61.25"/>
+      </b>
+    </armature>
+    <armature name="color_green">
+      <b name="color_green_1" x="0.15" y="0.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="color_effect_34" pX="32.5" pY="61.75"/>
+      </b>
+    </armature>
+    <armature name="color_darkblue">
+      <b name="color_darkblue_1" x="-0.05" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="color_effect_38" pX="31.5" pY="59"/>
+      </b>
+    </armature>
+    <armature name="color_black">
+      <b name="color_black_1" x="0.2" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="color_effect_40" pX="31.5" pY="56.5"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="color_yellow">
+      <mov name="effect" dr="36" to="0" drTW="36" lp="1" twE="2">
+        <b name="color_yellow_1" sc="1" dl="0">
+          <f x="-0.05" y="0" cocos2d_x="-0.05" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="18"/>
+          <f x="-0.05" y="0" cocos2d_x="-0.05" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="17">
+            <colorTransform a="0" r="0" g="0" b="0" aM="35" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.05" y="0" cocos2d_x="-0.05" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="color_white">
+      <mov name="effect" dr="36" to="0" drTW="36" lp="1" twE="2">
+        <b name="color_white_1" sc="1" dl="0">
+          <f x="-0.05" y="0" cocos2d_x="-0.05" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="18"/>
+          <f x="-0.05" y="0" cocos2d_x="-0.05" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="17">
+            <colorTransform a="0" r="0" g="0" b="0" aM="35" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.05" y="0" cocos2d_x="-0.05" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="color_red">
+      <mov name="effect" dr="36" to="0" drTW="36" lp="1" twE="2">
+        <b name="color_red_1" sc="1" dl="0">
+          <f x="-0.1" y="0.2" cocos2d_x="-0.1" cocos2d_y="0.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="18"/>
+          <f x="-0.1" y="0.2" cocos2d_x="-0.1" cocos2d_y="0.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="17">
+            <colorTransform a="0" r="0" g="0" b="0" aM="35" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.1" y="0.2" cocos2d_x="-0.1" cocos2d_y="0.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="color_purple">
+      <mov name="effect" dr="36" to="0" drTW="36" lp="1" twE="2">
+        <b name="color_purple_1" sc="1" dl="0">
+          <f x="-0.05" y="0" cocos2d_x="-0.05" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="18"/>
+          <f x="-0.05" y="0" cocos2d_x="-0.05" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="17">
+            <colorTransform a="0" r="0" g="0" b="0" aM="35" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.05" y="0" cocos2d_x="-0.05" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="color_pink">
+      <mov name="effect" dr="36" to="0" drTW="36" lp="1" twE="2">
+        <b name="color_pink_1" sc="1" dl="0">
+          <f x="-0.05" y="0" cocos2d_x="-0.05" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="18"/>
+          <f x="-0.05" y="0" cocos2d_x="-0.05" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="17">
+            <colorTransform a="0" r="0" g="0" b="0" aM="35" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.05" y="0" cocos2d_x="-0.05" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="color_orange">
+      <mov name="effect" dr="36" to="0" drTW="36" lp="1" twE="2">
+        <b name="color_orange_1" sc="1" dl="0">
+          <f x="-0.05" y="0" cocos2d_x="-0.05" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="18"/>
+          <f x="-0.05" y="0" cocos2d_x="-0.05" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="17">
+            <colorTransform a="0" r="0" g="0" b="0" aM="35" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.05" y="0" cocos2d_x="-0.05" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="color_lightblue">
+      <mov name="effect" dr="36" to="0" drTW="36" lp="1" twE="2">
+        <b name="color_lightblue_1" sc="1" dl="0">
+          <f x="-0.05" y="0" cocos2d_x="-0.05" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="18"/>
+          <f x="-0.05" y="0" cocos2d_x="-0.05" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="17">
+            <colorTransform a="0" r="0" g="0" b="0" aM="35" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.05" y="0" cocos2d_x="-0.05" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="color_green">
+      <mov name="effect" dr="36" to="0" drTW="36" lp="1" twE="2">
+        <b name="color_green_1" sc="1" dl="0">
+          <f x="0.15" y="0.2" cocos2d_x="0.15" cocos2d_y="0.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="18"/>
+          <f x="0.15" y="0.2" cocos2d_x="0.15" cocos2d_y="0.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="17">
+            <colorTransform a="0" r="0" g="0" b="0" aM="35" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.15" y="0.2" cocos2d_x="0.15" cocos2d_y="0.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="color_darkblue">
+      <mov name="effect" dr="36" to="0" drTW="36" lp="1" twE="2">
+        <b name="color_darkblue_1" sc="1" dl="0">
+          <f x="-0.05" y="0" cocos2d_x="-0.05" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="18"/>
+          <f x="-0.05" y="0" cocos2d_x="-0.05" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="17">
+            <colorTransform a="0" r="0" g="0" b="0" aM="35" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.05" y="0" cocos2d_x="-0.05" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="color_black">
+      <mov name="effect" dr="36" to="0" drTW="36" lp="1" twE="2">
+        <b name="color_black_1" sc="1" dl="0">
+          <f x="0.2" y="0" cocos2d_x="0.2" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="18"/>
+          <f x="0.2" y="0" cocos2d_x="0.2" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="17">
+            <colorTransform a="0" r="0" g="0" b="0" aM="35" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.2" y="0" cocos2d_x="0.2" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="color_effect" width="256" height="512">
+    <SubTexture name="color_effect_40" width="63" height="72" cocos2d_pX="31.5" cocos2d_pY="56.5" x="130" y="222"/>
+    <SubTexture name="color_effect_38" width="63" height="72" cocos2d_pX="31.5" cocos2d_pY="59" x="0" y="77"/>
+    <SubTexture name="color_effect_34" width="65" height="75" cocos2d_pX="32.5" cocos2d_pY="61.75" x="67" y="0"/>
+    <SubTexture name="color_effect_42" width="63" height="72" cocos2d_pX="31.5" cocos2d_pY="61.25" x="65" y="151"/>
+    <SubTexture name="color_effect_43" width="63" height="72" cocos2d_pX="31.5" cocos2d_pY="61" x="65" y="77"/>
+    <SubTexture name="color_effect_46" width="63" height="72" cocos2d_pX="31.5" cocos2d_pY="59" x="134" y="0"/>
+    <SubTexture name="color_effect_39" width="63" height="72" cocos2d_pX="31.5" cocos2d_pY="59" x="134" y="74"/>
+    <SubTexture name="color_effect_45" width="65" height="75" cocos2d_pX="31.5" cocos2d_pY="57" x="0" y="0"/>
+    <SubTexture name="color_effect_41" width="63" height="72" cocos2d_pX="31.5" cocos2d_pY="58.25" x="130" y="148"/>
+    <SubTexture name="color_effect_44" width="63" height="72" cocos2d_pX="31.5" cocos2d_pY="62" x="0" y="151"/>
+  </TextureAtlas>
+</skeleton>

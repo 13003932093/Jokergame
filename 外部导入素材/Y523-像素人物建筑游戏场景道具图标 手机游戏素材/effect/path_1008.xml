@@ -1,0 +1,28 @@
+<skeleton name="path_1008" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="path_1008">
+   <b name="path_1008_1" x="0.9" y="-0.15" kX="0" kY="0" cX="1.03" cY="1.03" pX="0" pY="-27.2" z="0">
+    <d name="path_1008_1" pX="26.65" pY="54.15"/>
+    <d name="path_1008_3" pX="26.65" pY="54.15"/>
+    <d name="path_1008_2" pX="26.65" pY="54.15"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="path_1008">
+   <mov name="buff" dr="4" to="0" drTW="4" lp="0" twE="NaN">
+    <b name="path_1008_1" sc="1" dl="0">
+     <f x="0.9" y="-0.15" cocos2d_x="0.9" cocos2d_y="27.8" kX="0" kY="0" cX="1.03" cY="1.03" pX="0" pY="-27.2" z="0" dI="0" dr="1"/>
+     <f x="0.9" y="-0.15" cocos2d_x="0.9" cocos2d_y="27.8" kX="0" kY="0" cX="1.03" cY="1.03" pX="0" pY="-27.2" z="0" dI="1" dr="1"/>
+     <f x="0.9" y="-0.15" cocos2d_x="0.9" cocos2d_y="27.8" kX="0" kY="0" cX="1.03" cY="1.03" pX="0" pY="-27.2" z="0" dI="2" dr="1"/>
+     <f dr="1" dI="-1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="path_1008" width="128" height="128">
+  <SubTexture name="path_1008_2" width="54" height="55" cocos2d_pX="26.65" cocos2d_pY="54.15" x="0" y="57"/>
+  <SubTexture name="path_1008_3" width="54" height="55" cocos2d_pX="26.65" cocos2d_pY="54.15" x="56" y="0"/>
+  <SubTexture name="path_1008_1" width="54" height="55" cocos2d_pX="26.65" cocos2d_pY="54.15" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

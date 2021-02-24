@@ -1,0 +1,47 @@
+<skeleton name="building_repair3" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="building_repair3">
+      <b name="building_repair3_43" x="0" y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="building_repair3_rs1_31" pX="12.4" pY="6.05"/>
+      </b>
+      <b name="building_repair3_41" x="0" y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="building_repair3_rs1_34" pX="12.4" pY="6.05"/>
+      </b>
+      <b name="building_repair3_39" x="0" y="-4.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="building_repair3_rs1_39" pX="11.8" pY="5.75"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="building_repair3">
+      <mov name="run" dr="219" to="0" drTW="219" lp="0" twE="NaN">
+        <b name="building_repair3_43" sc="1" dl="0">
+          <f x="0" y="-7" cocos2d_x="0" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="218"/>
+          <f x="0" y="-7" cocos2d_x="0" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="building_repair3_41" sc="1" dl="0">
+          <f dr="70" dI="-1"/>
+          <f x="0" y="-7" cocos2d_x="0" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="148">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="-7" cocos2d_x="0" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+        </b>
+        <b name="building_repair3_39" sc="1" dl="0">
+          <f x="0" y="-4.55" cocos2d_x="0" cocos2d_y="-4.55" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="15"/>
+          <f x="0" y="-7" cocos2d_x="0" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="53"/>
+          <f x="0" y="-7" cocos2d_x="0" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="150">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="-7" cocos2d_x="0" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="building_repair3" width="32" height="64">
+    <SubTexture name="building_repair3_rs1_39" width="24" height="12" cocos2d_pX="11.8" cocos2d_pY="5.75" x="0" y="28"/>
+    <SubTexture name="building_repair3_rs1_34" width="25" height="12" cocos2d_pX="12.4" cocos2d_pY="6.05" x="0" y="14"/>
+    <SubTexture name="building_repair3_rs1_31" width="25" height="12" cocos2d_pX="12.4" cocos2d_pY="6.05" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

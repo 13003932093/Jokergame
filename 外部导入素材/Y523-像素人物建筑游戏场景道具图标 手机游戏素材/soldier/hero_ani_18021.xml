@@ -1,0 +1,578 @@
+<skeleton name="hero_ani_18021" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="skill_ani_35003">
+      <b name="skill_ani_35003_1" x="-8.1" y="1.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="hero_ani_18021_71" pX="19.7" pY="13.15"/>
+        <d name="hero_ani_18021_72" pX="20.95" pY="12.85"/>
+        <d name="hero_ani_18021_73" pX="19.1" pY="13.1"/>
+        <d name="hero_ani_18021_82" pX="19.55" pY="21.4"/>
+        <d name="hero_ani_18021_83" pX="19.55" pY="21.4"/>
+        <d name="hero_ani_18021_84" pX="19.55" pY="21.4"/>
+        <d name="hero_ani_18021_85" pX="19.55" pY="21.4"/>
+        <d name="hero_ani_18021_86" pX="19.55" pY="21.4"/>
+      </b>
+      <b name="event" x="0.5" y="0.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="hero_ani_18021_1" pX="0.5" pY="0.5"/>
+      </b>
+    </armature>
+    <armature name="path_18021">
+      <b name="path_18021_1" x="-8.1" y="1.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="hero_ani_18021_71" pX="19.7" pY="13.15"/>
+        <d name="hero_ani_18021_72" pX="20.95" pY="12.85"/>
+        <d name="hero_ani_18021_73" pX="19.1" pY="13.1"/>
+        <d name="hero_ani_18021_67" pX="13.25" pY="12.3"/>
+        <d name="hero_ani_18021_68" pX="13.25" pY="12.3"/>
+        <d name="hero_ani_18021_69" pX="13.25" pY="12.3"/>
+        <d name="hero_ani_18021_70" pX="13.25" pY="12.3"/>
+      </b>
+      <b name="event" x="0.5" y="0.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="hero_ani_18021_0" pX="0.5" pY="0.5"/>
+      </b>
+    </armature>
+    <armature name="hero_ani_18021">
+      <b name="hero_ani_18021_3" x="-0.7" y="-16.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="hero_ani_18021_36" pX="32" pY="32"/>
+        <d name="hero_ani_18021_37" pX="32" pY="32"/>
+        <d name="hero_ani_18021_38" pX="32" pY="32"/>
+        <d name="hero_ani_18021_49" pX="32" pY="32"/>
+        <d name="hero_ani_18021_50" pX="32" pY="32"/>
+        <d name="hero_ani_18021_40" pX="32" pY="32"/>
+        <d name="hero_ani_18021_41" pX="32" pY="32"/>
+        <d name="hero_ani_18021_42" pX="32" pY="32"/>
+        <d name="hero_ani_18021_43" pX="32" pY="32"/>
+        <d name="hero_ani_18021_44" pX="32" pY="32"/>
+      </b>
+      <b name="head_buff" x="-0.5" y="-49.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="hero_ani_18021_87" pX="0.5" pY="0.5"/>
+      </b>
+      <b name="blood" x="-0.5" y="-39.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="hero_ani_18021_87" pX="0.5" pY="0.5"/>
+      </b>
+      <b name="hand" x="23.5" y="-13" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3">
+        <d name="hero_ani_18021_87" pX="0.5" pY="0.5"/>
+      </b>
+      <b name="hit" x="0" y="-10.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4">
+        <d name="hero_ani_18021_87" pX="0.5" pY="0.5"/>
+      </b>
+      <b name="body" x="0" y="-10.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5">
+        <d name="hero_ani_18021_87" pX="0.5" pY="0.5"/>
+      </b>
+      <b name="body_buff" x="0" y="-10.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6">
+        <d name="hero_ani_18021_87" pX="0.5" pY="0.5"/>
+      </b>
+      <b name="foot_ring" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7">
+        <d name="hero_ani_18021_87" pX="0.5" pY="0.5"/>
+      </b>
+      <b name="foot_buff" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8">
+        <d name="hero_ani_18021_87" pX="0.5" pY="0.5"/>
+      </b>
+      <b name="event" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="9">
+        <d name="hero_ani_18021_87" pX="0.5" pY="0.5"/>
+      </b>
+      <b name="hero_ani_18021_2" x="1.55" y="-24.55" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="1">
+        <d name="hero_ani_18021_52" pX="9.25" pY="10.95"/>
+        <d name="hero_ani_18021_53" pX="17.55" pY="13.45"/>
+        <d name="hero_ani_18021_54" pX="23.85" pY="18.1"/>
+        <d name="hero_ani_18021_55" pX="25.4" pY="18.2"/>
+        <d name="hero_ani_18021_56" pX="25.5" pY="18.3"/>
+        <d name="hero_ani_18021_57" pX="14.45" pY="16.65"/>
+        <d name="hero_ani_18021_39" pX="32" pY="32"/>
+      </b>
+      <b name="hero_ani_18021_7" x="3.7" y="-31.45" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-0.05" z="1">
+        <d name="hero_ani_18021_58" pX="11.85" pY="16.5"/>
+        <d name="hero_ani_18021_59" pX="11.2" pY="17.35"/>
+        <d name="hero_ani_18021_60" pX="10.55" pY="15.5"/>
+        <d name="hero_ani_18021_61" pX="9.5" pY="11.95"/>
+      </b>
+      <b name="hero_ani_18021_6" x="12.35" y="-37.85" kX="0" kY="0" cX="0.22" cY="0.22" pX="80.75" pY="19.05" z="2">
+        <d name="hero_ani_18021_6" pX="0" pY="-0.25"/>
+      </b>
+      <b name="hero_ani_18021_5" x="12.35" y="-57.25" kX="0" kY="0" cX="0.22" cY="0.22" pX="80.75" pY="19.25" z="3">
+        <d name="hero_ani_18021_6" pX="0" pY="-0.25"/>
+      </b>
+      <b name="hero_ani_18021_1" x="12.35" y="-83.2" kX="0" kY="0" cX="0.22" cY="0.22" pX="80.75" pY="19" z="4">
+        <d name="hero_ani_18021_6" pX="0" pY="-0.25"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="skill_ani_35003">
+      <mov name="fly" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+        <b name="skill_ani_35003_1" sc="1" dl="0">
+          <f x="-8.1" y="1.1" cocos2d_x="-8.1" cocos2d_y="1.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+          <f x="-8.65" y="1.9" cocos2d_x="-8.65" cocos2d_y="1.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="2"/>
+          <f x="-7.85" y="1.6" cocos2d_x="-7.85" cocos2d_y="1.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="2"/>
+        </b>
+      </mov>
+      <mov name="hit" dr="13" to="0" drTW="13" lp="0" twE="NaN">
+        <b name="skill_ani_35003_1" sc="1" dl="0">
+          <f x="-0.35" y="-27.65" cocos2d_x="-0.35" cocos2d_y="-27.65" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-0.35" y="-27.65" cocos2d_x="-0.35" cocos2d_y="-27.65" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-0.35" y="-27.65" cocos2d_x="-0.35" cocos2d_y="-27.65" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-0.35" y="-27.65" cocos2d_x="-0.35" cocos2d_y="-27.65" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="6" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-0.35" y="-27.65" cocos2d_x="-0.35" cocos2d_y="-27.65" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="7" twE="NaN" tweenFrame="0" dr="2"/>
+          <f dr="3" dI="-1"/>
+        </b>
+        <b name="event" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0.5" cocos2d_y="0.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" evt="damage" dr="1"/>
+          <f dr="12" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="path_18021">
+      <mov name="fly" dr="6" to="0" drTW="6" lp="1" twE="NaN">
+        <b name="path_18021_1" sc="1" dl="0">
+          <f x="-8.1" y="1.1" cocos2d_x="-8.1" cocos2d_y="1.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+          <f x="-8.65" y="1.9" cocos2d_x="-8.65" cocos2d_y="1.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="2"/>
+          <f x="-7.85" y="1.6" cocos2d_x="-7.85" cocos2d_y="1.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="2"/>
+        </b>
+      </mov>
+      <mov name="hit" dr="11" to="0" drTW="11" lp="0" twE="NaN">
+        <b name="path_18021_1" sc="1" dl="0">
+          <f x="1.25" y="-2.5" cocos2d_x="1.25" cocos2d_y="-2.5" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="3" dr="2"/>
+          <f x="1.25" y="-2.5" cocos2d_x="1.25" cocos2d_y="-2.5" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="4" dr="2"/>
+          <f x="1.25" y="-2.5" cocos2d_x="1.25" cocos2d_y="-2.5" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="5" dr="2"/>
+          <f x="1.25" y="-2.5" cocos2d_x="1.25" cocos2d_y="-2.5" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="6" dr="2"/>
+          <f dr="3" dI="-1"/>
+        </b>
+        <b name="event" sc="1" dl="0">
+          <f x="0.5" y="0.5" cocos2d_x="0.5" cocos2d_y="0.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" evt="damage" dr="1"/>
+          <f dr="10" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="hero_ani_18021">
+      <mov name="idle" dr="8" to="0" drTW="8" lp="1" twE="NaN">
+        <b name="hero_ani_18021_3" sc="1" dl="0">
+          <f x="-0.7" y="-16.35" cocos2d_x="-0.7" cocos2d_y="-16.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-0.7" y="-16.35" cocos2d_x="-0.7" cocos2d_y="-16.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-0.7" y="-16.35" cocos2d_x="-0.7" cocos2d_y="-16.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-0.7" y="-16.35" cocos2d_x="-0.7" cocos2d_y="-16.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+        </b>
+        <b name="head_buff" sc="1" dl="0">
+          <f x="-0.5" y="-49.5" cocos2d_x="-0.5" cocos2d_y="-49.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="8"/>
+        </b>
+        <b name="blood" sc="1" dl="0">
+          <f x="-0.5" y="-39.5" cocos2d_x="-0.5" cocos2d_y="-39.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="8"/>
+        </b>
+        <b name="hand" sc="1" dl="0">
+          <f x="23.5" y="-13" cocos2d_x="23.5" cocos2d_y="-13" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="8"/>
+        </b>
+        <b name="hit" sc="1" dl="0">
+          <f x="0" y="-10.5" cocos2d_x="0" cocos2d_y="-10.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="8"/>
+        </b>
+        <b name="body" sc="1" dl="0">
+          <f x="0" y="-10.5" cocos2d_x="0" cocos2d_y="-10.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="8"/>
+        </b>
+        <b name="body_buff" sc="1" dl="0">
+          <f x="0" y="-10.5" cocos2d_x="0" cocos2d_y="-10.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" dr="8"/>
+        </b>
+        <b name="foot_ring" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" dr="8"/>
+        </b>
+        <b name="foot_buff" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="0" dr="8"/>
+        </b>
+        <b name="event" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="9" dI="0" dr="8"/>
+        </b>
+      </mov>
+      <mov name="run" dr="8" to="0" drTW="8" lp="1" twE="NaN">
+        <b name="hero_ani_18021_3" sc="1" dl="0">
+          <f x="-0.7" y="-16.35" cocos2d_x="-0.7" cocos2d_y="-16.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-0.7" y="-16.35" cocos2d_x="-0.7" cocos2d_y="-16.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-0.7" y="-16.35" cocos2d_x="-0.7" cocos2d_y="-16.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-0.7" y="-16.35" cocos2d_x="-0.7" cocos2d_y="-16.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+        </b>
+        <b name="head_buff" sc="1" dl="0">
+          <f x="-0.5" y="-49.5" cocos2d_x="-0.5" cocos2d_y="-49.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="199"/>
+        </b>
+        <b name="blood" sc="1" dl="0">
+          <f x="-0.5" y="-39.5" cocos2d_x="-0.5" cocos2d_y="-39.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="199"/>
+        </b>
+        <b name="hand" sc="1" dl="0">
+          <f x="23.5" y="-13" cocos2d_x="23.5" cocos2d_y="-13" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="199"/>
+        </b>
+        <b name="hit" sc="1" dl="0">
+          <f x="0" y="-10.5" cocos2d_x="0" cocos2d_y="-10.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="199"/>
+        </b>
+        <b name="body" sc="1" dl="0">
+          <f x="0" y="-10.5" cocos2d_x="0" cocos2d_y="-10.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="199"/>
+        </b>
+        <b name="body_buff" sc="1" dl="0">
+          <f x="0" y="-10.5" cocos2d_x="0" cocos2d_y="-10.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="199"/>
+        </b>
+        <b name="foot_ring" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" dr="199"/>
+        </b>
+        <b name="foot_buff" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" dr="199"/>
+        </b>
+        <b name="event" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="0" dr="12"/>
+        </b>
+      </mov>
+      <mov name="attack" dr="21" to="0" drTW="21" lp="0" twE="NaN">
+        <b name="hero_ani_18021_3" sc="1" dl="0">
+          <f x="1" y="-17" cocos2d_x="1" cocos2d_y="-17" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="4"/>
+          <f x="3.5" y="-17" cocos2d_x="3.5" cocos2d_y="-17" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="17"/>
+        </b>
+        <b name="head_buff" sc="1" dl="0">
+          <f x="-0.5" y="-49.5" cocos2d_x="-0.5" cocos2d_y="-49.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="191"/>
+        </b>
+        <b name="blood" sc="1" dl="0">
+          <f x="-0.5" y="-39.5" cocos2d_x="-0.5" cocos2d_y="-39.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="191"/>
+        </b>
+        <b name="hand" sc="1" dl="0">
+          <f x="23.5" y="-13" cocos2d_x="23.5" cocos2d_y="-13" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="191"/>
+        </b>
+        <b name="hit" sc="1" dl="0">
+          <f x="0" y="-10.5" cocos2d_x="0" cocos2d_y="-10.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="191"/>
+        </b>
+        <b name="body" sc="1" dl="0">
+          <f x="0" y="-10.5" cocos2d_x="0" cocos2d_y="-10.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="191"/>
+        </b>
+        <b name="body_buff" sc="1" dl="0">
+          <f x="0" y="-10.5" cocos2d_x="0" cocos2d_y="-10.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="191"/>
+        </b>
+        <b name="foot_ring" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" dr="191"/>
+        </b>
+        <b name="foot_buff" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" dr="191"/>
+        </b>
+        <b name="event" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="9" dI="0" dr="4"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="9" dI="0" evt="attack" dr="17"/>
+        </b>
+      </mov>
+      <mov name="cast1" dr="27" to="0" drTW="27" lp="0" twE="NaN">
+        <b name="hero_ani_18021_3" sc="1" dl="0">
+          <f x="1" y="-17" cocos2d_x="1" cocos2d_y="-17" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="12"/>
+          <f x="3.5" y="-17" cocos2d_x="3.5" cocos2d_y="-17" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="15"/>
+        </b>
+        <b name="hero_ani_18021_2" sc="1" dl="0">
+          <f x="1.55" y="-24.55" cocos2d_x="1.55" cocos2d_y="-24.55" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="1.55" y="-26.15" cocos2d_x="1.55" cocos2d_y="-26.05" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-0.05" z="1" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="2.15" y="-35.55" cocos2d_x="2.15" cocos2d_y="-35.55" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="1" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="6.65" y="-34.95" cocos2d_x="6.65" cocos2d_y="-34.85" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-0.05" z="1" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="7.25" y="-33.65" cocos2d_x="7.25" cocos2d_y="-33.65" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="1" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-1.45" y="-30.55" cocos2d_x="-1.45" cocos2d_y="-30.55" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="1" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+          <f dr="15" dI="-1"/>
+        </b>
+        <b name="hero_ani_18021_7" sc="1" dl="0">
+          <f dr="12" dI="-1"/>
+          <f x="3.7" y="-31.45" cocos2d_x="3.7" cocos2d_y="-31.35" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-0.05" z="1" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="6.3" y="-33.95" cocos2d_x="6.3" cocos2d_y="-33.85" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-0.05" z="1" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="6.8" y="-37.85" cocos2d_x="6.8" cocos2d_y="-37.85" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="1" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="5" y="-32.75" cocos2d_x="5" cocos2d_y="-32.75" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="1" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+          <f dr="7" dI="-1"/>
+        </b>
+        <b name="hero_ani_18021_6" sc="1" dl="0">
+          <f dr="13" dI="-1"/>
+          <f x="12.35" y="-37.85" cocos2d_x="-5.05" cocos2d_y="-41.95" kX="0" kY="0" cX="0.22" cY="0.22" pX="80.75" pY="19.05" z="2" dI="0" twE="0" dr="2"/>
+          <f x="12.35" y="-41.05" cocos2d_x="-21.35" cocos2d_y="-49.05" kX="0" kY="0" cX="0.42" cY="0.42" pX="80.75" pY="19.15" z="2" dI="0" twE="0" dr="4"/>
+          <f x="12.35" y="-44.3" cocos2d_x="-26.8" cocos2d_y="-53.6" kX="0" kY="0" cX="0.48" cY="0.48" pX="80.75" pY="19.15" z="2" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="13" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="7" dI="-1"/>
+        </b>
+        <b name="hero_ani_18021_5" sc="1" dl="0">
+          <f dr="15" dI="-1"/>
+          <f x="12.35" y="-57.25" cocos2d_x="-5.05" cocos2d_y="-61.4" kX="0" kY="0" cX="0.22" cY="0.22" pX="80.75" pY="19.25" z="3" dI="0" twE="0" dr="2"/>
+          <f x="12.35" y="-60.5" cocos2d_x="-21.35" cocos2d_y="-68.45" kX="0" kY="0" cX="0.42" cY="0.42" pX="80.75" pY="19.05" z="1" dI="0" twE="0" dr="4"/>
+          <f x="12.35" y="-63.75" cocos2d_x="-26.8" cocos2d_y="-73.1" kX="0" kY="0" cX="0.48" cY="0.48" pX="80.75" pY="19.3" z="1" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="13" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="5" dI="-1"/>
+        </b>
+        <b name="hero_ani_18021_1" sc="1" dl="0">
+          <f dr="17" dI="-1"/>
+          <f x="12.35" y="-83.2" cocos2d_x="-5.05" cocos2d_y="-87.3" kX="0" kY="0" cX="0.22" cY="0.22" pX="80.75" pY="19" z="4" dI="0" twE="0" dr="2"/>
+          <f x="12.35" y="-86.45" cocos2d_x="-21.35" cocos2d_y="-94.45" kX="0" kY="0" cX="0.42" cY="0.42" pX="80.75" pY="19.15" z="1" dI="0" twE="0" dr="6"/>
+          <f x="12.35" y="-89.65" cocos2d_x="-26.8" cocos2d_y="-99" kX="0" kY="0" cX="0.48" cY="0.48" pX="80.75" pY="19.3" z="1" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="13" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="1" dI="-1"/>
+        </b>
+        <b name="head_buff" sc="1" dl="0">
+          <f x="-0.5" y="-49.5" cocos2d_x="-0.5" cocos2d_y="-49.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="170"/>
+        </b>
+        <b name="blood" sc="1" dl="0">
+          <f x="-0.5" y="-39.5" cocos2d_x="-0.5" cocos2d_y="-39.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="170"/>
+        </b>
+        <b name="hand" sc="1" dl="0">
+          <f x="23.5" y="-13" cocos2d_x="23.5" cocos2d_y="-13" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="170"/>
+        </b>
+        <b name="hit" sc="1" dl="0">
+          <f x="0" y="-10.5" cocos2d_x="0" cocos2d_y="-10.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="170"/>
+        </b>
+        <b name="body" sc="1" dl="0">
+          <f x="0" y="-10.5" cocos2d_x="0" cocos2d_y="-10.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="170"/>
+        </b>
+        <b name="body_buff" sc="1" dl="0">
+          <f x="0" y="-10.5" cocos2d_x="0" cocos2d_y="-10.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="170"/>
+        </b>
+        <b name="foot_ring" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" dr="170"/>
+        </b>
+        <b name="foot_buff" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" dr="170"/>
+        </b>
+        <b name="event" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="10" dI="0" evt="attack" dr="25"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="9" dI="0" evt="cast" dr="2"/>
+        </b>
+      </mov>
+      <mov name="hurt" dr="13" to="0" drTW="13" lp="0" twE="NaN">
+        <b name="hero_ani_18021_3" sc="1" dl="0">
+          <f x="-0.7" y="-16.35" cocos2d_x="-0.7" cocos2d_y="-16.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="5"/>
+          <f x="-40.7" y="-16.35" cocos2d_x="-40.7" cocos2d_y="-16.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-30.7" y="-16.35" cocos2d_x="-30.7" cocos2d_y="-16.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-20.7" y="-16.35" cocos2d_x="-20.7" cocos2d_y="-16.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="6" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-10.7" y="-16.35" cocos2d_x="-10.7" cocos2d_y="-16.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="7" twE="NaN" tweenFrame="0" dr="2"/>
+        </b>
+        <b name="hero_ani_18021_2" sc="1" dl="0">
+          <f x="-0.7" y="-16.35" cocos2d_x="-0.7" cocos2d_y="-16.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="6" twE="0" dr="5"/>
+          <f x="-40.7" y="-16.35" cocos2d_x="-40.7" cocos2d_y="-16.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="6" dr="2"/>
+          <f dr="6" dI="-1"/>
+        </b>
+        <b name="head_buff" sc="1" dl="0">
+          <f x="-0.5" y="-49.5" cocos2d_x="-0.5" cocos2d_y="-49.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="143"/>
+        </b>
+        <b name="blood" sc="1" dl="0">
+          <f x="-0.5" y="-39.5" cocos2d_x="-0.5" cocos2d_y="-39.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="143"/>
+        </b>
+        <b name="hand" sc="1" dl="0">
+          <f x="23.5" y="-13" cocos2d_x="23.5" cocos2d_y="-13" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="143"/>
+        </b>
+        <b name="hit" sc="1" dl="0">
+          <f x="0" y="-10.5" cocos2d_x="0" cocos2d_y="-10.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="143"/>
+        </b>
+        <b name="body" sc="1" dl="0">
+          <f x="0" y="-10.5" cocos2d_x="0" cocos2d_y="-10.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="143"/>
+        </b>
+        <b name="body_buff" sc="1" dl="0">
+          <f x="0" y="-10.5" cocos2d_x="0" cocos2d_y="-10.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="143"/>
+        </b>
+        <b name="foot_ring" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" dr="143"/>
+        </b>
+        <b name="foot_buff" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" dr="143"/>
+        </b>
+        <b name="event" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="0" evt="cast" dr="143"/>
+        </b>
+      </mov>
+      <mov name="dead" dr="49" to="0" drTW="49" lp="0" twE="NaN">
+        <b name="hero_ani_18021_3" sc="1" dl="0">
+          <f x="-0.7" y="-16.35" cocos2d_x="-0.7" cocos2d_y="-16.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+          <f x="-2" y="-17.5" cocos2d_x="-2" cocos2d_y="-17.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="8" twE="NaN" tweenFrame="0" dr="4"/>
+          <f x="-2.2" y="-16.35" cocos2d_x="-2.2" cocos2d_y="-16.35" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="4"/>
+          <f x="0" y="-16.5" cocos2d_x="0" cocos2d_y="-16.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="9" twE="NaN" tweenFrame="0" dr="4"/>
+          <f x="-0.7" y="-16.35" cocos2d_x="-0.7" cocos2d_y="-16.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+          <f x="-2" y="-17.5" cocos2d_x="-2" cocos2d_y="-17.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="8" twE="NaN" tweenFrame="0" dr="4"/>
+          <f x="-2.2" y="-16.35" cocos2d_x="-2.2" cocos2d_y="-16.35" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="4"/>
+          <f x="0" y="-16.5" cocos2d_x="0" cocos2d_y="-16.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="9" twE="NaN" tweenFrame="0" dr="4"/>
+          <f x="-0.7" y="-16.35" cocos2d_x="-0.7" cocos2d_y="-16.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+          <f x="-2" y="-17.5" cocos2d_x="-2" cocos2d_y="-17.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="8" twE="NaN" tweenFrame="0" dr="4"/>
+          <f x="-2.2" y="-16.35" cocos2d_x="-2.2" cocos2d_y="-16.35" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="4"/>
+          <f x="0" y="-16.5" cocos2d_x="0" cocos2d_y="-16.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="9" twE="NaN" tweenFrame="0" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="1" dI="-1"/>
+        </b>
+        <b name="head_buff" sc="1" dl="0">
+          <f x="-0.5" y="-49.5" cocos2d_x="-0.5" cocos2d_y="-49.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="130"/>
+        </b>
+        <b name="blood" sc="1" dl="0">
+          <f x="-0.5" y="-39.5" cocos2d_x="-0.5" cocos2d_y="-39.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="130"/>
+        </b>
+        <b name="hand" sc="1" dl="0">
+          <f x="23.5" y="-13" cocos2d_x="23.5" cocos2d_y="-13" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="130"/>
+        </b>
+        <b name="hit" sc="1" dl="0">
+          <f x="0" y="-10.5" cocos2d_x="0" cocos2d_y="-10.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="130"/>
+        </b>
+        <b name="body" sc="1" dl="0">
+          <f x="0" y="-10.5" cocos2d_x="0" cocos2d_y="-10.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="130"/>
+        </b>
+        <b name="body_buff" sc="1" dl="0">
+          <f x="0" y="-10.5" cocos2d_x="0" cocos2d_y="-10.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="130"/>
+        </b>
+        <b name="foot_ring" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" dr="130"/>
+        </b>
+        <b name="foot_buff" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" dr="130"/>
+        </b>
+        <b name="event" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="0" evt="cast" dr="130"/>
+        </b>
+      </mov>
+      <mov name="win" dr="48" to="0" drTW="48" lp="1" twE="NaN">
+        <b name="hero_ani_18021_3" sc="1" dl="0">
+          <f x="-0.7" y="-26.35" cocos2d_x="-0.7" cocos2d_y="-26.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-2" y="-32.5" cocos2d_x="-2" cocos2d_y="-32.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="8" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-2.2" y="-26.35" cocos2d_x="-2.2" cocos2d_y="-26.35" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="-16.5" cocos2d_x="0" cocos2d_y="-16.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="9" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-0.7" y="-26.35" cocos2d_x="-0.7" cocos2d_y="-26.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-2" y="-32.5" cocos2d_x="-2" cocos2d_y="-32.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="8" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-2.2" y="-26.35" cocos2d_x="-2.2" cocos2d_y="-26.35" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="-16.5" cocos2d_x="0" cocos2d_y="-16.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="9" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-0.7" y="-16.35" cocos2d_x="-0.7" cocos2d_y="-16.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-2" y="-17.5" cocos2d_x="-2" cocos2d_y="-17.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="8" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-2.2" y="-16.35" cocos2d_x="-2.2" cocos2d_y="-16.35" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="-16.5" cocos2d_x="0" cocos2d_y="-16.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="9" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-0.7" y="-16.35" cocos2d_x="-0.7" cocos2d_y="-16.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-2" y="-17.5" cocos2d_x="-2" cocos2d_y="-17.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="8" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-2.2" y="-16.35" cocos2d_x="-2.2" cocos2d_y="-16.35" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="-16.5" cocos2d_x="0" cocos2d_y="-16.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="9" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-0.7" y="-16.35" cocos2d_x="-0.7" cocos2d_y="-16.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-2" y="-17.5" cocos2d_x="-2" cocos2d_y="-17.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="8" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-2.2" y="-16.35" cocos2d_x="-2.2" cocos2d_y="-16.35" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="-16.5" cocos2d_x="0" cocos2d_y="-16.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="9" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-0.7" y="-16.35" cocos2d_x="-0.7" cocos2d_y="-16.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-2" y="-17.5" cocos2d_x="-2" cocos2d_y="-17.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="8" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-2.2" y="-16.35" cocos2d_x="-2.2" cocos2d_y="-16.35" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="-16.5" cocos2d_x="0" cocos2d_y="-16.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="9" twE="NaN" tweenFrame="0" dr="2"/>
+        </b>
+        <b name="head_buff" sc="1" dl="0">
+          <f x="-0.5" y="-49.5" cocos2d_x="-0.5" cocos2d_y="-49.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="81"/>
+        </b>
+        <b name="blood" sc="1" dl="0">
+          <f x="-0.5" y="-39.5" cocos2d_x="-0.5" cocos2d_y="-39.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="81"/>
+        </b>
+        <b name="hand" sc="1" dl="0">
+          <f x="23.5" y="-13" cocos2d_x="23.5" cocos2d_y="-13" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="81"/>
+        </b>
+        <b name="hit" sc="1" dl="0">
+          <f x="0" y="-10.5" cocos2d_x="0" cocos2d_y="-10.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="81"/>
+        </b>
+        <b name="body" sc="1" dl="0">
+          <f x="0" y="-10.5" cocos2d_x="0" cocos2d_y="-10.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="81"/>
+        </b>
+        <b name="body_buff" sc="1" dl="0">
+          <f x="0" y="-10.5" cocos2d_x="0" cocos2d_y="-10.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="81"/>
+        </b>
+        <b name="foot_ring" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" dr="81"/>
+        </b>
+        <b name="foot_buff" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" dr="81"/>
+        </b>
+        <b name="event" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="0" evt="cast" dr="81"/>
+        </b>
+      </mov>
+      <mov name="show" dr="32" to="0" drTW="32" lp="0" twE="NaN">
+        <b name="hero_ani_18021_3" sc="1" dl="0">
+          <f x="-0.7" y="-16.35" cocos2d_x="-0.7" cocos2d_y="-16.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-0.7" y="-16.35" cocos2d_x="-0.7" cocos2d_y="-16.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-0.7" y="-16.35" cocos2d_x="-0.7" cocos2d_y="-16.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-0.7" y="-16.35" cocos2d_x="-0.7" cocos2d_y="-16.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="-16.5" cocos2d_x="0" cocos2d_y="-16.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="9" twE="NaN" tweenFrame="0" dr="24"/>
+        </b>
+        <b name="head_buff" sc="1" dl="0">
+          <f x="-0.5" y="-49.5" cocos2d_x="-0.5" cocos2d_y="-49.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="33"/>
+        </b>
+        <b name="blood" sc="1" dl="0">
+          <f x="-0.5" y="-39.5" cocos2d_x="-0.5" cocos2d_y="-39.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="33"/>
+        </b>
+        <b name="hand" sc="1" dl="0">
+          <f x="23.5" y="-13" cocos2d_x="23.5" cocos2d_y="-13" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="33"/>
+        </b>
+        <b name="hit" sc="1" dl="0">
+          <f x="0" y="-10.5" cocos2d_x="0" cocos2d_y="-10.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="33"/>
+        </b>
+        <b name="body" sc="1" dl="0">
+          <f x="0" y="-10.5" cocos2d_x="0" cocos2d_y="-10.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="33"/>
+        </b>
+        <b name="body_buff" sc="1" dl="0">
+          <f x="0" y="-10.5" cocos2d_x="0" cocos2d_y="-10.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="33"/>
+        </b>
+        <b name="foot_ring" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" dr="33"/>
+        </b>
+        <b name="foot_buff" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" dr="33"/>
+        </b>
+        <b name="event" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="0" evt="cast" dr="33"/>
+        </b>
+      </mov>
+      <mov name="back" dr="1" to="6">
+        <b name="hero_ani_18021_3" sc="1" dl="0">
+          <f x="-2" y="-17.5" cocos2d_x="-2" cocos2d_y="-17.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="8" dr="1"/>
+        </b>
+        <b name="head_buff" sc="1" dl="0">
+          <f x="-0.5" y="-49.5" cocos2d_x="-0.5" cocos2d_y="-49.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+        </b>
+        <b name="blood" sc="1" dl="0">
+          <f x="-0.5" y="-39.5" cocos2d_x="-0.5" cocos2d_y="-39.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+        </b>
+        <b name="hand" sc="1" dl="0">
+          <f x="23.5" y="-13" cocos2d_x="23.5" cocos2d_y="-13" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="1"/>
+        </b>
+        <b name="hit" sc="1" dl="0">
+          <f x="0" y="-10.5" cocos2d_x="0" cocos2d_y="-10.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="1"/>
+        </b>
+        <b name="body" sc="1" dl="0">
+          <f x="0" y="-10.5" cocos2d_x="0" cocos2d_y="-10.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="1"/>
+        </b>
+        <b name="body_buff" sc="1" dl="0">
+          <f x="0" y="-10.5" cocos2d_x="0" cocos2d_y="-10.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" dr="1"/>
+        </b>
+        <b name="foot_ring" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" dr="1"/>
+        </b>
+        <b name="foot_buff" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="0" dr="1"/>
+        </b>
+        <b name="event" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="9" dI="0" evt="cast" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="hero_ani_18021" width="512" height="256">
+    <SubTexture name="hero_ani_18021_6" width="162" height="38" cocos2d_pX="0" cocos2d_pY="-0.25" x="0" y="0"/>
+    <SubTexture name="hero_ani_18021_61" width="20" height="24" cocos2d_pX="9.55" cocos2d_pY="11.95" x="201" y="132"/>
+    <SubTexture name="hero_ani_18021_60" width="22" height="31" cocos2d_pX="10.6" cocos2d_pY="15.5" x="481" y="103"/>
+    <SubTexture name="hero_ani_18021_59" width="23" height="35" cocos2d_pX="11.2" cocos2d_pY="17.35" x="481" y="66"/>
+    <SubTexture name="hero_ani_18021_58" width="24" height="33" cocos2d_pX="11.85" cocos2d_pY="16.5" x="132" y="76"/>
+    <SubTexture name="hero_ani_18021_39" width="64" height="64" cocos2d_pX="32" cocos2d_pY="32" x="0" y="40"/>
+    <SubTexture name="hero_ani_18021_57" width="29" height="34" cocos2d_pX="14.4" cocos2d_pY="16.65" x="132" y="40"/>
+    <SubTexture name="hero_ani_18021_56" width="52" height="37" cocos2d_pX="25.5" cocos2d_pY="18.3" x="427" y="66"/>
+    <SubTexture name="hero_ani_18021_55" width="51" height="37" cocos2d_pX="25.35" cocos2d_pY="18.15" x="427" y="105"/>
+    <SubTexture name="hero_ani_18021_54" width="48" height="37" cocos2d_pX="23.85" cocos2d_pY="18.1" x="0" y="106"/>
+    <SubTexture name="hero_ani_18021_53" width="36" height="27" cocos2d_pX="17.55" cocos2d_pY="13.45" x="92" y="106"/>
+    <SubTexture name="hero_ani_18021_52" width="19" height="22" cocos2d_pX="9.25" cocos2d_pY="10.95" x="336" y="132"/>
+    <SubTexture name="hero_ani_18021_87" width="1" height="1" cocos2d_pX="0.5" cocos2d_pY="0.5" x="500" y="0"/>
+    <SubTexture name="hero_ani_18021_44" width="64" height="64" cocos2d_pX="32" cocos2d_pY="32" x="295" y="66"/>
+    <SubTexture name="hero_ani_18021_43" width="64" height="64" cocos2d_pX="32" cocos2d_pY="32" x="362" y="0"/>
+    <SubTexture name="hero_ani_18021_42" width="64" height="64" cocos2d_pX="32" cocos2d_pY="32" x="428" y="0"/>
+    <SubTexture name="hero_ani_18021_41" width="64" height="64" cocos2d_pX="32" cocos2d_pY="32" x="66" y="40"/>
+    <SubTexture name="hero_ani_18021_40" width="64" height="64" cocos2d_pX="32" cocos2d_pY="32" x="229" y="66"/>
+    <SubTexture name="hero_ani_18021_50" width="64" height="64" cocos2d_pX="32" cocos2d_pY="32" x="164" y="0"/>
+    <SubTexture name="hero_ani_18021_49" width="64" height="64" cocos2d_pX="32" cocos2d_pY="32" x="230" y="0"/>
+    <SubTexture name="hero_ani_18021_38" width="64" height="64" cocos2d_pX="32" cocos2d_pY="32" x="296" y="0"/>
+    <SubTexture name="hero_ani_18021_37" width="64" height="64" cocos2d_pX="32" cocos2d_pY="32" x="163" y="66"/>
+    <SubTexture name="hero_ani_18021_36" width="64" height="64" cocos2d_pX="32" cocos2d_pY="32" x="361" y="66"/>
+    <SubTexture name="hero_ani_18021_0" width="1" height="1" cocos2d_pX="0.5" cocos2d_pY="0.5" x="494" y="0"/>
+    <SubTexture name="hero_ani_18021_70" width="27" height="25" cocos2d_pX="13.25" cocos2d_pY="12.3" x="130" y="111"/>
+    <SubTexture name="hero_ani_18021_69" width="27" height="25" cocos2d_pX="13.25" cocos2d_pY="12.3" x="92" y="135"/>
+    <SubTexture name="hero_ani_18021_68" width="27" height="25" cocos2d_pX="13.25" cocos2d_pY="12.3" x="265" y="132"/>
+    <SubTexture name="hero_ani_18021_67" width="27" height="25" cocos2d_pX="13.25" cocos2d_pY="12.3" x="480" y="136"/>
+    <SubTexture name="hero_ani_18021_1" width="1" height="1" cocos2d_pX="0.5" cocos2d_pY="0.5" x="497" y="0"/>
+    <SubTexture name="hero_ani_18021_86" width="40" height="43" cocos2d_pX="19.55" cocos2d_pY="21.4" x="357" y="132"/>
+    <SubTexture name="hero_ani_18021_85" width="40" height="43" cocos2d_pX="19.55" cocos2d_pY="21.4" x="223" y="132"/>
+    <SubTexture name="hero_ani_18021_84" width="40" height="43" cocos2d_pX="19.55" cocos2d_pY="21.4" x="294" y="132"/>
+    <SubTexture name="hero_ani_18021_83" width="40" height="43" cocos2d_pX="19.55" cocos2d_pY="21.4" x="159" y="132"/>
+    <SubTexture name="hero_ani_18021_82" width="40" height="43" cocos2d_pX="19.55" cocos2d_pY="21.4" x="50" y="106"/>
+    <SubTexture name="hero_ani_18021_73" width="39" height="27" cocos2d_pX="19.1" cocos2d_pY="13.1" x="42" y="151"/>
+    <SubTexture name="hero_ani_18021_72" width="42" height="26" cocos2d_pX="20.95" cocos2d_pY="12.85" x="399" y="144"/>
+    <SubTexture name="hero_ani_18021_71" width="40" height="27" cocos2d_pX="19.7" cocos2d_pY="13.1" x="0" y="145"/>
+  </TextureAtlas>
+</skeleton>

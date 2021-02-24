@@ -1,0 +1,308 @@
+<skeleton name="buildingpos_barracks" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="buildpos_statue1">
+   <b name="buildpos_5015_2" x="5" y="-111.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="buildingpos_barracks__27" pX="68" pY="112.5"/>
+   </b>
+   <b name="buildingpos_barracks_3" x="-0.8" y="-244.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="buildingpos_barracks__3" pX="35" pY="40.5"/>
+   </b>
+   <b name="buildingpos_barracks_1" x="2.1" y="-252.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+    <d name="buildingpos_barracks__4" pX="21.5" pY="21"/>
+   </b>
+  </armature>
+  <armature name="buildpos_statue2">
+   <b name="buildpos_5014_2" x="-6" y="-106.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="buildingpos_barracks__28" pX="66" pY="106.5"/>
+   </b>
+   <b name="buildingpos_barracks_3" x="-0.8" y="-243" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="buildingpos_barracks__3" pX="35" pY="40.5"/>
+   </b>
+   <b name="buildingpos_barracks_1" x="2.1" y="-250.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+    <d name="buildingpos_barracks__4" pX="21.5" pY="21"/>
+   </b>
+  </armature>
+  <armature name="buildingpos_stairs5">
+   <b name="buildingpos_stairs1_4" x="-10.35" y="-60.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="buildingpos_barracks__21" pX="42" pY="62"/>
+   </b>
+   <b name="buildingpos_stairs1_3" x="-10.8" y="-92" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="buildingpos_barracks__11" pX="35" pY="40.5"/>
+   </b>
+   <b name="buildingpos_stairs1_2" x="-7.9" y="-99.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+    <d name="buildingpos_barracks__10" pX="21.5" pY="21"/>
+   </b>
+  </armature>
+  <armature name="buildingpos_stairs4">
+   <b name="buildingpos_stairs_4" x="9.7" y="-60.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="buildingpos_barracks__22" pX="42" pY="62"/>
+   </b>
+   <b name="buildingpos_stairs_3" x="9.2" y="-92" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="buildingpos_barracks__11" pX="35" pY="40.5"/>
+   </b>
+   <b name="buildingpos_stairs_2" x="12.1" y="-99.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+    <d name="buildingpos_barracks__10" pX="21.5" pY="21"/>
+   </b>
+  </armature>
+  <armature name="buildingpos_stairs3">
+   <b name="buildingpos_stairs1_4" x="-13.8" y="-59.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="buildingpos_barracks__19" pX="41.5" pY="79.5"/>
+   </b>
+   <b name="buildingpos_stairs1_3" x="-10.8" y="-73" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="buildingpos_barracks__11" pX="35" pY="40.5"/>
+   </b>
+   <b name="buildingpos_stairs1_2" x="-7.9" y="-80.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+    <d name="buildingpos_barracks__10" pX="21.5" pY="21"/>
+   </b>
+  </armature>
+  <armature name="buildingpos_stairs2">
+   <b name="buildingpos_stairs_4" x="13.1" y="-59.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="buildingpos_barracks__9" pX="41.5" pY="79.5"/>
+   </b>
+   <b name="buildingpos_stairs_3" x="9.2" y="-73" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="buildingpos_barracks__11" pX="35" pY="40.5"/>
+   </b>
+   <b name="buildingpos_stairs_2" x="12.1" y="-80.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+    <d name="buildingpos_barracks__10" pX="21.5" pY="21"/>
+   </b>
+  </armature>
+  <armature name="buildingpos_stairs1">
+   <b name="buildingpos_stairs1_4" x="-10.3" y="-56.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="buildingpos_barracks__18" pX="38" pY="82"/>
+   </b>
+   <b name="buildingpos_stairs1_3" x="-10.8" y="-68" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="buildingpos_barracks__11" pX="35" pY="40.5"/>
+   </b>
+   <b name="buildingpos_stairs1_2" x="-7.9" y="-75.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+    <d name="buildingpos_barracks__10" pX="21.5" pY="21"/>
+   </b>
+  </armature>
+  <armature name="buildingpos_stairs">
+   <b name="buildingpos_stairs_4" x="9.7" y="-56.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="buildingpos_barracks__12" pX="38" pY="82"/>
+   </b>
+   <b name="buildingpos_stairs_3" x="9.2" y="-68" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="buildingpos_barracks__11" pX="35" pY="40.5"/>
+   </b>
+   <b name="buildingpos_stairs_2" x="12.1" y="-75.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+    <d name="buildingpos_barracks__10" pX="21.5" pY="21"/>
+   </b>
+  </armature>
+  <armature name="buildingpos_barracks1">
+   <b name="buildingpos_barracks1_1" x="-0.8" y="-81" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="buildingpos_barracks__3" pX="35" pY="40.5"/>
+   </b>
+   <b name="icon" x="0" y="-89.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="buildingpos_barracks__7" pX="19.5" pY="20"/>
+   </b>
+  </armature>
+  <armature name="buildingpos_barracks">
+   <b name="buildingpos_barracks_2" x="-0.5" y="-12.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="buildingpos_barracks__5" pX="48.5" pY="31"/>
+   </b>
+   <b name="buildingpos_barracks_3" x="-0.8" y="-76" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="buildingpos_barracks__3" pX="35" pY="40.5"/>
+   </b>
+   <b name="buildingpos_barracks_1" x="2.1" y="-83.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+    <d name="buildingpos_barracks__4" pX="21.5" pY="21"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="buildpos_statue1">
+   <mov name="idle" dr="23" to="0" drTW="23" lp="1" twE="NaN">
+    <b name="buildpos_5015_2" sc="1" dl="0">
+     <f x="5" y="-111.95" cocos2d_x="5" cocos2d_y="-111.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="23"/>
+    </b>
+    <b name="buildingpos_barracks_3" sc="1" dl="0">
+     <f x="-0.8" y="-244.95" cocos2d_x="-0.8" cocos2d_y="-244.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="11"/>
+     <f x="-0.8" y="-240.95" cocos2d_x="-0.8" cocos2d_y="-240.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="11"/>
+     <f x="-0.8" y="-244.95" cocos2d_x="-0.8" cocos2d_y="-244.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+    </b>
+    <b name="buildingpos_barracks_1" sc="1" dl="0">
+     <f x="2.1" y="-252.4" cocos2d_x="2.1" cocos2d_y="-252.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="11"/>
+     <f x="2.1" y="-248.4" cocos2d_x="2.1" cocos2d_y="-248.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="11"/>
+     <f x="2.1" y="-252.4" cocos2d_x="2.1" cocos2d_y="-252.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="buildpos_statue2">
+   <mov name="idle" dr="23" to="0" drTW="23" lp="1" twE="NaN">
+    <b name="buildpos_5014_2" sc="1" dl="0">
+     <f x="-6" y="-106.95" cocos2d_x="-6" cocos2d_y="-106.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="23"/>
+    </b>
+    <b name="buildingpos_barracks_3" sc="1" dl="0">
+     <f x="-0.8" y="-243" cocos2d_x="-0.8" cocos2d_y="-243" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="11"/>
+     <f x="-0.8" y="-239" cocos2d_x="-0.8" cocos2d_y="-239" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="11"/>
+     <f x="-0.8" y="-243" cocos2d_x="-0.8" cocos2d_y="-243" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+    </b>
+    <b name="buildingpos_barracks_1" sc="1" dl="0">
+     <f x="2.1" y="-250.45" cocos2d_x="2.1" cocos2d_y="-250.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="11"/>
+     <f x="2.1" y="-246.45" cocos2d_x="2.1" cocos2d_y="-246.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="11"/>
+     <f x="2.1" y="-250.45" cocos2d_x="2.1" cocos2d_y="-250.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="buildingpos_stairs5">
+   <mov name="build" dr="23" to="0" drTW="23" lp="1" twE="NaN">
+    <b name="buildingpos_stairs1_4" sc="1" dl="0">
+     <f x="-10.35" y="-60.95" cocos2d_x="-10.35" cocos2d_y="-60.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="23"/>
+    </b>
+    <b name="buildingpos_stairs1_3" sc="1" dl="0">
+     <f x="-10.8" y="-92" cocos2d_x="-10.8" cocos2d_y="-92" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="11"/>
+     <f x="-10.8" y="-88" cocos2d_x="-10.8" cocos2d_y="-88" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="11"/>
+     <f x="-10.8" y="-92" cocos2d_x="-10.8" cocos2d_y="-92" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+    </b>
+    <b name="buildingpos_stairs1_2" sc="1" dl="0">
+     <f x="-7.9" y="-99.45" cocos2d_x="-7.9" cocos2d_y="-99.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="11"/>
+     <f x="-7.9" y="-95.45" cocos2d_x="-7.9" cocos2d_y="-95.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="11"/>
+     <f x="-7.9" y="-99.45" cocos2d_x="-7.9" cocos2d_y="-99.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="buildingpos_stairs4">
+   <mov name="build" dr="23" to="0" drTW="23" lp="1" twE="NaN">
+    <b name="buildingpos_stairs_4" sc="1" dl="0">
+     <f x="9.7" y="-60.95" cocos2d_x="9.7" cocos2d_y="-60.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="23"/>
+    </b>
+    <b name="buildingpos_stairs_3" sc="1" dl="0">
+     <f x="9.2" y="-92" cocos2d_x="9.2" cocos2d_y="-92" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="11"/>
+     <f x="9.2" y="-88" cocos2d_x="9.2" cocos2d_y="-88" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="11"/>
+     <f x="9.2" y="-92" cocos2d_x="9.2" cocos2d_y="-92" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+    </b>
+    <b name="buildingpos_stairs_2" sc="1" dl="0">
+     <f x="12.1" y="-99.45" cocos2d_x="12.1" cocos2d_y="-99.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="11"/>
+     <f x="12.1" y="-95.45" cocos2d_x="12.1" cocos2d_y="-95.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="11"/>
+     <f x="12.1" y="-99.45" cocos2d_x="12.1" cocos2d_y="-99.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="buildingpos_stairs3">
+   <mov name="build" dr="23" to="0" drTW="23" lp="1" twE="NaN">
+    <b name="buildingpos_stairs1_4" sc="1" dl="0">
+     <f x="-13.8" y="-59.4" cocos2d_x="-13.8" cocos2d_y="-59.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="23"/>
+    </b>
+    <b name="buildingpos_stairs1_3" sc="1" dl="0">
+     <f x="-10.8" y="-73" cocos2d_x="-10.8" cocos2d_y="-73" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="11"/>
+     <f x="-10.8" y="-69" cocos2d_x="-10.8" cocos2d_y="-69" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="11"/>
+     <f x="-10.8" y="-73" cocos2d_x="-10.8" cocos2d_y="-73" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+    </b>
+    <b name="buildingpos_stairs1_2" sc="1" dl="0">
+     <f x="-7.9" y="-80.45" cocos2d_x="-7.9" cocos2d_y="-80.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="11"/>
+     <f x="-7.9" y="-76.45" cocos2d_x="-7.9" cocos2d_y="-76.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="11"/>
+     <f x="-7.9" y="-80.45" cocos2d_x="-7.9" cocos2d_y="-80.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="buildingpos_stairs2">
+   <mov name="build" dr="23" to="0" drTW="23" lp="1" twE="NaN">
+    <b name="buildingpos_stairs_4" sc="1" dl="0">
+     <f x="13.1" y="-59.4" cocos2d_x="13.1" cocos2d_y="-59.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="23"/>
+    </b>
+    <b name="buildingpos_stairs_3" sc="1" dl="0">
+     <f x="9.2" y="-73" cocos2d_x="9.2" cocos2d_y="-73" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="11"/>
+     <f x="9.2" y="-69" cocos2d_x="9.2" cocos2d_y="-69" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="11"/>
+     <f x="9.2" y="-73" cocos2d_x="9.2" cocos2d_y="-73" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+    </b>
+    <b name="buildingpos_stairs_2" sc="1" dl="0">
+     <f x="12.1" y="-80.45" cocos2d_x="12.1" cocos2d_y="-80.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="11"/>
+     <f x="12.1" y="-76.45" cocos2d_x="12.1" cocos2d_y="-76.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="11"/>
+     <f x="12.1" y="-80.45" cocos2d_x="12.1" cocos2d_y="-80.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="buildingpos_stairs1">
+   <mov name="build" dr="23" to="0" drTW="23" lp="1" twE="NaN">
+    <b name="buildingpos_stairs1_4" sc="1" dl="0">
+     <f x="-10.3" y="-56.95" cocos2d_x="-10.3" cocos2d_y="-56.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="23"/>
+    </b>
+    <b name="buildingpos_stairs1_3" sc="1" dl="0">
+     <f x="-10.8" y="-68" cocos2d_x="-10.8" cocos2d_y="-68" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="11"/>
+     <f x="-10.8" y="-64" cocos2d_x="-10.8" cocos2d_y="-64" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="11"/>
+     <f x="-10.8" y="-68" cocos2d_x="-10.8" cocos2d_y="-68" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+    </b>
+    <b name="buildingpos_stairs1_2" sc="1" dl="0">
+     <f x="-7.9" y="-75.45" cocos2d_x="-7.9" cocos2d_y="-75.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="11"/>
+     <f x="-7.9" y="-71.45" cocos2d_x="-7.9" cocos2d_y="-71.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="11"/>
+     <f x="-7.9" y="-75.45" cocos2d_x="-7.9" cocos2d_y="-75.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="buildingpos_stairs">
+   <mov name="build" dr="23" to="0" drTW="23" lp="1" twE="NaN">
+    <b name="buildingpos_stairs_4" sc="1" dl="0">
+     <f x="9.7" y="-56.95" cocos2d_x="9.7" cocos2d_y="-56.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="23"/>
+    </b>
+    <b name="buildingpos_stairs_3" sc="1" dl="0">
+     <f x="9.2" y="-68" cocos2d_x="9.2" cocos2d_y="-68" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="11"/>
+     <f x="9.2" y="-64" cocos2d_x="9.2" cocos2d_y="-64" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="11"/>
+     <f x="9.2" y="-68" cocos2d_x="9.2" cocos2d_y="-68" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+    </b>
+    <b name="buildingpos_stairs_2" sc="1" dl="0">
+     <f x="12.1" y="-75.45" cocos2d_x="12.1" cocos2d_y="-75.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="11"/>
+     <f x="12.1" y="-71.45" cocos2d_x="12.1" cocos2d_y="-71.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="11"/>
+     <f x="12.1" y="-75.45" cocos2d_x="12.1" cocos2d_y="-75.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="buildingpos_barracks1">
+   <mov name="idle1" dr="23" to="0" drTW="23" lp="1" twE="NaN">
+    <b name="buildingpos_barracks1_1" sc="1" dl="0">
+     <f x="-0.8" y="-81" cocos2d_x="-0.8" cocos2d_y="-81" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="10"/>
+     <f x="-0.8" y="-78" cocos2d_x="-0.8" cocos2d_y="-78" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="12"/>
+     <f x="-0.8" y="-81" cocos2d_x="-0.8" cocos2d_y="-81" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+    </b>
+    <b name="icon" sc="1" dl="0">
+     <f x="0" y="-89.5" cocos2d_x="0" cocos2d_y="-89.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="10"/>
+     <f x="0" y="-86.5" cocos2d_x="0" cocos2d_y="-86.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="12"/>
+     <f x="0" y="-89.5" cocos2d_x="0" cocos2d_y="-89.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+    </b>
+   </mov>
+   <mov name="idle2" dr="23" to="0" drTW="23" lp="1" twE="NaN">
+    <b name="buildingpos_barracks1_1" sc="1" dl="0">
+     <f x="-0.8" y="-81" cocos2d_x="-0.8" cocos2d_y="-81" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="10"/>
+     <f x="-0.8" y="-78" cocos2d_x="-0.8" cocos2d_y="-78" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="12"/>
+     <f x="-0.8" y="-81" cocos2d_x="-0.8" cocos2d_y="-81" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+    </b>
+    <b name="icon" sc="1" dl="0">
+     <f x="0" y="-89.5" cocos2d_x="0" cocos2d_y="-89.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="10"/>
+     <f x="0" y="-86.5" cocos2d_x="0" cocos2d_y="-86.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="12"/>
+     <f x="0" y="-89.5" cocos2d_x="0" cocos2d_y="-89.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="buildingpos_barracks">
+   <mov name="build" dr="23" to="0" drTW="23" lp="1" twE="NaN">
+    <b name="buildingpos_barracks_2" sc="1" dl="0">
+     <f x="-0.5" y="-12.95" cocos2d_x="-0.5" cocos2d_y="-12.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="23"/>
+    </b>
+    <b name="buildingpos_barracks_3" sc="1" dl="0">
+     <f x="-0.8" y="-76" cocos2d_x="-0.8" cocos2d_y="-76" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="11"/>
+     <f x="-0.8" y="-72" cocos2d_x="-0.8" cocos2d_y="-72" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="11"/>
+     <f x="-0.8" y="-76" cocos2d_x="-0.8" cocos2d_y="-76" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+    </b>
+    <b name="buildingpos_barracks_1" sc="1" dl="0">
+     <f x="2.1" y="-83.45" cocos2d_x="2.1" cocos2d_y="-83.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="11"/>
+     <f x="2.1" y="-79.45" cocos2d_x="2.1" cocos2d_y="-79.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="11"/>
+     <f x="2.1" y="-83.45" cocos2d_x="2.1" cocos2d_y="-83.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="buildingpos_barracks" width="512" height="512">
+  <SubTexture name="buildingpos_barracks__5" width="97" height="62" cocos2d_pX="48.5" cocos2d_pY="31" x="224" y="327"/>
+  <SubTexture name="buildingpos_barracks__7" width="40" height="40" cocos2d_pX="19.5" cocos2d_pY="20" x="442" y="88"/>
+  <SubTexture name="buildingpos_barracks__12" width="76" height="164" cocos2d_pX="38" cocos2d_pY="82" x="272" y="161"/>
+  <SubTexture name="buildingpos_barracks__18" width="76" height="164" cocos2d_pX="38" cocos2d_pY="82" x="350" y="161"/>
+  <SubTexture name="buildingpos_barracks__9" width="83" height="159" cocos2d_pX="41.5" cocos2d_pY="79.5" x="357" y="0"/>
+  <SubTexture name="buildingpos_barracks__19" width="83" height="159" cocos2d_pX="41.5" cocos2d_pY="79.5" x="272" y="0"/>
+  <SubTexture name="buildingpos_barracks__22" width="84" height="124" cocos2d_pX="42" cocos2d_pY="62" x="138" y="215"/>
+  <SubTexture name="buildingpos_barracks__10" width="43" height="42" cocos2d_pX="21.5" cocos2d_pY="21" x="442" y="0"/>
+  <SubTexture name="buildingpos_barracks__11" width="70" height="81" cocos2d_pX="35" cocos2d_pY="40.5" x="428" y="244"/>
+  <SubTexture name="buildingpos_barracks__21" width="84" height="124" cocos2d_pX="42" cocos2d_pY="62" x="0" y="227"/>
+  <SubTexture name="buildingpos_barracks__28" width="132" height="213" cocos2d_pX="66" cocos2d_pY="106.5" x="138" y="0"/>
+  <SubTexture name="buildingpos_barracks__4" width="43" height="42" cocos2d_pX="21.5" cocos2d_pY="21" x="442" y="44"/>
+  <SubTexture name="buildingpos_barracks__3" width="70" height="81" cocos2d_pX="35" cocos2d_pY="40.5" x="428" y="161"/>
+  <SubTexture name="buildingpos_barracks__27" width="136" height="225" cocos2d_pX="68" cocos2d_pY="112.5" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

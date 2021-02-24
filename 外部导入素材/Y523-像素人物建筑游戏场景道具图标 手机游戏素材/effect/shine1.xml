@@ -1,0 +1,147 @@
+<skeleton name="shine1" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="shine1">
+   <b name="shine1_11" x="-62.5" y="222.95" kX="-162.39" kY="16.6" cX="1.91" cY="1.43" pX="-0.05" pY="-84.6" z="0">
+    <d name="shine1_17" pX="11" pY="169.2"/>
+   </b>
+   <b name="shine1_10" x="-330" y="88.15" kX="-103.54" kY="-102.53" cX="1.91" cY="1.82" pX="0" pY="-84.65" z="1">
+    <d name="shine1_17" pX="11" pY="169.2"/>
+   </b>
+   <b name="shine1_9" x="383.55" y="103.25" kX="104.43" kY="-76.58" cX="3.53" cY="2.64" pX="-0.05" pY="-84.6" z="2">
+    <d name="shine1_17" pX="11" pY="169.2"/>
+   </b>
+   <b name="shine1_8" x="324.1" y="-291.1" kX="47.08" kY="-136.05" cX="2.54" cY="2.96" pX="-0.1" pY="-84.6" z="3">
+    <d name="shine1_17" pX="11" pY="169.2"/>
+   </b>
+   <b name="shine1_7" x="-399.6" y="-168.5" kX="-69.1" kY="110.9" cX="2.54" cY="2.33" pX="0.05" pY="-84.65" z="4">
+    <d name="shine1_17" pX="11" pY="169.2"/>
+   </b>
+   <b name="shine1_6" x="-74.6" y="-278.7" kX="-15.42" kY="-15.42" cX="2.54" cY="2.54" pX="-0.05" pY="-84.6" z="5">
+    <d name="shine1_17" pX="11" pY="169.2"/>
+   </b>
+   <b name="shine1_5" x="11.3" y="-8.2" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-29.5" z="0">
+    <d name="shine1_26" pX="30" pY="59"/>
+   </b>
+   <b name="shine1_4" x="0.45" y="5.2" kX="0" kY="0" cX="1" cY="1" pX="-5.95" pY="-29.6" z="0">
+    <d name="shine1_16" pX="36.5" pY="71"/>
+   </b>
+   <b name="shine1_3" x="0.15" y="3.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-26" z="6">
+    <d name="shine1_15" pX="26" pY="52"/>
+   </b>
+   <b name="shine1_2" x="1.05" y="4.4" kX="0" kY="0" cX="1" cY="1" pX="-0.9" pY="-18.85" z="1">
+    <d name="shine1_27" pX="18.25" pY="36.5"/>
+   </b>
+   <b name="shine1_1" x="-9.95" y="-0.15" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-53.75" z="0">
+    <d name="shine1_25" pX="56.25" pY="107.5"/>
+    <d name="shine1_24" pX="56.25" pY="107.5"/>
+    <d name="shine1_23" pX="56.25" pY="107.5"/>
+    <d name="shine1_22" pX="56.25" pY="107.5"/>
+    <d name="shine1_21" pX="56.25" pY="107.5"/>
+    <d name="shine1_20" pX="56.25" pY="107.5"/>
+    <d name="shine1_19" pX="56.25" pY="107.5"/>
+    <d name="shine1_18" pX="56.25" pY="107.5"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="shine1">
+   <mov name="effect" dr="24" to="0" drTW="24" lp="0" twE="NaN">
+    <b name="shine1_11" sc="1" dl="0">
+     <f dr="11" dI="-1"/>
+     <f x="-62.5" y="222.95" cocos2d_x="-25.75" cocos2d_y="107.45" kX="-162.39" kY="16.6" cX="1.91" cY="1.43" pX="-0.05" pY="-84.6" z="0" dI="0" dr="1"/>
+     <f x="-39.8" y="139.9" cocos2d_x="-0.95" cocos2d_y="3.9" kX="-164.1" kY="14.9" cX="1.91" cY="1.67" pX="0" pY="-84.6" z="0" dI="0" dr="2"/>
+     <f x="-12.9" y="51.85" cocos2d_x="0.2" cocos2d_y="6.05" kX="-164.1" kY="14.9" cX="0.64" cY="0.56" pX="-0.1" pY="-84.75" z="0" dI="0" dr="1"/>
+     <f dr="9" dI="-1"/>
+    </b>
+    <b name="shine1_10" sc="1" dl="0">
+     <f dr="11" dI="-1"/>
+     <f x="-330" y="88.15" cocos2d_x="-180" cocos2d_y="51.95" kX="-103.54" kY="-102.53" cX="1.91" cY="1.82" pX="0" pY="-84.65" z="1" dI="0" dr="1"/>
+     <f x="-165.95" y="44.5" cocos2d_x="-6.4" cocos2d_y="6.1" kX="-103.54" kY="-102.53" cX="1.91" cY="1.94" pX="0" pY="-84.7" z="1" dI="0" dr="2"/>
+     <f x="-48.45" y="17.45" cocos2d_x="15.45" cocos2d_y="2" kX="-103.54" kY="-102.53" cX="0.77" cY="0.78" pX="-0.1" pY="-84.75" z="1" dI="0" dr="1"/>
+     <f dr="9" dI="-1"/>
+    </b>
+    <b name="shine1_9" sc="1" dl="0">
+     <f dr="11" dI="-1"/>
+     <f x="383.55" y="103.25" cocos2d_x="167" cocos2d_y="47.35" kX="104.43" kY="-76.58" cX="3.53" cY="2.64" pX="-0.05" pY="-84.6" z="2" dI="0" dr="1"/>
+     <f x="252.4" y="66.3" cocos2d_x="2.8" cocos2d_y="1.9" kX="104.43" kY="-76.58" cX="3.53" cY="3.05" pX="-0.05" pY="-84.6" z="2" dI="0" dr="2"/>
+     <f x="59.75" y="21.5" cocos2d_x="-3.75" cocos2d_y="1.8" kX="107.14" kY="-73.87" cX="0.79" cY="0.79" pX="-0.15" pY="-84.55" z="2" dI="0" dr="1"/>
+     <f dr="9" dI="-1"/>
+    </b>
+    <b name="shine1_8" sc="1" dl="0">
+     <f dr="11" dI="-1"/>
+     <f x="324.1" y="-291.1" cocos2d_x="140.7" cocos2d_y="-120.9" kX="47.08" kY="-136.05" cX="2.54" cY="2.96" pX="-0.1" pY="-84.6" z="3" dI="0" dr="1"/>
+     <f x="175.4" y="-167.2" cocos2d_x="-8" cocos2d_y="3" kX="47.08" kY="-136.05" cX="2.54" cY="2.96" pX="-0.1" pY="-84.7" z="3" dI="0" dr="2"/>
+     <f x="47.45" y="-40.55" cocos2d_x="-9.65" cocos2d_y="12.4" kX="47.08" kY="-136.05" cX="1.27" cY="0.92" pX="-0.1" pY="-84.55" z="3" dI="0" dr="1"/>
+     <f dr="9" dI="-1"/>
+    </b>
+    <b name="shine1_7" sc="1" dl="0">
+     <f dr="11" dI="-1"/>
+     <f x="-399.6" y="-168.5" cocos2d_x="-215.1" cocos2d_y="-98.2" kX="-69.1" kY="110.9" cX="2.54" cY="2.33" pX="0.05" pY="-84.65" z="4" dI="0" dr="1"/>
+     <f x="-186.35" y="-88.75" cocos2d_x="-4.7" cocos2d_y="-11.35" kX="-66.89" kY="113.11" cX="2.54" cY="2.33" pX="0.1" pY="-84.7" z="4" dI="0" dr="2"/>
+     <f x="-61.25" y="-29.55" cocos2d_x="-7.85" cocos2d_y="-4.05" kX="-64.44" kY="115.56" cX="1.17" cY="0.7" pX="0" pY="-84.55" z="4" dI="0" dr="1"/>
+     <f dr="9" dI="-1"/>
+    </b>
+    <b name="shine1_6" sc="1" dl="0">
+     <f dr="11" dI="-1"/>
+     <f x="-74.6" y="-278.7" cocos2d_x="-17.35" cocos2d_y="-71.15" kX="-15.42" kY="-15.42" cX="2.54" cY="2.54" pX="-0.05" pY="-84.6" z="5" dI="0" dr="1"/>
+     <f x="-51.35" y="-203.25" cocos2d_x="5.9" cocos2d_y="4.3" kX="-15.42" kY="-15.42" cX="2.54" cY="2.54" pX="0" pY="-84.6" z="5" dI="0" dr="2"/>
+     <f x="-18.3" y="-77.15" cocos2d_x="-0.3" cocos2d_y="-11.85" kX="-15.42" kY="-15.42" cX="0.8" cY="0.8" pX="0" pY="-84.7" z="5" dI="0" dr="1"/>
+     <f dr="9" dI="-1"/>
+    </b>
+    <b name="shine1_5" sc="1" dl="0">
+     <f dr="15" dI="-1"/>
+     <f x="11.3" y="-8.2" cocos2d_x="11.3" cocos2d_y="50.8" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-29.5" z="0" dI="0" dr="1"/>
+     <f dr="8" dI="-1"/>
+    </b>
+    <b name="shine1_4" sc="1" dl="0">
+     <f dr="16" dI="-1"/>
+     <f x="0.45" y="5.2" cocos2d_x="6.4" cocos2d_y="34.8" kX="0" kY="0" cX="1" cY="1" pX="-5.95" pY="-29.6" z="0" dI="0" twE="1" dr="6"/>
+     <f x="0.45" y="5.15" cocos2d_x="11" cocos2d_y="57.6" kX="0" kY="0" cX="1.77" cY="1.77" pX="-5.95" pY="-29.65" z="0" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="1" dI="-1"/>
+    </b>
+    <b name="shine1_3" sc="1" dl="0">
+     <f dr="14" dI="-1"/>
+     <f x="0.15" y="3.4" cocos2d_x="0.15" cocos2d_y="29.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-26" z="6" dI="0" dr="1"/>
+     <f x="0.15" y="3.4" cocos2d_x="0.15" cocos2d_y="46.4" kX="0" kY="0" cX="1.65" cY="1.65" pX="0" pY="-26" z="1" dI="0" dr="1"/>
+     <f dr="8" dI="-1"/>
+    </b>
+    <b name="shine1_2" sc="1" dl="0">
+     <f dr="16" dI="-1"/>
+     <f x="1.05" y="4.4" cocos2d_x="1.95" cocos2d_y="23.25" kX="0" kY="0" cX="1" cY="1" pX="-0.9" pY="-18.85" z="1" dI="0" twE="1" dr="6"/>
+     <f x="1.05" y="4.4" cocos2d_x="3.85" cocos2d_y="62.6" kX="0" kY="0" cX="3.09" cY="3.09" pX="-0.9" pY="-18.85" z="1" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="1" dI="-1"/>
+    </b>
+    <b name="shine1_1" sc="1" dl="0">
+     <f x="-9.95" y="-0.15" cocos2d_x="-9.95" cocos2d_y="107.35" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-53.75" z="0" dI="0" dr="2"/>
+     <f x="-9.95" y="-0.15" cocos2d_x="-9.95" cocos2d_y="107.35" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-53.75" z="0" dI="1" dr="2"/>
+     <f x="-9.95" y="-0.15" cocos2d_x="-9.95" cocos2d_y="107.35" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-53.75" z="0" dI="2" dr="2"/>
+     <f x="-9.95" y="-0.15" cocos2d_x="-9.95" cocos2d_y="107.35" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-53.75" z="0" dI="3" dr="2"/>
+     <f x="-9.95" y="-0.15" cocos2d_x="-9.95" cocos2d_y="107.35" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-53.75" z="0" dI="4" dr="2"/>
+     <f x="-9.95" y="-0.15" cocos2d_x="-9.95" cocos2d_y="107.35" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-53.75" z="6" dI="5" dr="2"/>
+     <f x="-9.95" y="-0.15" cocos2d_x="-9.95" cocos2d_y="107.35" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-53.75" z="6" dI="6" dr="2"/>
+     <f x="-9.95" y="-0.15" cocos2d_x="-9.95" cocos2d_y="107.35" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-53.75" z="2" dI="7" dr="2"/>
+     <f dr="8" dI="-1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="shine1" width="512" height="512">
+  <SubTexture name="shine1_18" width="113" height="108" cocos2d_pX="56.25" cocos2d_pY="107.5" x="345" y="110"/>
+  <SubTexture name="shine1_19" width="113" height="108" cocos2d_pX="56.25" cocos2d_pY="107.5" x="230" y="0"/>
+  <SubTexture name="shine1_20" width="113" height="108" cocos2d_pX="56.25" cocos2d_pY="107.5" x="345" y="0"/>
+  <SubTexture name="shine1_21" width="113" height="108" cocos2d_pX="56.25" cocos2d_pY="107.5" x="0" y="110"/>
+  <SubTexture name="shine1_22" width="113" height="108" cocos2d_pX="56.25" cocos2d_pY="107.5" x="115" y="110"/>
+  <SubTexture name="shine1_23" width="113" height="108" cocos2d_pX="56.25" cocos2d_pY="107.5" x="230" y="110"/>
+  <SubTexture name="shine1_24" width="113" height="108" cocos2d_pX="56.25" cocos2d_pY="107.5" x="0" y="0"/>
+  <SubTexture name="shine1_25" width="113" height="108" cocos2d_pX="56.25" cocos2d_pY="107.5" x="115" y="0"/>
+  <SubTexture name="shine1_27" width="37" height="37" cocos2d_pX="18.25" cocos2d_pY="36.5" x="460" y="171"/>
+  <SubTexture name="shine1_15" width="52" height="52" cocos2d_pX="26" cocos2d_pY="52" x="137" y="220"/>
+  <SubTexture name="shine1_16" width="73" height="71" cocos2d_pX="36.5" cocos2d_pY="71" x="0" y="220"/>
+  <SubTexture name="shine1_26" width="60" height="59" cocos2d_pX="30" cocos2d_pY="59" x="75" y="220"/>
+  <SubTexture name="shine1_17" width="22" height="169" cocos2d_pX="11" cocos2d_pY="169.2" x="460" y="0"/>
+ </TextureAtlas>
+</skeleton>

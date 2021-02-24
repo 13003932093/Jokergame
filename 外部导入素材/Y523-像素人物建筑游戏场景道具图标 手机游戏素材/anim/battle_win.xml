@@ -1,0 +1,393 @@
+<skeleton name="battle_win" frameRate="28" version="2.2">
+  <armatures>
+    <armature name="battle_win">
+      <b name="battle_win_19" x="-2.05" y="-46.85" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="0">
+        <d name="battle_win_24" pX="213" pY="151.2"/>
+      </b>
+      <b name="battle_win_6" x="137.95" y="-44.95" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="1">
+        <d name="battle_win_27" pX="45.6" pY="47.5"/>
+      </b>
+      <b name="battle_win_5" x="-150" y="-42.95" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="2">
+        <d name="battle_win_26" pX="45.6" pY="47.6"/>
+      </b>
+      <b name="battle_win_69" x="137.95" y="-42.95" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="3">
+        <d name="battle_win_26" pX="45.6" pY="47.6"/>
+      </b>
+      <b name="battle_win_56" x="-150.1" y="-43.55" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="4">
+        <d name="battle_win_28" pX="45.5" pY="47.5"/>
+      </b>
+      <b name="battle_win_669" x="137.95" y="-42.95" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="5">
+        <d name="battle_win_26" pX="45.6" pY="47.6"/>
+      </b>
+      <b name="battle_win_566" x="-150.05" y="-42.95" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="6">
+        <d name="battle_win_25" pX="45.5" pY="47.5"/>
+      </b>
+      <b name="battle_win_35" x="-309" y="-84.3" kX="0" kY="0" cX="5.5" cY="5.5" pX="0" pY="-5.8" z="7">
+        <d name="battle_win_0" pX="5.6" pY="11.6"/>
+        <d name="battle_win_1" pX="11.8" pY="24.2"/>
+        <d name="battle_win_2" pX="15.5" pY="31.8"/>
+        <d name="battle_win_3" pX="23.45" pY="47.2"/>
+        <d name="battle_win_4" pX="23.45" pY="47.2"/>
+        <d name="battle_win_5" pX="23.45" pY="47.2"/>
+      </b>
+      <b name="battle_win_34" x="303.5" y="-35.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8">
+        <d name="battle_win_13" pX="43.6" pY="45.15"/>
+        <d name="battle_win_14" pX="91.85" pY="94.2"/>
+        <d name="battle_win_15" pX="120.7" pY="123.8"/>
+        <d name="battle_win_16" pX="182.6" pY="183.75"/>
+        <d name="battle_win_17" pX="182.6" pY="183.75"/>
+        <d name="battle_win_18" pX="182.6" pY="183.75"/>
+        <d name="battle_win_19" pX="182.6" pY="183.75"/>
+      </b>
+      <b name="battle_win_33" x="-6.1" y="-178.05" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="9">
+        <d name="battle_win_23" pX="15.8" pY="16.35"/>
+        <d name="battle_win_22" pX="33.25" pY="34.15"/>
+        <d name="battle_win_21" pX="43.7" pY="44.85"/>
+        <d name="battle_win_20" pX="66.1" pY="66.55"/>
+      </b>
+      <b name="marks_back" x="-0.05" y="292.35" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="7">
+        <d name="battle_win_85" pX="127.5" pY="38"/>
+      </b>
+      <b name="marks_1" x="-211.55" y="-215.5" kX="-45" kY="-45" cX="4" cY="4" pX="0" pY="0" z="8">
+        <d name="battle_win_11" isArmature="1"/>
+      </b>
+      <b name="marks_2" x="-1.55" y="-215.5" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="9">
+        <d name="battle_win_11" isArmature="1"/>
+      </b>
+      <b name="marks_3" x="208.45" y="-215.5" kX="45" kY="45" cX="4" cY="4" pX="0" pY="0" z="10">
+        <d name="battle_win_11" isArmature="1"/>
+      </b>
+      <b name="event" x="-7.2" y="55.05" kX="0" kY="0" cX="1.46" cY="1.46" pX="0" pY="0" z="8">
+        <d name="battle_win_10" pX="0" pY="0"/>
+      </b>
+    </armature>
+    <armature name="battle_win_11">
+      <b name="battle_win_35" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="battle_win_12" pX="35.5" pY="35.5"/>
+      </b>
+      <b name="battle_win_32" x="43.8" y="9.05" kX="-171.74" kY="-173.09" cX="0.92" cY="0.92" pX="0" pY="0" z="1">
+        <d name="battle_win_8" pX="10.05" pY="8.3"/>
+      </b>
+      <b name="battle_win_31" x="27.2" y="37.35" kX="-118.28" kY="-119.63" cX="0.92" cY="0.92" pX="0" pY="0" z="2">
+        <d name="battle_win_8" pX="10.05" pY="8.3"/>
+      </b>
+      <b name="battle_win_30" x="-26.25" y="-29.6" kX="82.97" kY="81.62" cX="0.92" cY="0.92" pX="0" pY="0" z="3">
+        <d name="battle_win_8" pX="10.05" pY="8.3"/>
+      </b>
+      <b name="battle_win_29" x="-37.9" y="23.25" kX="-22.03" kY="-23.38" cX="0.92" cY="0.92" pX="0" pY="0" z="4">
+        <d name="battle_win_8" pX="10.05" pY="8.3"/>
+      </b>
+      <b name="battle_win_28" x="-13.2" y="42.25" kX="-72.39" kY="-72.39" cX="1.18" cY="1.18" pX="0" pY="0" z="5">
+        <d name="battle_win_8" pX="10.05" pY="8.3"/>
+      </b>
+      <b name="battle_win_27" x="11.75" y="-36.55" kX="134.3" kY="134.3" cX="0.75" cY="0.75" pX="0" pY="0" z="6">
+        <d name="battle_win_8" pX="10.05" pY="8.3"/>
+      </b>
+      <b name="battle_win_26" x="33.4" y="-22.85" kX="-174.23" kY="-174.23" cX="1" cY="1" pX="0" pY="0" z="7">
+        <d name="battle_win_8" pX="10.05" pY="8.3"/>
+      </b>
+      <b name="battle_win_25" x="-40.15" y="-5.95" kX="15" kY="15" cX="1" cY="1" pX="0" pY="0" z="8">
+        <d name="battle_win_8" pX="10.05" pY="8.3"/>
+      </b>
+      <b name="图层 1" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="29.5" pY="29.5" z="0">
+        <d name="battle_win_42" pX="0" pY="0"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="battle_win_11">
+      <mov name="win" dr="20" to="0" drTW="20" lp="0" twE="NaN">
+        <b name="battle_win_35" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="7">
+            <colorTransform a="0" r="0" g="0" b="0" aM="90" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="2.16" cY="2.16" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="8" dI="-1"/>
+        </b>
+        <b name="battle_win_32" sc="1" dl="0">
+          <f dr="5" dI="-1"/>
+          <f x="43.8" y="9.05" cocos2d_x="43.8" cocos2d_y="9.05" kX="-171.74" kY="-173.09" cX="0.92" cY="0.92" pX="0" pY="0" z="1" dI="0" twE="0" dr="4"/>
+          <f x="76" y="25.05" cocos2d_x="76" cocos2d_y="25.05" kX="97.81" kY="97.05" cX="0.73" cY="0.74" pX="0" pY="0" z="0" dI="0" twE="0" dr="8"/>
+          <f x="97.35" y="35.7" cocos2d_x="97.35" cocos2d_y="35.7" kX="37.77" kY="37.4" cX="0.6" cY="0.62" pX="0" pY="0" z="0" dI="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="1" dI="-1"/>
+        </b>
+        <b name="battle_win_31" sc="1" dl="0">
+          <f dr="6" dI="-1"/>
+          <f x="27.2" y="37.35" cocos2d_x="27.2" cocos2d_y="37.35" kX="-118.28" kY="-119.63" cX="0.92" cY="0.92" pX="0" pY="0" z="2" dI="0" twE="0" dr="4"/>
+          <f x="55.9" y="95.15" cocos2d_x="55.9" cocos2d_y="95.15" kX="142.41" kY="141.66" cX="0.73" cY="0.74" pX="0" pY="0" z="1" dI="0" twE="0" dr="8"/>
+          <f x="75" y="133.65" cocos2d_x="75" cocos2d_y="133.65" kX="76.23" kY="75.86" cX="0.6" cY="0.62" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="1" dI="-1"/>
+        </b>
+        <b name="battle_win_30" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="-26.25" y="-29.6" cocos2d_x="-26.25" cocos2d_y="-29.6" kX="82.97" kY="81.62" cX="0.92" cY="0.92" pX="0" pY="0" z="3" dI="0" twE="0" dr="4"/>
+          <f x="-48.8" y="-53.7" cocos2d_x="-48.8" cocos2d_y="-53.7" kX="-16.28" kY="-17.04" cX="0.73" cY="0.74" pX="0" pY="0" z="2" dI="0" twE="0" dr="8"/>
+          <f x="-63.85" y="-69.75" cocos2d_x="-63.85" cocos2d_y="-69.75" kX="-82.52" kY="-82.89" cX="0.6" cY="0.62" pX="0" pY="0" z="2" dI="0" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="1" dI="-1"/>
+        </b>
+        <b name="battle_win_29" sc="1" dl="0">
+          <f dr="5" dI="-1"/>
+          <f x="-37.9" y="23.25" cocos2d_x="-37.9" cocos2d_y="23.25" kX="-22.03" kY="-23.38" cX="0.92" cY="0.92" pX="0" pY="0" z="4" dI="0" twE="0" dr="4"/>
+          <f x="-82.35" y="43.05" cocos2d_x="-82.35" cocos2d_y="43.05" kX="-121.32" kY="-122.07" cX="0.73" cY="0.74" pX="0" pY="0" z="3" dI="0" twE="0" dr="8"/>
+          <f x="-112" y="56.35" cocos2d_x="-112" cocos2d_y="56.35" kX="172.48" kY="172.11" cX="0.6" cY="0.62" pX="0" pY="0" z="3" dI="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="1" dI="-1"/>
+        </b>
+        <b name="battle_win_28" sc="1" dl="0">
+          <f dr="6" dI="-1"/>
+          <f x="-13.2" y="42.25" cocos2d_x="-13.2" cocos2d_y="42.25" kX="-72.39" kY="-72.39" cX="1.18" cY="1.18" pX="0" pY="0" z="5" dI="0" twE="0" dr="4"/>
+          <f x="-30.15" y="82.05" cocos2d_x="-30.15" cocos2d_y="82.05" kX="-171.47" kY="-171.47" cX="0.94" cY="0.94" pX="0" pY="0" z="4" dI="0" twE="0" dr="8"/>
+          <f x="-41.45" y="108.6" cocos2d_x="-41.45" cocos2d_y="108.6" kX="122.61" kY="122.61" cX="0.78" cY="0.78" pX="0" pY="0" z="4" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="1" dI="-1"/>
+        </b>
+        <b name="battle_win_27" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="11.75" y="-36.55" cocos2d_x="11.75" cocos2d_y="-36.55" kX="134.3" kY="134.3" cX="0.75" cY="0.75" pX="0" pY="0" z="6" dI="0" twE="0" dr="4"/>
+          <f x="16.4" y="-86.3" cocos2d_x="16.4" cocos2d_y="-86.3" kX="35.32" kY="35.32" cX="0.6" cY="0.6" pX="0" pY="0" z="5" dI="0" twE="0" dr="8"/>
+          <f x="19.55" y="-119.45" cocos2d_x="19.55" cocos2d_y="-119.45" kX="-30.7" kY="-30.7" cX="0.5" cY="0.5" pX="0" pY="0" z="5" dI="0" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="1" dI="-1"/>
+        </b>
+        <b name="battle_win_26" sc="1" dl="0">
+          <f dr="5" dI="-1"/>
+          <f x="33.4" y="-22.85" cocos2d_x="33.4" cocos2d_y="-22.85" kX="-174.23" kY="-174.23" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" twE="0" dr="4"/>
+          <f x="91.05" y="-39.2" cocos2d_x="91.05" cocos2d_y="-39.2" kX="86.94" kY="86.94" cX="0.8" cY="0.8" pX="0" pY="0" z="6" dI="0" twE="0" dr="8"/>
+          <f x="129.5" y="-50.15" cocos2d_x="129.5" cocos2d_y="-50.15" kX="20.78" kY="20.78" cX="0.66" cY="0.66" pX="0" pY="0" z="6" dI="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="1" dI="-1"/>
+        </b>
+        <b name="battle_win_25" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="-40.15" y="-5.95" cocos2d_x="-40.15" cocos2d_y="-5.95" kX="15" kY="15" cX="1" cY="1" pX="0" pY="0" z="8" dI="0" twE="0" dr="4"/>
+          <f x="-107.55" y="-33.3" cocos2d_x="-107.55" cocos2d_y="-33.3" kX="-75.18" kY="-75.18" cX="0.8" cY="0.8" pX="0" pY="0" z="7" dI="0" twE="0" dr="8"/>
+          <f x="-152.5" y="-51.5" cocos2d_x="-152.5" cocos2d_y="-51.5" kX="-135" kY="-135" cX="0.66" cY="0.66" pX="0" pY="0" z="7" dI="0" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="1" dI="-1"/>
+        </b>
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="-29.5" cocos2d_y="-29.5" kX="0" kY="0" cX="1" cY="1" pX="29.5" pY="29.5" z="0" dI="0" dr="4"/>
+          <f x="0" y="0" cocos2d_x="-29.5" cocos2d_y="-29.5" kX="0" kY="0" cX="1" cY="1" pX="29.5" pY="29.5" z="8" dI="0" dr="15"/>
+          <f x="0" y="0" cocos2d_x="-29.5" cocos2d_y="-29.5" kX="0" kY="0" cX="1" cY="1" pX="29.5" pY="29.5" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="battle_win">
+      <mov name="win" dr="100" to="0" drTW="100" lp="0" twE="NaN">
+        <b name="battle_win_19" sc="1" dl="0">
+          <f x="-2.05" y="-46.85" cocos2d_x="-2.05" cocos2d_y="-46.85" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="0" dI="0" twE="-1" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-2.05" y="-35.3" cocos2d_x="-2.05" cocos2d_y="-35.3" kX="0" kY="0" cX="0.7" cY="0.7" pX="0" pY="0" z="0" dI="0" twE="0" dr="4"/>
+          <f x="-2.05" y="-36.65" cocos2d_x="-2.05" cocos2d_y="-36.65" kX="0" kY="0" cX="1.08" cY="1.08" pX="0" pY="0" z="0" dI="0" twE="0" dr="3"/>
+          <f x="-2.05" y="-36.35" cocos2d_x="-2.05" cocos2d_y="-36.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="-1" dr="16"/>
+          <f x="-2.05" y="-36.35" cocos2d_x="-2.05" cocos2d_y="-36.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="-1" dr="7"/>
+          <f x="-2.05" y="-247" cocos2d_x="-2.05" cocos2d_y="-247" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="4"/>
+          <f x="-2.05" y="-223" cocos2d_x="-2.05" cocos2d_y="-223" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="4"/>
+          <f x="-2.05" y="-229" cocos2d_x="-2.05" cocos2d_y="-229" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="57"/>
+        </b>
+        <b name="battle_win_6" sc="1" dl="0">
+          <f x="137.95" y="-44.95" cocos2d_x="137.95" cocos2d_y="-44.95" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="1" dI="0" twE="-1" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="22.45" y="-34.95" cocos2d_x="22.45" cocos2d_y="-34.95" kX="0" kY="0" cX="0.7" cY="0.7" pX="0" pY="0" z="1" dI="0" twE="0" dr="4"/>
+          <f x="35.85" y="-36.15" cocos2d_x="35.85" cocos2d_y="-36.15" kX="0" kY="0" cX="1.08" cY="1.08" pX="0" pY="0" z="1" dI="0" twE="0" dr="3"/>
+          <f x="32.95" y="-35.85" cocos2d_x="32.95" cocos2d_y="-35.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="16"/>
+          <f x="32.95" y="-35.85" cocos2d_x="32.95" cocos2d_y="-35.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="7"/>
+          <f x="32.95" y="-245.5" cocos2d_x="32.95" cocos2d_y="-245.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="4"/>
+          <f x="32.95" y="-221.5" cocos2d_x="32.95" cocos2d_y="-221.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="4"/>
+          <f x="32.95" y="-227.5" cocos2d_x="32.95" cocos2d_y="-227.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="57"/>
+        </b>
+        <b name="battle_win_5" sc="1" dl="0">
+          <f x="-150" y="-42.95" cocos2d_x="-150" cocos2d_y="-42.95" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="2" dI="0" twE="-1" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-28.65" y="-34.6" cocos2d_x="-28.65" cocos2d_y="-34.6" kX="0" kY="0" cX="0.7" cY="0.7" pX="0" pY="0" z="2" dI="0" twE="0" dr="4"/>
+          <f x="-44.2" y="-35.6" cocos2d_x="-44.2" cocos2d_y="-35.6" kX="0" kY="0" cX="1.08" cY="1.08" pX="0" pY="0" z="2" dI="0" twE="0" dr="3"/>
+          <f x="-40.05" y="-35.35" cocos2d_x="-40.05" cocos2d_y="-35.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="16"/>
+          <f x="-40.05" y="-35.35" cocos2d_x="-40.05" cocos2d_y="-35.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="7"/>
+          <f x="-40.05" y="-246" cocos2d_x="-40.05" cocos2d_y="-246" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="4"/>
+          <f x="-40.05" y="-222" cocos2d_x="-40.05" cocos2d_y="-222" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="4"/>
+          <f x="-40.05" y="-228" cocos2d_x="-40.05" cocos2d_y="-228" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="57"/>
+        </b>
+        <b name="battle_win_69" sc="1" dl="0">
+          <f x="137.95" y="-42.95" cocos2d_x="137.95" cocos2d_y="-42.95" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="3" dI="0" twE="-1" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="22.45" y="-34.6" cocos2d_x="22.45" cocos2d_y="-34.6" kX="0" kY="0" cX="0.7" cY="0.7" pX="0" pY="0" z="3" dI="0" twE="0" dr="4"/>
+          <f x="35.9" y="-35.55" cocos2d_x="35.9" cocos2d_y="-35.55" kX="0" kY="0" cX="1.08" cY="1.08" pX="0" pY="0" z="3" dI="0" twE="0" dr="3"/>
+          <f x="32.95" y="-35.35" cocos2d_x="32.95" cocos2d_y="-35.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="16"/>
+          <f x="32.95" y="-35.35" cocos2d_x="32.95" cocos2d_y="-35.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="7"/>
+          <f x="32.95" y="-246" cocos2d_x="32.95" cocos2d_y="-246" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="4"/>
+          <f x="32.95" y="-222" cocos2d_x="32.95" cocos2d_y="-222" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="4"/>
+          <f x="32.95" y="-228" cocos2d_x="32.95" cocos2d_y="-228" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="57"/>
+        </b>
+        <b name="battle_win_56" sc="1" dl="0">
+          <f x="-150.1" y="-43.55" cocos2d_x="-150.1" cocos2d_y="-43.55" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="4" dI="0" twE="-1" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-27.05" y="-35.85" cocos2d_x="-27.05" cocos2d_y="-35.85" kX="0" kY="0" cX="0.7" cY="0.7" pX="0" pY="0" z="4" dI="0" twE="0" dr="4"/>
+          <f x="-42.05" y="-35.85" cocos2d_x="-42.05" cocos2d_y="-35.85" kX="0" kY="0" cX="1.08" cY="1.08" pX="0" pY="0" z="4" dI="0" twE="0" dr="3"/>
+          <f x="-39.05" y="-35.85" cocos2d_x="-39.05" cocos2d_y="-35.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="16"/>
+          <f x="-39.05" y="-35.85" cocos2d_x="-39.05" cocos2d_y="-35.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="7"/>
+          <f x="-39.05" y="-246.85" cocos2d_x="-39.05" cocos2d_y="-246.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="4"/>
+          <f x="-39.05" y="-222.85" cocos2d_x="-39.05" cocos2d_y="-222.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="4"/>
+          <f x="-39.05" y="-228.85" cocos2d_x="-39.05" cocos2d_y="-228.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="57"/>
+        </b>
+        <b name="battle_win_669" sc="1" dl="0">
+          <f x="137.95" y="-42.95" cocos2d_x="137.95" cocos2d_y="-42.95" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="5" dI="0" twE="-1" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="22.45" y="-34.6" cocos2d_x="22.45" cocos2d_y="-34.6" kX="0" kY="0" cX="0.7" cY="0.7" pX="0" pY="0" z="5" dI="0" twE="0" dr="4"/>
+          <f x="35.9" y="-35.55" cocos2d_x="35.9" cocos2d_y="-35.55" kX="0" kY="0" cX="1.08" cY="1.08" pX="0" pY="0" z="5" dI="0" twE="0" dr="3"/>
+          <f x="32.95" y="-35.35" cocos2d_x="32.95" cocos2d_y="-35.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="16"/>
+          <f x="32.95" y="-35.35" cocos2d_x="32.95" cocos2d_y="-35.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" twE="0" dr="7"/>
+          <f x="32.95" y="-246" cocos2d_x="32.95" cocos2d_y="-246" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" twE="0" dr="4"/>
+          <f x="32.95" y="-222" cocos2d_x="32.95" cocos2d_y="-222" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" twE="0" dr="4"/>
+          <f x="32.95" y="-228" cocos2d_x="32.95" cocos2d_y="-228" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="57"/>
+        </b>
+        <b name="battle_win_566" sc="1" dl="0">
+          <f x="-150.05" y="-42.95" cocos2d_x="-150.05" cocos2d_y="-42.95" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="6" dI="0" twE="-1" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-27.95" y="-34.6" cocos2d_x="-27.95" cocos2d_y="-34.6" kX="0" kY="0" cX="0.7" cY="0.7" pX="0" pY="0" z="6" dI="0" twE="0" dr="4"/>
+          <f x="-42.1" y="-35.55" cocos2d_x="-42.1" cocos2d_y="-35.55" kX="0" kY="0" cX="1.08" cY="1.08" pX="0" pY="0" z="6" dI="0" twE="0" dr="3"/>
+          <f x="-39.05" y="-35.35" cocos2d_x="-39.05" cocos2d_y="-35.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" dr="16"/>
+          <f x="-39.05" y="-35.35" cocos2d_x="-39.05" cocos2d_y="-35.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" twE="0" dr="7"/>
+          <f x="-39.05" y="-246" cocos2d_x="-39.05" cocos2d_y="-246" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" twE="0" dr="4"/>
+          <f x="-39.05" y="-222" cocos2d_x="-39.05" cocos2d_y="-222" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" twE="0" dr="4"/>
+          <f x="-39.05" y="-228" cocos2d_x="-39.05" cocos2d_y="-228" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" dr="57"/>
+        </b>
+        <b name="battle_win_35" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="-309" y="-84.3" cocos2d_x="-309" cocos2d_y="-52.4" kX="0" kY="0" cX="5.5" cY="5.5" pX="0" pY="-5.8" z="7" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-306.8" y="-81.55" cocos2d_x="-306.8" cocos2d_y="-15" kX="0" kY="0" cX="5.5" cY="5.5" pX="0" pY="-12.1" z="7" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-307.35" y="-81.55" cocos2d_x="-307.35" cocos2d_y="5.9" kX="0" kY="0" cX="5.5" cY="5.5" pX="0" pY="-15.9" z="7" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-306" y="-81.55" cocos2d_x="-306" cocos2d_y="48.25" kX="0" kY="0" cX="5.5" cY="5.5" pX="0" pY="-23.6" z="7" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-306" y="-81.55" cocos2d_x="-306" cocos2d_y="48.25" kX="0" kY="0" cX="5.5" cY="5.5" pX="0" pY="-23.6" z="7" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-306" y="-81.55" cocos2d_x="-306" cocos2d_y="48.25" kX="0" kY="0" cX="5.5" cY="5.5" pX="0" pY="-23.6" z="7" dI="5" twE="0" dr="7"/>
+          <f x="-306" y="-77.65" cocos2d_x="-306" cocos2d_y="65.15" kX="0" kY="0" cX="6.05" cY="6.05" pX="0" pY="-23.6" z="7" dI="5" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="73" dI="-1"/>
+        </b>
+        <b name="battle_win_34" sc="1" dl="0">
+          <f dr="13" dI="-1"/>
+          <f x="303.5" y="-35.8" cocos2d_x="303.5" cocos2d_y="-35.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="306.65" y="-31.9" cocos2d_x="306.65" cocos2d_y="-31.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="305.85" y="-31.9" cocos2d_x="305.85" cocos2d_y="-31.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="307.8" y="-31.9" cocos2d_x="307.8" cocos2d_y="-31.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="307.8" y="-31.9" cocos2d_x="307.8" cocos2d_y="-31.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="307.8" y="-31.9" cocos2d_x="307.8" cocos2d_y="-31.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="307.8" y="-31.9" cocos2d_x="307.8" cocos2d_y="-31.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="6" twE="0" dr="6"/>
+          <f x="307.8" y="-26" cocos2d_x="307.8" cocos2d_y="-26" kX="0" kY="0" cX="1.1" cY="1.1" pX="0" pY="0" z="7" dI="6" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="68" dI="-1"/>
+        </b>
+        <b name="battle_win_33" sc="1" dl="0">
+          <f dr="17" dI="-1"/>
+          <f x="-6.1" y="-178.05" cocos2d_x="-6.1" cocos2d_y="-178.05" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="9" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-4.75" y="-176.45" cocos2d_x="-4.75" cocos2d_y="-176.35" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="-0.1" z="9" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-5.15" y="-176.25" cocos2d_x="-5.15" cocos2d_y="-176.2" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="9" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-4.3" y="-176.3" cocos2d_x="-4.3" cocos2d_y="-176.3" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="8" dI="3" twE="0" dr="7"/>
+          <f x="-4.3" y="-176.3" cocos2d_x="-4.3" cocos2d_y="-176.3" kX="0" kY="0" cX="1.32" cY="1.32" pX="0" pY="0" z="8" dI="3" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="69" dI="-1"/>
+        </b>
+        <b name="marks_back" sc="1" dl="0">
+          <f x="-0.05" y="292.35" cocos2d_x="-0.05" cocos2d_y="292.35" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="7" dI="0" twE="-1" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-1.7" y="24.05" cocos2d_x="-1.7" cocos2d_y="24.05" kX="0" kY="0" cX="0.7" cY="0.7" pX="0" pY="0" z="7" dI="0" twE="0" dr="4"/>
+          <f x="-1.5" y="55.2" cocos2d_x="-1.5" cocos2d_y="55.2" kX="0" kY="0" cX="1.08" cY="1.08" pX="0" pY="0" z="8" dI="0" twE="0" dr="3"/>
+          <f x="-1.55" y="48.45" cocos2d_x="-1.55" cocos2d_y="48.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="9" dI="0" twE="-1" dr="16"/>
+          <f x="-1.55" y="48.45" cocos2d_x="-1.55" cocos2d_y="48.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" twE="-1" dr="7"/>
+          <f x="-1.55" y="-162.2" cocos2d_x="-1.55" cocos2d_y="-162.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" twE="0" dr="4"/>
+          <f x="-1.55" y="-138.2" cocos2d_x="-1.55" cocos2d_y="-138.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" twE="0" dr="4"/>
+          <f x="-1.55" y="-144.2" cocos2d_x="-1.55" cocos2d_y="-144.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" dr="57"/>
+        </b>
+        <b name="marks_1" sc="1" dl="0">
+          <f dr="45" dI="-1"/>
+          <f x="-211.55" y="-215.5" cocos2d_x="-211.55" cocos2d_y="-215.5" kX="-45" kY="-45" cX="4" cY="4" pX="0" pY="0" z="8" dI="0" twE="-1" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="20" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-91.55" y="-155.5" cocos2d_x="-91.55" cocos2d_y="-155.5" kX="0" kY="0" cX="0.73" cY="0.73" pX="0" pY="0" z="8" dI="0" twE="0" dr="3"/>
+          <f x="-91.55" y="-155.5" cocos2d_x="-91.55" cocos2d_y="-155.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="0" dr="48"/>
+        </b>
+        <b name="marks_2" sc="1" dl="0">
+          <f dr="51" dI="-1"/>
+          <f x="-1.55" y="-215.5" cocos2d_x="-1.55" cocos2d_y="-215.5" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="9" dI="0" twE="-1" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="20" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-1.55" y="-155.5" cocos2d_x="-1.55" cocos2d_y="-155.5" kX="0" kY="0" cX="0.73" cY="0.73" pX="0" pY="0" z="9" dI="0" twE="0" dr="3"/>
+          <f x="-1.55" y="-155.5" cocos2d_x="-1.55" cocos2d_y="-155.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="9" dI="0" dr="42"/>
+        </b>
+        <b name="marks_3" sc="1" dl="0">
+          <f dr="57" dI="-1"/>
+          <f x="208.45" y="-215.5" cocos2d_x="208.45" cocos2d_y="-215.5" kX="45" kY="45" cX="4" cY="4" pX="0" pY="0" z="10" dI="0" twE="-1" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="20" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="88.45" y="-155.5" cocos2d_x="88.45" cocos2d_y="-155.5" kX="0" kY="0" cX="0.73" cY="0.73" pX="0" pY="0" z="10" dI="0" twE="0" dr="3"/>
+          <f x="88.45" y="-155.5" cocos2d_x="88.45" cocos2d_y="-155.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="10" dI="0" dr="36"/>
+        </b>
+        <b name="event" sc="1" dl="0">
+          <f dr="29" dI="-1"/>
+          <f x="-7.2" y="55.05" cocos2d_x="-7.2" cocos2d_y="55.05" kX="0" kY="0" cX="1.46" cY="1.46" pX="0" pY="0" z="8" dI="0" evt="win" dr="11"/>
+          <f x="-7.2" y="55.05" cocos2d_x="-7.2" cocos2d_y="55.05" kX="0" kY="0" cX="1.46" cY="1.46" pX="0" pY="0" z="9" dI="0" evt="levelup" dr="11"/>
+          <f dr="1" dI="-1"/>
+          <f x="0" y="-146.5" cocos2d_x="0" cocos2d_y="-146.5" kX="0" kY="0" cX="1.46" cY="1.46" pX="0" pY="0" z="10" dI="0" evt="star_1" dr="1"/>
+          <f dr="4" dI="-1"/>
+          <f x="0" y="-146.5" cocos2d_x="0" cocos2d_y="-146.5" kX="0" kY="0" cX="1.46" cY="1.46" pX="0" pY="0" z="11" dI="0" evt="star_2" dr="1"/>
+          <f dr="6" dI="-1"/>
+          <f x="0" y="-146.5" cocos2d_x="0" cocos2d_y="-146.5" kX="0" kY="0" cX="1.46" cY="1.46" pX="0" pY="0" z="11" dI="0" evt="star_3" dr="1"/>
+          <f dr="35" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="battle_win" width="1024" height="1024">
+    <SubTexture name="battle_win_42" width="59" height="59" cocos2d_pX="0" cocos2d_pY="0" x="805" y="683"/>
+    <SubTexture name="battle_win_8" width="19" height="17" cocos2d_pX="10.05" cocos2d_pY="8.3" x="980" y="96"/>
+    <SubTexture name="battle_win_12" width="74" height="74" cocos2d_pX="35.5" cocos2d_pY="35.5" x="916" y="638"/>
+    <SubTexture name="battle_win_10" width="0" height="0" cocos2d_pX="0" cocos2d_pY="0" x="1014" y="0"/>
+    <SubTexture name="battle_win_85" width="254" height="72" cocos2d_pX="127.5" cocos2d_pY="38" x="0" y="740"/>
+    <SubTexture name="battle_win_20" width="133" height="134" cocos2d_pX="66.1" cocos2d_pY="66.55" x="736" y="441"/>
+    <SubTexture name="battle_win_21" width="88" height="90" cocos2d_pX="43.7" cocos2d_pY="44.85" x="826" y="591"/>
+    <SubTexture name="battle_win_22" width="67" height="69" cocos2d_pX="33.25" cocos2d_pY="34.15" x="736" y="670"/>
+    <SubTexture name="battle_win_23" width="32" height="33" cocos2d_pX="15.8" cocos2d_pY="16.35" x="980" y="0"/>
+    <SubTexture name="battle_win_19" width="366" height="368" cocos2d_pX="182.6" cocos2d_pY="183.75" x="368" y="370"/>
+    <SubTexture name="battle_win_18" width="366" height="368" cocos2d_pX="182.6" cocos2d_pY="183.75" x="0" y="370"/>
+    <SubTexture name="battle_win_17" width="366" height="368" cocos2d_pX="182.6" cocos2d_pY="183.75" x="368" y="0"/>
+    <SubTexture name="battle_win_16" width="366" height="368" cocos2d_pX="182.6" cocos2d_pY="183.75" x="0" y="0"/>
+    <SubTexture name="battle_win_15" width="242" height="248" cocos2d_pX="120.7" cocos2d_pY="123.8" x="736" y="0"/>
+    <SubTexture name="battle_win_14" width="184" height="189" cocos2d_pX="91.85" cocos2d_pY="94.2" x="736" y="250"/>
+    <SubTexture name="battle_win_13" width="88" height="91" cocos2d_pX="43.6" cocos2d_pY="45.15" x="736" y="577"/>
+    <SubTexture name="battle_win_5" width="47" height="48" cocos2d_pX="23.45" cocos2d_pY="47.2" x="871" y="441"/>
+    <SubTexture name="battle_win_4" width="47" height="48" cocos2d_pX="23.45" cocos2d_pY="47.2" x="871" y="491"/>
+    <SubTexture name="battle_win_3" width="47" height="48" cocos2d_pX="23.45" cocos2d_pY="47.2" x="871" y="541"/>
+    <SubTexture name="battle_win_2" width="31" height="32" cocos2d_pX="15.5" cocos2d_pY="31.8" x="980" y="35"/>
+    <SubTexture name="battle_win_1" width="24" height="25" cocos2d_pX="11.8" cocos2d_pY="24.2" x="980" y="69"/>
+    <SubTexture name="battle_win_0" width="12" height="12" cocos2d_pX="5.6" cocos2d_pY="11.6" x="1006" y="69"/>
+    <SubTexture name="battle_win_25" width="91" height="95" cocos2d_pX="45.5" cocos2d_pY="47.5" x="922" y="347"/>
+    <SubTexture name="battle_win_28" width="91" height="95" cocos2d_pX="45.5" cocos2d_pY="47.5" x="920" y="541"/>
+    <SubTexture name="battle_win_26" width="91" height="95" cocos2d_pX="45.6" cocos2d_pY="47.6" x="922" y="250"/>
+    <SubTexture name="battle_win_27" width="91" height="95" cocos2d_pX="45.6" cocos2d_pY="47.5" x="920" y="444"/>
+    <SubTexture name="battle_win_24" width="427" height="252" cocos2d_pX="213" cocos2d_pY="151.2" x="256" y="740"/>
+  </TextureAtlas>
+</skeleton>

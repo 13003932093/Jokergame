@@ -1,0 +1,23 @@
+<skeleton name="visit_steal" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="visit_steal">
+   <b name="lyt_visit_steal_2" x="47.35" y="36" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="visit_steal_1" pX="34" pY="25"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="visit_steal">
+   <mov name="effect" dr="25" to="0" drTW="25" lp="1" twE="NaN">
+    <b name="lyt_visit_steal_2" sc="1" dl="0">
+     <f x="47.35" y="36" cocos2d_x="47.35" cocos2d_y="36" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="12"/>
+     <f x="30.35" y="19" cocos2d_x="30.35" cocos2d_y="19" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="12"/>
+     <f x="47.35" y="36" cocos2d_x="47.35" cocos2d_y="36" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="visit_steal" width="128" height="64">
+  <SubTexture name="visit_steal_1" width="68" height="50" cocos2d_pX="34" cocos2d_pY="25" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

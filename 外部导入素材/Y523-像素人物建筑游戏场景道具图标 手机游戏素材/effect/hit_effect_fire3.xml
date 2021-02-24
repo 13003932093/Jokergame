@@ -1,0 +1,126 @@
+<skeleton name="hit_effect_fire3" frameRate="12" version="2.2">
+ <armatures>
+  <armature name="hit_effect_wind3">
+   <b name="hit_effect_wind3_4" x="2.2" y="-14.4" kX="-19.48" kY="-19.48" cX="1.2" cY="1.2" pX="0.05" pY="-0.1" z="0">
+    <d name="hit_effect_fire3_20" pX="36.2" pY="13.75"/>
+    <d name="hit_effect_fire3_21" pX="50.35" pY="19.5"/>
+    <d name="hit_effect_fire3_22" pX="57.5" pY="21.6"/>
+    <d name="hit_effect_fire3_23" pX="61.25" pY="20.3"/>
+    <d name="hit_effect_fire3_24" pX="60.4" pY="18.35"/>
+    <d name="hit_effect_fire3_25" pX="60.2" pY="18.65"/>
+   </b>
+   <b name="hit_effect_wind3_3" x="8.7" y="-6.1" kX="47.69" kY="47.69" cX="0.89" cY="0.89" pX="-0.05" pY="-0.15" z="1">
+    <d name="hit_effect_fire3_20" pX="36.2" pY="13.75"/>
+    <d name="hit_effect_fire3_21" pX="50.35" pY="19.5"/>
+    <d name="hit_effect_fire3_22" pX="57.5" pY="21.6"/>
+    <d name="hit_effect_fire3_23" pX="61.25" pY="20.3"/>
+    <d name="hit_effect_fire3_24" pX="60.4" pY="18.35"/>
+    <d name="hit_effect_fire3_25" pX="60.2" pY="18.65"/>
+   </b>
+   <b name="hit_effect_wind3_2" x="7.6" y="-14.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+    <d name="hit_effect_fire3_11" pX="73.3" pY="70.35"/>
+    <d name="hit_effect_fire3_12" pX="73.3" pY="70.35"/>
+    <d name="hit_effect_fire3_13" pX="71.6" pY="74.4"/>
+   </b>
+  </armature>
+  <armature name="hit_effect_thunder3">
+   <b name="hit_effect_thunder3_2" x="0.5" y="-9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="hit_effect_fire3_3" pX="83.5" pY="55"/>
+    <d name="hit_effect_fire3_5" pX="83.5" pY="55"/>
+    <d name="hit_effect_fire3_6" pX="83.5" pY="55"/>
+    <d name="hit_effect_fire3_7" pX="83.5" pY="55"/>
+    <d name="hit_effect_fire3_8" pX="83.5" pY="55"/>
+    <d name="hit_effect_fire3_9" pX="83.5" pY="55"/>
+   </b>
+  </armature>
+  <armature name="hit_effect_fire3">
+   <b name="hit_effect_fire3_1" x="0" y="-6.5" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0">
+    <d name="hit_effect_fire3_26" pX="39" pY="39.25"/>
+    <d name="hit_effect_fire3_27" pX="39" pY="39.25"/>
+    <d name="hit_effect_fire3_28" pX="39" pY="39.25"/>
+    <d name="hit_effect_fire3_29" pX="39" pY="39.25"/>
+    <d name="hit_effect_fire3_30" pX="39" pY="39.25"/>
+    <d name="hit_effect_fire3_31" pX="39" pY="39.25"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="hit_effect_wind3">
+   <mov name="effect" dr="20" to="0" drTW="20" lp="0" twE="NaN">
+    <b name="hit_effect_wind3_4" sc="1" dl="0">
+     <f x="2.2" y="-14.4" cocos2d_x="2.2" cocos2d_y="-14.25" kX="-19.48" kY="-19.48" cX="1.2" cY="1.2" pX="0.05" pY="-0.1" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0.55" y="-6.45" cocos2d_x="0.55" cocos2d_y="-6.45" kX="-19.48" kY="-19.48" cX="1.2" cY="1.2" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-5.95" cocos2d_x="0" cocos2d_y="-5.95" kX="-19.48" kY="-19.48" cX="1.2" cY="1.2" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="1.35" y="-1.15" cocos2d_x="1.4" cocos2d_y="-1.15" kX="-19.48" kY="-19.48" cX="1.2" cY="1.2" pX="-0.05" pY="-0.05" z="0" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="3.9" y="0.15" cocos2d_x="3.9" cocos2d_y="0.2" kX="-19.48" kY="-19.48" cX="1.2" cY="1.2" pX="0" pY="-0.05" z="0" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="3.7" y="-1.4" cocos2d_x="3.7" cocos2d_y="-1.4" kX="-19.48" kY="-19.48" cX="1.2" cY="1.2" pX="0" pY="0" z="0" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+     <f dr="8" dI="-1"/>
+    </b>
+    <b name="hit_effect_wind3_3" sc="1" dl="0">
+     <f x="8.7" y="-6.1" cocos2d_x="8.65" cocos2d_y="-6" kX="47.69" kY="47.69" cX="0.89" cY="0.89" pX="-0.05" pY="-0.15" z="1" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="2.85" y="-4.8" cocos2d_x="2.85" cocos2d_y="-4.8" kX="47.69" kY="47.69" cX="0.89" cY="0.89" pX="0" pY="0" z="1" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="2.25" y="-5.1" cocos2d_x="2.25" cocos2d_y="-5.1" kX="47.69" kY="47.69" cX="0.89" cY="0.89" pX="0" pY="0" z="1" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-0.6" y="-2.8" cocos2d_x="-0.6" cocos2d_y="-2.8" kX="47.69" kY="47.69" cX="0.89" cY="0.89" pX="0" pY="0" z="1" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-0.75" y="-0.75" cocos2d_x="-0.75" cocos2d_y="-0.7" kX="47.69" kY="47.69" cX="0.89" cY="0.89" pX="0" pY="0" z="1" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0.25" y="-1.3" cocos2d_x="0.25" cocos2d_y="-1.3" kX="47.69" kY="47.69" cX="0.89" cY="0.89" pX="0" pY="0" z="1" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+     <f dr="8" dI="-1"/>
+    </b>
+    <b name="hit_effect_wind3_2" sc="1" dl="0">
+     <f x="7.6" y="-14.05" cocos2d_x="7.6" cocos2d_y="-14.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="7.6" y="-14.05" cocos2d_x="7.6" cocos2d_y="-14.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="5.2" y="-14.45" cocos2d_x="5.2" cocos2d_y="-14.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="2" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+     <f dr="14" dI="-1"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="hit_effect_thunder3">
+   <mov name="effect" dr="17" to="0" drTW="17" lp="0" twE="NaN">
+    <b name="hit_effect_thunder3_2" sc="1" dl="0">
+     <f x="0.5" y="-9" cocos2d_x="0.5" cocos2d_y="-9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+     <f x="0.5" y="-9" cocos2d_x="0.5" cocos2d_y="-9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" dr="2"/>
+     <f x="0.5" y="-9" cocos2d_x="0.5" cocos2d_y="-9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="2"/>
+     <f x="0.5" y="-9" cocos2d_x="0.5" cocos2d_y="-9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" dr="2"/>
+     <f x="0.5" y="-9" cocos2d_x="0.5" cocos2d_y="-9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" dr="2"/>
+     <f x="0.5" y="-9" cocos2d_x="0.5" cocos2d_y="-9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="5" dr="2"/>
+     <f dr="5" dI="-1"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="hit_effect_fire3">
+   <mov name="effect" dr="19" to="0" drTW="19" lp="0" twE="NaN">
+    <b name="hit_effect_fire3_1" sc="1" dl="0">
+     <f x="0" y="-6.5" cocos2d_x="0" cocos2d_y="-6.5" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-6.5" cocos2d_x="0" cocos2d_y="-6.5" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-6.5" cocos2d_x="0" cocos2d_y="-6.5" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-6.5" cocos2d_x="0" cocos2d_y="-6.5" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-6.5" cocos2d_x="0" cocos2d_y="-6.5" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-6.5" cocos2d_x="0" cocos2d_y="-6.5" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+     <f dr="7" dI="-1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="hit_effect_fire3" width="512" height="1024">
+  <SubTexture name="hit_effect_fire3_31" width="78" height="79" cocos2d_pX="39" cocos2d_pY="39.25" x="418" y="255"/>
+  <SubTexture name="hit_effect_fire3_30" width="78" height="79" cocos2d_pX="39" cocos2d_pY="39.25" x="418" y="417"/>
+  <SubTexture name="hit_effect_fire3_29" width="78" height="79" cocos2d_pX="39" cocos2d_pY="39.25" x="418" y="336"/>
+  <SubTexture name="hit_effect_fire3_28" width="78" height="79" cocos2d_pX="39" cocos2d_pY="39.25" x="0" y="230"/>
+  <SubTexture name="hit_effect_fire3_27" width="78" height="79" cocos2d_pX="39" cocos2d_pY="39.25" x="0" y="392"/>
+  <SubTexture name="hit_effect_fire3_26" width="78" height="79" cocos2d_pX="39" cocos2d_pY="39.25" x="0" y="311"/>
+  <SubTexture name="hit_effect_fire3_9" width="167" height="110" cocos2d_pX="83.5" cocos2d_pY="55" x="249" y="367"/>
+  <SubTexture name="hit_effect_fire3_8" width="167" height="110" cocos2d_pX="83.5" cocos2d_pY="55" x="80" y="456"/>
+  <SubTexture name="hit_effect_fire3_7" width="167" height="110" cocos2d_pX="83.5" cocos2d_pY="55" x="80" y="232"/>
+  <SubTexture name="hit_effect_fire3_6" width="167" height="110" cocos2d_pX="83.5" cocos2d_pY="55" x="249" y="255"/>
+  <SubTexture name="hit_effect_fire3_5" width="167" height="110" cocos2d_pX="83.5" cocos2d_pY="55" x="271" y="143"/>
+  <SubTexture name="hit_effect_fire3_3" width="167" height="110" cocos2d_pX="83.5" cocos2d_pY="55" x="80" y="344"/>
+  <SubTexture name="hit_effect_fire3_13" width="144" height="149" cocos2d_pX="71.55" cocos2d_pY="74.4" x="0" y="0"/>
+  <SubTexture name="hit_effect_fire3_12" width="147" height="141" cocos2d_pX="73.3" cocos2d_pY="70.35" x="146" y="0"/>
+  <SubTexture name="hit_effect_fire3_11" width="147" height="141" cocos2d_pX="73.3" cocos2d_pY="70.35" x="295" y="0"/>
+  <SubTexture name="hit_effect_fire3_25" width="121" height="38" cocos2d_pX="60.2" cocos2d_pY="18.65" x="0" y="151"/>
+  <SubTexture name="hit_effect_fire3_24" width="121" height="37" cocos2d_pX="60.4" cocos2d_pY="18.35" x="0" y="191"/>
+  <SubTexture name="hit_effect_fire3_23" width="123" height="41" cocos2d_pX="61.25" cocos2d_pY="20.3" x="146" y="143"/>
+  <SubTexture name="hit_effect_fire3_22" width="115" height="44" cocos2d_pX="57.5" cocos2d_pY="21.6" x="123" y="186"/>
+  <SubTexture name="hit_effect_fire3_21" width="101" height="39" cocos2d_pX="50.35" cocos2d_pY="19.5" x="249" y="479"/>
+  <SubTexture name="hit_effect_fire3_20" width="73" height="28" cocos2d_pX="36.2" cocos2d_pY="13.75" x="0" y="473"/>
+ </TextureAtlas>
+</skeleton>

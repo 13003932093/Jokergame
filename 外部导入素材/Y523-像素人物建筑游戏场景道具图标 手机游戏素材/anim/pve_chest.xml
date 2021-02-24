@@ -1,0 +1,232 @@
+<skeleton name="pve_chest" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="pve_chest">
+      <b name="pve_chest13" x="0.15" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="pve_chest5" pX="12.75" pY="12"/>
+        <d name="pve_chest6" pX="12.75" pY="12.2"/>
+      </b>
+      <b name="pve_chest12" x="-1.5" y="-4.75" kX="0" kY="0" cX="1.57" cY="1.57" pX="0" pY="0" z="1">
+        <d name="battle_box_s_vv13" pX="17.55" pY="3.5"/>
+      </b>
+      <b name="pve_chest11" x="-3.6" y="-4.15" kX="-20.13" kY="-39.35" cX="0.1" cY="0.19" pX="3.5" pY="-6.65" z="2">
+        <d name="battle_box_s_hhy" pX="33.05" pY="114.25"/>
+      </b>
+      <b name="pve_chest10" x="4.55" y="-3.2" kX="18.03" kY="-131.55" cX="0.13" cY="0.21" pX="3.1" pY="-7.15" z="3">
+        <d name="battle_box_s_hhy" pX="33.05" pY="114.25"/>
+      </b>
+      <b name="pve_chest9" x="-0.2" y="-1.3" kX="60.7" kY="-88.87" cX="0.12" cY="0.33" pX="3.75" pY="-6.5" z="2">
+        <d name="battle_box_s_hhy" pX="33.05" pY="114.25"/>
+      </b>
+      <b name="pve_chest8" x="-0.25" y="-1.1" kX="-56.99" kY="-87.43" cX="0.12" cY="0.33" pX="3.2" pY="-7" z="3">
+        <d name="battle_box_s_hhy" pX="33.05" pY="114.25"/>
+      </b>
+      <b name="pve_chest7" x="3.95" y="-19.2" kX="0" kY="0" cX="0.88" cY="0.88" pX="0" pY="0" z="2">
+        <d name="battle_box_s_1232" pX="77.9" pY="63.6"/>
+        <d name="battle_box_s_1113" pX="50.5" pY="78.55"/>
+        <d name="battle_box_s_1114" pX="37.8" pY="73.95"/>
+        <d name="battle_box_s_1115" pX="23.5" pY="26.85"/>
+      </b>
+      <b name="pve_chest6" x="12.5" y="-19.65" kX="0" kY="0" cX="0.44" cY="0.44" pX="0" pY="0" z="3">
+        <d name="battle_box_s_39" pX="8.7" pY="9.05"/>
+      </b>
+      <b name="pve_chest5" x="-14.35" y="-16.35" kX="0" kY="0" cX="0.5" cY="0.5" pX="0" pY="0" z="6">
+        <d name="battle_box_s_39" pX="8.7" pY="9.05"/>
+      </b>
+      <b name="pve_chest4" x="9.55" y="-15.7" kX="0" kY="0" cX="0.4" cY="0.4" pX="0" pY="0" z="7">
+        <d name="battle_box_s_39" pX="8.7" pY="9.05"/>
+      </b>
+      <b name="pve_chest3" x="-11.45" y="-30.05" kX="0" kY="180" cX="0.32" cY="0.32" pX="0" pY="0" z="6">
+        <d name="battle_box_s_39" pX="8.7" pY="9.05"/>
+      </b>
+      <b name="pve_chest2" x="1.25" y="-19.65" kX="0" kY="180" cX="0.5" cY="0.5" pX="0" pY="0" z="8">
+        <d name="battle_box_s_39" pX="8.7" pY="9.05"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="pve_chest">
+      <mov name="off" dr="8" to="6" drTW="8" lp="0" twE="NaN">
+        <b name="pve_chest13" sc="1" dl="0">
+          <f x="0.15" y="0" cocos2d_x="0.15" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="8"/>
+        </b>
+      </mov>
+      <mov name="drop" dr="21" to="6" drTW="21" lp="0" twE="NaN">
+        <b name="pve_chest13" sc="1" dl="0">
+          <f x="-1.6" y="-75.5" cocos2d_x="-1.6" cocos2d_y="-75.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.15" y="0" cocos2d_x="0.15" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+          <f x="2.05" y="-2.6" cocos2d_x="2.05" cocos2d_y="-2.6" kX="8.21" kY="8.21" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+          <f x="0.15" y="0" cocos2d_x="0.15" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+          <f x="-0.3" y="-0.9" cocos2d_x="-0.3" cocos2d_y="-0.9" kX="-5.71" kY="-5.71" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+          <f x="0.15" y="0" cocos2d_x="0.15" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="9"/>
+        </b>
+      </mov>
+      <mov name="open" dr="33" to="6" drTW="33" lp="0" twE="NaN">
+        <b name="pve_chest13" sc="1" dl="0">
+          <f x="0.15" y="3.05" cocos2d_x="0.15" cocos2d_y="3.05" kX="0" kY="0" cX="1" cY="0.75" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+          <f x="0.15" y="-2.1" cocos2d_x="0.15" cocos2d_y="-2.05" kX="0" kY="0" cX="1" cY="1.14" pX="0" pY="-0.05" z="0" dI="1" twE="0" dr="2"/>
+          <f x="0.15" y="-0.05" cocos2d_x="0.15" cocos2d_y="0" kX="0" kY="0" cX="1" cY="0.97" pX="0" pY="-0.05" z="0" dI="1" twE="0" dr="2"/>
+          <f x="0.15" y="-0.4" cocos2d_x="0.15" cocos2d_y="-0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="0" dI="1" dr="27"/>
+        </b>
+        <b name="pve_chest12" sc="1" dl="0">
+          <f dr="2" dI="-1"/>
+          <f x="-1.5" y="-4.75" cocos2d_x="-1.5" cocos2d_y="-4.75" kX="0" kY="0" cX="1.57" cY="1.57" pX="0" pY="0" z="1" dI="0" twE="0" dr="14">
+            <colorTransform a="0" r="0" g="0" b="0" aM="53" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-1.5" y="-4.75" cocos2d_x="-1.5" cocos2d_y="-4.75" kX="0" kY="0" cX="4.27" cY="4.27" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="16" dI="-1"/>
+        </b>
+        <b name="pve_chest11" sc="1" dl="0">
+          <f dr="10" dI="-1"/>
+          <f x="-3.6" y="-4.15" cocos2d_x="-3.45" cocos2d_y="-2.75" kX="-20.13" kY="-39.35" cX="0.1" cY="0.19" pX="3.5" pY="-6.65" z="2" dI="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="97" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-3.6" y="-4.15" cocos2d_x="-3.45" cocos2d_y="-2.75" kX="-20.13" kY="-39.35" cX="0.1" cY="0.19" pX="3.5" pY="-6.65" z="2" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="97" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="20" dI="-1"/>
+        </b>
+        <b name="pve_chest10" sc="1" dl="0">
+          <f dr="10" dI="-1"/>
+          <f x="4.55" y="-3.2" cocos2d_x="4.35" cocos2d_y="-1.45" kX="18.03" kY="-131.55" cX="0.13" cY="0.21" pX="3.1" pY="-7.15" z="3" dI="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="97" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="4.55" y="-3.2" cocos2d_x="4.35" cocos2d_y="-1.45" kX="18.03" kY="-131.55" cX="0.13" cY="0.21" pX="3.1" pY="-7.15" z="3" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="97" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="3.85" y="-2.15" cocos2d_x="3.75" cocos2d_y="-0.9" kX="18.17" kY="-142.62" cX="0.07" cY="0.16" pX="4.25" pY="-6.95" z="2" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="37" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="3.85" y="-2.15" cocos2d_x="3.75" cocos2d_y="-0.9" kX="18.17" kY="-142.62" cX="0.07" cY="0.16" pX="4.25" pY="-6.95" z="2" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="37" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="18" dI="-1"/>
+        </b>
+        <b name="pve_chest9" sc="1" dl="0">
+          <f dr="7" dI="-1"/>
+          <f x="-0.2" y="-1.3" cocos2d_x="-2.1" cocos2d_y="0.2" kX="60.7" kY="-88.87" cX="0.12" cY="0.33" pX="3.75" pY="-6.5" z="2" dI="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="64" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.2" y="-1.3" cocos2d_x="-2.1" cocos2d_y="0.2" kX="60.7" kY="-88.87" cX="0.12" cY="0.33" pX="3.75" pY="-6.5" z="2" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="64" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="6.35" y="-2.35" cocos2d_x="5.9" cocos2d_y="-1.3" kX="32.99" kY="-116.6" cX="0.1" cY="0.16" pX="2.4" pY="-6.5" z="4" dI="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="97" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="6.35" y="-2.35" cocos2d_x="5.9" cocos2d_y="-1.3" kX="32.99" kY="-116.6" cX="0.1" cY="0.16" pX="2.4" pY="-6.5" z="4" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="97" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-1.9" y="-3.5" cocos2d_x="-1.6" cocos2d_y="-2.35" kX="-28.21" kY="-47.41" cX="0.07" cY="0.13" pX="4" pY="-7.8" z="3" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="43" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-1.9" y="-3.5" cocos2d_x="-1.6" cocos2d_y="-2.35" kX="-28.21" kY="-47.41" cX="0.07" cY="0.13" pX="4" pY="-7.8" z="3" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="43" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="18" dI="-1"/>
+        </b>
+        <b name="pve_chest8" sc="1" dl="0">
+          <f dr="7" dI="-1"/>
+          <f x="-0.25" y="-1.1" cocos2d_x="1.7" cocos2d_y="0.55" kX="-56.99" kY="-87.43" cX="0.12" cY="0.33" pX="3.2" pY="-7" z="3" dI="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="52" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.25" y="-1.1" cocos2d_x="1.7" cocos2d_y="0.55" kX="-56.99" kY="-87.43" cX="0.12" cY="0.33" pX="3.2" pY="-7" z="3" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="52" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.25" y="-4" cocos2d_x="-4.7" cocos2d_y="-3.1" kX="-43.84" kY="-63.07" cX="0.07" cY="0.13" pX="3.3" pY="-7.1" z="5" dI="0" dr="2">
+            <colorTransform a="0" r="0" g="0" b="0" aM="97" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.25" y="-4" cocos2d_x="-4.7" cocos2d_y="-3.1" kX="-43.84" kY="-63.07" cX="0.07" cY="0.13" pX="3.3" pY="-7.1" z="5" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="97" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="20" dI="-1"/>
+        </b>
+        <b name="pve_chest7" sc="1" dl="0">
+          <f dr="2" dI="-1"/>
+          <f x="3.95" y="-19.2" cocos2d_x="3.95" cocos2d_y="-19.2" kX="0" kY="0" cX="0.88" cY="0.88" pX="0" pY="0" z="2" dI="0" dr="2"/>
+          <f x="4.9" y="-21.35" cocos2d_x="4.9" cocos2d_y="-21.35" kX="0" kY="0" cX="0.88" cY="0.88" pX="0" pY="0" z="2" dI="1" dr="3"/>
+          <f x="4.2" y="-21.75" cocos2d_x="4.2" cocos2d_y="-21.75" kX="0" kY="0" cX="0.88" cY="0.88" pX="0" pY="0" z="4" dI="2" dr="3"/>
+          <f x="3.3" y="-21.75" cocos2d_x="3.3" cocos2d_y="-21.65" kX="0" kY="0" cX="0.88" cY="0.88" pX="0" pY="-0.15" z="1" dI="3" twE="0" dr="8"/>
+          <f x="3.2" y="-21.5" cocos2d_x="3.2" cocos2d_y="-21.35" kX="0" kY="0" cX="0.88" cY="0.88" pX="0" pY="-0.15" z="1" dI="3" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="14" dI="-1"/>
+        </b>
+        <b name="pve_chest6" sc="1" dl="0">
+          <f dr="2" dI="-1"/>
+          <f x="12.5" y="-19.65" cocos2d_x="12.5" cocos2d_y="-19.65" kX="0" kY="0" cX="0.44" cY="0.44" pX="0" pY="0" z="3" dI="0" twE="0" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="12.5" y="-19.7" cocos2d_x="12.5" cocos2d_y="-19.7" kX="0" kY="0" cX="0.52" cY="0.52" pX="0" pY="0" z="7" dI="0" twE="0" dr="6">
+            <colorTransform a="0" r="0" g="0" b="0" aM="86" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="12.5" y="-19.7" cocos2d_x="12.5" cocos2d_y="-19.7" kX="0" kY="0" cX="0.34" cY="0.34" pX="0" pY="0" z="5" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="19" dI="-1"/>
+        </b>
+        <b name="pve_chest5" sc="1" dl="0">
+          <f dr="2" dI="-1"/>
+          <f x="-14.35" y="-16.35" cocos2d_x="-14.35" cocos2d_y="-16.35" kX="0" kY="0" cX="0.5" cY="0.5" pX="0" pY="0" z="6" dI="0" twE="0" dr="8">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-14.35" y="-16.35" cocos2d_x="-14.35" cocos2d_y="-16.35" kX="0" kY="0" cX="0.83" cY="0.83" pX="0" pY="0" z="3" dI="0" twE="0" dr="7"/>
+          <f x="-14.35" y="-16.35" cocos2d_x="-14.35" cocos2d_y="-16.35" kX="0" kY="0" cX="0.5" cY="0.5" pX="0" pY="0" z="2" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="15" dI="-1"/>
+        </b>
+        <b name="pve_chest4" sc="1" dl="0">
+          <f dr="2" dI="-1"/>
+          <f x="9.55" y="-15.7" cocos2d_x="9.55" cocos2d_y="-15.7" kX="0" kY="0" cX="0.4" cY="0.4" pX="0" pY="0" z="7" dI="0" twE="0" dr="6">
+            <colorTransform a="0" r="0" g="0" b="0" aM="86" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="9.55" y="-15.7" cocos2d_x="9.55" cocos2d_y="-15.7" kX="0" kY="0" cX="0.26" cY="0.26" pX="0" pY="0" z="7" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="24" dI="-1"/>
+        </b>
+        <b name="pve_chest3" sc="1" dl="0">
+          <f dr="2" dI="-1"/>
+          <f x="-11.45" y="-30.05" cocos2d_x="-11.45" cocos2d_y="-30.05" kX="0" kY="180" cX="0.32" cY="0.32" pX="0" pY="0" z="6" dI="0" twE="0" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-11.45" y="-30.05" cocos2d_x="-11.45" cocos2d_y="-30.05" kX="0" kY="180" cX="0.39" cY="0.39" pX="0" pY="0" z="9" dI="0" twE="0" dr="7"/>
+          <f x="-11.45" y="-30.05" cocos2d_x="-11.45" cocos2d_y="-30.05" kX="0" kY="180" cX="0.24" cY="0.24" pX="0" pY="0" z="7" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="19" dI="-1"/>
+        </b>
+        <b name="pve_chest2" sc="1" dl="0">
+          <f dr="2" dI="-1"/>
+          <f x="1.25" y="-19.65" cocos2d_x="1.25" cocos2d_y="-19.65" kX="0" kY="180" cX="0.5" cY="0.5" pX="0" pY="0" z="8" dI="0" twE="0" dr="8">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="1.25" y="-19.65" cocos2d_x="1.25" cocos2d_y="-19.65" kX="0" kY="180" cX="0.83" cY="0.83" pX="0" pY="0" z="4" dI="0" twE="0" dr="7"/>
+          <f x="1.25" y="-19.65" cocos2d_x="1.25" cocos2d_y="-19.65" kX="0" kY="180" cX="0.5" cY="0.5" pX="0" pY="0" z="3" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="15" dI="-1"/>
+        </b>
+      </mov>
+      <mov name="on" dr="6" to="6" drTW="6" lp="0" twE="NaN">
+        <b name="pve_chest13" sc="1" dl="0">
+          <f x="0.15" y="-0.4" cocos2d_x="0.15" cocos2d_y="-0.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="0" dI="1" dr="6"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="pve_chest" width="256" height="256">
+    <SubTexture name="battle_box_s_39" width="19" height="19" cocos2d_pX="8.7" cocos2d_pY="9.05" x="42" y="194"/>
+    <SubTexture name="battle_box_s_1115" width="40" height="66" cocos2d_pX="23.5" cocos2d_pY="26.85" x="0" y="167"/>
+    <SubTexture name="battle_box_s_1114" width="71" height="114" cocos2d_pX="37.8" cocos2d_pY="73.95" x="107" y="97"/>
+    <SubTexture name="battle_box_s_1113" width="105" height="165" cocos2d_pX="50.5" cocos2d_pY="78.5" x="0" y="0"/>
+    <SubTexture name="battle_box_s_1232" width="145" height="95" cocos2d_pX="77.9" cocos2d_pY="63.6" x="107" y="0"/>
+    <SubTexture name="battle_box_s_hhy" width="63" height="115" cocos2d_pX="33.05" cocos2d_pY="114.25" x="180" y="97"/>
+    <SubTexture name="battle_box_s_vv13" width="36" height="7" cocos2d_pX="17.55" cocos2d_pY="3.5" x="63" y="194"/>
+    <SubTexture name="pve_chest6" width="26" height="25" cocos2d_pX="12.75" cocos2d_pY="12.2" x="70" y="167"/>
+    <SubTexture name="pve_chest5" width="26" height="25" cocos2d_pX="12.75" cocos2d_pY="12" x="42" y="167"/>
+  </TextureAtlas>
+</skeleton>

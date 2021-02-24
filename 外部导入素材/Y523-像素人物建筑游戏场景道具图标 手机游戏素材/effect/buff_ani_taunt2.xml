@@ -1,0 +1,21 @@
+<skeleton name="buff_ani_taunt2" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="buff_ani_taunt2">
+   <b name="buff_ani_taunt2_1" x="-4" y="-11" kX="0" kY="0" cX="1" cY="1" pX="-34" pY="17" z="0">
+    <d name="buff_ani_taunt2_1" pX="36.5" pY="27.5"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="buff_ani_taunt2">
+   <mov name="buff" dr="22" to="0" drTW="22" lp="1" twE="NaN">
+    <b name="buff_ani_taunt2_1" sc="1" dl="0">
+     <f x="-4" y="-11" cocos2d_x="30" cocos2d_y="-28" kX="0" kY="0" cX="1" cY="1" pX="-34" pY="17" z="0" dI="0" dr="22"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="buff_ani_taunt2" width="128" height="64">
+  <SubTexture name="buff_ani_taunt2_1" width="73" height="55" cocos2d_pX="36.5" cocos2d_pY="27.5" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

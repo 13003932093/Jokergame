@@ -1,0 +1,22 @@
+<skeleton name="buff_ani_aura" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="buff_ani_aura">
+      <b name="buff_ani_aura_1" x="0.4" y="0.32" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="buff_ani_aura_3" pX="17.8" pY="7.92"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="buff_ani_aura">
+      <mov name="buff" dr="10" to="0" drTW="10" lp="1" twE="NaN">
+        <b name="buff_ani_aura_1" sc="1" dl="0">
+          <f x="0.4" y="0.32" cocos2d_x="0.4" cocos2d_y="0.32" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="9"/>
+          <f x="0.4" y="0.32" cocos2d_x="0.4" cocos2d_y="0.32" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="buff_ani_aura" width="64" height="32">
+    <SubTexture name="buff_ani_aura_3" width="36" height="16" cocos2d_pX="17.8" cocos2d_pY="7.92" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

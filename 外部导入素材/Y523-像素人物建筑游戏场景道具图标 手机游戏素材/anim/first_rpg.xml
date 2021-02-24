@@ -1,0 +1,301 @@
+<skeleton name="first_rpg" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="first_rpg_dian3">
+      <b name="first_rpg_dian_1" x="-5" y="13.75" kX="0" kY="0" cX="0.05" cY="0.05" pX="-5.45" pY="14.15" z="0">
+        <d name="first_rpg__4" pX="33" pY="33"/>
+      </b>
+    </armature>
+    <armature name="first_rpg_dian2">
+      <b name="first_rpg_dian_1" x="-5" y="13.75" kX="0" kY="0" cX="0.05" cY="0.05" pX="-5.45" pY="14.15" z="0">
+        <d name="first_rpg__4" pX="33" pY="33"/>
+      </b>
+    </armature>
+    <armature name="first_rpg_dian1">
+      <b name="first_rpg_dian_1" x="-5" y="13.75" kX="0" kY="0" cX="0.05" cY="0.05" pX="-5.45" pY="14.15" z="0">
+        <d name="first_rpg__4" pX="33" pY="33"/>
+      </b>
+    </armature>
+    <armature name="first_rpg_huaquan">
+      <b name="first_rpg_huaquan_1" x="-1.5" y="-7" kX="0" kY="0" cX="1" cY="1" pX="14.5" pY="12" z="0">
+        <d name="first_rpg__37" pX="0" pY="0"/>
+      </b>
+    </armature>
+    <armature name="first_rpg_mubei">
+      <b name="first_rpg_mubei_1" x="-0.5" y="-8.5" kX="0" kY="0" cX="1" cY="1" pX="12" pY="15.5" z="0">
+        <d name="first_rpg__38" pX="0" pY="0"/>
+      </b>
+    </armature>
+    <armature name="first_rpg_yun">
+      <b name="first_rpg_yun_1" x="2.5" y="8.6" kX="0" kY="0" cX="0.38" cY="0.38" pX="0" pY="0" z="0">
+        <d name="first_rpg__11" pX="14.5" pY="14.5"/>
+      </b>
+    </armature>
+    <armature name="first_rpg_quan">
+      <b name="first_rpg_quan_1" x="0" y="0" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0">
+        <d name="first_rpg__13" pX="63.5" pY="17"/>
+      </b>
+    </armature>
+    <armature name="first_rpg_nu">
+      <b name="first_rpg_nu_1" x="0" y="0" kX="0" kY="0" cX="0.03" cY="0.03" pX="0" pY="0" z="0">
+        <d name="first_rpg__6" pX="15.5" pY="15.5"/>
+      </b>
+    </armature>
+    <armature name="first_rpg_kaichang">
+      <b name="first_rpg_kaichang6" x="-301.25" y="21.6" kX="0" kY="0" cX="1.87" cY="2" pX="0" pY="0" z="0">
+        <d name="first_rpg__13" pX="63.5" pY="17"/>
+      </b>
+      <b name="first_rpg_kaichang5" x="-87.05" y="-286" kX="35.79" kY="35.79" cX="0.74" cY="1.21" pX="1.15" pY="-127.3" z="1">
+        <d name="first_rpg__36" pX="135.3" pY="121.5"/>
+      </b>
+      <b name="first_rpg_kaichang4" x="-144.35" y="51.15" kX="0" kY="0" cX="1.87" cY="2" pX="0" pY="0" z="2">
+        <d name="first_rpg__13" pX="63.5" pY="17"/>
+      </b>
+      <b name="first_rpg_kaichang3" x="62" y="-297.8" kX="30.88" kY="23.27" cX="0.74" cY="1.22" pX="1.2" pY="-127.3" z="3">
+        <d name="first_rpg__36" pX="135.3" pY="121.5"/>
+      </b>
+      <b name="first_rpg_kaichang2" x="0.85" y="-273.8" kX="0" kY="0" cX="1" cY="1" pX="480" pY="56" z="4">
+        <d name="first_rpg__32" pX="0" pY="0"/>
+      </b>
+    </armature>
+    <armature name="first_rpg_guang">
+      <b name="first_rpg_guang_1" x="0" y="0" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0">
+        <d name="first_rpg__2" pX="71.75" pY="93.25"/>
+      </b>
+    </armature>
+    <armature name="first_rpg_dian">
+      <b name="first_rpg_dian_1" x="-5" y="13.75" kX="0" kY="0" cX="0.05" cY="0.05" pX="-5.45" pY="14.15" z="0">
+        <d name="first_rpg__4" pX="33" pY="33"/>
+      </b>
+    </armature>
+    <armature name="first_rpg_aixin">
+      <b name="first_rpg_aixin_4" x="8.35" y="17.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="first_rpg__19" pX="5.7" pY="5.45"/>
+      </b>
+      <b name="first_rpg_aixin_3" x="2.05" y="18.6" kX="0" kY="0" cX="0.65" cY="0.65" pX="0" pY="0" z="1">
+        <d name="first_rpg__19" pX="5.7" pY="5.45"/>
+      </b>
+      <b name="first_rpg_aixin_2" x="-5.55" y="7" kX="0" kY="0" cX="0.65" cY="0.65" pX="0" pY="0" z="1">
+        <d name="first_rpg__19" pX="5.7" pY="5.45"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="first_rpg_dian3">
+      <mov name="idle" dr="172" to="0" drTW="172" lp="0" twE="NaN">
+        <b name="first_rpg_dian_1" sc="1" dl="0">
+          <f x="-5" y="13.75" cocos2d_x="-4.75" cocos2d_y="13.1" kX="0" kY="0" cX="0.05" cY="0.05" pX="-5.45" pY="14.15" z="0" dI="0" twE="0" dr="4"/>
+          <f x="-5" y="13.75" cocos2d_x="0.35" cocos2d_y="-0.95" kX="0" kY="0" cX="1.07" cY="1.07" pX="-5" pY="13.75" z="0" dI="0" twE="0" dr="3"/>
+          <f x="-5" y="13.75" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="-5" pY="13.75" z="0" dI="0" dr="63"/>
+          <f x="-5" y="13.75" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="-5" pY="13.75" z="0" dI="0" twE="0" dr="5"/>
+          <f x="-5" y="13.75" cocos2d_x="-4.55" cocos2d_y="12.5" kX="0" kY="0" cX="0.09" cY="0.09" pX="-4.95" pY="13.75" z="0" dI="0" dr="1"/>
+          <f dr="96" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="first_rpg_dian2">
+      <mov name="idle" dr="172" to="0" drTW="172" lp="0" twE="NaN">
+        <b name="first_rpg_dian_1" sc="1" dl="0">
+          <f x="-5" y="13.75" cocos2d_x="-4.75" cocos2d_y="13.1" kX="0" kY="0" cX="0.05" cY="0.05" pX="-5.45" pY="14.15" z="0" dI="0" twE="0" dr="4"/>
+          <f x="-5" y="13.75" cocos2d_x="0.35" cocos2d_y="-0.95" kX="0" kY="0" cX="1.07" cY="1.07" pX="-5" pY="13.75" z="0" dI="0" twE="0" dr="3"/>
+          <f x="-5" y="13.75" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="-5" pY="13.75" z="0" dI="0" dr="63"/>
+          <f x="-5" y="13.75" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="-5" pY="13.75" z="0" dI="0" twE="0" dr="5"/>
+          <f x="-5" y="13.75" cocos2d_x="-4.55" cocos2d_y="12.5" kX="0" kY="0" cX="0.09" cY="0.09" pX="-4.95" pY="13.75" z="0" dI="0" dr="1"/>
+          <f dr="96" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="first_rpg_dian1">
+      <mov name="idle" dr="172" to="0" drTW="172" lp="0" twE="NaN">
+        <b name="first_rpg_dian_1" sc="1" dl="0">
+          <f x="-5" y="13.75" cocos2d_x="-4.75" cocos2d_y="13.1" kX="0" kY="0" cX="0.05" cY="0.05" pX="-5.45" pY="14.15" z="0" dI="0" twE="0" dr="4"/>
+          <f x="-5" y="13.75" cocos2d_x="0.35" cocos2d_y="-0.95" kX="0" kY="0" cX="1.07" cY="1.07" pX="-5" pY="13.75" z="0" dI="0" twE="0" dr="3"/>
+          <f x="-5" y="13.75" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="-5" pY="13.75" z="0" dI="0" dr="63"/>
+          <f x="-5" y="13.75" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="-5" pY="13.75" z="0" dI="0" twE="0" dr="5"/>
+          <f x="-5" y="13.75" cocos2d_x="-4.55" cocos2d_y="12.5" kX="0" kY="0" cX="0.09" cY="0.09" pX="-4.95" pY="13.75" z="0" dI="0" dr="1"/>
+          <f dr="96" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="first_rpg_huaquan">
+      <mov name="idle" dr="172" to="0" drTW="172" lp="1" twE="NaN">
+        <b name="first_rpg_huaquan_1" sc="1" dl="0">
+          <f x="-1.5" y="-7" cocos2d_x="-16" cocos2d_y="-19" kX="0" kY="0" cX="1" cY="1" pX="14.5" pY="12" z="0" dI="0" dr="172"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="first_rpg_mubei">
+      <mov name="idle" dr="172" to="0" drTW="172" lp="1" twE="NaN">
+        <b name="first_rpg_mubei_1" sc="1" dl="0">
+          <f x="-0.5" y="-8.5" cocos2d_x="-12.5" cocos2d_y="-24" kX="0" kY="0" cX="1" cY="1" pX="12" pY="15.5" z="0" dI="0" dr="172"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="first_rpg_yun">
+      <mov name="idle" dr="287" to="0" drTW="240" lp="0" twE="NaN">
+        <b name="first_rpg_yun_1" sc="1" dl="0">
+          <f x="2.5" y="8.6" cocos2d_x="2.5" cocos2d_y="8.6" kX="0" kY="0" cX="0.38" cY="0.38" pX="0" pY="0" z="0" dI="0" twE="0" dr="3"/>
+          <f x="0.25" y="0.1" cocos2d_x="0.25" cocos2d_y="0.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="0" dI="0" dr="57"/>
+          <f x="0.25" y="0.1" cocos2d_x="0.25" cocos2d_y="0.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="0" dI="0" twE="0" dr="8"/>
+          <f x="0.25" y="0.1" cocos2d_x="0.25" cocos2d_y="0.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="218" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="first_rpg_quan">
+      <mov name="idle" dr="70" to="0" drTW="70" lp="0" twE="NaN">
+        <b name="first_rpg_quan_1" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="0" twE="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="0" dr="61"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="first_rpg_nu">
+      <mov name="idle" dr="178" to="0" drTW="178" lp="1" twE="NaN">
+        <b name="first_rpg_nu_1" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.03" cY="0.03" pX="0" pY="0" z="0" dI="0" twE="0" dr="5"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1.31" cY="1.31" pX="0" pY="0" z="0" dI="0" twE="0" dr="4"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="8"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="6"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1.13" cY="1.13" pX="0" pY="0" z="0" dI="0" twE="0" dr="6"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="6"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1.13" cY="1.13" pX="0" pY="0" z="0" dI="0" twE="0" dr="6"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="6"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1.13" cY="1.13" pX="0" pY="0" z="0" dI="0" twE="0" dr="6"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="6"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1.13" cY="1.13" pX="0" pY="0" z="0" dI="0" twE="0" dr="6"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="10"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1.29" cY="1.29" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="102" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="first_rpg_kaichang">
+      <mov name="idle" dr="54" to="6" drTW="54" lp="0" twE="NaN">
+        <b name="first_rpg_kaichang6" sc="1" dl="0">
+          <f x="-301.25" y="21.6" cocos2d_x="-301.25" cocos2d_y="21.6" kX="0" kY="0" cX="1.87" cY="2" pX="0" pY="0" z="0" dI="0" twE="0" dr="15"/>
+          <f x="-94.4" y="70.75" cocos2d_x="-94.4" cocos2d_y="70.75" kX="0" kY="0" cX="1.87" cY="2" pX="0" pY="0" z="0" dI="0" twE="0" dr="13"/>
+          <f x="108.35" y="33.9" cocos2d_x="108.35" cocos2d_y="33.9" kX="0" kY="0" cX="1.87" cY="2" pX="0" pY="0" z="0" dI="0" twE="0" dr="14"/>
+          <f x="-2.25" y="-25.5" cocos2d_x="-2.25" cocos2d_y="-25.5" kX="0" kY="0" cX="1.55" cY="1.66" pX="0" pY="0" z="0" dI="0" twE="0" dr="11"/>
+          <f x="-223.45" y="-21.4" cocos2d_x="-223.45" cocos2d_y="-21.4" kX="0" kY="0" cX="1.48" cY="1.59" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="first_rpg_kaichang5" sc="1" dl="0">
+          <f x="-87.05" y="-286" cocos2d_x="-177.95" cocos2d_y="-161.4" kX="35.79" kY="35.79" cX="0.74" cY="1.21" pX="1.15" pY="-127.3" z="1" dI="0" twE="0" dr="15"/>
+          <f x="-87.15" y="-286.05" cocos2d_x="-88.8" cocos2d_y="-131.8" kX="0.31" kY="0.31" cX="0.74" cY="1.21" pX="1.15" pY="-127.4" z="1" dI="0" twE="0" dr="13"/>
+          <f x="-87.1" y="-286.05" cocos2d_x="-7.4" cocos2d_y="-154" kX="-31.39" kY="-31.39" cX="0.74" cY="1.21" pX="1" pY="-127.3" z="1" dI="0" twE="0" dr="14"/>
+          <f x="-93.9" y="-297.25" cocos2d_x="-55.25" cocos2d_y="-188.2" kX="-19.92" kY="-19.92" cX="0.74" cY="0.91" pX="1.1" pY="-127.3" z="1" dI="0" twE="0" dr="11"/>
+          <f x="-99.1" y="-299.2" cocos2d_x="-155.3" cocos2d_y="-196.65" kX="28.29" kY="20.28" cX="0.74" cY="0.92" pX="1.25" pY="-127.3" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="first_rpg_kaichang4" sc="1" dl="0">
+          <f x="-144.35" y="51.15" cocos2d_x="-144.35" cocos2d_y="51.15" kX="0" kY="0" cX="1.87" cY="2" pX="0" pY="0" z="2" dI="0" twE="0" dr="15"/>
+          <f x="252.95" y="22.5" cocos2d_x="252.95" cocos2d_y="22.5" kX="0" kY="0" cX="1.87" cY="2" pX="0" pY="0" z="2" dI="0" twE="0" dr="13"/>
+          <f x="85" y="90.1" cocos2d_x="85" cocos2d_y="90.1" kX="0" kY="0" cX="1.87" cY="2" pX="0" pY="0" z="2" dI="0" twE="0" dr="14"/>
+          <f x="-148.45" y="61.45" cocos2d_x="-148.45" cocos2d_y="61.45" kX="0" kY="0" cX="1.87" cY="2" pX="0" pY="0" z="2" dI="0" twE="0" dr="11"/>
+          <f x="101.4" y="22.55" cocos2d_x="101.4" cocos2d_y="22.55" kX="0" kY="0" cX="1.87" cY="2" pX="0" pY="0" z="2" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="first_rpg_kaichang3" sc="1" dl="0">
+          <f x="62" y="-297.8" cocos2d_x="-18.65" cocos2d_y="-164.65" kX="30.88" kY="23.27" cX="0.74" cY="1.22" pX="1.2" pY="-127.3" z="3" dI="0" twE="0" dr="15"/>
+          <f x="68.4" y="-295.05" cocos2d_x="148" cocos2d_y="-162.95" kX="-31.4" kY="-31.4" cX="0.74" cY="1.21" pX="1.15" pY="-127.3" z="3" dI="0" twE="0" dr="13"/>
+          <f x="68.4" y="-295.05" cocos2d_x="72" cocos2d_y="-140.85" kX="-1.67" kY="-1.67" cX="0.74" cY="1.21" pX="1.2" pY="-127.35" z="3" dI="0" twE="0" dr="14"/>
+          <f x="60.4" y="-297.4" cocos2d_x="-21.3" cocos2d_y="-164.05" kX="31.17" kY="22.02" cX="0.74" cY="1.23" pX="1.2" pY="-127.4" z="3" dI="0" twE="0" dr="11"/>
+          <f x="133" y="-387.5" cocos2d_x="121.1" cocos2d_y="-233.35" kX="4.09" kY="0.33" cX="0.74" cY="1.21" pX="1.25" pY="-127.4" z="3" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="first_rpg_kaichang2" sc="1" dl="0">
+          <f x="0.85" y="-273.8" cocos2d_x="-479.15" cocos2d_y="-329.8" kX="0" kY="0" cX="1" cY="1" pX="480" pY="56" z="4" dI="0" dr="54"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="first_rpg_guang">
+      <mov name="idle" dr="93" to="0" drTW="93" lp="0" twE="NaN">
+        <b name="first_rpg_guang_1" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="0" twE="0" dr="17">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="0" dr="76"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="first_rpg_dian">
+      <mov name="idle" dr="172" to="0" drTW="172" lp="1" twE="NaN">
+        <b name="first_rpg_dian_1" sc="1" dl="0">
+          <f x="-5" y="13.75" cocos2d_x="-4.75" cocos2d_y="13.1" kX="0" kY="0" cX="0.05" cY="0.05" pX="-5.45" pY="14.15" z="0" dI="0" twE="0" dr="4"/>
+          <f x="-5" y="13.75" cocos2d_x="0.35" cocos2d_y="-0.95" kX="0" kY="0" cX="1.07" cY="1.07" pX="-5" pY="13.75" z="0" dI="0" twE="0" dr="3"/>
+          <f x="-5" y="13.75" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="-5" pY="13.75" z="0" dI="0" dr="63"/>
+          <f x="-5" y="13.75" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="-5" pY="13.75" z="0" dI="0" twE="0" dr="5"/>
+          <f x="-5" y="13.75" cocos2d_x="-4.55" cocos2d_y="12.5" kX="0" kY="0" cX="0.09" cY="0.09" pX="-4.95" pY="13.75" z="0" dI="0" dr="1"/>
+          <f dr="96" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="first_rpg_aixin">
+      <mov name="idle" dr="29" to="0" drTW="29" lp="1" twE="NaN">
+        <b name="first_rpg_aixin_4" sc="1" dl="0">
+          <f x="8.35" y="17.4" cocos2d_x="8.35" cocos2d_y="17.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="7">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="8.55" y="1" cocos2d_x="8.55" cocos2d_y="1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="7"/>
+          <f x="8.95" y="-13.65" cocos2d_x="8.95" cocos2d_y="-13.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="7" dI="-1"/>
+          <f x="-5.8" y="18.35" cocos2d_x="-5.8" cocos2d_y="18.35" kX="0" kY="0" cX="0.65" cY="0.65" pX="0" pY="0" z="0" dI="0" twE="0" dr="6">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-5.6" y="8.6" cocos2d_x="-5.6" cocos2d_y="8.6" kX="0" kY="0" cX="0.65" cY="0.65" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="86" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="first_rpg_aixin_3" sc="1" dl="0">
+          <f dr="7" dI="-1"/>
+          <f x="2.05" y="18.6" cocos2d_x="2.05" cocos2d_y="18.6" kX="0" kY="0" cX="0.65" cY="0.65" pX="0" pY="0" z="1" dI="0" twE="0" dr="7">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="2.3" y="7.25" cocos2d_x="2.3" cocos2d_y="7.25" kX="0" kY="0" cX="0.65" cY="0.65" pX="0" pY="0" z="0" dI="0" twE="0" dr="7"/>
+          <f x="2.3" y="-11.55" cocos2d_x="2.3" cocos2d_y="-11.55" kX="0" kY="0" cX="0.65" cY="0.65" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="7" dI="-1"/>
+        </b>
+        <b name="first_rpg_aixin_2" sc="1" dl="0">
+          <f x="-5.55" y="7" cocos2d_x="-5.55" cocos2d_y="7" kX="0" kY="0" cX="0.65" cY="0.65" pX="0" pY="0" z="1" dI="0" twE="0" dr="7"/>
+          <f x="-5.55" y="-11.8" cocos2d_x="-5.55" cocos2d_y="-11.8" kX="0" kY="0" cX="0.65" cY="0.65" pX="0" pY="0" z="2" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="6" dI="-1"/>
+          <f x="-9.65" y="17.4" cocos2d_x="-9.65" cocos2d_y="17.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="7">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-9.45" y="1" cocos2d_x="-9.45" cocos2d_y="1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="7"/>
+          <f x="-9.05" y="-13.65" cocos2d_x="-9.05" cocos2d_y="-13.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="first_rpg" width="1024" height="1024">
+    <SubTexture name="first_rpg__19" width="12" height="11" cocos2d_pX="5.7" cocos2d_pY="5.45" x="993" y="59"/>
+    <SubTexture name="first_rpg__2" width="144" height="187" cocos2d_pX="71.75" cocos2d_pY="93.25" x="269" y="114"/>
+    <SubTexture name="first_rpg__32" width="960" height="112" cocos2d_pX="0" cocos2d_pY="0" x="0" y="0"/>
+    <SubTexture name="first_rpg__36" width="267" height="407" cocos2d_pX="135.3" cocos2d_pY="121.5" x="0" y="114"/>
+    <SubTexture name="first_rpg__6" width="31" height="31" cocos2d_pX="15.5" cocos2d_pY="15.5" x="962" y="0"/>
+    <SubTexture name="first_rpg__13" width="127" height="34" cocos2d_pX="63.5" cocos2d_pY="17" x="415" y="114"/>
+    <SubTexture name="first_rpg__11" width="29" height="29" cocos2d_pX="14.5" cocos2d_pY="14.5" x="962" y="33"/>
+    <SubTexture name="first_rpg__38" width="24" height="31" cocos2d_pX="0" cocos2d_pY="0" x="995" y="0"/>
+    <SubTexture name="first_rpg__37" width="29" height="24" cocos2d_pX="0" cocos2d_pY="0" x="993" y="33"/>
+    <SubTexture name="first_rpg__4" width="66" height="66" cocos2d_pX="33" cocos2d_pY="33" x="544" y="114"/>
+  </TextureAtlas>
+</skeleton>

@@ -1,0 +1,55 @@
+<skeleton name="skill_ani_31182" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="skill_ani_31182">
+      <b name="skill_ani_31182_2" x="-64" y="2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="skill_ani_31182_5" pX="72.75" pY="28"/>
+        <d name="skill_ani_31182_2" pX="72.5" pY="28.5"/>
+        <d name="skill_ani_31182_4" pX="72.75" pY="28.75"/>
+        <d name="skill_ani_31182_3" pX="73.5" pY="29"/>
+      </b>
+      <b name="skill_ani_31182_1" x="-7.5" y="-18" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="skill_ani_31182_6" pX="69.5" pY="67.95"/>
+        <d name="skill_ani_31182_7" pX="65" pY="65.95"/>
+        <d name="skill_ani_31182_8" pX="69.5" pY="67.45"/>
+        <d name="skill_ani_31182_9" pX="66" pY="68.95"/>
+        <d name="skill_ani_31182_10" pX="67" pY="66.45"/>
+        <d name="skill_ani_31182_11" pX="67.1" pY="57"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="skill_ani_31182">
+      <mov name="fly" dr="4" to="0" drTW="4" lp="1" twE="NaN">
+        <b name="skill_ani_31182_2" sc="1" dl="0">
+          <f x="-64" y="2" cocos2d_x="-64" cocos2d_y="2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+          <f x="-64" y="2" cocos2d_x="-64" cocos2d_y="2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="1"/>
+          <f x="-64" y="2" cocos2d_x="-64" cocos2d_y="2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="1"/>
+          <f x="-64" y="2" cocos2d_x="-64" cocos2d_y="2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="1"/>
+        </b>
+      </mov>
+      <mov name="hit" dr="13" to="0" drTW="13" lp="0" twE="NaN">
+        <b name="skill_ani_31182_1" sc="1" dl="0">
+          <f x="-7.5" y="-18" cocos2d_x="-7.5" cocos2d_y="-18" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-7.5" y="-18" cocos2d_x="-7.5" cocos2d_y="-18" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-7.5" y="-18" cocos2d_x="-7.5" cocos2d_y="-18" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-7.5" y="-18" cocos2d_x="-7.5" cocos2d_y="-18" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-7.5" y="-18" cocos2d_x="-7.5" cocos2d_y="-18" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-7.5" y="-18" cocos2d_x="-7.5" cocos2d_y="-18" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+          <f dr="1" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="skill_ani_31182" width="512" height="512">
+    <SubTexture name="skill_ani_31182_11" width="135" height="116" cocos2d_pX="67.1" cocos2d_pY="57" x="0" y="148"/>
+    <SubTexture name="skill_ani_31182_10" width="163" height="125" cocos2d_pX="67" cocos2d_pY="66.45" x="330" y="145"/>
+    <SubTexture name="skill_ani_31182_9" width="160" height="143" cocos2d_pX="66" cocos2d_pY="68.95" x="168" y="141"/>
+    <SubTexture name="skill_ani_31182_8" width="161" height="143" cocos2d_pX="69.5" cocos2d_pY="67.45" x="336" y="0"/>
+    <SubTexture name="skill_ani_31182_7" width="166" height="139" cocos2d_pX="65" cocos2d_pY="65.95" x="168" y="0"/>
+    <SubTexture name="skill_ani_31182_6" width="166" height="146" cocos2d_pX="69.5" cocos2d_pY="67.95" x="0" y="0"/>
+    <SubTexture name="skill_ani_31182_3" width="147" height="58" cocos2d_pX="73.5" cocos2d_pY="29" x="0" y="266"/>
+    <SubTexture name="skill_ani_31182_4" width="146" height="58" cocos2d_pX="72.75" cocos2d_pY="28.75" x="330" y="272"/>
+    <SubTexture name="skill_ani_31182_2" width="145" height="57" cocos2d_pX="72.5" cocos2d_pY="28.5" x="0" y="326"/>
+    <SubTexture name="skill_ani_31182_5" width="146" height="56" cocos2d_pX="72.75" cocos2d_pY="28" x="149" y="286"/>
+  </TextureAtlas>
+</skeleton>

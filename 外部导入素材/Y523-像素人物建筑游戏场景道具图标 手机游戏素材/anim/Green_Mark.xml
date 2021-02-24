@@ -1,0 +1,29 @@
+<skeleton name="Green_Mark" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="Green_Mark">
+      <b name="图层 1" x="0.45" y="1.75" kX="0" kY="0" cX="1" cY="1" pX="-30.05" pY="-21.35" z="0">
+        <d name="flag" pX="30.5" pY="55"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="Green_Mark">
+      <mov name="show" dr="98" to="6" drTW="98" lp="1" twE="NaN">
+        <b name="图层 1" sc="1" dl="0">
+          <f x="0.45" y="1.75" cocos2d_x="30.5" cocos2d_y="23.1" kX="0" kY="0" cX="1" cY="1" pX="-30.05" pY="-21.35" z="0" dI="0" twE="0" dr="4"/>
+          <f x="0.5" y="1.75" cocos2d_x="43.7" cocos2d_y="15.55" kX="-17.73" kY="-17.73" cX="1.23" cY="1.23" pX="-30" pY="-21.4" z="0" dI="0" twE="0" dr="3"/>
+          <f x="0.5" y="1.75" cocos2d_x="26.4" cocos2d_y="38.95" kX="19.72" kY="19.72" cX="1.23" cY="1.23" pX="-29.95" pY="-21.35" z="0" dI="0" twE="0" dr="3"/>
+          <f x="0.5" y="1.75" cocos2d_x="43.7" cocos2d_y="15.55" kX="-17.73" kY="-17.73" cX="1.23" cY="1.23" pX="-30" pY="-21.4" z="0" dI="0" twE="0" dr="3"/>
+          <f x="0.5" y="1.75" cocos2d_x="26.4" cocos2d_y="38.95" kX="19.72" kY="19.72" cX="1.23" cY="1.23" pX="-29.95" pY="-21.35" z="0" dI="0" twE="0" dr="3"/>
+          <f x="0.5" y="1.75" cocos2d_x="43.7" cocos2d_y="15.55" kX="-17.73" kY="-17.73" cX="1.23" cY="1.23" pX="-30" pY="-21.4" z="0" dI="0" twE="0" dr="3"/>
+          <f x="0.5" y="1.75" cocos2d_x="26.4" cocos2d_y="38.95" kX="19.72" kY="19.72" cX="1.23" cY="1.23" pX="-29.95" pY="-21.35" z="0" dI="0" twE="0" dr="3"/>
+          <f x="0.5" y="1.75" cocos2d_x="43.7" cocos2d_y="15.55" kX="-17.73" kY="-17.73" cX="1.23" cY="1.23" pX="-30" pY="-21.4" z="0" dI="0" twE="0" dr="3"/>
+          <f x="0.45" y="1.75" cocos2d_x="30.5" cocos2d_y="23.1" kX="0" kY="0" cX="1" cY="1" pX="-30.05" pY="-21.35" z="0" dI="0" dr="73"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="Green_Mark" width="64" height="64">
+    <SubTexture name="flag" width="61" height="55" cocos2d_pX="30.5" cocos2d_pY="55" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

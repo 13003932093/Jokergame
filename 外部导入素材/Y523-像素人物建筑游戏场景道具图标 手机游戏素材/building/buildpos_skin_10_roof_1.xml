@@ -1,0 +1,21 @@
+<skeleton name="buildpos_skin_10_roof_1" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="buildpos_skin_10_roof_1">
+      <b name="buildpos_skin_8_roof_1_2" x="-30.65" y="-255.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="buildpos_skin_10_roof_1_2" pX="659.75" pY="325.9"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="buildpos_skin_10_roof_1">
+      <mov name="idle" dr="49" to="0" drTW="49" lp="1" twE="NaN">
+        <b name="buildpos_skin_8_roof_1_2" sc="1" dl="0">
+          <f x="-30.65" y="-255.95" cocos2d_x="-30.65" cocos2d_y="-255.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="49"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="buildpos_skin_10_roof_1" width="2048" height="1024">
+    <SubTexture name="buildpos_skin_10_roof_1_2" width="1367" height="980" cocos2d_pX="659.75" cocos2d_pY="325.9" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

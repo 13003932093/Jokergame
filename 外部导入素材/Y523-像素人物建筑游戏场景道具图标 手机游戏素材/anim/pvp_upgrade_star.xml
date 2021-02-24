@@ -1,0 +1,365 @@
+<skeleton name="pvp_upgrade_star" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="pvp_upgrade_star">
+      <b name="36" x="11.75" y="4.6" kX="0" kY="0" cX="0.3" cY="0.3" pX="222.8" pY="192" z="0">
+        <d name="pvp_upgrade_star_7" pX="0" pY="0"/>
+      </b>
+      <b name="35" x="0.1" y="-0.1" kX="0" kY="0" cX="0.27" cY="0.27" pX="0" pY="0" z="1">
+        <d name="pvp_upgrade_star_5" isArmature="1"/>
+      </b>
+      <b name="34" x="-1.35" y="0" kX="0" kY="0" cX="0.3" cY="0.3" pX="0" pY="0" z="2">
+        <d name="pvp_upgrade_star_2" pX="49" pY="51"/>
+      </b>
+      <b name="33" x="-0.75" y="51.9" kX="0" kY="0" cX="0.31" cY="0.31" pX="200.5" pY="49" z="3">
+        <d name="pvp_upgrade_star_8" pX="8.8" pY="0"/>
+        <d name="pvp_upgrade_star_13" isArmature="1"/>
+      </b>
+      <b name="current_level_name" x="1.35" y="48.65" kX="0" kY="0" cX="0.3" cY="0.3" pX="0" pY="0" z="4">
+        <d name="pvp_upgrade_star_14" pX="60" pY="18.5"/>
+      </b>
+      <b name="current_icon" x="-2.5" y="-1.5" kX="0" kY="0" cX="0.3" cY="0.3" pX="0" pY="0" z="5">
+        <d name="pvp_upgrade_star_9" pX="47.5" pY="47.5"/>
+      </b>
+      <b name="2" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6">
+        <d name="pvp_upgrade_star_1" pX="0" pY="0"/>
+      </b>
+      <b name="20" x="2" y="172.95" kX="0" kY="0" cX="1" cY="1" pX="204.5" pY="50" z="4">
+        <d name="pvp_upgrade_star_18" pX="6.5" pY="4"/>
+        <d name="pvp_upgrade_star_8" pX="8.8" pY="0"/>
+      </b>
+      <b name="star_node" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="107.75" pY="91.1" z="5">
+        <d name="pvp_upgrade_star_16" pX="-58.75" pY="-40.1"/>
+        <d name="pvp_upgrade_star_1" pX="0" pY="0"/>
+      </b>
+      <b name="new_level_name" x="4.35" y="159.15" kX="0" kY="0" cX="0.99" cY="0.99" pX="0" pY="0" z="6">
+        <d name="pvp_upgrade_star_15" pX="60" pY="18.5"/>
+      </b>
+      <b name="18" x="1.75" y="-0.75" kX="0" kY="0" cX="1" cY="1" pX="67.1" pY="67.1" z="8">
+        <d name="pvp_upgrade_star_17" pX="28" pY="28"/>
+      </b>
+      <b name="new_icon" x="-1.5" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8">
+        <d name="pvp_upgrade_star_10" pX="47.5" pY="47.5"/>
+      </b>
+      <b name="6" x="1.75" y="-0.75" kX="0" kY="0" cX="1.36" cY="1.36" pX="67.1" pY="67.1" z="8">
+        <d name="pvp_upgrade_star_17" pX="28" pY="28"/>
+      </b>
+    </armature>
+    <armature name="pvp_upgrade_star_5">
+      <b name="pvp_upgrade_star_5_1" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="pvp_upgrade_star_4" pX="258.95" pY="205.7"/>
+      </b>
+    </armature>
+    <armature name="pvp_upgrade_star_13">
+      <b name="pvp_upgrade_star_13_3" x="-366.85" y="247.55" kX="0" kY="0" cX="1" cY="1" pX="200.5" pY="49" z="0">
+        <d name="pvp_upgrade_star_11" pX="0" pY="0"/>
+      </b>
+      <b name="pvp_upgrade_star_13_2" x="-366.85" y="247.55" kX="0" kY="0" cX="1.02" cY="1.02" pX="200.5" pY="49" z="0">
+        <d name="pvp_upgrade_star_8" pX="8.8" pY="0"/>
+      </b>
+      <b name="pvp_upgrade_star_13_1" x="-366.85" y="247.55" kX="0" kY="0" cX="1" cY="1.06" pX="200.5" pY="49" z="1">
+        <d name="pvp_upgrade_star_12" pX="10.3" pY="3"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="pvp_upgrade_star_5">
+      <mov name="show" dr="79" to="0" drTW="79" lp="1" twE="NaN">
+        <b name="pvp_upgrade_star_5_1" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="35"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="89.99" kY="89.99" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="43">
+            <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="-179.79" kY="-179.79" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+      <mov name="upgrade" dr="79" to="0" drTW="79" lp="1" twE="NaN">
+        <b name="pvp_upgrade_star_5_1" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="35"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="89.99" kY="89.99" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="43">
+            <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="-179.79" kY="-179.79" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="pvp_upgrade_star_13">
+      <mov name="upgrade" dr="25" to="0" drTW="25" lp="0" twE="NaN">
+        <b name="pvp_upgrade_star_13_3" sc="1" dl="0">
+          <f x="-366.85" y="247.55" cocos2d_x="-567.35" cocos2d_y="198.55" kX="0" kY="0" cX="1" cY="1" pX="200.5" pY="49" z="0" dI="0" dr="1"/>
+          <f dr="24" dI="-1"/>
+        </b>
+        <b name="pvp_upgrade_star_13_2" sc="1" dl="0">
+          <f x="-366.85" y="247.55" cocos2d_x="-571.35" cocos2d_y="197.55" kX="0" kY="0" cX="1.02" cY="1.02" pX="200.5" pY="49" z="0" dI="0" twE="0" dr="2"/>
+          <f x="-366.65" y="247.3" cocos2d_x="-567.15" cocos2d_y="198.3" kX="0" kY="0" cX="1" cY="1" pX="200.5" pY="49" z="0" dI="0" dr="23"/>
+        </b>
+        <b name="pvp_upgrade_star_13_1" sc="1" dl="0">
+          <f x="-366.85" y="247.55" cocos2d_x="-567.35" cocos2d_y="195.5" kX="0" kY="0" cX="1" cY="1.06" pX="200.5" pY="49" z="1" dI="0" twE="0" dr="2"/>
+          <f x="-366.85" y="247.55" cocos2d_x="-607.45" cocos2d_y="185.1" kX="0" kY="0" cX="1.2" cY="1.27" pX="200.5" pY="49" z="1" dI="0" twE="0" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="32" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-366.9" y="247.5" cocos2d_x="-655.6" cocos2d_y="172.6" kX="0" kY="0" cX="1.44" cY="1.53" pX="200.5" pY="49" z="1" dI="0" dr="18">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="pvp_upgrade_star">
+      <mov name="show" dr="35" to="0" drTW="35" lp="0" twE="NaN">
+        <b name="36" sc="1" dl="0">
+          <f x="11.75" y="4.6" cocos2d_x="-55.1" cocos2d_y="-53" kX="0" kY="0" cX="0.3" cY="0.3" pX="222.8" pY="192" z="0" dI="0" twE="0" dr="2"/>
+          <f x="46.9" y="15.3" cocos2d_x="-175.95" cocos2d_y="-176.75" kX="0" kY="0" cX="1" cY="1" pX="222.85" pY="192.05" z="0" dI="0" twE="0" dr="2"/>
+          <f x="57.85" y="15.1" cocos2d_x="-212.55" cocos2d_y="-217.9" kX="0" kY="0" cX="1.21" cY="1.21" pX="222.8" pY="192" z="0" dI="0" twE="0" dr="2"/>
+          <f x="46.9" y="15.3" cocos2d_x="-175.95" cocos2d_y="-176.75" kX="0" kY="0" cX="1" cY="1" pX="222.85" pY="192.05" z="0" dI="0" dr="29"/>
+        </b>
+        <b name="35" sc="1" dl="0">
+          <f x="0.1" y="-0.1" cocos2d_x="0.1" cocos2d_y="-0.1" kX="0" kY="0" cX="0.27" cY="0.27" pX="0" pY="0" z="1" dI="0" twE="0" dr="2"/>
+          <f x="-0.2" y="0.2" cocos2d_x="-0.2" cocos2d_y="0.2" kX="0" kY="0" cX="0.91" cY="0.91" pX="0" pY="0" z="1" dI="0" twE="0" dr="2"/>
+          <f x="2.25" y="-1.8" cocos2d_x="2.25" cocos2d_y="-1.8" kX="0" kY="0" cX="1.1" cY="1.1" pX="0" pY="0" z="1" dI="0" twE="0" dr="2"/>
+          <f x="-0.2" y="0.2" cocos2d_x="-0.2" cocos2d_y="0.2" kX="0" kY="0" cX="0.91" cY="0.91" pX="0" pY="0" z="1" dI="0" dr="29"/>
+        </b>
+        <b name="34" sc="1" dl="0">
+          <f x="-1.35" y="0" cocos2d_x="-1.35" cocos2d_y="0" kX="0" kY="0" cX="0.3" cY="0.3" pX="0" pY="0" z="2" dI="0" twE="0" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="2"/>
+          <f x="0.65" y="-3.4" cocos2d_x="0.65" cocos2d_y="-3.4" kX="0" kY="0" cX="1.21" cY="1.21" pX="0" pY="0" z="2" dI="0" twE="0" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="29"/>
+        </b>
+        <b name="33" sc="1" dl="0">
+          <f x="-0.75" y="51.9" cocos2d_x="-62.1" cocos2d_y="36.9" kX="0" kY="0" cX="0.31" cY="0.31" pX="200.5" pY="49" z="3" dI="0" twE="0" dr="2"/>
+          <f x="2" y="172.95" cocos2d_x="-202.5" cocos2d_y="122.95" kX="0" kY="0" cX="1.02" cY="1.02" pX="200.5" pY="49" z="3" dI="0" twE="0" dr="2"/>
+          <f x="3.05" y="206.5" cocos2d_x="-245.05" cocos2d_y="145.8" kX="0" kY="0" cX="1.24" cY="1.24" pX="200.45" pY="49.05" z="3" dI="0" twE="0" dr="2"/>
+          <f x="2" y="172.95" cocos2d_x="-198.5" cocos2d_y="123.95" kX="0" kY="0" cX="1" cY="1" pX="200.5" pY="49" z="3" dI="0" dr="29"/>
+        </b>
+        <b name="current_level_name" sc="1" dl="0">
+          <f x="1.35" y="48.65" cocos2d_x="1.35" cocos2d_y="48.65" kX="0" kY="0" cX="0.3" cY="0.3" pX="0" pY="0" z="4" dI="0" twE="0" evt="setCurrentLevelName" dr="2"/>
+          <f x="4.35" y="158.15" cocos2d_x="4.35" cocos2d_y="158.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="2"/>
+          <f x="5.9" y="188.5" cocos2d_x="5.9" cocos2d_y="188.5" kX="0" kY="0" cX="1.21" cY="1.21" pX="0" pY="0" z="4" dI="0" twE="0" dr="2"/>
+          <f x="4.35" y="158.15" cocos2d_x="4.35" cocos2d_y="158.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="29"/>
+        </b>
+        <b name="current_icon" sc="1" dl="0">
+          <f x="-2.5" y="-1.5" cocos2d_x="-2.5" cocos2d_y="-1.5" kX="0" kY="0" cX="0.3" cY="0.3" pX="0" pY="0" z="5" dI="0" twE="0" evt="setCurrentIcon" dr="2"/>
+          <f x="-2" y="-5.5" cocos2d_x="-2" cocos2d_y="-5.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" twE="0" dr="2"/>
+          <f x="-3.6" y="-9.65" cocos2d_x="-3.6" cocos2d_y="-9.65" kX="0" kY="0" cX="1.21" cY="1.21" pX="0" pY="0" z="5" dI="0" twE="0" dr="2"/>
+          <f x="-2" y="-5.5" cocos2d_x="-2" cocos2d_y="-5.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="29"/>
+        </b>
+        <b name="2" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" twE="0" evt="setCurrentStar" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" twE="0" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1.21" cY="1.21" pX="0" pY="0" z="6" dI="0" twE="0" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" dr="29"/>
+        </b>
+      </mov>
+      <mov name="upgrade" dr="48" to="0" drTW="48" lp="0" twE="NaN">
+        <b name="36" sc="1" dl="0">
+          <f x="46.9" y="15.3" cocos2d_x="-175.95" cocos2d_y="-176.75" kX="0" kY="0" cX="1" cY="1" pX="222.85" pY="192.05" z="0" dI="0" dr="6"/>
+          <f x="46.9" y="15.3" cocos2d_x="-175.95" cocos2d_y="-176.75" kX="0" kY="0" cX="1" cY="1" pX="222.85" pY="192.05" z="0" dI="0" twE="0" dr="4"/>
+          <f x="46.9" y="15.3" cocos2d_x="-175.95" cocos2d_y="-176.75" kX="0" kY="0" cX="1" cY="1" pX="222.85" pY="192.05" z="0" dI="0" dr="2"/>
+          <f x="46.9" y="15.3" cocos2d_x="-175.95" cocos2d_y="-176.75" kX="0" kY="0" cX="1" cY="1" pX="222.85" pY="192.05" z="0" dI="0" dr="36"/>
+        </b>
+        <b name="35" sc="1" dl="0">
+          <f x="-0.2" y="0.2" cocos2d_x="-0.2" cocos2d_y="0.2" kX="0" kY="0" cX="0.91" cY="0.91" pX="0" pY="0" z="1" dI="0" dr="6"/>
+          <f x="-0.2" y="0.2" cocos2d_x="-0.2" cocos2d_y="0.2" kX="0" kY="0" cX="0.91" cY="0.91" pX="0" pY="0" z="1" dI="0" twE="0" dr="4"/>
+          <f x="-0.2" y="0.2" cocos2d_x="-0.2" cocos2d_y="0.2" kX="0" kY="0" cX="0.91" cY="0.91" pX="0" pY="0" z="1" dI="0" dr="2"/>
+          <f x="-0.2" y="-4.5" cocos2d_x="-0.2" cocos2d_y="-4.5" kX="0" kY="0" cX="0.91" cY="0.91" pX="0" pY="0" z="1" dI="0" dr="36"/>
+        </b>
+        <b name="34" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="6"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="4"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="36"/>
+        </b>
+        <b name="33" sc="1" dl="0">
+          <f x="2" y="172.95" cocos2d_x="-198.5" cocos2d_y="123.95" kX="0" kY="0" cX="1" cY="1" pX="200.5" pY="49" z="3" dI="0" twE="NaN" tweenFrame="0" dr="6"/>
+          <f x="2" y="172.95" cocos2d_x="-198.5" cocos2d_y="123.95" kX="0" kY="0" cX="1" cY="1" pX="200.5" pY="49" z="3" dI="0" twE="0" dr="4"/>
+          <f x="2" y="172.95" cocos2d_x="-198.5" cocos2d_y="123.95" kX="0" kY="0" cX="1" cY="1" pX="200.5" pY="49" z="3" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+          <f x="2" y="172.95" cocos2d_x="-198.5" cocos2d_y="123.95" kX="0" kY="0" cX="1" cY="1" pX="200.5" pY="49" z="3" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+          <f x="1.3" y="172.95" cocos2d_x="-199.1" cocos2d_y="123.95" kX="0" kY="0" cX="1" cY="1" pX="200.4" pY="49" z="3" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+          <f x="396.35" y="-41.8" cocos2d_x="368.85" cocos2d_y="-73.3" kX="0" kY="0" cX="1" cY="1" pX="27.5" pY="31.5" z="3" dI="1" dr="34"/>
+          <f x="396.35" y="-41.8" cocos2d_x="368.85" cocos2d_y="-73.3" kX="0" kY="0" cX="1" cY="1" pX="27.5" pY="31.5" z="3" dI="1" dr="1"/>
+        </b>
+        <b name="20" sc="1" dl="0">
+          <f x="2" y="172.95" cocos2d_x="-202.5" cocos2d_y="122.95" kX="0" kY="0" cX="1" cY="1" pX="204.5" pY="50" z="4" dI="0" twE="0" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="2" y="172.95" cocos2d_x="-202.5" cocos2d_y="122.95" kX="0" kY="0" cX="1" cY="1" pX="204.5" pY="50" z="4" dI="0" dr="7"/>
+          <f x="2" y="172.95" cocos2d_x="-212.6" cocos2d_y="120.45" kX="0" kY="0" cX="1.05" cY="1.05" pX="204.4" pY="50" z="4" dI="0" twE="0" dr="6"/>
+          <f x="2" y="172.95" cocos2d_x="-212.6" cocos2d_y="120.45" kX="0" kY="0" cX="1.05" cY="1.05" pX="204.4" pY="50" z="4" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="2" y="172.95" cocos2d_x="-328.9" cocos2d_y="92.05" kX="0" kY="0" cX="1.62" cY="1.62" pX="204.5" pY="50" z="4" dI="0" dr="20">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="star_node" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="-107.75" cocos2d_y="-91.1" kX="0" kY="0" cX="1" cY="1" pX="107.75" pY="91.1" z="5" dI="0" twE="0" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="0" cocos2d_x="-107.75" cocos2d_y="-91.1" kX="0" kY="0" cX="1" cY="1" pX="107.75" pY="91.1" z="5" dI="0" dr="1"/>
+          <f x="0" y="0" cocos2d_x="-107.75" cocos2d_y="-91.1" kX="0" kY="0" cX="1" cY="1" pX="107.75" pY="91.1" z="5" dI="0" twE="0" dr="4"/>
+          <f x="0" y="0" cocos2d_x="-107.75" cocos2d_y="-91.1" kX="0" kY="0" cX="1" cY="1" pX="107.75" pY="91.1" z="5" dI="0" twE="0" dr="5"/>
+          <f x="0" y="0" cocos2d_x="-107.75" cocos2d_y="-91.1" kX="0" kY="0" cX="1" cY="1" pX="107.75" pY="91.1" z="5" dI="0" dr="33">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="current_level_name" sc="1" dl="0">
+          <f x="4.35" y="158.15" cocos2d_x="4.35" cocos2d_y="158.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+          <f x="4.35" y="158.15" cocos2d_x="4.35" cocos2d_y="158.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="43" dI="-1"/>
+        </b>
+        <b name="new_level_name" sc="1" dl="0">
+          <f dr="14" dI="-1"/>
+          <f x="4.35" y="159.15" cocos2d_x="4.35" cocos2d_y="159.15" kX="0" kY="0" cX="0.99" cY="0.99" pX="0" pY="0" z="6" dI="0" twE="0" evt="setNewLevelName" dr="2"/>
+          <f x="4.35" y="159.15" cocos2d_x="4.35" cocos2d_y="159.15" kX="0" kY="0" cX="1.64" cY="1.64" pX="0" pY="0" z="6" dI="0" twE="0" dr="2"/>
+          <f x="4.35" y="159.15" cocos2d_x="4.35" cocos2d_y="159.15" kX="0" kY="0" cX="1.44" cY="1.44" pX="0" pY="0" z="6" dI="0" twE="0" dr="4"/>
+          <f x="4.35" y="158.15" cocos2d_x="4.35" cocos2d_y="158.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" dr="26"/>
+        </b>
+        <b name="current_icon" sc="1" dl="0">
+          <f x="-2" y="-5.5" cocos2d_x="-2" cocos2d_y="-5.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" twE="0" dr="5"/>
+          <f x="-2" y="-5.5" cocos2d_x="-2" cocos2d_y="-5.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="42" dI="-1"/>
+        </b>
+        <b name="18" sc="1" dl="0">
+          <f x="1.75" y="-0.75" cocos2d_x="-65.35" cocos2d_y="-67.85" kX="0" kY="0" cX="1" cY="1" pX="67.1" pY="67.1" z="8" dI="0" twE="0" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="1.75" y="-0.65" cocos2d_x="-76.3" cocos2d_y="-78.8" kX="0" kY="0" cX="1.16" cY="1.16" pX="67.1" pY="67.2" z="6" dI="0" twE="0" dr="5"/>
+          <f x="1.75" y="-0.75" cocos2d_x="-86.3" cocos2d_y="-88.8" kX="0" kY="0" cX="1.31" cY="1.31" pX="67.1" pY="67.15" z="7" dI="0" twE="0" dr="5"/>
+          <f x="1.75" y="-0.75" cocos2d_x="-65.35" cocos2d_y="-67.85" kX="0" kY="0" cX="1" cY="1" pX="67.1" pY="67.1" z="7" dI="0" dr="33">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="new_icon" sc="1" dl="0">
+          <f dr="12" dI="-1"/>
+          <f x="-1.5" y="0" cocos2d_x="-1.5" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="0" twE="0" evt="setNewIcon" dr="7">
+            <colorTransform a="0" r="255" g="255" b="255" aM="100" rM="0" gM="0" bM="0"/>
+          </f>
+          <f x="-1.5" y="0" cocos2d_x="-1.5" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="0" twE="0" dr="4">
+            <colorTransform a="0" r="156" g="156" b="156" aM="100" rM="39" gM="39" bM="39"/>
+          </f>
+          <f x="-1.5" y="0" cocos2d_x="-1.5" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="0" dr="25"/>
+        </b>
+        <b name="6" sc="1" dl="0">
+          <f dr="10" dI="-1"/>
+          <f x="1.75" y="-0.75" cocos2d_x="-89.4" cocos2d_y="-91.9" kX="0" kY="0" cX="1.36" cY="1.36" pX="67.1" pY="67.1" z="8" dI="0" twE="0" dr="3"/>
+          <f x="1.7" y="-0.8" cocos2d_x="-201.2" cocos2d_y="-203.7" kX="0" kY="0" cX="3.02" cY="3.02" pX="67.1" pY="67.1" z="9" dI="0" twE="0" dr="7">
+            <colorTransform a="0" r="0" g="0" b="0" aM="36" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="1.65" y="-0.65" cocos2d_x="-258.55" cocos2d_y="-261.05" kX="0" kY="0" cX="3.88" cY="3.88" pX="67.1" pY="67.1" z="9" dI="0" dr="28">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="2" sc="1" dl="0">
+          <f dr="28" dI="-1"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="10" dI="0" evt="setNewStar" dr="19"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="10" dI="0" evt="upgradeComplete" dr="1"/>
+        </b>
+      </mov>
+      <mov name="hide" dr="16" to="0" drTW="16" lp="0" twE="NaN">
+        <b name="36" sc="1" dl="0">
+          <f x="46.9" y="15.3" cocos2d_x="-175.95" cocos2d_y="-176.75" kX="0" kY="0" cX="1" cY="1" pX="222.85" pY="192.05" z="0" dI="0" twE="0" dr="7"/>
+          <f x="46.9" y="15.3" cocos2d_x="-175.95" cocos2d_y="-176.75" kX="0" kY="0" cX="1" cY="1" pX="222.85" pY="192.05" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="8" dI="-1"/>
+        </b>
+        <b name="35" sc="1" dl="0">
+          <f x="-0.2" y="0.2" cocos2d_x="-0.2" cocos2d_y="0.2" kX="0" kY="0" cX="0.91" cY="0.91" pX="0" pY="0" z="1" dI="0" twE="0" dr="7"/>
+          <f x="-0.2" y="0.2" cocos2d_x="-0.2" cocos2d_y="0.2" kX="0" kY="0" cX="0.91" cY="0.91" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="8" dI="-1"/>
+        </b>
+        <b name="34" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="7"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="8" dI="-1"/>
+        </b>
+        <b name="33" sc="1" dl="0">
+          <f x="396.35" y="-41.8" cocos2d_x="368.85" cocos2d_y="-73.3" kX="0" kY="0" cX="1" cY="1" pX="27.5" pY="31.5" z="3" dI="1" twE="0" dr="7"/>
+          <f x="396.35" y="-41.8" cocos2d_x="368.85" cocos2d_y="-73.3" kX="0" kY="0" cX="1" cY="1" pX="27.5" pY="31.5" z="3" dI="1" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="8" dI="-1"/>
+        </b>
+        <b name="20" sc="1" dl="0">
+          <f x="2" y="173.95" cocos2d_x="-198.5" cocos2d_y="124.95" kX="0" kY="0" cX="1" cY="1" pX="200.5" pY="49" z="4" dI="1" twE="0" dr="7"/>
+          <f x="2" y="173.95" cocos2d_x="-198.5" cocos2d_y="124.95" kX="0" kY="0" cX="1" cY="1" pX="200.5" pY="49" z="4" dI="1" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="8" dI="-1"/>
+        </b>
+        <b name="star_node" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="1" twE="0" dr="7"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="1" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="8" dI="-1"/>
+        </b>
+        <b name="current_level_name" sc="1" dl="0">
+          <f x="4.35" y="158.15" cocos2d_x="4.35" cocos2d_y="158.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" twE="0" dr="7"/>
+          <f x="4.35" y="158.15" cocos2d_x="4.35" cocos2d_y="158.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="4.35" y="158.15" cocos2d_x="4.35" cocos2d_y="158.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="7">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="1" dI="-1"/>
+        </b>
+        <b name="new_level_name" sc="1" dl="0">
+          <f x="4.35" y="158.15" cocos2d_x="4.35" cocos2d_y="158.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" twE="0" dr="7"/>
+          <f x="4.35" y="158.15" cocos2d_x="4.35" cocos2d_y="158.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="4.35" y="158.15" cocos2d_x="4.35" cocos2d_y="158.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="7">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="1" dI="-1"/>
+        </b>
+        <b name="current_icon" sc="1" dl="0">
+          <f x="-2" y="-5.5" cocos2d_x="-2" cocos2d_y="-5.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="0" twE="0" dr="7"/>
+          <f x="-2" y="-5.5" cocos2d_x="-2" cocos2d_y="-5.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-2" y="-5.5" cocos2d_x="-2" cocos2d_y="-5.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="7">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="1" dI="-1"/>
+        </b>
+        <b name="new_icon" sc="1" dl="0">
+          <f x="-1.5" y="0" cocos2d_x="-1.5" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="9" dI="0" twE="0" dr="7"/>
+          <f x="-1.5" y="0" cocos2d_x="-1.5" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="9" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-1.5" y="0" cocos2d_x="-1.5" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="7">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="1" dI="-1"/>
+        </b>
+        <b name="2" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="16"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="pvp_upgrade_star" width="1024" height="1024">
+    <SubTexture name="pvp_upgrade_star_12" width="428" height="100" cocos2d_pX="10.3" cocos2d_pY="3" x="500" y="390"/>
+    <SubTexture name="pvp_upgrade_star_11" width="401" height="98" cocos2d_pX="0" cocos2d_pY="0" x="0" y="546"/>
+    <SubTexture name="pvp_upgrade_star_4" width="498" height="440" cocos2d_pX="258.95" cocos2d_pY="205.7" x="0" y="0"/>
+    <SubTexture name="pvp_upgrade_star_10" width="95" height="95" cocos2d_pX="47.5" cocos2d_pY="47.5" x="796" y="596"/>
+    <SubTexture name="pvp_upgrade_star_17" width="194" height="194" cocos2d_pX="28" cocos2d_pY="28" x="403" y="592"/>
+    <SubTexture name="pvp_upgrade_star_15" width="120" height="37" cocos2d_pX="60" cocos2d_pY="18.5" x="893" y="596"/>
+    <SubTexture name="pvp_upgrade_star_16" width="98" height="102" cocos2d_pX="-58.75" cocos2d_pY="-40.1" x="846" y="492"/>
+    <SubTexture name="pvp_upgrade_star_18" width="423" height="102" cocos2d_pX="6.5" cocos2d_pY="4" x="0" y="442"/>
+    <SubTexture name="pvp_upgrade_star_1" width="0" height="0" cocos2d_pX="0" cocos2d_pY="0" x="951" y="0"/>
+    <SubTexture name="pvp_upgrade_star_9" width="95" height="95" cocos2d_pX="47.5" cocos2d_pY="47.5" x="699" y="592"/>
+    <SubTexture name="pvp_upgrade_star_14" width="120" height="37" cocos2d_pX="60" cocos2d_pY="18.5" x="893" y="635"/>
+    <SubTexture name="pvp_upgrade_star_8" width="419" height="98" cocos2d_pX="8.8" cocos2d_pY="0" x="425" y="492"/>
+    <SubTexture name="pvp_upgrade_star_2" width="98" height="102" cocos2d_pX="49" cocos2d_pY="51" x="599" y="592"/>
+    <SubTexture name="pvp_upgrade_star_7" width="449" height="388" cocos2d_pX="0" cocos2d_pY="0" x="500" y="0"/>
+  </TextureAtlas>
+</skeleton>

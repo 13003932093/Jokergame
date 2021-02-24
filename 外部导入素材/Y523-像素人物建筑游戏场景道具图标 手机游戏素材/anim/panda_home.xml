@@ -1,0 +1,664 @@
+<skeleton name="panda_home" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="tomcat1">
+   <b name="tomcat1_2" x="2" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="panda_home_175" pX="27" pY="40"/>
+    <d name="panda_home_176" pX="25" pY="40"/>
+    <d name="panda_home_177" pX="25" pY="40"/>
+    <d name="panda_home_178" pX="25" pY="40"/>
+    <d name="panda_home_179" pX="25" pY="40"/>
+    <d name="panda_home_180" pX="25" pY="40"/>
+   </b>
+  </armature>
+  <armature name="turtle2">
+   <b name="turtle2_2" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="51" pY="39" z="0">
+    <d name="panda_home_156" pX="0" pY="0"/>
+    <d name="panda_home_74" pX="51" pY="39"/>
+    <d name="panda_home_76" pX="51" pY="39"/>
+   </b>
+  </armature>
+  <armature name="turtle1">
+   <b name="turtle1_2" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="51" pY="39" z="0">
+    <d name="panda_home_156" pX="0" pY="0"/>
+   </b>
+  </armature>
+  <armature name="panda_home8">
+   <b name="panda_home8_7" x="-2" y="37.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="panda_home_64" pX="47" pY="17"/>
+   </b>
+   <b name="panda_home8_6" x="-2.8" y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="panda_home_57" pX="54" pY="60"/>
+    <d name="panda_home_58" pX="54" pY="60"/>
+    <d name="panda_home_59" pX="54" pY="60"/>
+    <d name="panda_home_60" pX="54" pY="60"/>
+    <d name="panda_home_61" pX="54" pY="60"/>
+    <d name="panda_home_62" pX="54" pY="60"/>
+    <d name="panda_home_63" pX="54" pY="60"/>
+   </b>
+   <b name="panda_home8_5" x="0.2" y="-36.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+    <d name="panda_home_65" pX="38" pY="26"/>
+   </b>
+  </armature>
+  <armature name="panda_home7">
+   <b name="panda_home7_7" x="-5.3" y="22.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="panda_home_47" pX="57" pY="28"/>
+   </b>
+   <b name="panda_home7_6" x="-12.9" y="-11.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="panda_home_46" pX="47" pY="56"/>
+    <d name="panda_home_53" pX="49" pY="56"/>
+   </b>
+   <b name="panda_home7_5" x="2.2" y="-39.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+    <d name="panda_home_54" pX="35" pY="28"/>
+    <d name="panda_home_55" pX="35" pY="28"/>
+    <d name="panda_home_56" pX="35" pY="28"/>
+   </b>
+   <b name="panda_home7_3" x="-5.3" y="-2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+    <d name="panda_home_48" pX="41" pY="23"/>
+    <d name="panda_home_49" pX="41" pY="18"/>
+    <d name="panda_home_50" pX="49" pY="18"/>
+    <d name="panda_home_51" pX="43" pY="26"/>
+    <d name="panda_home_52" pX="44" pY="41"/>
+   </b>
+  </armature>
+  <armature name="panda_home6">
+   <b name="panda_home6_7" x="3.1" y="-12" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="panda_home_38" pX="50" pY="49"/>
+    <d name="panda_home_39" pX="50" pY="49"/>
+    <d name="panda_home_40" pX="50" pY="49"/>
+    <d name="panda_home_41" pX="50" pY="49"/>
+    <d name="panda_home_42" pX="50" pY="49"/>
+    <d name="panda_home_43" pX="50" pY="49"/>
+    <d name="panda_home_44" pX="50" pY="49"/>
+    <d name="panda_home_45" pX="50" pY="49"/>
+   </b>
+  </armature>
+  <armature name="panda_home5">
+   <b name="panda_home5_8" x="5.9" y="8.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="panda_home_165" pX="56" pY="17"/>
+   </b>
+   <b name="panda_home5_7" x="-2" y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="panda_home_31" pX="66" pY="57"/>
+    <d name="panda_home_32" pX="66" pY="57"/>
+    <d name="panda_home_33" pX="66" pY="57"/>
+    <d name="panda_home_34" pX="66" pY="57"/>
+    <d name="panda_home_35" pX="66" pY="57"/>
+    <d name="panda_home_36" pX="66" pY="57"/>
+   </b>
+   <b name="panda_home5_6" x="1" y="-73.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+    <d name="panda_home_37" pX="31" pY="24"/>
+   </b>
+  </armature>
+  <armature name="panda_home4">
+   <b name="panda_home4_8" x="4" y="14" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="panda_home_164" pX="50" pY="10"/>
+   </b>
+   <b name="panda_home4_7" x="10" y="-13.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="panda_home_23" pX="53" pY="32"/>
+    <d name="panda_home_28" pX="55" pY="33"/>
+    <d name="panda_home_29" pX="56" pY="35"/>
+   </b>
+   <b name="panda_home4_6" x="39" y="-17" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+    <d name="panda_home_30" pX="28" pY="35"/>
+   </b>
+   <b name="panda_home4_5" x="-12.5" y="-58" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+    <d name="panda_home_24" pX="35" pY="35"/>
+   </b>
+   <b name="panda_home4_4" x="-7" y="-15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3">
+    <d name="panda_home_25" pX="40" pY="33"/>
+    <d name="panda_home_26" pX="42" pY="32"/>
+    <d name="panda_home_27" pX="37" pY="32"/>
+   </b>
+  </armature>
+  <armature name="panda_home3">
+   <b name="panda_home3_7" x="9.4" y="-1.5" kX="0" kY="0" cX="1" cY="1" pX="-18" pY="0" z="0">
+    <d name="panda_home_20" pX="35.9" pY="34.1"/>
+   </b>
+   <b name="panda_home3_6" x="-24.6" y="3.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="panda_home_19" pX="39" pY="33.1"/>
+   </b>
+   <b name="panda_home3_5" x="-62.7" y="-1.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.1" z="2">
+    <d name="panda_home_22" pX="8.3" pY="7.1"/>
+   </b>
+   <b name="panda_home3_4" x="-62.7" y="-1.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.1" z="3">
+    <d name="panda_home_22" pX="8.3" pY="7.1"/>
+   </b>
+   <b name="panda_home3_3" x="-28.7" y="-67.5" kX="34.56" kY="34.56" cX="1.76" cY="1.76" pX="0" pY="-0.2" z="3">
+    <d name="panda_home_22" pX="8.3" pY="7.1"/>
+   </b>
+  </armature>
+  <armature name="panda_home2">
+   <b name="panda_home2_6" x="-12" y="-6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="panda_home_15" pX="60" pY="44"/>
+    <d name="panda_home_16" pX="60" pY="44"/>
+    <d name="panda_home_17" pX="60" pY="44"/>
+    <d name="panda_home_18" pX="60" pY="44"/>
+   </b>
+  </armature>
+  <armature name="panda_home1">
+   <b name="panda_home1_6" x="-1" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="panda_home_12" pX="49" pY="54"/>
+    <d name="panda_home_13" pX="57" pY="54"/>
+    <d name="panda_home_10" pX="57" pY="54"/>
+    <d name="panda_home_11" pX="57" pY="54"/>
+    <d name="panda_home_14" pX="49" pY="54"/>
+   </b>
+  </armature>
+  <armature name="panda_home_and_turtle2">
+   <b name="panda_home_and_turtle2_3" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="panda_home_66" pX="61" pY="58"/>
+    <d name="panda_home_67" pX="61" pY="58"/>
+    <d name="panda_home_68" pX="61" pY="58"/>
+    <d name="panda_home_69" pX="61" pY="58"/>
+    <d name="panda_home_70" pX="61" pY="58"/>
+   </b>
+   <b name="panda_home_and_turtle2_2" x="-3.9" y="-32.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="panda_home_71" pX="35" pY="21"/>
+   </b>
+  </armature>
+  <armature name="panda_home_and_bird2">
+   <b name="panda_home_and_bird2_3" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="panda_home_82" pX="50" pY="55"/>
+    <d name="panda_home_78" pX="49" pY="55"/>
+    <d name="panda_home_79" pX="49" pY="55"/>
+    <d name="panda_home_80" pX="50" pY="57"/>
+    <d name="panda_home_81" pX="60" pY="60"/>
+   </b>
+   <b name="panda_home_and_bird2_2" x="3" y="-33" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="panda_home_83" pX="35" pY="22"/>
+   </b>
+  </armature>
+  <armature name="bird2">
+   <b name="bird2_2" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="panda_home_87" pX="33" pY="41"/>
+    <d name="panda_home_86" pX="33" pY="41"/>
+    <d name="panda_home_88" pX="33" pY="41"/>
+   </b>
+  </armature>
+  <armature name="bird1">
+   <b name="bird1_2" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="panda_home_87" pX="33" pY="41"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="tomcat1">
+   <mov name="idle" dr="215" to="0" drTW="215" lp="1" twE="NaN">
+    <b name="tomcat1_2" sc="1" dl="0">
+     <f x="2" y="0" cocos2d_x="2" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="12"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="2" y="0" cocos2d_x="2" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="28"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="2" y="0" cocos2d_x="2" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="36"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="2" y="0" cocos2d_x="2" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="2" y="0" cocos2d_x="2" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="2" y="0" cocos2d_x="2" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="20"/>
+     <f x="2" y="0" cocos2d_x="2" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="5" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="2" y="0" cocos2d_x="2" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="5" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="2" y="0" cocos2d_x="2" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="5" twE="NaN" tweenFrame="0" dr="51"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="turtle2">
+   <mov name="idle" dr="40" to="0" drTW="40" lp="1" twE="NaN">
+    <b name="turtle2_2" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="-51" cocos2d_y="-39" kX="0" kY="0" cX="1" cY="1" pX="51" pY="39" z="0" dI="0" twE="NaN" tweenFrame="0" dr="3"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="33"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="turtle1">
+   <mov name="idle" dr="5" to="0" drTW="5" lp="1" twE="NaN">
+    <b name="turtle1_2" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="-51" cocos2d_y="-39" kX="0" kY="0" cX="1" cY="1" pX="51" pY="39" z="0" dI="0" twE="NaN" tweenFrame="0" dr="5"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="panda_home8">
+   <mov name="idle" dr="256" to="0" drTW="256" lp="1" twE="NaN">
+    <b name="panda_home8_7" sc="1" dl="0">
+     <f x="-2" y="37.5" cocos2d_x="-2" cocos2d_y="37.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="256"/>
+    </b>
+    <b name="panda_home8_6" sc="1" dl="0">
+     <f x="-2.8" y="-6.5" cocos2d_x="-2.8" cocos2d_y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2.8" y="-6.5" cocos2d_x="-2.8" cocos2d_y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2.8" y="-6.5" cocos2d_x="-2.8" cocos2d_y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2.8" y="-6.5" cocos2d_x="-2.8" cocos2d_y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2.8" y="-6.5" cocos2d_x="-2.8" cocos2d_y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2.8" y="-6.5" cocos2d_x="-2.8" cocos2d_y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2.8" y="-6.5" cocos2d_x="-2.8" cocos2d_y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2.8" y="-6.5" cocos2d_x="-2.8" cocos2d_y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2.8" y="-6.5" cocos2d_x="-2.8" cocos2d_y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2.8" y="-6.5" cocos2d_x="-2.8" cocos2d_y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" twE="NaN" tweenFrame="0" dr="16"/>
+     <f x="-2.8" y="-6.5" cocos2d_x="-2.8" cocos2d_y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="2" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2.8" y="-6.5" cocos2d_x="-2.8" cocos2d_y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="3" twE="NaN" tweenFrame="0" dr="50"/>
+     <f x="-3.8" y="-6.5" cocos2d_x="-3.8" cocos2d_y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="4" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-4" y="-6.4" cocos2d_x="-4" cocos2d_y="-6.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="5" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-3.9" y="-6.4" cocos2d_x="-3.9" cocos2d_y="-6.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="6" twE="NaN" tweenFrame="0" dr="46"/>
+     <f x="-4" y="-6.4" cocos2d_x="-4" cocos2d_y="-6.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="5" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-3.8" y="-6.5" cocos2d_x="-3.8" cocos2d_y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="4" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2.8" y="-6.5" cocos2d_x="-2.8" cocos2d_y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="3" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2.8" y="-6.5" cocos2d_x="-2.8" cocos2d_y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="2" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2.8" y="-6.5" cocos2d_x="-2.8" cocos2d_y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2.8" y="-6.5" cocos2d_x="-2.8" cocos2d_y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2.8" y="-6.5" cocos2d_x="-2.8" cocos2d_y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2.8" y="-6.5" cocos2d_x="-2.8" cocos2d_y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2.8" y="-6.5" cocos2d_x="-2.8" cocos2d_y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2.8" y="-6.5" cocos2d_x="-2.8" cocos2d_y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2.8" y="-6.5" cocos2d_x="-2.8" cocos2d_y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2.8" y="-6.5" cocos2d_x="-2.8" cocos2d_y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2.8" y="-6.5" cocos2d_x="-2.8" cocos2d_y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2.8" y="-6.5" cocos2d_x="-2.8" cocos2d_y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2.8" y="-6.5" cocos2d_x="-2.8" cocos2d_y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2.8" y="-6.5" cocos2d_x="-2.8" cocos2d_y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2.8" y="-6.5" cocos2d_x="-2.8" cocos2d_y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2.8" y="-6.5" cocos2d_x="-2.8" cocos2d_y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2.8" y="-6.5" cocos2d_x="-2.8" cocos2d_y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2.8" y="-6.5" cocos2d_x="-2.8" cocos2d_y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2.8" y="-6.5" cocos2d_x="-2.8" cocos2d_y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2.8" y="-6.5" cocos2d_x="-2.8" cocos2d_y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2.8" y="-6.5" cocos2d_x="-2.8" cocos2d_y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2.8" y="-6.5" cocos2d_x="-2.8" cocos2d_y="-6.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+    </b>
+    <b name="panda_home8_5" sc="1" dl="0">
+     <f dr="118" dI="-1"/>
+     <f x="0.2" y="-36.4" cocos2d_x="0.2" cocos2d_y="-36.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f dr="134" dI="-1"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="panda_home7">
+   <mov name="idle" dr="157" to="0" drTW="157" lp="1" twE="NaN">
+    <b name="panda_home7_7" sc="1" dl="0">
+     <f x="-5.3" y="22.5" cocos2d_x="-5.3" cocos2d_y="22.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="157"/>
+    </b>
+    <b name="panda_home7_6" sc="1" dl="0">
+     <f x="-12.9" y="-11.5" cocos2d_x="-12.9" cocos2d_y="-11.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="74"/>
+     <f x="-11.8" y="-11.5" cocos2d_x="-11.8" cocos2d_y="-11.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" twE="NaN" tweenFrame="0" dr="78"/>
+     <f x="-12.9" y="-11.5" cocos2d_x="-12.9" cocos2d_y="-11.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="5"/>
+    </b>
+    <b name="panda_home7_5" sc="1" dl="0">
+     <f dr="96" dI="-1"/>
+     <f x="2.2" y="-39.3" cocos2d_x="2.2" cocos2d_y="-39.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="2.2" y="-39.3" cocos2d_x="2.2" cocos2d_y="-39.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="2.2" y="-39.3" cocos2d_x="2.2" cocos2d_y="-39.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="2" twE="NaN" tweenFrame="0" dr="48"/>
+     <f dr="5" dI="-1"/>
+    </b>
+    <b name="panda_home7_3" sc="1" dl="0">
+     <f x="-5.3" y="-2" cocos2d_x="-5.3" cocos2d_y="-2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-5.3" y="3" cocos2d_x="-5.3" cocos2d_y="3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-12.8" y="3" cocos2d_x="-12.8" cocos2d_y="3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="2" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-5.3" y="-2" cocos2d_x="-5.3" cocos2d_y="-2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-5.3" y="3" cocos2d_x="-5.3" cocos2d_y="3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-12.8" y="3" cocos2d_x="-12.8" cocos2d_y="3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="2" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-5.3" y="-2" cocos2d_x="-5.3" cocos2d_y="-2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-5.3" y="3" cocos2d_x="-5.3" cocos2d_y="3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-12.8" y="3" cocos2d_x="-12.8" cocos2d_y="3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="2" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-5.3" y="-2" cocos2d_x="-5.3" cocos2d_y="-2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-5.3" y="3" cocos2d_x="-5.3" cocos2d_y="3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-12.8" y="3" cocos2d_x="-12.8" cocos2d_y="3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="2" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-5.3" y="-2" cocos2d_x="-5.3" cocos2d_y="-2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-5.3" y="3" cocos2d_x="-5.3" cocos2d_y="3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-12.8" y="3" cocos2d_x="-12.8" cocos2d_y="3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="2" twE="NaN" tweenFrame="0" dr="9"/>
+     <f x="-7.3" y="-5.5" cocos2d_x="-7.3" cocos2d_y="-5.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="3" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-10.3" y="-22.5" cocos2d_x="-10.3" cocos2d_y="-22.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="4" twE="NaN" tweenFrame="0" dr="5"/>
+     <f x="-10.3" y="-22" cocos2d_x="-10.3" cocos2d_y="-22" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="4" twE="NaN" tweenFrame="0" dr="78"/>
+     <f x="-7.3" y="-5.5" cocos2d_x="-7.3" cocos2d_y="-5.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="3" twE="NaN" tweenFrame="0" dr="5"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="panda_home6">
+   <mov name="idle" dr="84" to="0" drTW="84" lp="1" twE="NaN">
+    <b name="panda_home6_7" sc="1" dl="0">
+     <f x="3.1" y="-12" cocos2d_x="3.1" cocos2d_y="-12" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="8"/>
+     <f x="3.1" y="-12" cocos2d_x="3.1" cocos2d_y="-12" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="8"/>
+     <f x="3.1" y="-12" cocos2d_x="3.1" cocos2d_y="-12" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="8"/>
+     <f x="3.1" y="-12" cocos2d_x="3.1" cocos2d_y="-12" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="8"/>
+     <f x="3.1" y="-12" cocos2d_x="3.1" cocos2d_y="-12" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="8"/>
+     <f x="3.1" y="-12" cocos2d_x="3.1" cocos2d_y="-12" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="8"/>
+     <f x="3.1" y="-12" cocos2d_x="3.1" cocos2d_y="-12" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="8"/>
+     <f x="3.1" y="-12" cocos2d_x="3.1" cocos2d_y="-12" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="7"/>
+     <f x="3.1" y="-12" cocos2d_x="3.1" cocos2d_y="-12" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="5"/>
+     <f x="3.1" y="-12" cocos2d_x="3.1" cocos2d_y="-12" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="3.1" y="-12" cocos2d_x="3.1" cocos2d_y="-12" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="5" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="3.1" y="-12" cocos2d_x="3.1" cocos2d_y="-12" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="6" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="3.1" y="-12" cocos2d_x="3.1" cocos2d_y="-12" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="7" twE="NaN" tweenFrame="0" dr="4"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="panda_home5">
+   <mov name="idle" dr="278" to="0" drTW="278" lp="1" twE="NaN">
+    <b name="panda_home5_8" sc="1" dl="0">
+     <f x="5.9" y="8.3" cocos2d_x="5.9" cocos2d_y="8.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="278"/>
+    </b>
+    <b name="panda_home5_7" sc="1" dl="0">
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="2" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="3" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="2" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="3" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="2" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="3" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="2" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="3" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="2" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="3" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="2" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="3" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="2" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="3" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="2" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="3" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="2" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="3" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="2" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-41" cocos2d_x="-2" cocos2d_y="-41" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="3" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-40.5" cocos2d_x="-2" cocos2d_y="-40.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="4" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-2" y="-40.5" cocos2d_x="-2" cocos2d_y="-40.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="5" twE="NaN" tweenFrame="0" dr="114"/>
+    </b>
+    <b name="panda_home5_6" sc="1" dl="0">
+     <f dr="198" dI="-1"/>
+     <f x="1" y="-73.5" cocos2d_x="1" cocos2d_y="-73.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="4"/>
+     <f dr="76" dI="-1"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="panda_home4">
+   <mov name="idle" dr="157" to="0" drTW="157" lp="1" twE="NaN">
+    <b name="panda_home4_8" sc="1" dl="0">
+     <f x="4" y="14" cocos2d_x="4" cocos2d_y="14" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="157"/>
+    </b>
+    <b name="panda_home4_7" sc="1" dl="0">
+     <f x="10" y="-13.5" cocos2d_x="10" cocos2d_y="-13.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="62"/>
+     <f x="11" y="-15.5" cocos2d_x="11" cocos2d_y="-15.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" twE="NaN" tweenFrame="0" dr="5"/>
+     <f x="11" y="-17" cocos2d_x="11" cocos2d_y="-17" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="2" twE="NaN" tweenFrame="0" dr="90"/>
+    </b>
+    <b name="panda_home4_6" sc="1" dl="0">
+     <f dr="75" dI="-1"/>
+     <f x="39" y="-17" cocos2d_x="39" cocos2d_y="-17" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f dr="78" dI="-1"/>
+    </b>
+    <b name="panda_home4_5" sc="1" dl="0">
+     <f x="-12.5" y="-58" cocos2d_x="-12.5" cocos2d_y="-58" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-12.5" y="-55.5" cocos2d_x="-12.5" cocos2d_y="-55.5" kX="35.97" kY="35.97" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-12.5" y="-58.5" cocos2d_x="-12.5" cocos2d_y="-58.5" kX="66.19" kY="66.19" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-12.5" y="-60" cocos2d_x="-12.5" cocos2d_y="-60" kX="87.42" kY="87.42" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-12.5" y="-56" cocos2d_x="-12.5" cocos2d_y="-56" kX="134.92" kY="134.92" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-12.5" y="-54.5" cocos2d_x="-12.5" cocos2d_y="-54.5" kX="172.14" kY="172.14" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-12.5" y="-56.5" cocos2d_x="-12.5" cocos2d_y="-56.5" kX="-143.14" kY="-143.14" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-12.5" y="-58.5" cocos2d_x="-12.5" cocos2d_y="-58.5" kX="-92.18" kY="-92.18" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-12.5" y="-56" cocos2d_x="-12.5" cocos2d_y="-56" kX="-50.49" kY="-50.49" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-12.5" y="-54.5" cocos2d_x="-12.5" cocos2d_y="-54.5" kX="-6.27" kY="-6.27" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-12.5" y="-57" cocos2d_x="-12.5" cocos2d_y="-57" kX="34.93" kY="34.93" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-12.5" y="-64.5" cocos2d_x="-12.5" cocos2d_y="-64.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="NaN" tweenFrame="0" dr="18"/>
+     <f x="-12.5" y="-61.5" cocos2d_x="-12.5" cocos2d_y="-61.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="NaN" tweenFrame="0" dr="5"/>
+     <f x="-12.5" y="-60.5" cocos2d_x="-12.5" cocos2d_y="-60.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="NaN" tweenFrame="0" dr="90"/>
+    </b>
+    <b name="panda_home4_4" sc="1" dl="0">
+     <f x="-7" y="-15" cocos2d_x="-7" cocos2d_y="-15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-10" y="-13.5" cocos2d_x="-10" cocos2d_y="-13.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-7" y="-14.5" cocos2d_x="-7" cocos2d_y="-14.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-5" y="-13.5" cocos2d_x="-5" cocos2d_y="-13.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="2" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-7" y="-15" cocos2d_x="-7" cocos2d_y="-15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-10" y="-13.5" cocos2d_x="-10" cocos2d_y="-13.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-7" y="-14.5" cocos2d_x="-7" cocos2d_y="-14.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-5" y="-13.5" cocos2d_x="-5" cocos2d_y="-13.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="2" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-7" y="-15" cocos2d_x="-7" cocos2d_y="-15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-10" y="-13.5" cocos2d_x="-10" cocos2d_y="-13.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-7" y="-14.5" cocos2d_x="-7" cocos2d_y="-14.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-5" y="-13.5" cocos2d_x="-5" cocos2d_y="-13.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="2" twE="NaN" tweenFrame="0" dr="18"/>
+     <f x="-7.5" y="-15" cocos2d_x="-7.5" cocos2d_y="-15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="NaN" tweenFrame="0" dr="5"/>
+     <f x="-8" y="-14.5" cocos2d_x="-8" cocos2d_y="-14.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="NaN" tweenFrame="0" dr="90"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="panda_home3">
+   <mov name="idle" dr="36" to="0" drTW="36" lp="1" twE="NaN">
+    <b name="panda_home3_7" sc="1" dl="0">
+     <f x="9.4" y="-1.5" cocos2d_x="27.4" cocos2d_y="-1.5" kX="0" kY="0" cX="1" cY="1" pX="-18" pY="0" z="0" dI="0" twE="0" dr="19"/>
+     <f x="10.1" y="-2.5" cocos2d_x="28.9" cocos2d_y="-2.5" kX="0" kY="0" cX="1.04" cY="1.03" pX="-18" pY="0" z="0" dI="0" twE="0" dr="16"/>
+     <f x="9.4" y="-1.5" cocos2d_x="27.4" cocos2d_y="-1.5" kX="0" kY="0" cX="1" cY="1" pX="-18" pY="0" z="0" dI="0" dr="1"/>
+    </b>
+    <b name="panda_home3_6" sc="1" dl="0">
+     <f x="-24.6" y="3.5" cocos2d_x="-24.6" cocos2d_y="3.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="36"/>
+    </b>
+    <b name="panda_home3_5" sc="1" dl="0">
+     <f x="-62.7" y="-1.1" cocos2d_x="-62.7" cocos2d_y="-1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.1" z="2" dI="0" twE="0" dr="17"/>
+     <f x="-33.7" y="-57.5" cocos2d_x="-33.8" cocos2d_y="-57.4" kX="29.32" kY="29.32" cX="1.65" cY="1.65" pX="0" pY="-0.1" z="2" dI="0" twE="0" dr="9"/>
+     <f x="-18.4" y="-87.5" cocos2d_x="-18.3" cocos2d_y="-87.1" kX="44.87" kY="44.87" cX="2" cY="2" pX="-0.2" pY="-0.1" z="2" dI="0" dr="2">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="8" dI="-1"/>
+    </b>
+    <b name="panda_home3_4" sc="1" dl="0">
+     <f dr="8" dI="-1"/>
+     <f x="-62.7" y="-1.1" cocos2d_x="-62.7" cocos2d_y="-1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.1" z="3" dI="0" twE="0" dr="17"/>
+     <f x="-33.7" y="-57.5" cocos2d_x="-33.8" cocos2d_y="-57.4" kX="29.32" kY="29.32" cX="1.65" cY="1.65" pX="0" pY="-0.1" z="2" dI="0" twE="0" dr="9"/>
+     <f x="-18.4" y="-87.5" cocos2d_x="-18.3" cocos2d_y="-87.1" kX="44.87" kY="44.87" cX="2" cY="2" pX="-0.2" pY="-0.1" z="2" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="1" dI="-1"/>
+    </b>
+    <b name="panda_home3_3" sc="1" dl="0">
+     <f x="-28.7" y="-67.5" cocos2d_x="-28.8" cocos2d_y="-67.4" kX="34.56" kY="34.56" cX="1.76" cY="1.76" pX="0" pY="-0.2" z="3" dI="0" twE="0" dr="6">
+      <colorTransform a="0" r="0" g="0" b="0" aM="67" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-18.4" y="-87.5" cocos2d_x="-18.3" cocos2d_y="-87.1" kX="44.87" kY="44.87" cX="2" cY="2" pX="-0.2" pY="-0.1" z="3" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="9" dI="-1"/>
+     <f x="-62.7" y="-1.1" cocos2d_x="-62.7" cocos2d_y="-1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.1" z="3" dI="0" twE="0" dr="17"/>
+     <f x="-33.7" y="-57.5" cocos2d_x="-33.8" cocos2d_y="-57.4" kX="29.32" kY="29.32" cX="1.65" cY="1.65" pX="0" pY="-0.1" z="3" dI="0" twE="0" dr="2"/>
+     <f x="-30.5" y="-64.3" cocos2d_x="-30.6" cocos2d_y="-64.2" kX="32.82" kY="32.82" cX="1.72" cY="1.72" pX="0" pY="0" z="2" dI="0" twE="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="78" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+   </mov>
+  </animation>
+  <animation name="panda_home2">
+   <mov name="idle" dr="144" to="0" drTW="144" lp="1" twE="NaN">
+    <b name="panda_home2_6" sc="1" dl="0">
+     <f x="-12" y="-6" cocos2d_x="-12" cocos2d_y="-6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="49"/>
+     <f x="-12" y="-6" cocos2d_x="-12" cocos2d_y="-6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-12" y="-6" cocos2d_x="-12" cocos2d_y="-6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-12" y="-6" cocos2d_x="-12" cocos2d_y="-6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-12" y="-6" cocos2d_x="-12" cocos2d_y="-6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="28"/>
+     <f x="-12" y="-6" cocos2d_x="-12" cocos2d_y="-6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="55"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="panda_home1">
+   <mov name="idle" dr="115" to="0" drTW="115" lp="1" twE="NaN">
+    <b name="panda_home1_6" sc="1" dl="0">
+     <f x="-1" y="0" cocos2d_x="-1" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="24"/>
+     <f x="-11.5" y="-13" cocos2d_x="-11.5" cocos2d_y="-13" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="5"/>
+     <f x="-18.5" y="-22.5" cocos2d_x="-18.5" cocos2d_y="-22.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="5"/>
+     <f x="-22.5" y="-29.5" cocos2d_x="-22.5" cocos2d_y="-29.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="5"/>
+     <f x="-44" y="-44" cocos2d_x="-44" cocos2d_y="-44" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="5"/>
+     <f x="-47.5" y="-53" cocos2d_x="-47.5" cocos2d_y="-53" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="5"/>
+     <f x="-56.5" y="-52.5" cocos2d_x="-56.5" cocos2d_y="-52.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="5"/>
+     <f x="-79.5" y="-66.5" cocos2d_x="-79.5" cocos2d_y="-66.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="5"/>
+     <f x="-84" y="-78" cocos2d_x="-84" cocos2d_y="-78" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="5"/>
+     <f x="-89" y="-85" cocos2d_x="-89" cocos2d_y="-85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="5"/>
+     <f x="-108.3" y="-98.8" cocos2d_x="-108.3" cocos2d_y="-98.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="5"/>
+     <f x="-114" y="-113" cocos2d_x="-114" cocos2d_y="-113" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="9"/>
+     <f x="-114" y="-101" cocos2d_x="-114" cocos2d_y="-101" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" twE="0" dr="6"/>
+     <f x="-71" y="-48" cocos2d_x="-71" cocos2d_y="-48" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" twE="0" dr="6"/>
+     <f x="-8.5" y="-4" cocos2d_x="-8.5" cocos2d_y="-4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="18"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="panda_home_and_turtle2">
+   <mov name="idle" dr="129" to="0" drTW="129" lp="1" twE="NaN">
+    <b name="panda_home_and_turtle2_3" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="18"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="83"/>
+    </b>
+    <b name="panda_home_and_turtle2_2" sc="1" dl="0">
+     <f dr="89" dI="-1"/>
+     <f x="-3.9" y="-32.9" cocos2d_x="-3.9" cocos2d_y="-32.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="4"/>
+     <f dr="36" dI="-1"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="panda_home_and_bird2">
+   <mov name="idle" dr="126" to="0" drTW="126" lp="1" twE="NaN">
+    <b name="panda_home_and_bird2_3" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="24"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="0" y="-2.5" cocos2d_x="0" cocos2d_y="-2.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="-10.5" y="-5.5" cocos2d_x="-10.5" cocos2d_y="-5.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="42"/>
+     <f x="0" y="-2.5" cocos2d_x="0" cocos2d_y="-2.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="4"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="36"/>
+    </b>
+    <b name="panda_home_and_bird2_2" sc="1" dl="0">
+     <f dr="120" dI="-1"/>
+     <f x="3" y="-33" cocos2d_x="3" cocos2d_y="-33" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="4"/>
+     <f dr="2" dI="-1"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="bird2">
+   <mov name="idle" dr="126" to="0" drTW="126" lp="1" twE="NaN">
+    <b name="bird2_2" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="6"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="30"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="41"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="49"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="bird1">
+   <mov name="idle" dr="5" to="0" drTW="5" lp="1" twE="NaN">
+    <b name="bird1_2" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="5"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="panda_home" width="1024" height="1024">
+  <SubTexture name="panda_home_88" width="66" height="82" cocos2d_pX="33" cocos2d_pY="41" x="828" y="442"/>
+  <SubTexture name="panda_home_86" width="66" height="82" cocos2d_pX="33" cocos2d_pY="41" x="844" y="286"/>
+  <SubTexture name="panda_home_87" width="66" height="82" cocos2d_pX="33" cocos2d_pY="41" x="322" y="398"/>
+  <SubTexture name="panda_home_83" width="70" height="44" cocos2d_pX="35" cocos2d_pY="22" x="84" y="708"/>
+  <SubTexture name="panda_home_81" width="120" height="120" cocos2d_pX="60" cocos2d_pY="60" x="804" y="0"/>
+  <SubTexture name="panda_home_80" width="100" height="114" cocos2d_pX="50" cocos2d_pY="57" x="922" y="198"/>
+  <SubTexture name="panda_home_79" width="98" height="110" cocos2d_pX="49" cocos2d_pY="55" x="0" y="356"/>
+  <SubTexture name="panda_home_78" width="98" height="110" cocos2d_pX="49" cocos2d_pY="55" x="100" y="356"/>
+  <SubTexture name="panda_home_82" width="100" height="110" cocos2d_pX="50" cocos2d_pY="55" x="912" y="314"/>
+  <SubTexture name="panda_home_71" width="70" height="42" cocos2d_pX="35" cocos2d_pY="21" x="438" y="720"/>
+  <SubTexture name="panda_home_70" width="122" height="116" cocos2d_pX="61" cocos2d_pY="58" x="124" y="116"/>
+  <SubTexture name="panda_home_69" width="122" height="116" cocos2d_pX="61" cocos2d_pY="58" x="268" y="116"/>
+  <SubTexture name="panda_home_68" width="122" height="116" cocos2d_pX="61" cocos2d_pY="58" x="0" y="116"/>
+  <SubTexture name="panda_home_67" width="122" height="116" cocos2d_pX="61" cocos2d_pY="58" x="516" y="116"/>
+  <SubTexture name="panda_home_66" width="122" height="116" cocos2d_pX="61" cocos2d_pY="58" x="392" y="116"/>
+  <SubTexture name="panda_home_14" width="98" height="108" cocos2d_pX="49" cocos2d_pY="54" x="392" y="356"/>
+  <SubTexture name="panda_home_11" width="114" height="108" cocos2d_pX="57" cocos2d_pY="54" x="728" y="244"/>
+  <SubTexture name="panda_home_10" width="114" height="108" cocos2d_pX="57" cocos2d_pY="54" x="612" y="348"/>
+  <SubTexture name="panda_home_13" width="114" height="108" cocos2d_pX="57" cocos2d_pY="54" x="612" y="238"/>
+  <SubTexture name="panda_home_12" width="98" height="108" cocos2d_pX="49" cocos2d_pY="54" x="492" y="356"/>
+  <SubTexture name="panda_home_18" width="120" height="88" cocos2d_pX="60" cocos2d_pY="44" x="200" y="446"/>
+  <SubTexture name="panda_home_17" width="120" height="88" cocos2d_pX="60" cocos2d_pY="44" x="890" y="526"/>
+  <SubTexture name="panda_home_16" width="120" height="88" cocos2d_pX="60" cocos2d_pY="44" x="592" y="458"/>
+  <SubTexture name="panda_home_15" width="120" height="88" cocos2d_pX="60" cocos2d_pY="44" x="200" y="356"/>
+  <SubTexture name="panda_home_22" width="18" height="16" cocos2d_pX="8.3" cocos2d_pY="7.1" x="248" y="116"/>
+  <SubTexture name="panda_home_19" width="78" height="70" cocos2d_pX="39" cocos2d_pY="33.1" x="828" y="370"/>
+  <SubTexture name="panda_home_20" width="72" height="74" cocos2d_pX="35.9" cocos2d_pY="34.1" x="816" y="526"/>
+  <SubTexture name="panda_home_27" width="74" height="64" cocos2d_pX="37" cocos2d_pY="32" x="284" y="664"/>
+  <SubTexture name="panda_home_26" width="84" height="64" cocos2d_pX="42" cocos2d_pY="32" x="492" y="466"/>
+  <SubTexture name="panda_home_25" width="80" height="66" cocos2d_pX="40" cocos2d_pY="33" x="0" y="468"/>
+  <SubTexture name="panda_home_24" width="70" height="70" cocos2d_pX="35" cocos2d_pY="35" x="492" y="532"/>
+  <SubTexture name="panda_home_30" width="56" height="70" cocos2d_pX="28" cocos2d_pY="35" x="0" y="618"/>
+  <SubTexture name="panda_home_29" width="112" height="70" cocos2d_pX="56" cocos2d_pY="35" x="62" y="568"/>
+  <SubTexture name="panda_home_28" width="110" height="66" cocos2d_pX="55" cocos2d_pY="33" x="58" y="640"/>
+  <SubTexture name="panda_home_23" width="106" height="64" cocos2d_pX="53" cocos2d_pY="32" x="176" y="636"/>
+  <SubTexture name="panda_home_164" width="100" height="20" cocos2d_pX="50" cocos2d_pY="10" x="634" y="706"/>
+  <SubTexture name="panda_home_37" width="62" height="48" cocos2d_pX="31" cocos2d_pY="24" x="736" y="720"/>
+  <SubTexture name="panda_home_36" width="132" height="114" cocos2d_pX="66" cocos2d_pY="57" x="268" y="0"/>
+  <SubTexture name="panda_home_35" width="132" height="114" cocos2d_pX="66" cocos2d_pY="57" x="536" y="0"/>
+  <SubTexture name="panda_home_34" width="132" height="114" cocos2d_pX="66" cocos2d_pY="57" x="402" y="0"/>
+  <SubTexture name="panda_home_33" width="132" height="114" cocos2d_pX="66" cocos2d_pY="57" x="0" y="0"/>
+  <SubTexture name="panda_home_32" width="132" height="114" cocos2d_pX="66" cocos2d_pY="57" x="134" y="0"/>
+  <SubTexture name="panda_home_31" width="132" height="114" cocos2d_pX="66" cocos2d_pY="57" x="670" y="0"/>
+  <SubTexture name="panda_home_165" width="112" height="34" cocos2d_pX="56" cocos2d_pY="17" x="360" y="666"/>
+  <SubTexture name="panda_home_45" width="100" height="98" cocos2d_pX="50" cocos2d_pY="49" x="184" y="536"/>
+  <SubTexture name="panda_home_44" width="100" height="98" cocos2d_pX="50" cocos2d_pY="49" x="286" y="564"/>
+  <SubTexture name="panda_home_43" width="100" height="98" cocos2d_pX="50" cocos2d_pY="49" x="714" y="468"/>
+  <SubTexture name="panda_home_42" width="100" height="98" cocos2d_pX="50" cocos2d_pY="49" x="388" y="566"/>
+  <SubTexture name="panda_home_41" width="100" height="98" cocos2d_pX="50" cocos2d_pY="49" x="390" y="466"/>
+  <SubTexture name="panda_home_40" width="100" height="98" cocos2d_pX="50" cocos2d_pY="49" x="908" y="426"/>
+  <SubTexture name="panda_home_39" width="100" height="98" cocos2d_pX="50" cocos2d_pY="49" x="82" y="468"/>
+  <SubTexture name="panda_home_38" width="100" height="98" cocos2d_pX="50" cocos2d_pY="49" x="564" y="548"/>
+  <SubTexture name="panda_home_52" width="88" height="82" cocos2d_pX="44" cocos2d_pY="41" x="926" y="114"/>
+  <SubTexture name="panda_home_51" width="86" height="52" cocos2d_pX="43" cocos2d_pY="26" x="562" y="648"/>
+  <SubTexture name="panda_home_50" width="98" height="36" cocos2d_pX="49" cocos2d_pY="18" x="766" y="682"/>
+  <SubTexture name="panda_home_49" width="82" height="36" cocos2d_pX="41" cocos2d_pY="18" x="0" y="708"/>
+  <SubTexture name="panda_home_48" width="82" height="46" cocos2d_pX="41" cocos2d_pY="23" x="170" y="702"/>
+  <SubTexture name="panda_home_56" width="70" height="56" cocos2d_pX="35" cocos2d_pY="28" x="562" y="702"/>
+  <SubTexture name="panda_home_55" width="70" height="56" cocos2d_pX="35" cocos2d_pY="28" x="490" y="604"/>
+  <SubTexture name="panda_home_54" width="70" height="56" cocos2d_pX="35" cocos2d_pY="28" x="490" y="662"/>
+  <SubTexture name="panda_home_53" width="98" height="112" cocos2d_pX="49" cocos2d_pY="56" x="728" y="354"/>
+  <SubTexture name="panda_home_46" width="94" height="112" cocos2d_pX="47" cocos2d_pY="56" x="926" y="0"/>
+  <SubTexture name="panda_home_47" width="114" height="56" cocos2d_pX="57" cocos2d_pY="28" x="650" y="648"/>
+  <SubTexture name="panda_home_65" width="76" height="52" cocos2d_pX="38" cocos2d_pY="26" x="360" y="702"/>
+  <SubTexture name="panda_home_63" width="108" height="120" cocos2d_pX="54" cocos2d_pY="60" x="392" y="234"/>
+  <SubTexture name="panda_home_62" width="108" height="120" cocos2d_pX="54" cocos2d_pY="60" x="220" y="234"/>
+  <SubTexture name="panda_home_61" width="108" height="120" cocos2d_pX="54" cocos2d_pY="60" x="750" y="122"/>
+  <SubTexture name="panda_home_60" width="108" height="120" cocos2d_pX="54" cocos2d_pY="60" x="110" y="234"/>
+  <SubTexture name="panda_home_59" width="108" height="120" cocos2d_pX="54" cocos2d_pY="60" x="0" y="234"/>
+  <SubTexture name="panda_home_58" width="108" height="120" cocos2d_pX="54" cocos2d_pY="60" x="640" y="116"/>
+  <SubTexture name="panda_home_57" width="108" height="120" cocos2d_pX="54" cocos2d_pY="60" x="502" y="234"/>
+  <SubTexture name="panda_home_64" width="94" height="34" cocos2d_pX="47" cocos2d_pY="17" x="866" y="696"/>
+  <SubTexture name="panda_home_76" width="102" height="78" cocos2d_pX="51" cocos2d_pY="39" x="874" y="616"/>
+  <SubTexture name="panda_home_74" width="102" height="78" cocos2d_pX="51" cocos2d_pY="39" x="666" y="568"/>
+  <SubTexture name="panda_home_156" width="102" height="78" cocos2d_pX="0" cocos2d_pY="0" x="770" y="602"/>
+  <SubTexture name="panda_home_180" width="60" height="80" cocos2d_pX="25" cocos2d_pY="40" x="0" y="536"/>
+  <SubTexture name="panda_home_179" width="60" height="80" cocos2d_pX="25" cocos2d_pY="40" x="330" y="316"/>
+  <SubTexture name="panda_home_178" width="60" height="80" cocos2d_pX="25" cocos2d_pY="40" x="860" y="122"/>
+  <SubTexture name="panda_home_177" width="60" height="80" cocos2d_pX="25" cocos2d_pY="40" x="860" y="204"/>
+  <SubTexture name="panda_home_176" width="60" height="80" cocos2d_pX="25" cocos2d_pY="40" x="322" y="482"/>
+  <SubTexture name="panda_home_175" width="60" height="80" cocos2d_pX="27" cocos2d_pY="40" x="330" y="234"/>
+ </TextureAtlas>
+</skeleton>

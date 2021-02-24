@@ -1,0 +1,31 @@
+<skeleton name="map_effect_31030" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="map_effect_31030">
+   <b name="map_effect_31030_1" x="41" y="-23" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="map_effect_31030_2" pX="106.8" pY="104"/>
+    <d name="map_effect_31030_3" pX="106.8" pY="104"/>
+    <d name="map_effect_31030_4" pX="106.8" pY="104"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="map_effect_31030">
+   <mov name="effect" dr="8" to="0" drTW="8" lp="0" twE="NaN">
+    <b name="map_effect_31030_1" sc="1" dl="0">
+     <f x="41" y="-23" cocos2d_x="41" cocos2d_y="-23" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="41" y="-23" cocos2d_x="41" cocos2d_y="-23" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="41" y="-23" cocos2d_x="41" cocos2d_y="-23" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="41" y="-23" cocos2d_x="41" cocos2d_y="-23" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="1" dI="-1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="map_effect_31030" width="512" height="512">
+  <SubTexture name="map_effect_31030_4" width="214" height="208" cocos2d_pX="106.8" cocos2d_pY="104" x="0" y="210"/>
+  <SubTexture name="map_effect_31030_3" width="214" height="208" cocos2d_pX="106.8" cocos2d_pY="104" x="216" y="0"/>
+  <SubTexture name="map_effect_31030_2" width="214" height="208" cocos2d_pX="106.8" cocos2d_pY="104" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

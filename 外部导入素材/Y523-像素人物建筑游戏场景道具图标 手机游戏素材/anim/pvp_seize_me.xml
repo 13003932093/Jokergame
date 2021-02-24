@@ -1,0 +1,80 @@
+<skeleton name="pvp_seize_me" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="pvp_seize_me">
+   <b name="pvp_seize_me_4" x="4" y="1.05" kX="-2.95" kY="-2.95" cX="1.25" cY="1.25" pX="0" pY="0" z="0">
+    <d name="pvp_seize_me_1" pX="32.5" pY="19.4"/>
+   </b>
+   <b name="pvp_seize_me_3" x="18.6" y="-171.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="pvp_seize_me_3" pX="23" pY="29.5"/>
+   </b>
+   <b name="pvp_seize_me_name" x="19.15" y="-175.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="pvp_seize_me_5" pX="1" pY="1"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="pvp_seize_me">
+   <mov name="effect" dr="25" to="0" drTW="25" lp="0" twE="NaN">
+    <b name="pvp_seize_me_4" sc="1" dl="0">
+     <f dr="6" dI="-1"/>
+     <f x="4" y="1.05" cocos2d_x="4" cocos2d_y="1.05" kX="-2.95" kY="-2.95" cX="1.25" cY="1.25" pX="0" pY="0" z="0" dI="0" twE="0" dr="8"/>
+     <f x="4" y="1.05" cocos2d_x="4" cocos2d_y="1.05" kX="-2.95" kY="-2.95" cX="2.39" cY="2.39" pX="0" pY="0" z="0" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="10" dI="-1"/>
+    </b>
+    <b name="pvp_seize_me_3" sc="1" dl="0">
+     <f x="18.6" y="-171.2" cocos2d_x="18.6" cocos2d_y="-171.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="-1" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="18" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="18.5" y="-166.85" cocos2d_x="18.5" cocos2d_y="-166.85" kX="0" kY="0" cX="1" cY="1.01" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="20" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="18.15" y="-153.8" cocos2d_x="18.15" cocos2d_y="-153.8" kX="0" kY="0" cX="0.98" cY="1.05" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="27" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="17.6" y="-132.1" cocos2d_x="17.6" cocos2d_y="-132.1" kX="0" kY="0" cX="0.96" cY="1.1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="39" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="16.8" y="-101.65" cocos2d_x="16.8" cocos2d_y="-101.65" kX="0" kY="0" cX="0.92" cY="1.18" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="54" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="15.8" y="-62.55" cocos2d_x="15.8" cocos2d_y="-62.55" kX="0" kY="0" cX="0.88" cY="1.28" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="75" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="19.7" y="-23.95" cocos2d_x="19.7" cocos2d_y="-23.95" kX="0" kY="0" cX="1.07" cY="0.89" pX="0" pY="0" z="1" dI="0" twE="0" dr="3"/>
+     <f x="16.9" y="-29.55" cocos2d_x="16.9" cocos2d_y="-29.55" kX="0" kY="0" cX="0.91" cY="1.08" pX="0" pY="0" z="1" dI="0" twE="0" dr="3"/>
+     <f x="18.6" y="-27.2" cocos2d_x="18.6" cocos2d_y="-27.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="13"/>
+    </b>
+    <b name="pvp_seize_me_name" sc="1" dl="0">
+     <f x="19.15" y="-175.35" cocos2d_x="19.15" cocos2d_y="-175.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="-1" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="18" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="19.05" y="-171.05" cocos2d_x="19.05" cocos2d_y="-171.05" kX="0" kY="0" cX="1" cY="1.01" pX="0" pY="0" z="1" dI="0" twE="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="20" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="18.7" y="-158.15" cocos2d_x="18.7" cocos2d_y="-158.15" kX="0" kY="0" cX="0.98" cY="1.05" pX="0" pY="0" z="1" dI="0" twE="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="27" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="18.1" y="-136.65" cocos2d_x="18.1" cocos2d_y="-136.65" kX="0" kY="0" cX="0.96" cY="1.1" pX="0" pY="0" z="1" dI="0" twE="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="39" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="17.35" y="-106.6" cocos2d_x="17.35" cocos2d_y="-106.6" kX="0" kY="0" cX="0.92" cY="1.18" pX="0" pY="0" z="1" dI="0" twE="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="54" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="16.3" y="-67.9" cocos2d_x="16.3" cocos2d_y="-67.9" kX="0" kY="0" cX="0.88" cY="1.28" pX="0" pY="0" z="1" dI="0" twE="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="75" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="20.25" y="-27.65" cocos2d_x="20.25" cocos2d_y="-27.65" kX="0" kY="0" cX="1.07" cY="0.89" pX="0" pY="0" z="2" dI="0" twE="0" dr="3"/>
+     <f x="17.4" y="-34.05" cocos2d_x="17.4" cocos2d_y="-34.05" kX="0" kY="0" cX="0.91" cY="1.08" pX="0" pY="0" z="2" dI="0" twE="0" dr="3"/>
+     <f x="19.15" y="-31.35" cocos2d_x="19.15" cocos2d_y="-31.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="13"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="pvp_seize_me" width="128" height="64">
+  <SubTexture name="pvp_seize_me_5" width="2" height="2" cocos2d_pX="1" cocos2d_pY="1" x="118" y="0"/>
+  <SubTexture name="pvp_seize_me_3" width="46" height="59" cocos2d_pX="23" cocos2d_pY="29.5" x="70" y="0"/>
+  <SubTexture name="pvp_seize_me_1" width="68" height="42" cocos2d_pX="32.5" cocos2d_pY="19.4" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

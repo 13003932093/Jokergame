@@ -1,0 +1,28 @@
+<skeleton name="city_monster_splash" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="city_monster_splash_2">
+      <b name="lyt_city_splash_2" x="0.95" y="285.35" kX="0" kY="0" cX="7.69" cY="0.24" pX="0" pY="0" z="0">
+        <d name="city_monster_splash_1" pX="90.5" pY="162.55"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="city_monster_splash_2">
+      <mov name="effect" dr="23" to="0" drTW="23" lp="0" twE="NaN">
+        <b name="lyt_city_splash_2" sc="1" dl="0">
+          <f x="0.95" y="285.35" cocos2d_x="0.95" cocos2d_y="285.35" kX="0" kY="0" cX="7.69" cY="0.24" pX="0" pY="0" z="0" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.95" y="-333.9" cocos2d_x="0.95" cocos2d_y="-333.9" kX="0" kY="0" cX="7.69" cY="4.05" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+          <f x="0.95" y="-333.9" cocos2d_x="0.95" cocos2d_y="-333.9" kX="0" kY="0" cX="7.69" cY="4.05" pX="0" pY="0" z="0" dI="0" twE="0" dr="10"/>
+          <f x="0.95" y="-333.9" cocos2d_x="0.95" cocos2d_y="-333.9" kX="0" kY="0" cX="7.69" cY="4.05" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="city_monster_splash" width="256" height="512">
+    <SubTexture name="city_monster_splash_1" width="181" height="326" cocos2d_pX="90.5" cocos2d_pY="162.55" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

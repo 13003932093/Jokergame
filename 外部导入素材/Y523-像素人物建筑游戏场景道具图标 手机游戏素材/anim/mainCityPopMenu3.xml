@@ -1,0 +1,105 @@
+<skeleton name="mainCityPopMenu3" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="mainCityPopMenu3">
+      <b name="right_btn" x="63.3" y="-15.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="mainCityPopMenu3_4" pX="43.7" pY="12.85"/>
+      </b>
+      <b name="mid_btn" x="-0.75" y="-7.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="mainCityPopMenu3_2" pX="43.55" pY="12.05"/>
+      </b>
+      <b name="left_btn" x="-68.05" y="-11.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="mainCityPopMenu3_3" pX="42.7" pY="12.15"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="mainCityPopMenu3">
+      <mov name="show" dr="8" to="0" drTW="8" lp="0" twE="NaN">
+        <b name="right_btn" sc="1" dl="0">
+          <f x="63.3" y="-15.7" cocos2d_x="63.3" cocos2d_y="-15.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="1" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="75.25" y="1.7" cocos2d_x="75.25" cocos2d_y="1.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="33" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="87.15" y="19.1" cocos2d_x="87.15" cocos2d_y="19.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="67" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="99.1" y="36.5" cocos2d_x="99.1" cocos2d_y="36.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+          <f x="97.15" y="24.4" cocos2d_x="97.15" cocos2d_y="24.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+          <f x="97.15" y="29.9" cocos2d_x="97.15" cocos2d_y="29.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="mid_btn" sc="1" dl="0">
+          <f x="-0.75" y="-7.6" cocos2d_x="-0.75" cocos2d_y="-7.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="1" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.8" y="12.05" cocos2d_x="-0.8" cocos2d_y="12.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="33" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.9" y="31.75" cocos2d_x="-0.9" cocos2d_y="31.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="67" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.95" y="51.4" cocos2d_x="-0.95" cocos2d_y="51.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="2"/>
+          <f x="-0.95" y="39.3" cocos2d_x="-0.95" cocos2d_y="39.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="2"/>
+          <f x="-0.95" y="44.8" cocos2d_x="-0.95" cocos2d_y="44.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+        </b>
+        <b name="left_btn" sc="1" dl="0">
+          <f x="-68.05" y="-11.7" cocos2d_x="-68.05" cocos2d_y="-11.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="1" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-79.75" y="4.75" cocos2d_x="-79.75" cocos2d_y="4.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="33" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-91.5" y="21.15" cocos2d_x="-91.5" cocos2d_y="21.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="67" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-103.2" y="37.6" cocos2d_x="-103.2" cocos2d_y="37.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="2"/>
+          <f x="-100.6" y="25.5" cocos2d_x="-100.6" cocos2d_y="25.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="2"/>
+          <f x="-100.6" y="31" cocos2d_x="-100.6" cocos2d_y="31" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+        </b>
+      </mov>
+      <mov name="xunhuan" dr="25" to="0" drTW="25" lp="0" twE="NaN">
+        <b name="right_btn" sc="1" dl="0">
+          <f x="97.15" y="29.9" cocos2d_x="97.15" cocos2d_y="29.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="12"/>
+          <f x="97.15" y="29.9" cocos2d_x="97.15" cocos2d_y="29.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="12"/>
+          <f x="97.15" y="29.9" cocos2d_x="97.15" cocos2d_y="29.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="mid_btn" sc="1" dl="0">
+          <f x="-0.95" y="44.8" cocos2d_x="-0.95" cocos2d_y="44.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="12"/>
+          <f x="-0.95" y="44.8" cocos2d_x="-0.95" cocos2d_y="44.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="12"/>
+          <f x="-0.95" y="44.8" cocos2d_x="-0.95" cocos2d_y="44.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+        </b>
+        <b name="left_btn" sc="1" dl="0">
+          <f x="-100.6" y="31" cocos2d_x="-100.6" cocos2d_y="31" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="12"/>
+          <f x="-100.6" y="31" cocos2d_x="-100.6" cocos2d_y="31" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="12"/>
+          <f x="-100.6" y="31" cocos2d_x="-100.6" cocos2d_y="31" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+        </b>
+      </mov>
+      <mov name="hide" dr="5" to="0" drTW="5" lp="0" twE="NaN">
+        <b name="right_btn" sc="1" dl="0">
+          <f x="97.15" y="29.9" cocos2d_x="97.15" cocos2d_y="29.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="4"/>
+          <f x="62.25" y="-26.2" cocos2d_x="62.25" cocos2d_y="-26.2" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="1" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="mid_btn" sc="1" dl="0">
+          <f x="-0.95" y="44.8" cocos2d_x="-0.95" cocos2d_y="44.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="4"/>
+          <f x="-0.75" y="-7.6" cocos2d_x="-0.75" cocos2d_y="-7.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="1" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="left_btn" sc="1" dl="0">
+          <f x="-100.6" y="31" cocos2d_x="-100.6" cocos2d_y="31" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="4"/>
+          <f x="-60.3" y="-25.75" cocos2d_x="-60.3" cocos2d_y="-25.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="1" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="mainCityPopMenu3" width="256" height="256">
+    <SubTexture name="mainCityPopMenu3_3" width="92" height="94" cocos2d_pX="42.7" cocos2d_pY="12.15" x="0" y="96"/>
+    <SubTexture name="mainCityPopMenu3_2" width="92" height="94" cocos2d_pX="43.55" cocos2d_pY="12.05" x="94" y="0"/>
+    <SubTexture name="mainCityPopMenu3_4" width="92" height="94" cocos2d_pX="43.7" cocos2d_pY="12.85" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

@@ -1,0 +1,269 @@
+<skeleton name="skill_ani_35071" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="skill_ani_35071">
+   <b name="skill_ani_35071_3" x="4.1" y="2.2" kX="0" kY="0" cX="4.9" cY="4.9" pX="0" pY="0" z="0">
+    <d name="skill_ani_35071_22" isArmature="1"/>
+    <d name="skill_ani_35071_23" pX="15.8" pY="16.4"/>
+    <d name="skill_ani_35071_69" pX="33.7" pY="33.7"/>
+   </b>
+   <b name="skill_ani_35071_2" x="-1.9" y="13.7" kX="0" kY="0" cX="2.14" cY="2.14" pX="-7.2" pY="6.1" z="1">
+    <d name="skill_ani_35071_2" isArmature="1"/>
+    <d name="skill_ani_35071_39" pX="90.8" pY="219.2"/>
+    <d name="skill_ani_35071_40" pX="130.9" pY="222.3"/>
+    <d name="skill_ani_35071_41" pX="136.5" pY="204.9"/>
+    <d name="skill_ani_35071_42" pX="90" pY="205.7"/>
+    <d name="skill_ani_35071_71" pX="146.5" pY="86.6"/>
+    <d name="skill_ani_35071_72" pX="123.6" pY="81.7"/>
+    <d name="skill_ani_35071_73" pX="116.5" pY="94.6"/>
+    <d name="skill_ani_35071_74" pX="141.3" pY="88.9"/>
+    <d name="skill_ani_35071_75" pX="145.6" pY="94.6"/>
+    <d name="skill_ani_35071_76" pX="147.1" pY="97.6"/>
+    <d name="skill_ani_35071_77" pX="135.2" pY="104.3"/>
+    <d name="skill_ani_35071_78" pX="157" pY="111.5"/>
+    <d name="skill_ani_35071_79" pX="106" pY="60.2"/>
+    <d name="skill_ani_35071_80" pX="156.5" pY="105.8"/>
+    <d name="skill_ani_35071_51" pX="129.5" pY="82"/>
+   </b>
+   <b name="skill_ani_35071_1" x="-0.6" y="52.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+    <d name="skill_ani_35071_881" pX="2" pY="2"/>
+   </b>
+   <b name="skill_ani_35071_4" x="2.9" y="0.7" kX="0" kY="0" cX="4.52" cY="4.52" pX="0" pY="0" z="1">
+    <d name="skill_ani_35071_23" pX="15.8" pY="16.4"/>
+    <d name="skill_ani_35071_63" pX="24.7" pY="104.9"/>
+   </b>
+  </armature>
+  <armature name="skill_ani_35071_22">
+   <b name="hero_ani_11028_53_2" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="skill_ani_35071_23" pX="15.8" pY="16.4"/>
+   </b>
+   <b name="hero_ani_11028_53_1" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="skill_ani_35071_23" pX="15.8" pY="16.4"/>
+   </b>
+  </armature>
+  <armature name="skill_ani_35071_2">
+   <b name="hero_ani_11028_0_1" x="-1.6" y="1.4" kX="0" kY="0" cX="2" cY="2" pX="-0.1" pY="0" z="0">
+    <d name="skill_ani_35071_32" pX="21.6" pY="19.5"/>
+    <d name="skill_ani_35071_33" pX="16.8" pY="17.4"/>
+    <d name="skill_ani_35071_34" pX="17.2" pY="15"/>
+    <d name="skill_ani_35071_35" pX="19.7" pY="20.3"/>
+    <d name="skill_ani_35071_36" pX="23.2" pY="20.6"/>
+   </b>
+  </armature>
+  <armature name="path_11028">
+   <b name="path_11028_1" x="0" y="0" kX="0" kY="0" cX="1.44" cY="1" pX="0" pY="-0.1" z="0">
+    <d name="skill_ani_35071_52" pX="18.2" pY="19.7"/>
+    <d name="skill_ani_35071_57" pX="73" pY="56"/>
+    <d name="skill_ani_35071_58" pX="73" pY="56"/>
+    <d name="skill_ani_35071_59" pX="73" pY="56"/>
+    <d name="skill_ani_35071_60" pX="73" pY="56"/>
+   </b>
+   <b name="event" x="1" y="1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="skill_ani_35071_62" pX="2" pY="2"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="skill_ani_35071_22">
+   <mov name="cast1" dr="8" to="0" drTW="8" lp="1" twE="NaN">
+    <b name="hero_ani_11028_53_2" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="8"/>
+    </b>
+    <b name="hero_ani_11028_53_1" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="5"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="1" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="2" dI="-1"/>
+    </b>
+   </mov>
+   <mov name="fly" dr="8" to="0" drTW="8" lp="1" twE="NaN">
+    <b name="hero_ani_11028_53_2" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="8"/>
+    </b>
+    <b name="hero_ani_11028_53_1" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="5"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="1" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="2" dI="-1"/>
+    </b>
+   </mov>
+   <mov name="cast2" dr="8" to="0" drTW="8" lp="1" twE="NaN">
+    <b name="hero_ani_11028_53_2" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="8"/>
+    </b>
+    <b name="hero_ani_11028_53_1" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="5"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="1" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="2" dI="-1"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="skill_ani_35071_2">
+   <mov name="cast1" dr="10" to="0" drTW="10" lp="1" twE="NaN">
+    <b name="hero_ani_11028_0_1" sc="1" dl="0">
+     <f x="-1.6" y="1.4" cocos2d_x="-1.4" cocos2d_y="1.4" kX="0" kY="0" cX="2" cY="2" pX="-0.1" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-5.4" y="-5.8" cocos2d_x="-5.4" cocos2d_y="-5.8" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-8.8" y="-13.2" cocos2d_x="-8.8" cocos2d_y="-13.2" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-10.4" y="-9.4" cocos2d_x="-10.4" cocos2d_y="-9.4" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-6.4" y="-2.8" cocos2d_x="-6.4" cocos2d_y="-2.8" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+    </b>
+   </mov>
+   <mov name="fly" dr="10" to="0" drTW="10" lp="1" twE="NaN">
+    <b name="hero_ani_11028_0_1" sc="1" dl="0">
+     <f x="-1.6" y="1.4" cocos2d_x="-1.4" cocos2d_y="1.4" kX="0" kY="0" cX="2" cY="2" pX="-0.1" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-5.4" y="-5.8" cocos2d_x="-5.4" cocos2d_y="-5.8" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-8.8" y="-13.2" cocos2d_x="-8.8" cocos2d_y="-13.2" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-10.4" y="-9.4" cocos2d_x="-10.4" cocos2d_y="-9.4" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-6.4" y="-2.8" cocos2d_x="-6.4" cocos2d_y="-2.8" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+    </b>
+   </mov>
+   <mov name="cast2" dr="10" to="0" drTW="10" lp="1" twE="NaN">
+    <b name="hero_ani_11028_0_1" sc="1" dl="0">
+     <f x="-1.6" y="1.4" cocos2d_x="-1.4" cocos2d_y="1.4" kX="0" kY="0" cX="2" cY="2" pX="-0.1" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-5.4" y="-5.8" cocos2d_x="-5.4" cocos2d_y="-5.8" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-8.8" y="-13.2" cocos2d_x="-8.8" cocos2d_y="-13.2" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-10.4" y="-9.4" cocos2d_x="-10.4" cocos2d_y="-9.4" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-6.4" y="-2.8" cocos2d_x="-6.4" cocos2d_y="-2.8" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="skill_ani_35071">
+   <mov name="fly" dr="5" to="0" drTW="5" lp="1" twE="NaN">
+    <b name="skill_ani_35071_3" sc="1" dl="0">
+     <f x="4.1" y="2.2" cocos2d_x="4.1" cocos2d_y="2.2" kX="0" kY="0" cX="4.9" cY="4.9" pX="0" pY="0" z="0" dI="0" dr="5"/>
+    </b>
+    <b name="skill_ani_35071_2" sc="1" dl="0">
+     <f x="-1.9" y="13.7" cocos2d_x="13.5" cocos2d_y="0.6" kX="0" kY="0" cX="2.14" cY="2.14" pX="-7.2" pY="6.1" z="1" dI="0" dr="5"/>
+    </b>
+    <b name="skill_ani_35071_1" sc="1" dl="0">
+     <f x="-0.6" y="52.8" cocos2d_x="-0.6" cocos2d_y="52.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="5"/>
+    </b>
+   </mov>
+   <mov name="hit" dr="57" to="0" drTW="57" lp="0" twE="NaN">
+    <b name="skill_ani_35071_3" sc="1" dl="0">
+     <f x="3.2" y="1.2" cocos2d_x="3.2" cocos2d_y="1.2" kX="0" kY="0" cX="4.9" cY="4.9" pX="0" pY="0" z="0" dI="1" twE="0" dr="2"/>
+     <f x="2.9" y="0.7" cocos2d_x="2.9" cocos2d_y="0.7" kX="0" kY="0" cX="4.52" cY="4.52" pX="0" pY="0" z="0" dI="1" twE="0" dr="3"/>
+     <f x="3.2" y="1.2" cocos2d_x="3.2" cocos2d_y="1.2" kX="0" kY="0" cX="4.9" cY="4.9" pX="0" pY="0" z="0" dI="1" twE="0" dr="2"/>
+     <f x="2.9" y="0.7" cocos2d_x="2.9" cocos2d_y="0.7" kX="0" kY="0" cX="4.52" cY="4.52" pX="0" pY="0" z="0" dI="1" twE="0" dr="3"/>
+     <f x="3.2" y="1.2" cocos2d_x="3.2" cocos2d_y="1.2" kX="0" kY="0" cX="4.9" cY="4.9" pX="0" pY="0" z="0" dI="1" twE="0" dr="2"/>
+     <f x="2.9" y="0.7" cocos2d_x="2.9" cocos2d_y="0.7" kX="0" kY="0" cX="4.52" cY="4.52" pX="0" pY="0" z="0" dI="1" twE="0" dr="3"/>
+     <f x="3.2" y="1.2" cocos2d_x="3.2" cocos2d_y="1.2" kX="0" kY="0" cX="4.9" cY="4.9" pX="0" pY="0" z="0" dI="1" twE="0" dr="1"/>
+     <f x="5.9" y="-2.8" cocos2d_x="5.9" cocos2d_y="-2.8" kX="0" kY="0" cX="2.06" cY="2.06" pX="0" pY="0" z="0" dI="2" twE="0" dr="2"/>
+     <f x="0.9" y="-2.6" cocos2d_x="0.9" cocos2d_y="-2.6" kX="0" kY="0" cX="3.59" cY="3.59" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="1"/>
+     <f dr="38" dI="-1"/>
+    </b>
+    <b name="skill_ani_35071_4" sc="1" dl="0">
+     <f dr="2" dI="-1"/>
+     <f x="2.9" y="0.7" cocos2d_x="2.9" cocos2d_y="0.7" kX="0" kY="0" cX="4.52" cY="4.52" pX="0" pY="0" z="1" dI="0" twE="0" dr="3"/>
+     <f x="2.9" y="0.7" cocos2d_x="2.9" cocos2d_y="0.7" kX="0" kY="0" cX="5.75" cY="5.75" pX="0" pY="0" z="1" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="1" dI="-1"/>
+     <f x="2.9" y="0.7" cocos2d_x="2.9" cocos2d_y="0.7" kX="0" kY="0" cX="4.52" cY="4.52" pX="0" pY="0" z="1" dI="0" twE="0" dr="3"/>
+     <f x="2.9" y="0.7" cocos2d_x="2.9" cocos2d_y="0.7" kX="0" kY="0" cX="5.75" cY="5.75" pX="0" pY="0" z="1" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="1" dI="-1"/>
+     <f x="2.9" y="0.7" cocos2d_x="2.9" cocos2d_y="0.7" kX="0" kY="0" cX="4.52" cY="4.52" pX="0" pY="0" z="1" dI="0" twE="0" dr="3"/>
+     <f x="2.9" y="0.7" cocos2d_x="2.9" cocos2d_y="0.7" kX="0" kY="0" cX="5.75" cY="5.75" pX="0" pY="0" z="1" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="11" dI="-1"/>
+     <f x="5.4" y="-315.6" cocos2d_x="5.4" cocos2d_y="-315.6" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="1" dI="1" twE="0" dr="11"/>
+     <f x="5.4" y="-332.8" cocos2d_x="5.4" cocos2d_y="-332.8" kX="0" kY="0" cX="0.98" cY="1.99" pX="0" pY="0" z="1" dI="1" twE="0" dr="3"/>
+     <f x="5.4" y="-332.8" cocos2d_x="5.4" cocos2d_y="-332.8" kX="0" kY="0" cX="0.98" cY="1.99" pX="0" pY="0" z="1" dI="1" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="15" dI="-1"/>
+    </b>
+    <b name="skill_ani_35071_2" sc="1" dl="0">
+     <f x="-2.8" y="12.7" cocos2d_x="12.6" cocos2d_y="-0.4" kX="0" kY="0" cX="2.14" cY="2.14" pX="-7.2" pY="6.1" z="2" dI="0" dr="16"/>
+     <f x="3.4" y="7.6" cocos2d_x="19.8" cocos2d_y="-6.5" kX="0" kY="0" cX="2.28" cY="2.28" pX="-7.2" pY="6.2" z="1" dI="0" twE="0" dr="2"/>
+     <f x="-3.5" y="15.7" cocos2d_x="25.1" cocos2d_y="-9" kX="0" kY="0" cX="3.98" cY="3.98" pX="-7.2" pY="6.2" z="1" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+     <f x="24.6" y="-101.4" cocos2d_x="24.8" cocos2d_y="-101.4" kX="0" kY="0" cX="2" cY="2" pX="-0.1" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="28.8" y="-98.2" cocos2d_x="28.8" cocos2d_y="-98.2" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0.2" y="-136.2" cocos2d_x="0.2" cocos2d_y="-136.2" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-52.6" y="-157.4" cocos2d_x="-52.6" cocos2d_y="-157.4" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-12.6" y="-171.4" cocos2d_x="-12.4" cocos2d_y="-171.4" kX="0" kY="0" cX="2" cY="2" pX="-0.1" pY="0" z="0" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="2.3" y="-25.6" cocos2d_x="2.3" cocos2d_y="-25.6" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="6" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-6.3" y="-45.4" cocos2d_x="-6.3" cocos2d_y="-45.2" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-0.1" z="0" dI="7" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="27.3" y="-15.8" cocos2d_x="27.3" cocos2d_y="-15.6" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-0.1" z="0" dI="8" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="22.5" y="-10.4" cocos2d_x="22.7" cocos2d_y="-10.2" kX="0" kY="0" cX="2" cY="2" pX="-0.1" pY="-0.1" z="0" dI="9" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="24.1" y="-11.6" cocos2d_x="24.1" cocos2d_y="-11.4" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-0.1" z="0" dI="10" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="3.3" y="-41.6" cocos2d_x="3.5" cocos2d_y="-41.4" kX="0" kY="0" cX="2" cY="2" pX="-0.1" pY="-0.1" z="0" dI="11" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="16.9" y="-33.6" cocos2d_x="17.1" cocos2d_y="-33.4" kX="0" kY="0" cX="2" cY="2" pX="-0.1" pY="-0.1" z="0" dI="12" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-86.1" y="-122.4" cocos2d_x="-85.9" cocos2d_y="-122.2" kX="0" kY="0" cX="2" cY="2" pX="-0.1" pY="-0.1" z="0" dI="13" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="25.9" y="-21.4" cocos2d_x="26.1" cocos2d_y="-21.2" kX="0" kY="0" cX="2" cY="2" pX="-0.1" pY="-0.1" z="0" dI="14" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-5.5" y="41.2" cocos2d_x="24" cocos2d_y="-6.4" kX="0" kY="0" cX="2.63" cY="2.63" pX="-11.2" pY="18.1" z="0" dI="15" twE="0" dr="5">
+      <colorTransform a="0" r="0" g="0" b="0" aM="34" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-5.5" y="41.3" cocos2d_x="25.3" cocos2d_y="-8.5" kX="0" kY="0" cX="2.75" cY="2.75" pX="-11.2" pY="18.1" z="0" dI="15" dr="5">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+    <b name="skill_ani_35071_1" sc="1" dl="0">
+     <f x="-0.6" y="52.8" cocos2d_x="-0.6" cocos2d_y="52.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="2"/>
+     <f x="1" y="52.5" cocos2d_x="1" cocos2d_y="52.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" evt="damage" dr="55"/>
+    </b>
+   </mov>
+  </animation>
+  <animation name="path_11028">
+   <mov name="fly" dr="12" to="0" drTW="12" lp="0" twE="NaN">
+    <b name="path_11028_1" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0.1" kX="0" kY="0" cX="1.44" cY="1" pX="0" pY="-0.1" z="0" dI="0" dr="12"/>
+    </b>
+    <b name="event" sc="1" dl="0">
+     <f x="1" y="1" cocos2d_x="1" cocos2d_y="1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="12"/>
+    </b>
+   </mov>
+   <mov name="hit" dr="13" to="0" drTW="13" lp="0" twE="NaN">
+    <b name="path_11028_1" sc="1" dl="0">
+     <f x="9.7" y="-9.1" cocos2d_x="9.7" cocos2d_y="-9.1" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="9.7" y="-9.1" cocos2d_x="9.7" cocos2d_y="-9.1" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="9.7" y="-9.1" cocos2d_x="9.7" cocos2d_y="-9.1" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="9.7" y="-9.1" cocos2d_x="9.7" cocos2d_y="-9.1" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+     <f dr="5" dI="-1"/>
+    </b>
+    <b name="event" sc="1" dl="0">
+     <f x="2" y="2" cocos2d_x="2" cocos2d_y="2" kX="0" kY="0" cX="0" cY="0.01" pX="0" pY="0" z="1" dI="0" evt="damage" dr="1"/>
+     <f x="2" y="2" cocos2d_x="2" cocos2d_y="2" kX="0" kY="0" cX="0" cY="0.01" pX="0" pY="0" z="0" dI="0" dr="12"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="skill_ani_35071" width="1024" height="2048">
+  <SubTexture name="skill_ani_35071_62" width="4" height="4" cocos2d_pX="1" cocos2d_pY="1" x="1012" y="0"/>
+  <SubTexture name="skill_ani_35071_60" width="146" height="112" cocos2d_pX="73" cocos2d_pY="56" x="776" y="330"/>
+  <SubTexture name="skill_ani_35071_59" width="146" height="112" cocos2d_pX="73" cocos2d_pY="56" x="250" y="592"/>
+  <SubTexture name="skill_ani_35071_58" width="146" height="112" cocos2d_pX="73" cocos2d_pY="56" x="272" y="478"/>
+  <SubTexture name="skill_ani_35071_57" width="146" height="112" cocos2d_pX="73" cocos2d_pY="56" x="272" y="364"/>
+  <SubTexture name="skill_ani_35071_52" width="38" height="40" cocos2d_pX="18.2" cocos2d_pY="19.7" x="960" y="338"/>
+  <SubTexture name="skill_ani_35071_36" width="48" height="42" cocos2d_pX="23.2" cocos2d_pY="20.6" x="960" y="208"/>
+  <SubTexture name="skill_ani_35071_35" width="40" height="42" cocos2d_pX="19.7" cocos2d_pY="20.3" x="960" y="294"/>
+  <SubTexture name="skill_ani_35071_34" width="36" height="30" cocos2d_pX="17.2" cocos2d_pY="15" x="956" y="380"/>
+  <SubTexture name="skill_ani_35071_33" width="34" height="36" cocos2d_pX="16.8" cocos2d_pY="17.4" x="924" y="330"/>
+  <SubTexture name="skill_ani_35071_32" width="44" height="40" cocos2d_pX="21.5" cocos2d_pY="19.4" x="960" y="252"/>
+  <SubTexture name="skill_ani_35071_63" width="50" height="206" cocos2d_pX="24.7" cocos2d_pY="104.9" x="960" y="0"/>
+  <SubTexture name="skill_ani_35071_881" width="4" height="4" cocos2d_pX="1" cocos2d_pY="1" x="1018" y="0"/>
+  <SubTexture name="skill_ani_35071_51" width="260" height="164" cocos2d_pX="129.5" cocos2d_pY="82" x="756" y="444"/>
+  <SubTexture name="skill_ani_35071_80" width="312" height="212" cocos2d_pX="156.5" cocos2d_pY="105.8" x="316" y="796"/>
+  <SubTexture name="skill_ani_35071_79" width="296" height="208" cocos2d_pX="106" cocos2d_pY="60.2" x="716" y="610"/>
+  <SubTexture name="skill_ani_35071_78" width="314" height="222" cocos2d_pX="157" cocos2d_pY="111.5" x="0" y="720"/>
+  <SubTexture name="skill_ani_35071_77" width="270" height="208" cocos2d_pX="135.2" cocos2d_pY="104.3" x="0" y="344"/>
+  <SubTexture name="skill_ani_35071_76" width="294" height="196" cocos2d_pX="147.1" cocos2d_pY="97.6" x="630" y="820"/>
+  <SubTexture name="skill_ani_35071_75" width="292" height="192" cocos2d_pX="145.6" cocos2d_pY="94.6" x="0" y="944"/>
+  <SubTexture name="skill_ani_35071_74" width="282" height="188" cocos2d_pX="141.3" cocos2d_pY="88.9" x="294" y="1010"/>
+  <SubTexture name="skill_ani_35071_73" width="234" height="190" cocos2d_pX="116.5" cocos2d_pY="94.6" x="520" y="340"/>
+  <SubTexture name="skill_ani_35071_72" width="248" height="164" cocos2d_pX="123.6" cocos2d_pY="81.7" x="0" y="554"/>
+  <SubTexture name="skill_ani_35071_71" width="294" height="262" cocos2d_pX="146.5" cocos2d_pY="86.6" x="420" y="532"/>
+  <SubTexture name="skill_ani_35071_42" width="242" height="362" cocos2d_pX="90" cocos2d_pY="205.8" x="276" y="0"/>
+  <SubTexture name="skill_ani_35071_41" width="274" height="342" cocos2d_pX="136.5" cocos2d_pY="204.9" x="0" y="0"/>
+  <SubTexture name="skill_ani_35071_40" width="254" height="338" cocos2d_pX="130.9" cocos2d_pY="222.3" x="520" y="0"/>
+  <SubTexture name="skill_ani_35071_39" width="182" height="328" cocos2d_pX="90.8" cocos2d_pY="219.2" x="776" y="0"/>
+  <SubTexture name="skill_ani_35071_69" width="68" height="68" cocos2d_pX="33.7" cocos2d_pY="33.7" x="420" y="364"/>
+  <SubTexture name="skill_ani_35071_23" width="30" height="30" cocos2d_pX="15.8" cocos2d_pY="16.4" x="924" y="368"/>
+ </TextureAtlas>
+</skeleton>

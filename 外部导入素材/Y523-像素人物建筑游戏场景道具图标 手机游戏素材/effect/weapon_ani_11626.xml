@@ -1,0 +1,27 @@
+<skeleton name="weapon_ani_11626" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="weapon_ani_11626">
+   <b name="weapon_ani_11626_1" x="0" y="-0.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="0">
+    <d name="weapon_ani_11626_1" pX="16.25" pY="16.3"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="weapon_ani_11626">
+   <mov name="effect" dr="8" to="0" drTW="8" lp="1" twE="NaN">
+    <b name="weapon_ani_11626_1" sc="1" dl="0">
+     <f x="0" y="-0.75" cocos2d_x="0" cocos2d_y="-0.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="0" dI="0" twE="0" dr="4">
+      <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="0" y="-0.75" cocos2d_x="0" cocos2d_y="-0.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="0" dI="0" twE="0" dr="3"/>
+     <f x="0" y="-0.75" cocos2d_x="0" cocos2d_y="-0.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="0" dI="0" twE="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="63" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="weapon_ani_11626" width="64" height="64">
+  <SubTexture name="weapon_ani_11626_1" width="33" height="33" cocos2d_pX="16.25" cocos2d_pY="16.3" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

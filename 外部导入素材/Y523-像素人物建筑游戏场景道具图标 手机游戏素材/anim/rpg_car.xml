@@ -1,0 +1,105 @@
+<skeleton name="rpg_car" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="rpg_car2">
+      <b name="rpg_car1_1" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="rpg_car__4" pX="21.5" pY="28"/>
+      </b>
+      <b name="rpg_car1_2" x="-0.15" y="-45.5" kX="0" kY="0" cX="1" cY="0.19" pX="0" pY="0" z="0">
+        <d name="rpg_car__7" pX="4.9" pY="20.9"/>
+      </b>
+    </armature>
+    <armature name="rpg_car1">
+      <b name="rpg_car2_1" x="-0.5" y="-16.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="rpg_car__3" pX="46.5" pY="23.5"/>
+      </b>
+      <b name="rpg_car2_2" x="-0.15" y="-45.5" kX="0" kY="0" cX="1" cY="0.19" pX="0" pY="0" z="0">
+        <d name="rpg_car__7" pX="4.9" pY="20.9"/>
+      </b>
+    </armature>
+    <armature name="rpg_car3">
+      <b name="rpg_car3_1" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="rpg_car__1" pX="21.5" pY="28"/>
+      </b>
+      <b name="rpg_car3_2" x="-0.15" y="-45.5" kX="0" kY="0" cX="1" cY="0.19" pX="0" pY="0" z="0">
+        <d name="rpg_car__7" pX="4.9" pY="20.9"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="rpg_car2">
+      <mov name="idle" dr="20" to="0" drTW="20" lp="0" twE="NaN">
+        <b name="rpg_car1_1" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="20"/>
+        </b>
+      </mov>
+      <mov name="move" dr="24" to="0" drTW="24" lp="0" twE="NaN">
+        <b name="rpg_car1_1" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="45"/>
+        </b>
+      </mov>
+      <mov name="jump" dr="21" to="0" drTW="21" lp="0" twE="NaN">
+        <b name="rpg_car1_2" sc="1" dl="0">
+          <f x="-0.15" y="-45.5" cocos2d_x="-0.15" cocos2d_y="-45.5" kX="0" kY="0" cX="1" cY="0.19" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+          <f x="-0.15" y="-55.8" cocos2d_x="-0.15" cocos2d_y="-55.75" kX="0" kY="0" cX="1" cY="1.1" pX="0" pY="-0.05" z="0" dI="0" twE="0" dr="2"/>
+          <f x="-0.15" y="-53.8" cocos2d_x="-0.15" cocos2d_y="-53.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="0" dI="0" dr="14"/>
+          <f dr="3" dI="-1"/>
+        </b>
+        <b name="rpg_car1_1" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="21"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="rpg_car1">
+      <mov name="idle" dr="32" to="0" drTW="32" lp="0" twE="NaN">
+        <b name="rpg_car2_1" sc="1" dl="0">
+          <f x="-0.5" y="-16.5" cocos2d_x="-0.5" cocos2d_y="-16.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="32"/>
+        </b>
+      </mov>
+      <mov name="move" dr="23" to="0" drTW="23" lp="0" twE="NaN">
+        <b name="rpg_car2_1" sc="1" dl="0">
+          <f x="-0.5" y="-16.5" cocos2d_x="-0.5" cocos2d_y="-16.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="43"/>
+        </b>
+      </mov>
+      <mov name="jump" dr="20" to="0" drTW="20" lp="0" twE="NaN">
+        <b name="rpg_car2_2" sc="1" dl="0">
+          <f x="-0.15" y="-45.5" cocos2d_x="-0.15" cocos2d_y="-45.5" kX="0" kY="0" cX="1" cY="0.19" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+          <f x="-0.15" y="-55.8" cocos2d_x="-0.15" cocos2d_y="-55.75" kX="0" kY="0" cX="1" cY="1.1" pX="0" pY="-0.05" z="0" dI="0" twE="0" dr="2"/>
+          <f x="-0.15" y="-53.8" cocos2d_x="-0.15" cocos2d_y="-53.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="0" dI="0" dr="13"/>
+          <f dr="3" dI="-1"/>
+        </b>
+        <b name="rpg_car2_1" sc="1" dl="0">
+          <f x="-0.5" y="-16.5" cocos2d_x="-0.5" cocos2d_y="-16.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="20"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="rpg_car3">
+      <mov name="idle" dr="19" to="0" drTW="19" lp="0" twE="NaN">
+        <b name="rpg_car3_1" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="19"/>
+        </b>
+      </mov>
+      <mov name="move" dr="20" to="0" drTW="20" lp="0" twE="NaN">
+        <b name="rpg_car3_1" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="41"/>
+        </b>
+      </mov>
+      <mov name="jump" dr="21" to="0" drTW="21" lp="0" twE="NaN">
+        <b name="rpg_car3_2" sc="1" dl="0">
+          <f x="-0.15" y="-45.5" cocos2d_x="-0.15" cocos2d_y="-45.5" kX="0" kY="0" cX="1" cY="0.19" pX="0" pY="0" z="0" dI="0" twE="0" dr="2"/>
+          <f x="-0.15" y="-55.8" cocos2d_x="-0.15" cocos2d_y="-55.75" kX="0" kY="0" cX="1" cY="1.1" pX="0" pY="-0.05" z="0" dI="0" twE="0" dr="2"/>
+          <f x="-0.15" y="-53.8" cocos2d_x="-0.15" cocos2d_y="-53.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="0" dI="0" dr="14"/>
+          <f dr="3" dI="-1"/>
+        </b>
+        <b name="rpg_car3_1" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="21"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="rpg_car" width="128" height="128">
+    <SubTexture name="rpg_car__1" width="43" height="56" cocos2d_pX="21.5" cocos2d_pY="28" x="0" y="49"/>
+    <SubTexture name="rpg_car__3" width="93" height="47" cocos2d_pX="46.5" cocos2d_pY="23.5" x="0" y="0"/>
+    <SubTexture name="rpg_car__7" width="10" height="31" cocos2d_pX="4.9" cocos2d_pY="20.9" x="95" y="0"/>
+    <SubTexture name="rpg_car__4" width="43" height="56" cocos2d_pX="21.5" cocos2d_pY="28" x="45" y="49"/>
+  </TextureAtlas>
+</skeleton>

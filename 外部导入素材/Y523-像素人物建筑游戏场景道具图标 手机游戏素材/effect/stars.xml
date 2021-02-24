@@ -1,0 +1,42 @@
+<skeleton name="stars" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="stars">
+      <b name="stars_1" x="0" y="-11" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="stars_8" pX="60" pY="60"/>
+        <d name="stars_9" pX="60" pY="60"/>
+        <d name="stars_10" pX="60" pY="60"/>
+        <d name="stars_11" pX="60" pY="60"/>
+        <d name="stars_12" pX="60" pY="60"/>
+        <d name="stars_13" pX="60" pY="60"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="stars">
+      <mov name="effect" dr="24" to="0" drTW="24" lp="0" twE="NaN">
+        <b name="stars_1" sc="1" dl="0">
+          <f x="0" y="-11" cocos2d_x="0" cocos2d_y="-11" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="-11" cocos2d_x="0" cocos2d_y="-11" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="-11" cocos2d_x="0" cocos2d_y="-11" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="-11" cocos2d_x="0" cocos2d_y="-11" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="-11" cocos2d_x="0" cocos2d_y="-11" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="-11" cocos2d_x="0" cocos2d_y="-11" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="-11" cocos2d_x="0" cocos2d_y="-11" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="-11" cocos2d_x="0" cocos2d_y="-11" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="-11" cocos2d_x="0" cocos2d_y="-11" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="-11" cocos2d_x="0" cocos2d_y="-11" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="-11" cocos2d_x="0" cocos2d_y="-11" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="-11" cocos2d_x="0" cocos2d_y="-11" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="stars" width="512" height="256">
+    <SubTexture name="stars_13" width="120" height="120" cocos2d_pX="60" cocos2d_pY="60" x="122" y="0"/>
+    <SubTexture name="stars_12" width="120" height="120" cocos2d_pX="60" cocos2d_pY="60" x="122" y="122"/>
+    <SubTexture name="stars_11" width="120" height="120" cocos2d_pX="60" cocos2d_pY="60" x="0" y="122"/>
+    <SubTexture name="stars_10" width="120" height="120" cocos2d_pX="60" cocos2d_pY="60" x="0" y="0"/>
+    <SubTexture name="stars_9" width="120" height="120" cocos2d_pX="60" cocos2d_pY="60" x="244" y="0"/>
+    <SubTexture name="stars_8" width="120" height="120" cocos2d_pX="60" cocos2d_pY="60" x="366" y="0"/>
+  </TextureAtlas>
+</skeleton>

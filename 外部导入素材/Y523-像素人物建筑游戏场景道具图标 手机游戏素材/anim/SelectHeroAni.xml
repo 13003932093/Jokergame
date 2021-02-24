@@ -1,0 +1,113 @@
+<skeleton name="SelectHeroAni" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="SelectHeroAni">
+      <b name="SelectHeroAni_5" x="0.25" y="-318.35" kX="0" kY="0" cX="1.03" cY="1.03" pX="0" pY="0" z="0">
+        <d name="SelectHeroAni_7" pX="157.95" pY="157.95"/>
+      </b>
+      <b name="SelectHeroAni_4" x="0.4" y="7.6" kX="0" kY="0" cX="0.42" cY="0.42" pX="0" pY="0" z="1">
+        <d name="SelectHeroAni_8" pX="145.1" pY="43.5"/>
+      </b>
+      <b name="SelectHeroAni_3" x="0.2" y="-174" kX="0" kY="0" cX="0.28" cY="0.84" pX="0" pY="0" z="2">
+        <d name="SelectHeroAni_9" pX="147.9" pY="173.5"/>
+      </b>
+      <b name="SelectHeroAni_2" x="0.2" y="-174" kX="0" kY="0" cX="0.28" cY="0.84" pX="0" pY="0" z="3">
+        <d name="SelectHeroAni_10" pX="119.55" pY="173.5"/>
+      </b>
+      <b name="SelectHeroAni_1" x="0.2" y="-174" kX="0" kY="0" cX="0.28" cY="0.84" pX="0" pY="0" z="4">
+        <d name="SelectHeroAni_11" pX="70.9" pY="173.5"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="SelectHeroAni">
+      <mov name="qian" dr="3" to="0" drTW="3" lp="0" twE="NaN">
+        <b name="SelectHeroAni_5" sc="1" dl="0">
+          <f x="0.25" y="-318.35" cocos2d_x="0.25" cocos2d_y="-318.35" kX="0" kY="0" cX="1.03" cY="1.03" pX="0" pY="0" z="0" dI="0" twE="0" dr="3"/>
+        </b>
+        <b name="SelectHeroAni_4" sc="1" dl="0">
+          <f x="0.4" y="7.6" cocos2d_x="0.4" cocos2d_y="7.6" kX="0" kY="0" cX="0.42" cY="0.42" pX="0" pY="0" z="1" dI="0" twE="0" dr="3"/>
+        </b>
+        <b name="SelectHeroAni_3" sc="1" dl="0">
+          <f x="0.2" y="-174" cocos2d_x="0.2" cocos2d_y="-174" kX="0" kY="0" cX="0.28" cY="0.84" pX="0" pY="0" z="2" dI="0" twE="0" dr="3"/>
+        </b>
+        <b name="SelectHeroAni_2" sc="1" dl="0">
+          <f x="0.2" y="-174" cocos2d_x="0.2" cocos2d_y="-174" kX="0" kY="0" cX="0.28" cY="0.84" pX="0" pY="0" z="3" dI="0" twE="0" dr="3"/>
+        </b>
+        <b name="SelectHeroAni_1" sc="1" dl="0">
+          <f x="0.2" y="-174" cocos2d_x="0.2" cocos2d_y="-174" kX="0" kY="0" cX="0.28" cY="0.84" pX="0" pY="0" z="4" dI="0" twE="0" dr="3"/>
+        </b>
+      </mov>
+      <mov name="zhong" dr="3" to="0" drTW="3" lp="1" twE="NaN">
+        <b name="SelectHeroAni_5" sc="1" dl="0">
+          <f x="0.25" y="-318.35" cocos2d_x="0.25" cocos2d_y="-318.35" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="0" twE="0" dr="3"/>
+        </b>
+        <b name="SelectHeroAni_4" sc="1" dl="0">
+          <f x="0.4" y="7.6" cocos2d_x="0.4" cocos2d_y="7.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="3"/>
+        </b>
+        <b name="SelectHeroAni_3" sc="1" dl="0">
+          <f x="0.2" y="-146.45" cocos2d_x="0.2" cocos2d_y="-146.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="2" dI="0" twE="0" dr="3"/>
+        </b>
+        <b name="SelectHeroAni_2" sc="1" dl="0">
+          <f x="0.2" y="-146.45" cocos2d_x="0.2" cocos2d_y="-146.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="3" dI="0" twE="0" dr="3"/>
+        </b>
+        <b name="SelectHeroAni_1" sc="1" dl="0">
+          <f x="0.2" y="-146.45" cocos2d_x="0.2" cocos2d_y="-146.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="4" dI="0" twE="0" dr="3"/>
+        </b>
+      </mov>
+      <mov name="hou" dr="35" to="0" drTW="35" lp="0" twE="NaN">
+        <b name="SelectHeroAni_5" sc="1" dl="0">
+          <f x="0.25" y="-318.35" cocos2d_x="0.25" cocos2d_y="-318.35" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="0" twE="0" dr="18"/>
+          <f x="0.25" y="-318.35" cocos2d_x="0.25" cocos2d_y="-318.35" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.25" y="-318.35" cocos2d_x="0.25" cocos2d_y="-318.35" kX="0" kY="0" cX="0.89" cY="0.89" pX="0" pY="0" z="0" dI="0" dr="7">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="SelectHeroAni_4" sc="1" dl="0">
+          <f x="0.4" y="7.6" cocos2d_x="0.4" cocos2d_y="7.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="18"/>
+          <f x="0.4" y="7.6" cocos2d_x="0.4" cocos2d_y="7.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="80" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.4" y="7.6" cocos2d_x="0.4" cocos2d_y="7.6" kX="0" kY="0" cX="0.49" cY="0.49" pX="0" pY="0" z="1" dI="0" dr="7">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="SelectHeroAni_3" sc="1" dl="0">
+          <f x="0.2" y="-146.45" cocos2d_x="0.2" cocos2d_y="-146.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="2" dI="0" twE="0" dr="18"/>
+          <f x="0.2" y="-146.45" cocos2d_x="0.2" cocos2d_y="-146.4" kX="0" kY="0" cX="1.1" cY="1" pX="0" pY="-0.05" z="2" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.2" y="-171.1" cocos2d_x="0.2" cocos2d_y="-171.1" kX="0" kY="0" cX="0.19" cY="0.86" pX="0" pY="0" z="2" dI="0" dr="7">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="SelectHeroAni_2" sc="1" dl="0">
+          <f x="0.2" y="-146.45" cocos2d_x="0.2" cocos2d_y="-146.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="3" dI="0" twE="0" dr="18"/>
+          <f x="0.2" y="-146.45" cocos2d_x="0.2" cocos2d_y="-146.4" kX="0" kY="0" cX="0.88" cY="1" pX="0" pY="-0.05" z="3" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.2" y="-171.1" cocos2d_x="0.2" cocos2d_y="-171.1" kX="0" kY="0" cX="0.3" cY="0.86" pX="0" pY="0" z="3" dI="0" dr="7">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="SelectHeroAni_1" sc="1" dl="0">
+          <f x="0.2" y="-146.45" cocos2d_x="0.2" cocos2d_y="-146.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="4" dI="0" twE="0" dr="18"/>
+          <f x="0.2" y="-146.45" cocos2d_x="0.2" cocos2d_y="-146.4" kX="0" kY="0" cX="0.88" cY="1" pX="0" pY="-0.05" z="4" dI="0" twE="0" dr="10">
+            <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0.2" y="-171.1" cocos2d_x="0.2" cocos2d_y="-171.1" kX="0" kY="0" cX="0.3" cY="0.86" pX="0" pY="0" z="4" dI="0" dr="7">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="SelectHeroAni" width="1024" height="512">
+    <SubTexture name="SelectHeroAni_11" width="142" height="347" cocos2d_pX="70.9" cocos2d_pY="173.5" x="858" y="0"/>
+    <SubTexture name="SelectHeroAni_10" width="240" height="347" cocos2d_pX="119.55" cocos2d_pY="173.5" x="616" y="0"/>
+    <SubTexture name="SelectHeroAni_9" width="296" height="347" cocos2d_pX="147.9" cocos2d_pY="173.5" x="0" y="0"/>
+    <SubTexture name="SelectHeroAni_8" width="291" height="87" cocos2d_pX="145.1" cocos2d_pY="43.5" x="298" y="318"/>
+    <SubTexture name="SelectHeroAni_7" width="316" height="316" cocos2d_pX="157.95" cocos2d_pY="157.95" x="298" y="0"/>
+  </TextureAtlas>
+</skeleton>

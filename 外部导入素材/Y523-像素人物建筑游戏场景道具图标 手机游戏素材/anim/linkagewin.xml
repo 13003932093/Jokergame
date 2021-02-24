@@ -1,0 +1,117 @@
+<skeleton name="linkagewin" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="linkagewin_1">
+      <b name="linkagewin_006" x="0" y="0" kX="0" kY="0" cX="5.78" cY="4.8" pX="0" pY="0" z="0">
+        <d name="linkagewin_8" pX="120" pY="80"/>
+      </b>
+      <b name="linkagewin_005" x="1" y="16.3" kX="0" kY="0" cX="2.79" cY="2.79" pX="0" pY="0" z="1">
+        <d name="linkagewin_9" pX="209" pY="179.5"/>
+      </b>
+      <b name="linkagewin_004" x="-309.45" y="-36.3" kX="0" kY="0" cX="5.5" cY="5.5" pX="0" pY="-5.8" z="2">
+        <d name="linkagewin_0" pX="5.6" pY="11.6"/>
+        <d name="linkagewin_1111" pX="11.8" pY="24.2"/>
+        <d name="linkagewin_2" pX="15.5" pY="31.8"/>
+        <d name="linkagewin_3" pX="23.45" pY="47.2"/>
+        <d name="linkagewin_4" pX="23.45" pY="47.2"/>
+        <d name="linkagewin_5" pX="23.45" pY="47.2"/>
+      </b>
+      <b name="linkagewin_003" x="301.9" y="13.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3">
+        <d name="linkagewin_10" pX="43.6" pY="45.15"/>
+        <d name="linkagewin_11" pX="91.85" pY="94.2"/>
+        <d name="linkagewin_12" pX="120.7" pY="123.8"/>
+        <d name="linkagewin_13" pX="182.6" pY="183.75"/>
+        <d name="linkagewin_14" pX="182.6" pY="183.75"/>
+        <d name="linkagewin_15" pX="182.6" pY="183.75"/>
+        <d name="linkagewin_16" pX="182.6" pY="183.75"/>
+      </b>
+      <b name="linkagewin_002" x="-7.7" y="-168.45" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="4">
+        <d name="linkagewin_20" pX="31.6" pY="32.85"/>
+        <d name="linkagewin_19" pX="66.55" pY="68.3"/>
+        <d name="linkagewin_18" pX="87.4" pY="89.7"/>
+        <d name="linkagewin_17" pX="132.25" pY="133.1"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="linkagewin_1">
+      <mov name="win" dr="50" to="0" drTW="50" lp="0" twE="NaN">
+        <b name="linkagewin_006" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="5.78" cY="4.8" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="50">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="linkagewin_005" sc="1" dl="0">
+          <f x="1" y="16.3" cocos2d_x="1" cocos2d_y="16.3" kX="0" kY="0" cX="2.79" cY="2.79" pX="0" pY="0" z="1" dI="0" twE="0" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="1" y="16.3" cocos2d_x="1" cocos2d_y="16.3" kX="0" kY="0" cX="0.9" cY="0.9" pX="0" pY="0" z="1" dI="0" twE="0" dr="2"/>
+          <f x="1" y="16.3" cocos2d_x="1" cocos2d_y="16.3" kX="0" kY="0" cX="1.05" cY="1.05" pX="0" pY="0" z="1" dI="0" twE="0" dr="2"/>
+          <f x="1" y="16.3" cocos2d_x="1" cocos2d_y="16.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="33"/>
+          <f x="1" y="16.3" cocos2d_x="1" cocos2d_y="16.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="8"/>
+          <f x="1" y="16.3" cocos2d_x="1" cocos2d_y="16.3" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="linkagewin_004" sc="1" dl="0">
+          <f dr="11" dI="-1"/>
+          <f x="-309.45" y="-36.3" cocos2d_x="-309.45" cocos2d_y="-4.4" kX="0" kY="0" cX="5.5" cY="5.5" pX="0" pY="-5.8" z="2" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-307.25" y="-33.55" cocos2d_x="-307.25" cocos2d_y="33" kX="0" kY="0" cX="5.5" cY="5.5" pX="0" pY="-12.1" z="2" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-307.8" y="-33.55" cocos2d_x="-307.8" cocos2d_y="53.9" kX="0" kY="0" cX="5.5" cY="5.5" pX="0" pY="-15.9" z="2" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-306.45" y="-33.55" cocos2d_x="-306.45" cocos2d_y="96.25" kX="0" kY="0" cX="5.5" cY="5.5" pX="0" pY="-23.6" z="2" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-306.45" y="-33.55" cocos2d_x="-306.45" cocos2d_y="96.25" kX="0" kY="0" cX="5.5" cY="5.5" pX="0" pY="-23.6" z="2" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-306.45" y="-33.55" cocos2d_x="-306.45" cocos2d_y="96.25" kX="0" kY="0" cX="5.5" cY="5.5" pX="0" pY="-23.6" z="2" dI="5" twE="0" dr="7"/>
+          <f x="-306.45" y="-29.65" cocos2d_x="-306.45" cocos2d_y="113.15" kX="0" kY="0" cX="6.05" cY="6.05" pX="0" pY="-23.6" z="2" dI="5" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="21" dI="-1"/>
+        </b>
+        <b name="linkagewin_003" sc="1" dl="0">
+          <f dr="15" dI="-1"/>
+          <f x="301.9" y="13.1" cocos2d_x="301.9" cocos2d_y="13.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="305.05" y="17" cocos2d_x="305.05" cocos2d_y="17" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="304.25" y="17" cocos2d_x="304.25" cocos2d_y="17" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="306.2" y="17" cocos2d_x="306.2" cocos2d_y="17" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="306.2" y="17" cocos2d_x="306.2" cocos2d_y="17" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="306.2" y="17" cocos2d_x="306.2" cocos2d_y="17" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="306.2" y="17" cocos2d_x="306.2" cocos2d_y="17" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="6" twE="0" dr="7"/>
+          <f x="306.2" y="22.9" cocos2d_x="306.2" cocos2d_y="22.9" kX="0" kY="0" cX="1.1" cY="1.1" pX="0" pY="0" z="2" dI="6" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="15" dI="-1"/>
+        </b>
+        <b name="linkagewin_002" sc="1" dl="0">
+          <f dr="19" dI="-1"/>
+          <f x="-7.7" y="-168.45" cocos2d_x="-7.7" cocos2d_y="-168.45" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="4" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-6.35" y="-166.85" cocos2d_x="-6.35" cocos2d_y="-166.75" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="-0.1" z="4" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-6.75" y="-166.65" cocos2d_x="-6.75" cocos2d_y="-166.6" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="4" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-5.9" y="-166.7" cocos2d_x="-5.9" cocos2d_y="-166.7" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="3" dI="3" twE="0" dr="8"/>
+          <f x="-5.9" y="-166.7" cocos2d_x="-5.9" cocos2d_y="-166.7" kX="0" kY="0" cX="1.32" cY="1.32" pX="0" pY="0" z="3" dI="3" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="16" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="linkagewin" width="1024" height="2048">
+    <SubTexture name="linkagewin_17" width="265" height="267" cocos2d_pX="132.25" cocos2d_pY="133.1" x="736" y="373"/>
+    <SubTexture name="linkagewin_18" width="175" height="180" cocos2d_pX="87.4" cocos2d_pY="89.7" x="788" y="191"/>
+    <SubTexture name="linkagewin_19" width="134" height="137" cocos2d_pX="66.55" cocos2d_pY="68.3" x="676" y="892"/>
+    <SubTexture name="linkagewin_20" width="64" height="66" cocos2d_pX="31.6" cocos2d_pY="32.85" x="610" y="833"/>
+    <SubTexture name="linkagewin_16" width="366" height="368" cocos2d_pX="182.6" cocos2d_pY="183.75" x="420" y="0"/>
+    <SubTexture name="linkagewin_15" width="366" height="368" cocos2d_pX="182.6" cocos2d_pY="183.75" x="0" y="361"/>
+    <SubTexture name="linkagewin_14" width="366" height="368" cocos2d_pX="182.6" cocos2d_pY="183.75" x="368" y="370"/>
+    <SubTexture name="linkagewin_13" width="366" height="368" cocos2d_pX="182.6" cocos2d_pY="183.75" x="0" y="731"/>
+    <SubTexture name="linkagewin_12" width="242" height="248" cocos2d_pX="120.7" cocos2d_pY="123.8" x="736" y="642"/>
+    <SubTexture name="linkagewin_11" width="184" height="189" cocos2d_pX="91.85" cocos2d_pY="94.2" x="788" y="0"/>
+    <SubTexture name="linkagewin_10" width="88" height="91" cocos2d_pX="43.6" cocos2d_pY="45.15" x="610" y="740"/>
+    <SubTexture name="linkagewin_5" width="47" height="48" cocos2d_pX="23.45" cocos2d_pY="47.2" x="974" y="50"/>
+    <SubTexture name="linkagewin_4" width="47" height="48" cocos2d_pX="23.45" cocos2d_pY="47.2" x="974" y="0"/>
+    <SubTexture name="linkagewin_3" width="47" height="48" cocos2d_pX="23.45" cocos2d_pY="47.2" x="974" y="100"/>
+    <SubTexture name="linkagewin_2" width="31" height="32" cocos2d_pX="15.5" cocos2d_pY="31.8" x="974" y="150"/>
+    <SubTexture name="linkagewin_1111" width="24" height="25" cocos2d_pX="11.8" cocos2d_pY="24.2" x="974" y="184"/>
+    <SubTexture name="linkagewin_0" width="12" height="12" cocos2d_pX="5.6" cocos2d_pY="11.6" x="1007" y="150"/>
+    <SubTexture name="linkagewin_9" width="418" height="359" cocos2d_pX="209" cocos2d_pY="179.5" x="0" y="0"/>
+    <SubTexture name="linkagewin_8" width="240" height="160" cocos2d_pX="120" cocos2d_pY="80" x="368" y="740"/>
+  </TextureAtlas>
+</skeleton>

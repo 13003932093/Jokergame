@@ -1,0 +1,51 @@
+<skeleton name="item_icon_light" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="item_icon_light2">
+      <b name="item_icon_light2_4" x="0" y="0" kX="0" kY="0" cX="0.94" cY="0.94" pX="0" pY="0" z="0">
+        <d name="item_icon_light__8" pX="102.85" pY="102.85"/>
+      </b>
+      <b name="item_icon_light2_2" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="item_icon_light__1" pX="0" pY="0"/>
+      </b>
+    </armature>
+    <armature name="item_icon_light1">
+      <b name="item_icon_light1_4" x="0" y="0" kX="0" kY="0" cX="0.94" cY="0.94" pX="0" pY="0" z="0">
+        <d name="item_icon_light__7" pX="102.85" pY="102.85"/>
+      </b>
+      <b name="item_icon_light1_2" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="item_icon_light__1" pX="0" pY="0"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="item_icon_light2">
+      <mov name="effect" dr="72" to="0" drTW="72" lp="1" twE="NaN">
+        <b name="item_icon_light2_4" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.94" cY="0.94" pX="0" pY="0" z="0" dI="0" twE="0" dr="36"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="44.65" kY="44.65" cX="0.84" cY="0.84" pX="0" pY="0" z="0" dI="0" twE="0" dr="35"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="89.4" kY="89.4" cX="0.94" cY="0.94" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+        </b>
+        <b name="item_icon_light2_2" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="72"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="item_icon_light1">
+      <mov name="effect" dr="72" to="0" drTW="72" lp="1" twE="NaN">
+        <b name="item_icon_light1_4" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.94" cY="0.94" pX="0" pY="0" z="0" dI="0" twE="0" dr="37"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="45.9" kY="45.9" cX="0.84" cY="0.84" pX="0" pY="0" z="0" dI="0" twE="0" dr="34"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="89.21" kY="89.21" cX="0.94" cY="0.94" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+        </b>
+        <b name="item_icon_light1_2" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="72"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="item_icon_light" width="512" height="256">
+    <SubTexture name="item_icon_light__7" width="206" height="206" cocos2d_pX="102.85" cocos2d_pY="102.85" x="208" y="0"/>
+    <SubTexture name="item_icon_light__1" width="0" height="0" cocos2d_pX="0" cocos2d_pY="0" x="416" y="0"/>
+    <SubTexture name="item_icon_light__8" width="206" height="206" cocos2d_pX="102.85" cocos2d_pY="102.85" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

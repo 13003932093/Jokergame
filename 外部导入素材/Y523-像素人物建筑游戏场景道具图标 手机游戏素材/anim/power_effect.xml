@@ -1,0 +1,25 @@
+<skeleton name="power_effect" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="power_effect">
+   <b name="图层 1" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="power_effect_s_2" pX="104.7" pY="25"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="power_effect">
+   <mov name="run" dr="53" to="0" drTW="53" lp="0" twE="NaN">
+    <b name="图层 1" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="14"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1.21" cY="1.21" pX="0" pY="0" z="0" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="38" dI="-1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="power_effect" width="256" height="64">
+  <SubTexture name="power_effect_s_2" width="210" height="50" cocos2d_pX="104.7" cocos2d_pY="25" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

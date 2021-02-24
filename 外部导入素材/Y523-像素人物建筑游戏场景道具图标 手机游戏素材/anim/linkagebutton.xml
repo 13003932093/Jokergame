@@ -1,0 +1,258 @@
+<skeleton name="linkagebutton" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="linkagebutton_3">
+      <b name="linkagebutton_3_5" x="-0.1" y="-3.95" kX="0" kY="0" cX="0.22" cY="0.22" pX="0" pY="0" z="0">
+        <d name="linkagebutton_0" pX="119" pY="119"/>
+      </b>
+      <b name="linkagebutton_attack" x="-0.1" y="-6.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="linkagebutton_21" pX="32" pY="30"/>
+      </b>
+      <b name="linkagebutton_kill" x="-0.1" y="-6.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="linkagebutton_11" pX="32" pY="30"/>
+      </b>
+      <b name="linkagebutton_cancel" x="-0.1" y="-6.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3">
+        <d name="linkagebutton_31" pX="32" pY="30"/>
+      </b>
+    </armature>
+    <armature name="linkagebutton_2">
+      <b name="linkagebutton_2_4" x="-0.1" y="-3.95" kX="0" kY="0" cX="0.22" cY="0.22" pX="0" pY="0" z="0">
+        <d name="linkagebutton_0" pX="119" pY="119"/>
+      </b>
+      <b name="linkagebutton_kill" x="-0.1" y="-6.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="linkagebutton_11" pX="32" pY="30"/>
+      </b>
+      <b name="linkagebutton_cancel" x="-0.1" y="-6.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="linkagebutton_31" pX="32" pY="30"/>
+      </b>
+    </armature>
+    <armature name="linkagebutton_1">
+      <b name="linkagebutton_1_3" x="-0.1" y="-3.95" kX="0" kY="0" cX="0.22" cY="0.22" pX="0" pY="0" z="0">
+        <d name="linkagebutton_0" pX="119" pY="119"/>
+      </b>
+      <b name="linkagebutton_cancel" x="-0.1" y="-6.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="linkagebutton_31" pX="32" pY="30"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="linkagebutton_3">
+      <mov name="open" dr="8" to="0" drTW="8" lp="0" twE="NaN">
+        <b name="linkagebutton_3_5" sc="1" dl="0">
+          <f x="-0.1" y="-3.95" cocos2d_x="-0.1" cocos2d_y="-3.95" kX="0" kY="0" cX="0.22" cY="0.22" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="-0.1" y="-3.95" cocos2d_x="-0.1" cocos2d_y="-3.95" kX="0" kY="0" cX="0.42" cY="0.42" pX="0" pY="0" z="0" dI="0" twE="1" dr="1"/>
+          <f x="-0.15" y="-1" cocos2d_x="-0.15" cocos2d_y="-1" kX="0" kY="0" cX="0.86" cY="0.86" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+          <f x="-0.2" y="0.8" cocos2d_x="-0.2" cocos2d_y="0.8" kX="0" kY="0" cX="1.11" cY="1.11" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+          <f x="-0.2" y="1.4" cocos2d_x="-0.2" cocos2d_y="1.4" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="0" dI="0" twE="0" dr="3"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="linkagebutton_attack" sc="1" dl="0">
+          <f x="-0.1" y="-6.95" cocos2d_x="-0.1" cocos2d_y="-6.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+          <f x="-46.4" y="-6.95" cocos2d_x="-46.4" cocos2d_y="-6.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="1" dr="1"/>
+          <f x="-93.4" y="-7" cocos2d_x="-93.4" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="1"/>
+          <f x="-121.6" y="-7" cocos2d_x="-121.6" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="1"/>
+          <f x="-131" y="-7" cocos2d_x="-131" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="3"/>
+          <f x="-109" y="-7" cocos2d_x="-109" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+        </b>
+        <b name="linkagebutton_kill" sc="1" dl="0">
+          <f x="-0.1" y="-6.95" cocos2d_x="-0.1" cocos2d_y="-6.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+          <f x="47.1" y="-6.95" cocos2d_x="47.1" cocos2d_y="-6.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="1" dr="1"/>
+          <f x="94.8" y="-7" cocos2d_x="94.8" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="1"/>
+          <f x="123.45" y="-7" cocos2d_x="123.45" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="1"/>
+          <f x="133" y="-7" cocos2d_x="133" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="3"/>
+          <f x="111" y="-7" cocos2d_x="111" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+        </b>
+        <b name="linkagebutton_cancel" sc="1" dl="0">
+          <f x="-0.1" y="-6.95" cocos2d_x="-0.1" cocos2d_y="-6.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="1"/>
+          <f x="-0.1" y="-54.95" cocos2d_x="-0.1" cocos2d_y="-54.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="1" dr="1"/>
+          <f x="-0.15" y="-103.65" cocos2d_x="-0.15" cocos2d_y="-103.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="1"/>
+          <f x="-0.2" y="-132.85" cocos2d_x="-0.2" cocos2d_y="-132.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="1"/>
+          <f x="-0.2" y="-142.6" cocos2d_x="-0.2" cocos2d_y="-142.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="3"/>
+          <f x="0" y="-120" cocos2d_x="0" cocos2d_y="-120" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="1"/>
+        </b>
+      </mov>
+      <mov name="idle" dr="8" to="0" drTW="8" lp="0" twE="NaN">
+        <b name="linkagebutton_3_5" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="7"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="linkagebutton_attack" sc="1" dl="0">
+          <f x="-109" y="-7" cocos2d_x="-109" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="7"/>
+          <f x="-109" y="-7" cocos2d_x="-109" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+        </b>
+        <b name="linkagebutton_kill" sc="1" dl="0">
+          <f x="111" y="-7" cocos2d_x="111" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="7"/>
+          <f x="111" y="-7" cocos2d_x="111" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+        </b>
+        <b name="linkagebutton_cancel" sc="1" dl="0">
+          <f x="0" y="-120" cocos2d_x="0" cocos2d_y="-120" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="7"/>
+          <f x="0" y="-120" cocos2d_x="0" cocos2d_y="-120" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="1"/>
+        </b>
+      </mov>
+      <mov name="close" dr="9" to="0" drTW="9" lp="0" twE="NaN">
+        <b name="linkagebutton_3_5" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="3"/>
+          <f x="-0.2" y="1.4" cocos2d_x="-0.2" cocos2d_y="1.4" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="0" dI="0" twE="-1" dr="1"/>
+          <f x="-0.15" y="0.8" cocos2d_x="-0.15" cocos2d_y="0.8" kX="0" kY="0" cX="1.11" cY="1.11" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+          <f x="-0.15" y="-1" cocos2d_x="-0.15" cocos2d_y="-1" kX="0" kY="0" cX="0.86" cY="0.86" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+          <f x="-0.1" y="-3.95" cocos2d_x="-0.1" cocos2d_y="-3.95" kX="0" kY="0" cX="0.42" cY="0.42" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="-0.1" y="-3.95" cocos2d_x="-0.1" cocos2d_y="-3.95" kX="0" kY="0" cX="0.22" cY="0.22" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f dr="1" dI="-1"/>
+        </b>
+        <b name="linkagebutton_attack" sc="1" dl="0">
+          <f x="-109" y="-7" cocos2d_x="-109" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="3"/>
+          <f x="-131" y="-7" cocos2d_x="-131" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="-1" dr="1"/>
+          <f x="-121.6" y="-7" cocos2d_x="-121.6" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="1"/>
+          <f x="-93.4" y="-7" cocos2d_x="-93.4" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="1"/>
+          <f x="-46.4" y="-6.95" cocos2d_x="-46.4" cocos2d_y="-6.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+          <f x="-0.1" y="-6.95" cocos2d_x="-0.1" cocos2d_y="-6.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+          <f dr="1" dI="-1"/>
+        </b>
+        <b name="linkagebutton_kill" sc="1" dl="0">
+          <f x="111" y="-7" cocos2d_x="111" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="3"/>
+          <f x="133" y="-7" cocos2d_x="133" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="-1" dr="1"/>
+          <f x="123.45" y="-7" cocos2d_x="123.45" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="1"/>
+          <f x="94.8" y="-7" cocos2d_x="94.8" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="1"/>
+          <f x="47.1" y="-6.95" cocos2d_x="47.1" cocos2d_y="-6.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+          <f x="-0.1" y="-6.95" cocos2d_x="-0.1" cocos2d_y="-6.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+          <f dr="1" dI="-1"/>
+        </b>
+        <b name="linkagebutton_cancel" sc="1" dl="0">
+          <f x="0" y="-120" cocos2d_x="0" cocos2d_y="-120" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="3"/>
+          <f x="-0.2" y="-142.6" cocos2d_x="-0.2" cocos2d_y="-142.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="-1" dr="1"/>
+          <f x="-0.2" y="-132.85" cocos2d_x="-0.2" cocos2d_y="-132.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="1"/>
+          <f x="-0.15" y="-103.65" cocos2d_x="-0.15" cocos2d_y="-103.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="1"/>
+          <f x="-0.1" y="-54.95" cocos2d_x="-0.1" cocos2d_y="-54.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="1"/>
+          <f x="-0.1" y="-6.95" cocos2d_x="-0.1" cocos2d_y="-6.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="1"/>
+          <f dr="1" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="linkagebutton_2">
+      <mov name="open" dr="8" to="0" drTW="8" lp="0" twE="NaN">
+        <b name="linkagebutton_2_4" sc="1" dl="0">
+          <f x="-0.1" y="-3.95" cocos2d_x="-0.1" cocos2d_y="-3.95" kX="0" kY="0" cX="0.22" cY="0.22" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="-0.1" y="-3.95" cocos2d_x="-0.1" cocos2d_y="-3.95" kX="0" kY="0" cX="0.42" cY="0.42" pX="0" pY="0" z="0" dI="0" twE="1" dr="1"/>
+          <f x="-0.15" y="-1" cocos2d_x="-0.15" cocos2d_y="-1" kX="0" kY="0" cX="0.86" cY="0.86" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+          <f x="-0.2" y="0.8" cocos2d_x="-0.2" cocos2d_y="0.8" kX="0" kY="0" cX="1.11" cY="1.11" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+          <f x="-0.2" y="1.4" cocos2d_x="-0.2" cocos2d_y="1.4" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="0" dI="0" twE="0" dr="3"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="linkagebutton_kill" sc="1" dl="0">
+          <f x="-0.1" y="-6.95" cocos2d_x="-0.1" cocos2d_y="-6.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+          <f x="47.1" y="-6.95" cocos2d_x="47.1" cocos2d_y="-6.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="1" dr="1"/>
+          <f x="94.8" y="-7" cocos2d_x="94.8" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="1"/>
+          <f x="123.45" y="-7" cocos2d_x="123.45" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="1"/>
+          <f x="133" y="-7" cocos2d_x="133" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="3"/>
+          <f x="111" y="-7" cocos2d_x="111" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+        </b>
+        <b name="linkagebutton_cancel" sc="1" dl="0">
+          <f x="-0.1" y="-6.95" cocos2d_x="-0.1" cocos2d_y="-6.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+          <f x="-48.1" y="-6.95" cocos2d_x="-48.1" cocos2d_y="-6.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="1" dr="1"/>
+          <f x="-97.65" y="-7" cocos2d_x="-97.65" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="1"/>
+          <f x="-127.35" y="-7" cocos2d_x="-127.35" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="1"/>
+          <f x="-137.25" y="-7" cocos2d_x="-137.25" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="3"/>
+          <f x="-112" y="-7" cocos2d_x="-112" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+        </b>
+      </mov>
+      <mov name="idle" dr="8" to="0" drTW="8" lp="0" twE="NaN">
+        <b name="linkagebutton_2_4" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="7"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="linkagebutton_kill" sc="1" dl="0">
+          <f x="111" y="-7" cocos2d_x="111" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="7"/>
+          <f x="111" y="-7" cocos2d_x="111" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+        </b>
+        <b name="linkagebutton_cancel" sc="1" dl="0">
+          <f x="-112" y="-7" cocos2d_x="-112" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="7"/>
+          <f x="-112" y="-7" cocos2d_x="-112" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+        </b>
+      </mov>
+      <mov name="close" dr="9" to="0" drTW="9" lp="0" twE="NaN">
+        <b name="linkagebutton_2_4" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="3"/>
+          <f x="-0.2" y="1.4" cocos2d_x="-0.2" cocos2d_y="1.4" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="0" dI="0" twE="-1" dr="1"/>
+          <f x="-0.25" y="0.8" cocos2d_x="-0.25" cocos2d_y="0.8" kX="0" kY="0" cX="1.11" cY="1.11" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+          <f x="-0.15" y="-1" cocos2d_x="-0.15" cocos2d_y="-1" kX="0" kY="0" cX="0.86" cY="0.86" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+          <f x="-0.1" y="-3.95" cocos2d_x="-0.1" cocos2d_y="-3.95" kX="0" kY="0" cX="0.42" cY="0.42" pX="0" pY="0" z="0" dI="0" twE="1" dr="1"/>
+          <f x="-0.1" y="-3.95" cocos2d_x="-0.1" cocos2d_y="-3.95" kX="0" kY="0" cX="0.22" cY="0.22" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f dr="1" dI="-1"/>
+        </b>
+        <b name="linkagebutton_kill" sc="1" dl="0">
+          <f x="111" y="-7" cocos2d_x="111" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="3"/>
+          <f x="133" y="-7" cocos2d_x="133" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="-1" dr="1"/>
+          <f x="123.45" y="-7" cocos2d_x="123.45" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="1"/>
+          <f x="94.8" y="-7" cocos2d_x="94.8" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="1"/>
+          <f x="47.1" y="-6.95" cocos2d_x="47.1" cocos2d_y="-6.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="1" dr="1"/>
+          <f x="-0.1" y="-6.95" cocos2d_x="-0.1" cocos2d_y="-6.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+          <f dr="1" dI="-1"/>
+        </b>
+        <b name="linkagebutton_cancel" sc="1" dl="0">
+          <f x="-112" y="-7" cocos2d_x="-112" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="3"/>
+          <f x="-137.25" y="-7" cocos2d_x="-137.25" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="-1" dr="1"/>
+          <f x="-127.35" y="-7" cocos2d_x="-127.35" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="1"/>
+          <f x="-97.65" y="-7" cocos2d_x="-97.65" cocos2d_y="-7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="1"/>
+          <f x="-48.1" y="-6.95" cocos2d_x="-48.1" cocos2d_y="-6.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="1" dr="1"/>
+          <f x="-0.1" y="-6.95" cocos2d_x="-0.1" cocos2d_y="-6.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1"/>
+          <f dr="1" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+    <animation name="linkagebutton_1">
+      <mov name="open" dr="8" to="0" drTW="8" lp="0" twE="NaN">
+        <b name="linkagebutton_1_3" sc="1" dl="0">
+          <f x="-0.1" y="-3.95" cocos2d_x="-0.1" cocos2d_y="-3.95" kX="0" kY="0" cX="0.22" cY="0.22" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="-0.1" y="-3.95" cocos2d_x="-0.1" cocos2d_y="-3.95" kX="0" kY="0" cX="0.42" cY="0.42" pX="0" pY="0" z="0" dI="0" twE="1" dr="1"/>
+          <f x="-0.15" y="-1" cocos2d_x="-0.15" cocos2d_y="-1" kX="0" kY="0" cX="0.86" cY="0.86" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+          <f x="-0.2" y="0.8" cocos2d_x="-0.2" cocos2d_y="0.8" kX="0" kY="0" cX="1.11" cY="1.11" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+          <f x="-0.2" y="1.4" cocos2d_x="-0.2" cocos2d_y="1.4" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="0" dI="0" twE="0" dr="3"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="linkagebutton_cancel" sc="1" dl="0">
+          <f x="-0.1" y="-6.95" cocos2d_x="-0.1" cocos2d_y="-6.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+          <f x="-0.1" y="-54.95" cocos2d_x="-0.1" cocos2d_y="-54.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="1" dr="1"/>
+          <f x="-0.15" y="-103.65" cocos2d_x="-0.15" cocos2d_y="-103.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="1"/>
+          <f x="-0.2" y="-132.85" cocos2d_x="-0.2" cocos2d_y="-132.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="1"/>
+          <f x="-0.2" y="-142.6" cocos2d_x="-0.2" cocos2d_y="-142.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="3"/>
+          <f x="0" y="-120" cocos2d_x="0" cocos2d_y="-120" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+        </b>
+      </mov>
+      <mov name="idle" dr="8" to="0" drTW="8" lp="0" twE="NaN">
+        <b name="linkagebutton_1_3" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="7"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="linkagebutton_cancel" sc="1" dl="0">
+          <f x="0" y="-120" cocos2d_x="0" cocos2d_y="-120" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="7"/>
+          <f x="0" y="-120" cocos2d_x="0" cocos2d_y="-120" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+        </b>
+      </mov>
+      <mov name="close" dr="9" to="0" drTW="9" lp="0" twE="NaN">
+        <b name="linkagebutton_1_3" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="3"/>
+          <f x="-0.2" y="1.4" cocos2d_x="-0.2" cocos2d_y="1.4" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="0" dI="0" twE="-1" dr="1"/>
+          <f x="-0.15" y="0.8" cocos2d_x="-0.15" cocos2d_y="0.8" kX="0" kY="0" cX="1.11" cY="1.11" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+          <f x="-0.15" y="-1" cocos2d_x="-0.15" cocos2d_y="-1" kX="0" kY="0" cX="0.86" cY="0.86" pX="0" pY="0" z="0" dI="0" twE="0" dr="1"/>
+          <f x="-0.1" y="-3.95" cocos2d_x="-0.1" cocos2d_y="-3.95" kX="0" kY="0" cX="0.42" cY="0.42" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f x="-0.1" y="-3.95" cocos2d_x="-0.1" cocos2d_y="-3.95" kX="0" kY="0" cX="0.22" cY="0.22" pX="0" pY="0" z="0" dI="0" dr="1"/>
+          <f dr="1" dI="-1"/>
+        </b>
+        <b name="linkagebutton_cancel" sc="1" dl="0">
+          <f x="0" y="-120" cocos2d_x="0" cocos2d_y="-120" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="3"/>
+          <f x="-0.2" y="-142.6" cocos2d_x="-0.2" cocos2d_y="-142.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="-1" dr="1"/>
+          <f x="-0.2" y="-132.85" cocos2d_x="-0.2" cocos2d_y="-132.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="1"/>
+          <f x="-0.15" y="-103.65" cocos2d_x="-0.15" cocos2d_y="-103.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="1"/>
+          <f x="-0.1" y="-54.95" cocos2d_x="-0.1" cocos2d_y="-54.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+          <f x="-0.1" y="-6.95" cocos2d_x="-0.1" cocos2d_y="-6.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+          <f dr="1" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="linkagebutton" width="512" height="256">
+    <SubTexture name="linkagebutton_31" width="64" height="67" cocos2d_pX="32" cocos2d_pY="30" x="372" y="0"/>
+    <SubTexture name="linkagebutton_11" width="64" height="67" cocos2d_pX="32" cocos2d_pY="30" x="306" y="0"/>
+    <SubTexture name="linkagebutton_21" width="64" height="68" cocos2d_pX="32" cocos2d_pY="30" x="240" y="0"/>
+    <SubTexture name="linkagebutton_0" width="238" height="238" cocos2d_pX="119" cocos2d_pY="119" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

@@ -1,0 +1,52 @@
+<skeleton name="map_effect_1005" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="map_effect_1002">
+      <b name="map_effect_1002_1" x="2.25" y="11.05" kX="0" kY="0" cX="0.91" cY="0.91" pX="0" pY="-11.95" z="0">
+        <d name="map_effect_1005_2" pX="56.15" pY="21.7"/>
+      </b>
+    </armature>
+    <armature name="map_effect_1005">
+      <b name="map_effect_1005_2" x="2.25" y="11.05" kX="0" kY="0" cX="0.91" cY="0.91" pX="0" pY="-11.95" z="0">
+        <d name="map_effect_1005_2" pX="56.15" pY="21.7"/>
+      </b>
+      <b name="map_effect_1005_1" x="-0.25" y="10.25" kX="0" kY="0" cX="1.35" cY="1.35" pX="0" pY="-7.55" z="1">
+        <d name="map_effect_1005_1" pX="37.05" pY="15"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="map_effect_1002">
+      <mov name="effect" dr="10" to="0" drTW="10" lp="0" twE="NaN">
+        <b name="map_effect_1002_1" sc="1" dl="0">
+          <f x="2.25" y="11.05" cocos2d_x="2.25" cocos2d_y="21.95" kX="0" kY="0" cX="0.91" cY="0.91" pX="0" pY="-11.95" z="0" dI="0" twE="0" dr="3"/>
+          <f x="2.25" y="11.05" cocos2d_x="2.25" cocos2d_y="21.95" kX="0" kY="0" cX="0.91" cY="0.91" pX="0" pY="-11.95" z="0" dI="0" twE="0" dr="6"/>
+          <f x="2.25" y="11.05" cocos2d_x="2.25" cocos2d_y="21.95" kX="0" kY="0" cX="0.91" cY="0.91" pX="0" pY="-11.95" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+    <animation name="map_effect_1005">
+      <mov name="effect" dr="10" to="0" drTW="10" lp="0" twE="NaN">
+        <b name="map_effect_1005_2" sc="1" dl="0">
+          <f x="2.25" y="11.05" cocos2d_x="2.25" cocos2d_y="21.95" kX="0" kY="0" cX="0.91" cY="0.91" pX="0" pY="-11.95" z="0" dI="0" twE="0" dr="3"/>
+          <f x="2.25" y="11.05" cocos2d_x="2.25" cocos2d_y="21.95" kX="0" kY="0" cX="0.91" cY="0.91" pX="0" pY="-11.95" z="0" dI="0" twE="0" dr="6"/>
+          <f x="2.25" y="11.05" cocos2d_x="2.25" cocos2d_y="21.95" kX="0" kY="0" cX="0.91" cY="0.91" pX="0" pY="-11.95" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="map_effect_1005_1" sc="1" dl="0">
+          <f x="-0.25" y="10.25" cocos2d_x="-0.25" cocos2d_y="20.45" kX="0" kY="0" cX="1.35" cY="1.35" pX="0" pY="-7.55" z="1" dI="0" twE="0" dr="6"/>
+          <f x="-0.25" y="10.25" cocos2d_x="-0.25" cocos2d_y="25.3" kX="0" kY="0" cX="2.16" cY="2" pX="0" pY="-7.55" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="3" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="map_effect_1005" width="128" height="64">
+    <SubTexture name="map_effect_1005_1" width="75" height="15" cocos2d_pX="37.05" cocos2d_pY="15" x="0" y="24"/>
+    <SubTexture name="map_effect_1005_2" width="124" height="22" cocos2d_pX="56.15" cocos2d_pY="21.7" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

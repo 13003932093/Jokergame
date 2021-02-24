@@ -1,0 +1,257 @@
+<skeleton name="skill_ani_1000" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="skill_ani_1000">
+   <b name="skill_ani_1000_1" x="1.3" y="-1.7" kX="0" kY="0" cX="0.76" cY="0.76" pX="0" pY="0" z="0">
+    <d name="skill_ani_1000_9" pX="36.9" pY="36.8"/>
+   </b>
+   <b name="event" x="0" y="0" kX="0" kY="0" cX="0.03" cY="0.03" pX="0" pY="0" z="1">
+    <d name="skill_ani_1000_9" pX="36.9" pY="36.8"/>
+   </b>
+   <b name="skill_ani_1000_15" x="-3.5" y="17.8" kX="0" kY="0" cX="2.04" cY="0.99" pX="16.9" pY="8.3" z="0">
+    <d name="skill_ani_1000_17" pX="0" pY="0"/>
+   </b>
+   <b name="skill_ani_1000_14" x="3.4" y="13.8" kX="0" kY="0" cX="1" cY="1" pX="40.2" pY="18.8" z="1">
+    <d name="skill_ani_1000_3" pX="0" pY="0"/>
+   </b>
+   <b name="skill_ani_1000_13" x="38.4" y="-56.2" kX="-34.62" kY="-34.62" cX="3.09" cY="3.09" pX="0" pY="0" z="1">
+    <d name="skill_ani_1000_6" pX="25.6" pY="34.6"/>
+   </b>
+   <b name="skill_ani_1000_12" x="-17.3" y="-33.7" kX="-42.13" kY="-42.13" cX="4.4" cY="4.4" pX="-7.3" pY="-6.1" z="2">
+    <d name="skill_ani_1000_6" pX="25.6" pY="34.6"/>
+   </b>
+   <b name="skill_ani_1000_11" x="20.5" y="-21.3" kX="15.02" kY="15.02" cX="2.84" cY="2.84" pX="0" pY="0" z="3">
+    <d name="skill_ani_1000_6" pX="25.6" pY="34.6"/>
+   </b>
+   <b name="skill_ani_1000_10" x="58.4" y="14.9" kX="-17.06" kY="-17.06" cX="3.27" cY="3.27" pX="0" pY="0" z="4">
+    <d name="skill_ani_1000_6" pX="25.6" pY="34.6"/>
+   </b>
+   <b name="skill_ani_1000_9" x="-47.8" y="-7.9" kX="-53.43" kY="-53.43" cX="3.06" cY="3.06" pX="-7.8" pY="-8.1" z="5">
+    <d name="skill_ani_1000_6" pX="25.6" pY="34.6"/>
+   </b>
+   <b name="skill_ani_1000_8" x="20.6" y="-26.8" kX="-34.66" kY="-34.66" cX="2.42" cY="2.42" pX="0" pY="0" z="2">
+    <d name="skill_ani_1000_6" pX="25.6" pY="34.6"/>
+   </b>
+   <b name="skill_ani_1000_7" x="-7.1" y="4.3" kX="-42.19" kY="-42.19" cX="3.75" cY="3.75" pX="-7.3" pY="-6.1" z="3">
+    <d name="skill_ani_1000_6" pX="25.6" pY="34.6"/>
+   </b>
+   <b name="skill_ani_1000_6" x="22.5" y="-10.6" kX="15.06" kY="15.06" cX="2.2" cY="2.2" pX="0" pY="0" z="4">
+    <d name="skill_ani_1000_6" pX="25.6" pY="34.6"/>
+   </b>
+   <b name="skill_ani_1000_5" x="39.4" y="28.8" kX="-17.22" kY="-17.22" cX="2.64" cY="2.64" pX="0" pY="0" z="5">
+    <d name="skill_ani_1000_6" pX="25.6" pY="34.6"/>
+   </b>
+   <b name="skill_ani_1000_4" x="-34.1" y="10.7" kX="-53.48" kY="-53.48" cX="2.42" cY="2.42" pX="-7.9" pY="-8.1" z="6">
+    <d name="skill_ani_1000_6" pX="25.6" pY="34.6"/>
+   </b>
+   <b name="skill_ani_1000_3" x="4.4" y="-10.1" kX="0" kY="0" cX="1" cY="1" pX="22.5" pY="20.4" z="1">
+    <d name="skill_ani_1000_4" pX="20" pY="20"/>
+    <d name="skill_ani_1000_5" pX="20" pY="20"/>
+    <d name="skill_ani_1000_7" pX="20" pY="20"/>
+    <d name="skill_ani_1000_8" pX="20" pY="20"/>
+   </b>
+   <b name="skill_ani_1000_2" x="-2.7" y="-12.7" kX="0" kY="0" cX="1" cY="1" pX="58.7" pY="39.2" z="3">
+    <d name="skill_ani_1000_15" pX="0" pY="0"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="skill_ani_1000">
+   <mov name="fly" dr="4" to="0" drTW="4" lp="1" twE="NaN">
+    <b name="skill_ani_1000_1" sc="1" dl="0">
+     <f x="1.3" y="-1.7" cocos2d_x="1.3" cocos2d_y="-1.7" kX="0" kY="0" cX="0.76" cY="0.76" pX="0" pY="0" z="0" dI="0" dr="3"/>
+     <f x="1.3" y="-1.7" cocos2d_x="1.3" cocos2d_y="-1.7" kX="0" kY="0" cX="0.76" cY="0.76" pX="0" pY="0" z="0" dI="0" dr="1"/>
+    </b>
+    <b name="event" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.03" cY="0.03" pX="0" pY="0" z="1" dI="0" dr="4">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+   </mov>
+   <mov name="hit" dr="46" to="0" drTW="46" lp="0" twE="NaN">
+    <b name="skill_ani_1000_15" sc="1" dl="0">
+     <f dr="1" dI="-1"/>
+     <f x="-3.5" y="17.8" cocos2d_x="-38" cocos2d_y="9.6" kX="0" kY="0" cX="2.04" cY="0.99" pX="16.9" pY="8.3" z="0" dI="0" twE="0" dr="2"/>
+     <f x="-3.4" y="17.8" cocos2d_x="-84" cocos2d_y="-1.5" kX="0" kY="0" cX="4.77" cY="2.32" pX="16.9" pY="8.3" z="0" dI="0" twE="0" dr="6">
+      <colorTransform a="0" r="0" g="0" b="0" aM="72" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-3.6" y="17.8" cocos2d_x="-105.7" cocos2d_y="-6.6" kX="0" kY="0" cX="6.04" cY="2.94" pX="16.9" pY="8.3" z="0" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="36" dI="-1"/>
+    </b>
+    <b name="skill_ani_1000_14" sc="1" dl="0">
+     <f x="3.4" y="13.8" cocos2d_x="-36.8" cocos2d_y="-5" kX="0" kY="0" cX="1" cY="1" pX="40.2" pY="18.8" z="1" dI="0" twE="0" dr="3">
+      <colorTransform a="0" r="0" g="0" b="0" aM="38" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="3.4" y="13.8" cocos2d_x="-50.9" cocos2d_y="-11.6" kX="0" kY="0" cX="1.35" cY="1.35" pX="40.2" pY="18.8" z="0" dI="0" dr="30">
+      <colorTransform a="0" r="0" g="0" b="0" aM="68" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="3.4" y="13.8" cocos2d_x="-50.9" cocos2d_y="-11.6" kX="0" kY="0" cX="1.35" cY="1.35" pX="40.2" pY="18.8" z="0" dI="0" twE="0" dr="12">
+      <colorTransform a="0" r="0" g="0" b="0" aM="68" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="3.4" y="13.8" cocos2d_x="-50.9" cocos2d_y="-11.6" kX="0" kY="0" cX="1.35" cY="1.35" pX="40.2" pY="18.8" z="0" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+    <b name="skill_ani_1000_13" sc="1" dl="0">
+     <f dr="6" dI="-1"/>
+     <f x="38.4" y="-56.2" cocos2d_x="38.4" cocos2d_y="-56.2" kX="-34.62" kY="-34.62" cX="3.09" cY="3.09" pX="0" pY="0" z="1" dI="0" twE="0" dr="8">
+      <colorTransform a="0" r="0" g="0" b="0" aM="46" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="85.6" y="-134.4" cocos2d_x="85.6" cocos2d_y="-134.4" kX="-34.97" kY="-34.97" cX="4.79" cY="4.79" pX="0" pY="0" z="1" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="31" dI="-1"/>
+    </b>
+    <b name="skill_ani_1000_12" sc="1" dl="0">
+     <f dr="6" dI="-1"/>
+     <f x="-17.3" y="-33.7" cocos2d_x="24.5" cocos2d_y="-35.3" kX="-42.13" kY="-42.13" cX="4.4" cY="4.4" pX="-7.3" pY="-6.1" z="2" dI="0" twE="0" dr="8">
+      <colorTransform a="0" r="0" g="0" b="0" aM="46" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-47.4" y="-136.7" cocos2d_x="9.2" cocos2d_y="-138.6" kX="-42.19" kY="-42.19" cX="6" cY="6" pX="-7.1" pY="-6.1" z="2" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="31" dI="-1"/>
+    </b>
+    <b name="skill_ani_1000_11" sc="1" dl="0">
+     <f dr="6" dI="-1"/>
+     <f x="20.5" y="-21.3" cocos2d_x="20.5" cocos2d_y="-21.3" kX="15.02" kY="15.02" cX="2.84" cY="2.84" pX="0" pY="0" z="3" dI="0" twE="0" dr="8">
+      <colorTransform a="0" r="0" g="0" b="0" aM="46" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="11.5" y="-49.7" cocos2d_x="11.5" cocos2d_y="-49.7" kX="15.06" kY="15.06" cX="4.5" cY="4.5" pX="0" pY="0" z="3" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="31" dI="-1"/>
+    </b>
+    <b name="skill_ani_1000_10" sc="1" dl="0">
+     <f dr="6" dI="-1"/>
+     <f x="58.4" y="14.9" cocos2d_x="58.4" cocos2d_y="14.9" kX="-17.06" kY="-17.06" cX="3.27" cY="3.27" pX="0" pY="0" z="4" dI="0" twE="0" dr="8">
+      <colorTransform a="0" r="0" g="0" b="0" aM="46" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="107" y="-24.5" cocos2d_x="107" cocos2d_y="-24.5" kX="-17.22" kY="-17.22" cX="4.86" cY="4.86" pX="0" pY="0" z="4" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="31" dI="-1"/>
+    </b>
+    <b name="skill_ani_1000_9" sc="1" dl="0">
+     <f dr="6" dI="-1"/>
+     <f x="-47.8" y="-7.9" cocos2d_x="-13.2" cocos2d_y="-12.4" kX="-53.43" kY="-53.43" cX="3.06" cY="3.06" pX="-7.8" pY="-8.1" z="5" dI="0" twE="0" dr="8">
+      <colorTransform a="0" r="0" g="0" b="0" aM="46" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-85.9" y="-59" cocos2d_x="-32.4" cocos2d_y="-66.3" kX="-53.48" kY="-53.48" cX="4.71" cY="4.71" pX="-8" pY="-8.3" z="5" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="31" dI="-1"/>
+    </b>
+    <b name="skill_ani_1000_8" sc="1" dl="0">
+     <f dr="3" dI="-1"/>
+     <f x="20.6" y="-26.8" cocos2d_x="20.6" cocos2d_y="-26.8" kX="-34.66" kY="-34.66" cX="2.42" cY="2.42" pX="0" pY="0" z="2" dI="0" twE="0" dr="3">
+      <colorTransform a="0" r="0" g="0" b="0" aM="88" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="74.2" y="-114.8" cocos2d_x="74.2" cocos2d_y="-114.8" kX="-34.85" kY="-34.85" cX="4.43" cY="4.43" pX="0" pY="0" z="7" dI="0" twE="0" dr="3">
+      <colorTransform a="0" r="0" g="0" b="0" aM="88" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="81.3" y="-126.4" cocos2d_x="81.3" cocos2d_y="-126.4" kX="-34.85" kY="-34.85" cX="4.64" cY="4.64" pX="0" pY="0" z="6" dI="0" twE="0" dr="3">
+      <colorTransform a="0" r="0" g="0" b="0" aM="35" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="85.6" y="-134.4" cocos2d_x="85.6" cocos2d_y="-134.4" kX="-34.97" kY="-34.97" cX="4.79" cY="4.79" pX="0" pY="0" z="6" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="33" dI="-1"/>
+    </b>
+    <b name="skill_ani_1000_7" sc="1" dl="0">
+     <f dr="3" dI="-1"/>
+     <f x="-7.1" y="4.3" cocos2d_x="28.5" cocos2d_y="2.9" kX="-42.19" kY="-42.19" cX="3.75" cY="3.75" pX="-7.3" pY="-6.1" z="3" dI="0" twE="0" dr="3">
+      <colorTransform a="0" r="0" g="0" b="0" aM="88" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-38.4" y="-109.2" cocos2d_x="16.1" cocos2d_y="-111.3" kX="-42.13" kY="-42.13" cX="5.73" cY="5.73" pX="-7.3" pY="-6.1" z="8" dI="0" twE="0" dr="3">
+      <colorTransform a="0" r="0" g="0" b="0" aM="88" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-44.1" y="-126" cocos2d_x="11.8" cocos2d_y="-128.2" kX="-42.13" kY="-42.13" cX="5.88" cY="5.88" pX="-7.3" pY="-6" z="7" dI="0" twE="0" dr="3">
+      <colorTransform a="0" r="0" g="0" b="0" aM="35" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-47.4" y="-136.7" cocos2d_x="9.2" cocos2d_y="-138.6" kX="-42.19" kY="-42.19" cX="6" cY="6" pX="-7.1" pY="-6.1" z="7" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="33" dI="-1"/>
+    </b>
+    <b name="skill_ani_1000_6" sc="1" dl="0">
+     <f dr="3" dI="-1"/>
+     <f x="22.5" y="-10.6" cocos2d_x="22.5" cocos2d_y="-10.6" kX="15.06" kY="15.06" cX="2.2" cY="2.2" pX="0" pY="0" z="4" dI="0" twE="0" dr="3">
+      <colorTransform a="0" r="0" g="0" b="0" aM="88" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="15.8" y="-42.9" cocos2d_x="15.8" cocos2d_y="-42.9" kX="15.03" kY="15.03" cX="4.14" cY="4.14" pX="0" pY="0" z="9" dI="0" twE="0" dr="3">
+      <colorTransform a="0" r="0" g="0" b="0" aM="88" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="13.3" y="-47.3" cocos2d_x="13.3" cocos2d_y="-47.3" kX="15.02" kY="15.02" cX="4.35" cY="4.35" pX="0" pY="0" z="8" dI="0" twE="0" dr="3">
+      <colorTransform a="0" r="0" g="0" b="0" aM="35" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="11.5" y="-49.7" cocos2d_x="11.5" cocos2d_y="-49.7" kX="15.06" kY="15.06" cX="4.5" cY="4.5" pX="0" pY="0" z="8" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="33" dI="-1"/>
+    </b>
+    <b name="skill_ani_1000_5" sc="1" dl="0">
+     <f dr="3" dI="-1"/>
+     <f x="39.4" y="28.8" cocos2d_x="39.4" cocos2d_y="28.8" kX="-17.22" kY="-17.22" cX="2.64" cY="2.64" pX="0" pY="0" z="5" dI="0" twE="0" dr="3">
+      <colorTransform a="0" r="0" g="0" b="0" aM="88" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="96" y="-12.8" cocos2d_x="96" cocos2d_y="-12.8" kX="-17.07" kY="-17.07" cX="4.54" cY="4.54" pX="0" pY="0" z="10" dI="0" twE="0" dr="3">
+      <colorTransform a="0" r="0" g="0" b="0" aM="88" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="102.8" y="-19.6" cocos2d_x="102.8" cocos2d_y="-19.6" kX="-17.06" kY="-17.06" cX="4.72" cY="4.72" pX="0" pY="0" z="9" dI="0" twE="0" dr="3">
+      <colorTransform a="0" r="0" g="0" b="0" aM="35" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="107" y="-24.5" cocos2d_x="107" cocos2d_y="-24.5" kX="-17.22" kY="-17.22" cX="4.86" cY="4.86" pX="0" pY="0" z="9" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="33" dI="-1"/>
+    </b>
+    <b name="skill_ani_1000_4" sc="1" dl="0">
+     <f dr="3" dI="-1"/>
+     <f x="-34.1" y="10.7" cocos2d_x="-6.8" cocos2d_y="7.1" kX="-53.48" kY="-53.48" cX="2.42" cY="2.42" pX="-7.9" pY="-8.1" z="6" dI="0" twE="0" dr="3">
+      <colorTransform a="0" r="0" g="0" b="0" aM="88" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-75.8" y="-45.4" cocos2d_x="-26.9" cocos2d_y="-52" kX="-53.43" kY="-53.43" cX="4.36" cY="4.36" pX="-7.8" pY="-8.1" z="11" dI="0" twE="0" dr="3">
+      <colorTransform a="0" r="0" g="0" b="0" aM="88" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-81.9" y="-53.5" cocos2d_x="-30.7" cocos2d_y="-60.4" kX="-53.42" kY="-53.42" cX="4.56" cY="4.56" pX="-7.9" pY="-8.1" z="10" dI="0" twE="0" dr="3">
+      <colorTransform a="0" r="0" g="0" b="0" aM="35" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-85.9" y="-59" cocos2d_x="-32.4" cocos2d_y="-66.3" kX="-53.48" kY="-53.48" cX="4.71" cY="4.71" pX="-8" pY="-8.3" z="10" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="33" dI="-1"/>
+    </b>
+    <b name="skill_ani_1000_3" sc="1" dl="0">
+     <f x="4.4" y="-10.1" cocos2d_x="-18.1" cocos2d_y="-30.5" kX="0" kY="0" cX="1" cY="1" pX="22.5" pY="20.4" z="1" dI="0" dr="1"/>
+     <f x="2.2" y="-19.1" cocos2d_x="-25.8" cocos2d_y="-50" kX="0" kY="0" cX="1" cY="1" pX="28" pY="30.9" z="2" dI="1" dr="2"/>
+     <f x="-2.2" y="-25.5" cocos2d_x="-58.5" cocos2d_y="-72.4" kX="0" kY="0" cX="1" cY="1" pX="56.3" pY="46.9" z="7" dI="2" dr="2"/>
+     <f x="4.4" y="-44.7" cocos2d_x="-85.9" cocos2d_y="-115.9" kX="0" kY="0" cX="1" cY="1" pX="90.3" pY="71.2" z="7" dI="3" dr="1"/>
+     <f dr="40" dI="-1"/>
+    </b>
+    <b name="skill_ani_1000_2" sc="1" dl="0">
+     <f x="-2.7" y="-12.7" cocos2d_x="-61.4" cocos2d_y="-51.9" kX="0" kY="0" cX="1" cY="1" pX="58.7" pY="39.2" z="3" dI="0" dr="2"/>
+     <f x="0.3" y="-18.7" cocos2d_x="-71.4" cocos2d_y="-66.6" kX="0" kY="0" cX="1.22" cY="1.22" pX="58.7" pY="39.2" z="3" dI="0" dr="1"/>
+     <f dr="43" dI="-1"/>
+    </b>
+    <b name="event" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="0.03" cY="0.03" pX="0" pY="0" z="1" dI="0" evt="damage" dr="46">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="skill_ani_1000" width="512" height="512">
+  <SubTexture name="skill_ani_1000_15" width="118" height="80" cocos2d_pX="0" cocos2d_pY="0" x="230" y="142"/>
+  <SubTexture name="skill_ani_1000_8" width="228" height="190" cocos2d_pX="20" cocos2d_pY="20" x="0" y="0"/>
+  <SubTexture name="skill_ani_1000_7" width="164" height="140" cocos2d_pX="20" cocos2d_pY="20" x="230" y="0"/>
+  <SubTexture name="skill_ani_1000_5" width="104" height="108" cocos2d_pX="20" cocos2d_pY="20" x="396" y="0"/>
+  <SubTexture name="skill_ani_1000_4" width="92" height="88" cocos2d_pX="20" cocos2d_pY="20" x="396" y="110"/>
+  <SubTexture name="skill_ani_1000_6" width="44" height="44" cocos2d_pX="25.6" cocos2d_pY="34.6" x="350" y="142"/>
+  <SubTexture name="skill_ani_1000_3" width="82" height="38" cocos2d_pX="0" cocos2d_pY="0" x="76" y="192"/>
+  <SubTexture name="skill_ani_1000_17" width="34" height="18" cocos2d_pX="0" cocos2d_pY="0" x="350" y="188"/>
+  <SubTexture name="skill_ani_1000_9" width="74" height="74" cocos2d_pX="36.9" cocos2d_pY="36.8" x="0" y="192"/>
+ </TextureAtlas>
+</skeleton>

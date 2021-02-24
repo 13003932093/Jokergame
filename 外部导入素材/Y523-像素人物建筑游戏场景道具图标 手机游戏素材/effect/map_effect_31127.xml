@@ -1,0 +1,28 @@
+<skeleton name="map_effect_31127" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="map_effect_31127">
+      <b name="map_effect_31127_1" x="1.3" y="0.25" kX="0" kY="0" cX="0.69" cY="0.69" pX="0" pY="0" z="0">
+        <d name="map_effect_31127_3" pX="29.05" pY="12.45"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="map_effect_31127">
+      <mov name="effect" dr="27" to="6" drTW="27" lp="0" twE="NaN">
+        <b name="map_effect_31127_1" sc="1" dl="0">
+          <f x="1.3" y="0.25" cocos2d_x="1.3" cocos2d_y="0.25" kX="0" kY="0" cX="0.69" cY="0.69" pX="0" pY="0" z="0" dI="0" twE="0" dr="6">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="1.3" y="0.25" cocos2d_x="1.3" cocos2d_y="0.25" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="0" twE="0" dr="19"/>
+          <f x="1.3" y="0.25" cocos2d_x="1.3" cocos2d_y="0.25" kX="0" kY="0" cX="2.85" cY="2.85" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="12" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="1" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="map_effect_31127" width="64" height="32">
+    <SubTexture name="map_effect_31127_3" width="59" height="25" cocos2d_pX="29.05" cocos2d_pY="12.45" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

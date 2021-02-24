@@ -1,0 +1,28 @@
+<skeleton name="born_ani_03" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="born_ani_03">
+   <b name="born_ani_03_1" x="0.25" y="0.3" kX="0" kY="0" cX="0.48" cY="0.48" pX="72.15" pY="71.35" z="0">
+    <d name="born_ani_03_2" pX="0" pY="0"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="born_ani_03">
+   <mov name="effect" dr="26" to="0" drTW="26" lp="0" twE="NaN">
+    <b name="born_ani_03_1" sc="1" dl="0">
+     <f x="0.25" y="0.3" cocos2d_x="-34.35" cocos2d_y="-33.9" kX="0" kY="0" cX="0.48" cY="0.48" pX="72.15" pY="71.35" z="0" dI="0" twE="0" dr="10">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="0.25" y="0.3" cocos2d_x="45.2" cocos2d_y="-18.15" kX="113.02" kY="113.02" cX="0.48" cY="0.48" pX="72.1" pY="71.2" z="0" dI="0" twE="0" dr="6"/>
+     <f x="0.2" y="0.25" cocos2d_x="27.5" cocos2d_y="40.55" kX="-168.76" kY="-168.76" cX="0.48" cY="0.48" pX="72.25" pY="71.35" z="0" dI="0" twE="0" dr="9"/>
+     <f x="0.2" y="0.25" cocos2d_x="-37.35" cocos2d_y="31.15" kX="-84.07" kY="-84.07" cX="0.48" cY="0.48" pX="72.25" pY="71.25" z="0" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="born_ani_03" width="256" height="256">
+  <SubTexture name="born_ani_03_2" width="145" height="143" cocos2d_pX="0" cocos2d_pY="0" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

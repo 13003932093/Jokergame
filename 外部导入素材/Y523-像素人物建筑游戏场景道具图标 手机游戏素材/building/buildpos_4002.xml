@@ -1,0 +1,26 @@
+<skeleton name="buildpos_4002" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="buildpos_4002">
+   <b name="buildpos_4002_6" x="0" y="-57.05" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="0">
+    <d name="buildpos_4002_rs1_2" pX="185" pY="52.5"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="buildpos_4002">
+   <mov name="idle" dr="19" to="0" drTW="19" lp="1" twE="NaN">
+    <b name="buildpos_4002_6" sc="1" dl="0">
+     <f x="0" y="-57.05" cocos2d_x="0" cocos2d_y="-57" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="0" dI="0" dr="19"/>
+    </b>
+   </mov>
+   <mov name="idle2" dr="194" to="0" drTW="194" lp="0" twE="NaN">
+    <b name="buildpos_4002_6" sc="1" dl="0">
+     <f x="0" y="-57.05" cocos2d_x="0" cocos2d_y="-57" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="0" dI="0" dr="194"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="buildpos_4002" width="512" height="128">
+  <SubTexture name="buildpos_4002_rs1_2" width="370" height="105" cocos2d_pX="185" cocos2d_pY="52.5" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

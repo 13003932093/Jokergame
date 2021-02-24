@@ -1,0 +1,34 @@
+<skeleton name="hero_refine_2" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="HeroRefine_UI_light">
+      <b name="图层 2" x="-0.6" y="0.1" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0">
+        <d name="元件 20" pX="39.2" pY="39.8"/>
+      </b>
+      <b name="图层 6" x="0" y="0" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="1">
+        <d name="元件 25" pX="26" pY="26.25"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="HeroRefine_UI_light">
+      <mov name="select" dr="33" to="6" drTW="33" lp="0" twE="NaN">
+        <b name="图层 2" sc="1" dl="0">
+          <f x="-0.6" y="0.1" cocos2d_x="-0.6" cocos2d_y="0.1" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="0" twE="0" dr="16">
+            <colorTransform a="0" r="255" g="204" b="51" aM="100" rM="0" gM="0" bM="0"/>
+          </f>
+          <f x="-0.6" y="0.1" cocos2d_x="-0.6" cocos2d_y="0.1" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="0" twE="0" dr="16">
+            <colorTransform a="0" r="0" g="0" b="0" aM="26" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-0.6" y="0.1" cocos2d_x="-0.6" cocos2d_y="0.1" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+        <b name="图层 6" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="1" dI="0" dr="33"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="hero_refine_2" width="128" height="256">
+    <SubTexture name="元件 25" width="52" height="53" cocos2d_pX="26" cocos2d_pY="26.25" x="0" y="84"/>
+    <SubTexture name="元件 20" width="82" height="82" cocos2d_pX="39.2" cocos2d_pY="39.8" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

@@ -1,0 +1,23 @@
+<skeleton name="buff_ani_31141" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="buff_ani_31141">
+   <b name="buff_ani_31141_1" x="0" y="-13" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="buff_ani_31141_1" pX="17" pY="14"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="buff_ani_31141">
+   <mov name="buff" dr="21" to="0" drTW="21" lp="1" twE="NaN">
+    <b name="buff_ani_31141_1" sc="1" dl="0">
+     <f x="0" y="-13" cocos2d_x="0" cocos2d_y="-13" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="10"/>
+     <f x="0" y="-20" cocos2d_x="0" cocos2d_y="-20" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="10"/>
+     <f x="0" y="-13" cocos2d_x="0" cocos2d_y="-13" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="buff_ani_31141" width="64" height="32">
+  <SubTexture name="buff_ani_31141_1" width="34" height="28" cocos2d_pX="17" cocos2d_pY="14" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

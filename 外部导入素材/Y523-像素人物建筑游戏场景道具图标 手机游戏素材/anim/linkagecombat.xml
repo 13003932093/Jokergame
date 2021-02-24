@@ -1,0 +1,103 @@
+<skeleton name="linkagecombat" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="linkagecombat_1">
+   <b name="linkagecombat_04" x="4.65" y="-18.7" kX="0" kY="0" cX="1.07" cY="1.07" pX="0" pY="0" z="0">
+    <d name="linkagecombat_25" pX="44.45" pY="34.65"/>
+    <d name="linkagecombat_27" pX="47.9" pY="35.5"/>
+    <d name="linkagecombat_29" pX="48.9" pY="36.3"/>
+    <d name="linkagecombat_31" pX="46.5" pY="35.3"/>
+    <d name="linkagecombat_33" pX="46.9" pY="30.75"/>
+    <d name="linkagecombat_35" pX="48.4" pY="30.7"/>
+    <d name="linkagecombat_23" pX="41.95" pY="34.05"/>
+   </b>
+   <b name="linkagecombat_03" x="-36.4" y="-44.1" kX="-28.67" kY="-28.67" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="linkagecombat_38" pX="10.5" pY="17.5"/>
+    <d name="linkagecombat_39" pX="6.55" pY="10.65"/>
+   </b>
+   <b name="linkagecombat_02" x="-33.45" y="-32.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="2">
+    <d name="linkagecombat_24" pX="22.85" pY="15.4"/>
+    <d name="linkagecombat_28" pX="15.05" pY="16.25"/>
+    <d name="linkagecombat_30" pX="14.05" pY="17.9"/>
+    <d name="linkagecombat_32" pX="14.25" pY="15.05"/>
+    <d name="linkagecombat_34" pX="23.45" pY="21.6"/>
+    <d name="linkagecombat_36" pX="17.3" pY="14.55"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="linkagecombat_1">
+   <mov name="effect" dr="42" to="0" drTW="42" lp="1" twE="NaN">
+    <b name="linkagecombat_04" sc="1" dl="0">
+     <f x="4.65" y="-18.7" cocos2d_x="4.65" cocos2d_y="-18.7" kX="0" kY="0" cX="1.07" cY="1.07" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="7.9" y="-20.25" cocos2d_x="7.9" cocos2d_y="-20.2" kX="0" kY="0" cX="1.07" cY="1.07" pX="0" pY="-0.05" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="8.15" y="-20.75" cocos2d_x="8.15" cocos2d_y="-20.7" kX="0" kY="0" cX="1.07" cY="1.07" pX="0" pY="-0.05" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="4" y="-19.85" cocos2d_x="4" cocos2d_y="-19.85" kX="0" kY="0" cX="1.07" cY="1.07" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="7.35" y="-15.1" cocos2d_x="7.35" cocos2d_y="-15.1" kX="0" kY="0" cX="1.07" cY="1.07" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="10.15" y="-15.95" cocos2d_x="10.15" cocos2d_y="-15.95" kX="0" kY="0" cX="1.07" cY="1.07" pX="0" pY="0" z="0" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="2.95" y="-17.05" cocos2d_x="2.95" cocos2d_y="-17.05" kX="0" kY="0" cX="1.07" cY="1.07" pX="0" pY="0" z="0" dI="6" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="4.65" y="-18.7" cocos2d_x="4.65" cocos2d_y="-18.7" kX="0" kY="0" cX="1.07" cY="1.07" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="7.9" y="-20.25" cocos2d_x="7.9" cocos2d_y="-20.2" kX="0" kY="0" cX="1.07" cY="1.07" pX="0" pY="-0.05" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="8.15" y="-20.75" cocos2d_x="8.15" cocos2d_y="-20.7" kX="0" kY="0" cX="1.07" cY="1.07" pX="0" pY="-0.05" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="4" y="-19.85" cocos2d_x="4" cocos2d_y="-19.85" kX="0" kY="0" cX="1.07" cY="1.07" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="7.35" y="-15.1" cocos2d_x="7.35" cocos2d_y="-15.1" kX="0" kY="0" cX="1.07" cY="1.07" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="10.15" y="-15.95" cocos2d_x="10.15" cocos2d_y="-15.95" kX="0" kY="0" cX="1.07" cY="1.07" pX="0" pY="0" z="0" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="2.95" y="-17.05" cocos2d_x="2.95" cocos2d_y="-17.05" kX="0" kY="0" cX="1.07" cY="1.07" pX="0" pY="0" z="0" dI="6" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="4.65" y="-18.7" cocos2d_x="4.65" cocos2d_y="-18.7" kX="0" kY="0" cX="1.07" cY="1.07" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="7.9" y="-20.25" cocos2d_x="7.9" cocos2d_y="-20.2" kX="0" kY="0" cX="1.07" cY="1.07" pX="0" pY="-0.05" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="8.15" y="-20.75" cocos2d_x="8.15" cocos2d_y="-20.7" kX="0" kY="0" cX="1.07" cY="1.07" pX="0" pY="-0.05" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="4" y="-19.85" cocos2d_x="4" cocos2d_y="-19.85" kX="0" kY="0" cX="1.07" cY="1.07" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="7.35" y="-15.1" cocos2d_x="7.35" cocos2d_y="-15.1" kX="0" kY="0" cX="1.07" cY="1.07" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="10.15" y="-15.95" cocos2d_x="10.15" cocos2d_y="-15.95" kX="0" kY="0" cX="1.07" cY="1.07" pX="0" pY="0" z="0" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="2.95" y="-17.05" cocos2d_x="2.95" cocos2d_y="-17.05" kX="0" kY="0" cX="1.07" cY="1.07" pX="0" pY="0" z="0" dI="6" twE="NaN" tweenFrame="0" dr="2"/>
+    </b>
+    <b name="linkagecombat_03" sc="1" dl="0">
+     <f dr="4" dI="-1"/>
+     <f x="-36.4" y="-44.1" cocos2d_x="-36.4" cocos2d_y="-44.1" kX="-28.67" kY="-28.67" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-3.4" y="-29.85" cocos2d_x="-3.35" cocos2d_y="-29.8" kX="-10.77" kY="-10.77" cX="1" cY="1" pX="0" pY="-0.05" z="1" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f dr="14" dI="-1"/>
+     <f x="33.1" y="-21.05" cocos2d_x="33.1" cocos2d_y="-21.05" kX="51.89" kY="-128.11" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-2.2" y="-15.1" cocos2d_x="-2.25" cocos2d_y="-15.05" kX="0.3" kY="-179.7" cX="1" cY="1" pX="-0.05" pY="-0.05" z="1" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f dr="16" dI="-1"/>
+    </b>
+    <b name="linkagecombat_02" sc="1" dl="0">
+     <f dr="4" dI="-1"/>
+     <f x="-33.45" y="-32.8" cocos2d_x="-33.45" cocos2d_y="-32.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="2" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-18.7" y="-33.75" cocos2d_x="-18.7" cocos2d_y="-33.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="2" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f dr="2" dI="-1"/>
+     <f x="28.85" y="-10.85" cocos2d_x="28.85" cocos2d_y="-10.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="1" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="14.45" y="-18.7" cocos2d_x="14.45" cocos2d_y="-18.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+     <f dr="2" dI="-1"/>
+     <f x="-33.4" y="-1.05" cocos2d_x="-33.4" cocos2d_y="-1.05" kX="-16.22" kY="-16.22" cX="1" cY="1" pX="0" pY="0" z="1" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-23" y="-12.25" cocos2d_x="-23" cocos2d_y="-12.25" kX="-16.22" kY="-16.22" cX="1" cY="1" pX="0" pY="0" z="1" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+     <f dr="2" dI="-1"/>
+     <f x="28.85" y="-10.85" cocos2d_x="28.85" cocos2d_y="-10.8" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="2" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="14.45" y="-18.7" cocos2d_x="14.45" cocos2d_y="-18.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+     <f dr="2" dI="-1"/>
+     <f x="-33.45" y="-32.8" cocos2d_x="-33.45" cocos2d_y="-32.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="1" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-18.7" y="-33.75" cocos2d_x="-18.7" cocos2d_y="-33.7" kX="0" kY="0" cX="1" cY="1" pX="0" pY="-0.05" z="1" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f dr="2" dI="-1"/>
+     <f x="-33.4" y="-1.05" cocos2d_x="-33.4" cocos2d_y="-1.05" kX="-16.22" kY="-16.22" cX="1" cY="1" pX="0" pY="0" z="1" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-23" y="-12.25" cocos2d_x="-23" cocos2d_y="-12.25" kX="-16.22" kY="-16.22" cX="1" cY="1" pX="0" pY="0" z="1" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+     <f dr="4" dI="-1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="linkagecombat" width="256" height="512">
+  <SubTexture name="linkagecombat_36" width="33" height="23" cocos2d_pX="17.3" cocos2d_pY="14.55" x="219" y="150"/>
+  <SubTexture name="linkagecombat_34" width="41" height="42" cocos2d_pX="23.45" cocos2d_pY="21.6" x="198" y="0"/>
+  <SubTexture name="linkagecombat_32" width="33" height="32" cocos2d_pX="14.25" cocos2d_pY="15.05" x="195" y="113"/>
+  <SubTexture name="linkagecombat_30" width="33" height="35" cocos2d_pX="14.05" cocos2d_pY="17.9" x="198" y="44"/>
+  <SubTexture name="linkagecombat_28" width="30" height="27" cocos2d_pX="15.05" cocos2d_pY="16.25" x="187" y="147"/>
+  <SubTexture name="linkagecombat_24" width="36" height="30" cocos2d_pX="22.85" cocos2d_pY="15.4" x="195" y="81"/>
+  <SubTexture name="linkagecombat_39" width="25" height="21" cocos2d_pX="6.55" cocos2d_pY="10.65" x="219" y="175"/>
+  <SubTexture name="linkagecombat_38" width="22" height="35" cocos2d_pX="10.5" cocos2d_pY="17.5" x="230" y="113"/>
+  <SubTexture name="linkagecombat_23" width="84" height="69" cocos2d_pX="41.95" cocos2d_pY="34.05" x="91" y="210"/>
+  <SubTexture name="linkagecombat_35" width="97" height="62" cocos2d_pX="48.4" cocos2d_pY="30.7" x="0" y="75"/>
+  <SubTexture name="linkagecombat_33" width="94" height="62" cocos2d_pX="46.9" cocos2d_pY="30.75" x="91" y="146"/>
+  <SubTexture name="linkagecombat_31" width="93" height="71" cocos2d_pX="46.5" cocos2d_pY="35.3" x="100" y="73"/>
+  <SubTexture name="linkagecombat_29" width="98" height="73" cocos2d_pX="48.9" cocos2d_pY="36.3" x="0" y="0"/>
+  <SubTexture name="linkagecombat_27" width="96" height="71" cocos2d_pX="47.9" cocos2d_pY="35.5" x="100" y="0"/>
+  <SubTexture name="linkagecombat_25" width="89" height="70" cocos2d_pX="44.45" cocos2d_pY="34.65" x="0" y="139"/>
+ </TextureAtlas>
+</skeleton>

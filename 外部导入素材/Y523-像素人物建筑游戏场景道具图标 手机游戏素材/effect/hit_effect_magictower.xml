@@ -1,0 +1,43 @@
+<skeleton name="hit_effect_magictower" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="hit_effect_magictower">
+      <b name="hit_effect_magictower_3" x="6.35" y="4.5" kX="0" kY="0" cX="0.84" cY="0.84" pX="0" pY="0" z="0">
+        <d name="hit_effect_magictower_4" pX="168.95" pY="45.05"/>
+      </b>
+      <b name="hit_effect_magictower_2" x="25.1" y="-31.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="hit_effect_magictower_3" pX="125" pY="57"/>
+        <d name="hit_effect_magictower_1" pX="124.5" pY="52"/>
+      </b>
+      <b name="hit_effect_magictower_1" x="-0.2" y="-0.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="hit_effect_magictower_5" pX="66.45" pY="9.05"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="hit_effect_magictower">
+      <mov name="effect" dr="4" to="0" drTW="4" lp="0" twE="NaN">
+        <b name="hit_effect_magictower_3" sc="1" dl="0">
+          <f x="6.35" y="4.5" cocos2d_x="6.35" cocos2d_y="4.5" kX="0" kY="0" cX="0.84" cY="0.84" pX="0" pY="0" z="0" dI="0" twE="0" dr="3"/>
+          <f x="6.35" y="4.5" cocos2d_x="6.35" cocos2d_y="4.5" kX="0" kY="0" cX="1.38" cY="1.38" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="26" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="hit_effect_magictower_2" sc="1" dl="0">
+          <f x="25.1" y="-31.35" cocos2d_x="25.1" cocos2d_y="-31.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+          <f x="29.1" y="-26.15" cocos2d_x="29.1" cocos2d_y="-26.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" twE="NaN" tweenFrame="0" dr="1"/>
+          <f x="25.1" y="-31.35" cocos2d_x="25.1" cocos2d_y="-31.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="1"/>
+          <f x="29.1" y="-26.15" cocos2d_x="29.1" cocos2d_y="-26.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" twE="NaN" tweenFrame="0" dr="1"/>
+        </b>
+        <b name="hit_effect_magictower_1" sc="1" dl="0">
+          <f x="-0.2" y="-0.65" cocos2d_x="-0.2" cocos2d_y="-0.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="4"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="hit_effect_magictower" width="512" height="256">
+    <SubTexture name="hit_effect_magictower_5" width="133" height="19" cocos2d_pX="66.45" cocos2d_pY="9.05" x="340" y="0"/>
+    <SubTexture name="hit_effect_magictower_1" width="249" height="104" cocos2d_pX="124.5" cocos2d_pY="52" x="252" y="93"/>
+    <SubTexture name="hit_effect_magictower_3" width="250" height="114" cocos2d_pX="125" cocos2d_pY="57" x="0" y="93"/>
+    <SubTexture name="hit_effect_magictower_4" width="338" height="91" cocos2d_pX="168.95" cocos2d_pY="45.05" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

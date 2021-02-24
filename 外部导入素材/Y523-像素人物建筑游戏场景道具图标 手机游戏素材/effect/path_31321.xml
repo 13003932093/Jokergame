@@ -1,0 +1,22 @@
+<skeleton name="path_31321" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="path_31321">
+   <b name="path_31321_1" x="0" y="0" kX="0" kY="0" cX="3.36" cY="3.36" pX="0" pY="0" z="0">
+    <d name="path_31321_1" pX="35.55" pY="12"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="path_31321">
+   <mov name="fly" dr="25" to="0" drTW="25" lp="0" twE="NaN">
+    <b name="path_31321_1" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="3.36" cY="3.36" pX="0" pY="0" z="0" dI="0" dr="25"/>
+    </b>
+   </mov>
+   <mov name="hit" dr="25" to="0" drTW="25" lp="0" twE="NaN"/>
+  </animation>
+ </animations>
+ <TextureAtlas name="path_31321" width="128" height="32">
+  <SubTexture name="path_31321_1" width="72" height="24" cocos2d_pX="35.55" cocos2d_pY="12" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

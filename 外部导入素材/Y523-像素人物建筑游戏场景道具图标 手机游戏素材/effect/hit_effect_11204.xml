@@ -1,0 +1,28 @@
+<skeleton name="hit_effect_11204" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="hit_effect_11204">
+   <b name="hit_effect_11204_1" x="6" y="-2" kX="45" kY="45" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="hit_effect_11204_1" pX="72.5" pY="72.5"/>
+    <d name="hit_effect_11204_2" pX="72.5" pY="72.5"/>
+    <d name="hit_effect_11204_3" pX="72.5" pY="72.5"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="hit_effect_11204">
+   <mov name="effect" dr="7" to="0" drTW="7" lp="0" twE="NaN">
+    <b name="hit_effect_11204_1" sc="1" dl="0">
+     <f x="6" y="-2" cocos2d_x="6" cocos2d_y="-2" kX="45" kY="45" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="6" y="-2" cocos2d_x="6" cocos2d_y="-2" kX="45" kY="45" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="6" y="-2" cocos2d_x="6" cocos2d_y="-2" kX="45" kY="45" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+     <f dr="1" dI="-1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="hit_effect_11204" width="256" height="512">
+  <SubTexture name="hit_effect_11204_3" width="145" height="145" cocos2d_pX="72.5" cocos2d_pY="72.5" x="0" y="294"/>
+  <SubTexture name="hit_effect_11204_2" width="145" height="145" cocos2d_pX="72.5" cocos2d_pY="72.5" x="0" y="147"/>
+  <SubTexture name="hit_effect_11204_1" width="145" height="145" cocos2d_pX="72.5" cocos2d_pY="72.5" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

@@ -1,0 +1,63 @@
+<skeleton name="userlevelup_light" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="userlevelup_light">
+      <b name="userlevelup_light_1" x="0" y="0" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="0">
+        <d name="userlevelup_light__2" pX="75.75" pY="17.25"/>
+        <d name="userlevelup_light__3" pX="75.75" pY="17.25"/>
+        <d name="userlevelup_light__4" pX="75.75" pY="17.25"/>
+        <d name="userlevelup_light__5" pX="75.75" pY="17.25"/>
+        <d name="userlevelup_light__6" pX="75.75" pY="17.25"/>
+        <d name="userlevelup_light__7" pX="75.75" pY="17.25"/>
+        <d name="userlevelup_light__8" pX="75.75" pY="17.25"/>
+        <d name="userlevelup_light__9" pX="75.75" pY="17.25"/>
+        <d name="userlevelup_light__10" pX="75.75" pY="17.25"/>
+        <d name="userlevelup_light__11" pX="75.75" pY="17.25"/>
+        <d name="userlevelup_light__12" pX="75.75" pY="17.25"/>
+        <d name="userlevelup_light__13" pX="75.75" pY="17.25"/>
+        <d name="userlevelup_light__14" pX="75.75" pY="17.25"/>
+        <d name="userlevelup_light__15" pX="75.75" pY="17.25"/>
+        <d name="userlevelup_light__16" pX="75.75" pY="17.25"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="userlevelup_light">
+      <mov name="effect" dr="45" to="0" drTW="45" lp="1" twE="NaN">
+        <b name="userlevelup_light_1" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="0" dI="5" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="0" dI="6" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="0" dI="7" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="0" dI="8" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="0" dI="9" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="0" dI="10" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="0" dI="11" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="0" dI="12" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="0" dI="13" twE="NaN" tweenFrame="0" dr="3"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="0" dI="14" twE="NaN" tweenFrame="0" dr="3"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="userlevelup_light" width="512" height="256">
+    <SubTexture name="userlevelup_light__16" width="152" height="35" cocos2d_pX="75.75" cocos2d_pY="17.25" x="308" y="74"/>
+    <SubTexture name="userlevelup_light__15" width="152" height="35" cocos2d_pX="75.75" cocos2d_pY="17.25" x="308" y="0"/>
+    <SubTexture name="userlevelup_light__14" width="152" height="35" cocos2d_pX="75.75" cocos2d_pY="17.25" x="154" y="148"/>
+    <SubTexture name="userlevelup_light__13" width="152" height="35" cocos2d_pX="75.75" cocos2d_pY="17.25" x="154" y="37"/>
+    <SubTexture name="userlevelup_light__12" width="152" height="35" cocos2d_pX="75.75" cocos2d_pY="17.25" x="154" y="111"/>
+    <SubTexture name="userlevelup_light__11" width="152" height="35" cocos2d_pX="75.75" cocos2d_pY="17.25" x="0" y="74"/>
+    <SubTexture name="userlevelup_light__10" width="152" height="35" cocos2d_pX="75.75" cocos2d_pY="17.25" x="308" y="148"/>
+    <SubTexture name="userlevelup_light__9" width="152" height="35" cocos2d_pX="75.75" cocos2d_pY="17.25" x="0" y="0"/>
+    <SubTexture name="userlevelup_light__8" width="152" height="35" cocos2d_pX="75.75" cocos2d_pY="17.25" x="154" y="0"/>
+    <SubTexture name="userlevelup_light__7" width="152" height="35" cocos2d_pX="75.75" cocos2d_pY="17.25" x="0" y="37"/>
+    <SubTexture name="userlevelup_light__6" width="152" height="35" cocos2d_pX="75.75" cocos2d_pY="17.25" x="308" y="37"/>
+    <SubTexture name="userlevelup_light__5" width="152" height="35" cocos2d_pX="75.75" cocos2d_pY="17.25" x="154" y="74"/>
+    <SubTexture name="userlevelup_light__4" width="152" height="35" cocos2d_pX="75.75" cocos2d_pY="17.25" x="0" y="111"/>
+    <SubTexture name="userlevelup_light__3" width="152" height="35" cocos2d_pX="75.75" cocos2d_pY="17.25" x="308" y="111"/>
+    <SubTexture name="userlevelup_light__2" width="152" height="35" cocos2d_pX="75.75" cocos2d_pY="17.25" x="0" y="148"/>
+  </TextureAtlas>
+</skeleton>

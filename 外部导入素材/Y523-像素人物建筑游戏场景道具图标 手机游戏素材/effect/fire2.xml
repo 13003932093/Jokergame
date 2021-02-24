@@ -1,0 +1,82 @@
+<skeleton name="fire2" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="fire2">
+   <b name="fire2_2" x="0.65" y="-7.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="fire2_25" pX="16.55" pY="26"/>
+    <d name="fire2_26" pX="21" pY="27.65"/>
+    <d name="fire2_4" pX="19.75" pY="29.05"/>
+    <d name="fire2_5" pX="20.15" pY="30.45"/>
+    <d name="fire2_6" pX="20.75" pY="32.35"/>
+    <d name="fire2_7" pX="21.4" pY="34.6"/>
+    <d name="fire2_8" pX="21.6" pY="34.3"/>
+    <d name="fire2_9" pX="21.8" pY="34.6"/>
+    <d name="fire2_10" pX="21.8" pY="35.7"/>
+    <d name="fire2_11" pX="21.6" pY="35.4"/>
+    <d name="fire2_12" pX="21.2" pY="39.55"/>
+    <d name="fire2_13" pX="19.6" pY="39.55"/>
+   </b>
+   <b name="fire2_1" x="0.7" y="-15.4" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="fire2_8" pX="21.6" pY="34.3"/>
+    <d name="fire2_9" pX="21.8" pY="34.6"/>
+    <d name="fire2_10" pX="21.8" pY="35.7"/>
+    <d name="fire2_11" pX="21.6" pY="35.4"/>
+    <d name="fire2_12" pX="21.2" pY="39.55"/>
+    <d name="fire2_13" pX="19.6" pY="39.55"/>
+    <d name="fire2_25" pX="16.55" pY="26"/>
+    <d name="fire2_26" pX="21" pY="27.65"/>
+    <d name="fire2_4" pX="19.75" pY="29.05"/>
+    <d name="fire2_5" pX="20.15" pY="30.45"/>
+    <d name="fire2_6" pX="20.75" pY="32.35"/>
+    <d name="fire2_7" pX="21.4" pY="34.6"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="fire2">
+   <mov name="effect" dr="24" to="0" drTW="24" lp="1" twE="NaN">
+    <b name="fire2_2" sc="1" dl="0">
+     <f x="0.65" y="-7.45" cocos2d_x="0.65" cocos2d_y="-7.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0.7" y="-9.95" cocos2d_x="0.7" cocos2d_y="-9.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="1.85" y="-11.35" cocos2d_x="1.85" cocos2d_y="-11.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="2.05" y="-13.65" cocos2d_x="2.05" cocos2d_y="-13.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="1.25" y="-15.6" cocos2d_x="1.25" cocos2d_y="-15.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="1.05" y="-17.4" cocos2d_x="1.05" cocos2d_y="-17.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0.5" y="-15.4" cocos2d_x="0.5" cocos2d_y="-15.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="6" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0.65" y="-15.45" cocos2d_x="0.65" cocos2d_y="-15.45" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="7" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0.5" y="-17" cocos2d_x="0.5" cocos2d_y="-17" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="8" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0.5" y="-16.9" cocos2d_x="0.5" cocos2d_y="-16.9" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="9" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0.1" y="-20.5" cocos2d_x="0.1" cocos2d_y="-20.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="10" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0.1" y="-21.95" cocos2d_x="0.1" cocos2d_y="-21.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="11" twE="NaN" tweenFrame="0" dr="2"/>
+    </b>
+    <b name="fire2_1" sc="1" dl="0">
+     <f x="0.7" y="-15.4" cocos2d_x="0.7" cocos2d_y="-15.4" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0.55" y="-15.45" cocos2d_x="0.55" cocos2d_y="-15.45" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0.7" y="-17" cocos2d_x="0.7" cocos2d_y="-17" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="1" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0.7" y="-16.9" cocos2d_x="0.7" cocos2d_y="-16.9" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="1" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="1.1" y="-20.5" cocos2d_x="1.1" cocos2d_y="-20.5" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="1" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="1.1" y="-21.95" cocos2d_x="1.1" cocos2d_y="-21.95" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="1" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0.55" y="-7.45" cocos2d_x="0.55" cocos2d_y="-7.45" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="1" dI="6" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0.5" y="-9.95" cocos2d_x="0.5" cocos2d_y="-9.95" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="1" dI="7" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-0.65" y="-11.35" cocos2d_x="-0.65" cocos2d_y="-11.35" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="1" dI="8" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-0.85" y="-13.65" cocos2d_x="-0.85" cocos2d_y="-13.65" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="1" dI="9" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-0.05" y="-15.6" cocos2d_x="-0.05" cocos2d_y="-15.6" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="1" dI="10" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0.15" y="-17.4" cocos2d_x="0.15" cocos2d_y="-17.4" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="1" dI="11" twE="NaN" tweenFrame="0" dr="2"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="fire2" width="256" height="256">
+  <SubTexture name="fire2_13" width="40" height="80" cocos2d_pX="19.6" cocos2d_pY="39.55" x="45" y="0"/>
+  <SubTexture name="fire2_12" width="43" height="80" cocos2d_pX="21.2" cocos2d_pY="39.55" x="0" y="0"/>
+  <SubTexture name="fire2_11" width="44" height="71" cocos2d_pX="21.6" cocos2d_pY="35.4" x="133" y="0"/>
+  <SubTexture name="fire2_10" width="44" height="72" cocos2d_pX="21.8" cocos2d_pY="35.7" x="87" y="0"/>
+  <SubTexture name="fire2_9" width="44" height="70" cocos2d_pX="21.8" cocos2d_pY="34.6" x="179" y="0"/>
+  <SubTexture name="fire2_8" width="44" height="69" cocos2d_pX="21.6" cocos2d_pY="34.3" x="179" y="72"/>
+  <SubTexture name="fire2_7" width="43" height="70" cocos2d_pX="21.4" cocos2d_pY="34.6" x="133" y="73"/>
+  <SubTexture name="fire2_6" width="42" height="65" cocos2d_pX="20.75" cocos2d_pY="32.35" x="87" y="74"/>
+  <SubTexture name="fire2_5" width="41" height="61" cocos2d_pX="20.15" cocos2d_pY="30.45" x="0" y="82"/>
+  <SubTexture name="fire2_4" width="40" height="59" cocos2d_pX="19.75" cocos2d_pY="29.05" x="43" y="82"/>
+  <SubTexture name="fire2_26" width="42" height="56" cocos2d_pX="21" cocos2d_pY="27.65" x="85" y="141"/>
+  <SubTexture name="fire2_25" width="34" height="53" cocos2d_pX="16.55" cocos2d_pY="26" x="43" y="143"/>
+ </TextureAtlas>
+</skeleton>

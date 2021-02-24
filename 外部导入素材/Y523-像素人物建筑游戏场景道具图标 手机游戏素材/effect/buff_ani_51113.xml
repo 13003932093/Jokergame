@@ -1,0 +1,51 @@
+<skeleton name="buff_ani_51113" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="buff_ani_51113">
+      <b name="buff_ani_51113_3" x="0" y="-19" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="buff_ani_51113_0" pX="46.85" pY="46.2"/>
+      </b>
+      <b name="buff_ani_51113_2" x="0" y="-19" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="buff_ani_51113_0" pX="46.85" pY="46.2"/>
+      </b>
+      <b name="buff_ani_51113_1" x="0" y="-19" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="buff_ani_51113_0" pX="46.85" pY="46.2"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="buff_ani_51113">
+      <mov name="buff" dr="19" to="0" drTW="19" lp="1" twE="NaN">
+        <b name="buff_ani_51113_3" sc="1" dl="0">
+          <f dr="1" dI="-1"/>
+          <f x="0" y="-19" cocos2d_x="0" cocos2d_y="-19" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="7">
+            <colorTransform a="0" r="0" g="0" b="0" aM="45" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="-19" cocos2d_x="0" cocos2d_y="-19" kX="0" kY="0" cX="1.45" cY="1.65" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="10" dI="-1"/>
+        </b>
+        <b name="buff_ani_51113_2" sc="1" dl="0">
+          <f dr="10" dI="-1"/>
+          <f x="0" y="-19" cocos2d_x="0" cocos2d_y="-19" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="7">
+            <colorTransform a="0" r="0" g="0" b="0" aM="45" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="-19" cocos2d_x="0" cocos2d_y="-19" kX="0" kY="0" cX="1.45" cY="1.65" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="1" dI="-1"/>
+        </b>
+        <b name="buff_ani_51113_1" sc="1" dl="0">
+          <f x="0" y="-19" cocos2d_x="0" cocos2d_y="-19" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="9"/>
+          <f x="0" y="-19" cocos2d_x="0" cocos2d_y="-19" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="50" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="-19" cocos2d_x="0" cocos2d_y="-19" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="buff_ani_51113" width="128" height="128">
+    <SubTexture name="buff_ani_51113_0" width="94" height="93" cocos2d_pX="46.85" cocos2d_pY="46.2" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

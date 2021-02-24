@@ -1,0 +1,88 @@
+<skeleton name="citizen_12004" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="citizen_12004">
+   <b name="citizen_12004_2" x="0.5" y="-15.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="citizen_12004_7" pX="14" pY="18.5"/>
+    <d name="citizen_12004_6" pX="14.5" pY="19"/>
+    <d name="citizen_12004_5" pX="14" pY="18.5"/>
+    <d name="citizen_12004_3" pX="12.5" pY="18.5"/>
+    <d name="citizen_12004_2" pX="12.5" pY="19"/>
+    <d name="citizen_12004_4" pX="12.5" pY="18.5"/>
+    <d name="citizen_12004_9" pX="12.5" pY="18.5"/>
+    <d name="citizen_12004_8" pX="13.5" pY="19"/>
+    <d name="citizen_12004_10" pX="12.5" pY="18.5"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="citizen_12004">
+   <mov name="front" dr="8" to="0" drTW="8" lp="1" twE="NaN">
+    <b name="citizen_12004_2" sc="1" dl="0">
+     <f x="0.5" y="-15.5" cocos2d_x="0.5" cocos2d_y="-15.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-16" cocos2d_x="0" cocos2d_y="-16" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-0.5" y="-15.5" cocos2d_x="-0.5" cocos2d_y="-15.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-16" cocos2d_x="0" cocos2d_y="-16" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+    </b>
+   </mov>
+   <mov name="move" dr="8" to="0" drTW="8" lp="1" twE="NaN">
+    <b name="citizen_12004_2" sc="1" dl="0">
+     <f x="0" y="-15.5" cocos2d_x="0" cocos2d_y="-15.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-16" cocos2d_x="0" cocos2d_y="-16" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-15.5" cocos2d_x="0" cocos2d_y="-15.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-16" cocos2d_x="0" cocos2d_y="-16" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+    </b>
+   </mov>
+   <mov name="goback" dr="8" to="0" drTW="8" lp="1" twE="NaN">
+    <b name="citizen_12004_2" sc="1" dl="0">
+     <f x="0" y="-15.5" cocos2d_x="0" cocos2d_y="-15.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="6" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-16" cocos2d_x="0" cocos2d_y="-16" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="7" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-15.5" cocos2d_x="0" cocos2d_y="-15.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="8" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-16" cocos2d_x="0" cocos2d_y="-16" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="7" twE="NaN" tweenFrame="0" dr="2"/>
+    </b>
+   </mov>
+   <mov name="left" dr="8" to="0" drTW="8" lp="1" twE="NaN">
+    <b name="citizen_12004_2" sc="1" dl="0">
+     <f x="0" y="-15.5" cocos2d_x="0" cocos2d_y="-15.5" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-16" cocos2d_x="0" cocos2d_y="-16" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-15.5" cocos2d_x="0" cocos2d_y="-15.5" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="0" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-16" cocos2d_x="0" cocos2d_y="-16" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+    </b>
+   </mov>
+   <mov name="idle5" dr="8" to="0" drTW="8" lp="1" twE="NaN">
+    <b name="citizen_12004_2" sc="1" dl="0">
+     <f x="0.5" y="-15.5" cocos2d_x="0.5" cocos2d_y="-15.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-16" cocos2d_x="0" cocos2d_y="-16" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="-0.5" y="-15.5" cocos2d_x="-0.5" cocos2d_y="-15.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-16" cocos2d_x="0" cocos2d_y="-16" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+    </b>
+   </mov>
+   <mov name="idle1" dr="8" to="0" drTW="8" lp="1" twE="NaN">
+    <b name="citizen_12004_2" sc="1" dl="0">
+     <f x="0" y="-15.5" cocos2d_x="0" cocos2d_y="-15.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-16" cocos2d_x="0" cocos2d_y="-16" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-15.5" cocos2d_x="0" cocos2d_y="-15.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-16" cocos2d_x="0" cocos2d_y="-16" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+    </b>
+   </mov>
+   <mov name="right" dr="8" to="0" drTW="8" lp="1" twE="NaN">
+    <b name="citizen_12004_2" sc="1" dl="0">
+     <f x="0" y="-15.5" cocos2d_x="0" cocos2d_y="-15.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-16" cocos2d_x="0" cocos2d_y="-16" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-15.5" cocos2d_x="0" cocos2d_y="-15.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="-16" cocos2d_x="0" cocos2d_y="-16" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="citizen_12004" width="128" height="128">
+  <SubTexture name="citizen_12004_10" width="25" height="37" cocos2d_pX="12.5" cocos2d_pY="18.5" x="58" y="78"/>
+  <SubTexture name="citizen_12004_8" width="27" height="38" cocos2d_pX="13.5" cocos2d_pY="19" x="91" y="0"/>
+  <SubTexture name="citizen_12004_9" width="25" height="37" cocos2d_pX="12.5" cocos2d_pY="18.5" x="0" y="40"/>
+  <SubTexture name="citizen_12004_4" width="25" height="37" cocos2d_pX="12.5" cocos2d_pY="18.5" x="58" y="39"/>
+  <SubTexture name="citizen_12004_2" width="25" height="38" cocos2d_pX="12.5" cocos2d_pY="19" x="31" y="39"/>
+  <SubTexture name="citizen_12004_3" width="25" height="37" cocos2d_pX="12.5" cocos2d_pY="18.5" x="85" y="40"/>
+  <SubTexture name="citizen_12004_5" width="28" height="37" cocos2d_pX="14" cocos2d_pY="18.5" x="61" y="0"/>
+  <SubTexture name="citizen_12004_6" width="29" height="38" cocos2d_pX="14.5" cocos2d_pY="19" x="0" y="0"/>
+  <SubTexture name="citizen_12004_7" width="28" height="37" cocos2d_pX="14" cocos2d_pY="18.5" x="31" y="0"/>
+ </TextureAtlas>
+</skeleton>

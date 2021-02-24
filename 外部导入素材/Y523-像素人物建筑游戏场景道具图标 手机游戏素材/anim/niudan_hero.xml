@@ -1,0 +1,31 @@
+<skeleton name="niudan_hero" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="niudan_hero">
+      <b name="niudan_hero_2" x="50.95" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="niudan_hero_3" pX="1" pY="1"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="niudan_hero">
+      <mov name="run" dr="41" to="0" drTW="41" lp="1" twE="NaN">
+        <b name="niudan_hero_2" sc="1" dl="0">
+          <f x="50.95" y="0" cocos2d_x="50.95" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" evt="j1" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="50.95" y="0" cocos2d_x="50.95" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="36.3" y="0" cocos2d_x="36.3" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="29"/>
+          <f x="-48.5" y="0" cocos2d_x="-48.5" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="0" dr="5"/>
+          <f x="-63.15" y="0" cocos2d_x="-63.15" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="niudan_hero" width="4" height="4">
+    <SubTexture name="niudan_hero_3" width="2" height="2" cocos2d_pX="1" cocos2d_pY="1" x="0" y="0"/>
+  </TextureAtlas>
+</skeleton>

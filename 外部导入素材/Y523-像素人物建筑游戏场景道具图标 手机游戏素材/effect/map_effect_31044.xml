@@ -1,0 +1,123 @@
+<skeleton name="map_effect_31044" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="map_effect_31044">
+      <b name="map_effect_31044_2" x="-2.85" y="4.8" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="0">
+        <d name="map_effect_31044_955" pX="56" pY="23.8"/>
+      </b>
+      <b name="map_effect_31044_1" x="0" y="0" kX="0" kY="0" cX="1.07" cY="1.07" pX="0" pY="0" z="1">
+        <d name="map_effect_31044_1" pX="70" pY="29.35"/>
+        <d name="map_effect_31044_2" pX="72.3" pY="31.9"/>
+        <d name="map_effect_31044_3" pX="75.35" pY="34.5"/>
+        <d name="map_effect_31044_4" pX="84.05" pY="34.5"/>
+        <d name="map_effect_31044_5" pX="86" pY="34.5"/>
+        <d name="map_effect_31044_6" pX="83.55" pY="34.5"/>
+        <d name="map_effect_31044_7" pX="86" pY="34.5"/>
+        <d name="map_effect_31044_8" pX="86" pY="34.5"/>
+        <d name="map_effect_31044_9" pX="43" pY="17.25"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="map_effect_31044">
+      <mov name="effect" dr="72" to="0" drTW="72" lp="0" twE="NaN">
+        <b name="map_effect_31044_2" sc="1" dl="0">
+          <f x="-2.85" y="4.8" cocos2d_x="-2.85" cocos2d_y="4.8" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="0" dI="0" twE="0" dr="11">
+            <colorTransform a="0" r="0" g="0" b="0" aM="25" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-2.85" y="4.8" cocos2d_x="-2.85" cocos2d_y="4.8" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="0" dI="0" twE="0" dr="12"/>
+          <f x="-2.85" y="4.8" cocos2d_x="-2.85" cocos2d_y="4.8" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="25" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-2.85" y="4.8" cocos2d_x="-2.85" cocos2d_y="4.8" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="0" dI="0" twE="0" dr="11">
+            <colorTransform a="0" r="0" g="0" b="0" aM="25" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-2.85" y="4.8" cocos2d_x="-2.85" cocos2d_y="4.8" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="0" dI="0" twE="0" dr="12"/>
+          <f x="-2.85" y="4.8" cocos2d_x="-2.85" cocos2d_y="4.8" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="25" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-2.85" y="4.8" cocos2d_x="-2.85" cocos2d_y="4.8" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="0" dI="0" twE="0" dr="11">
+            <colorTransform a="0" r="0" g="0" b="0" aM="25" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-2.85" y="4.8" cocos2d_x="-2.85" cocos2d_y="4.8" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="0" dI="0" twE="0" dr="12"/>
+          <f x="-2.85" y="4.8" cocos2d_x="-2.85" cocos2d_y="4.8" kX="0" kY="0" cX="4" cY="4" pX="0" pY="0" z="0" dI="0" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="25" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="map_effect_31044_1" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1.07" cY="1.07" pX="0" pY="0" z="1" dI="0" twE="0" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="1" dI="0" dr="1"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="1" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="1" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="1" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="1" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="1" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="1" dI="6" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="1" dI="7" twE="0" dr="3"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="2.09" cY="2.09" pX="0" pY="0" z="1" dI="7" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="4.23" cY="4.23" pX="0" pY="0" z="1" dI="8" twE="0" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="40" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="4.3" cY="4.3" pX="0" pY="0" z="1" dI="8" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1.07" cY="1.07" pX="0" pY="0" z="1" dI="0" twE="0" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="1" dI="0" dr="1"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="1" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="1" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="1" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="1" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="1" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="1" dI="6" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="1" dI="7" twE="0" dr="3"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="2.09" cY="2.09" pX="0" pY="0" z="1" dI="7" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="4.23" cY="4.23" pX="0" pY="0" z="1" dI="8" twE="0" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="40" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="4.3" cY="4.3" pX="0" pY="0" z="1" dI="8" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1.07" cY="1.07" pX="0" pY="0" z="1" dI="0" twE="0" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="1" dI="0" dr="1"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="1" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="1" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="1" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="1" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="1" dI="5" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="1" dI="6" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="1" dI="7" twE="0" dr="3"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="2.09" cY="2.09" pX="0" pY="0" z="1" dI="7" twE="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="60" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="4.23" cY="4.23" pX="0" pY="0" z="1" dI="8" twE="0" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="40" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="4.3" cY="4.3" pX="0" pY="0" z="1" dI="8" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="map_effect_31044" width="512" height="256">
+    <SubTexture name="map_effect_31044_9" width="86" height="35" cocos2d_pX="43" cocos2d_pY="17.25" x="374" y="142"/>
+    <SubTexture name="map_effect_31044_8" width="172" height="69" cocos2d_pX="86" cocos2d_pY="34.5" x="174" y="0"/>
+    <SubTexture name="map_effect_31044_7" width="172" height="69" cocos2d_pX="86" cocos2d_pY="34.5" x="0" y="0"/>
+    <SubTexture name="map_effect_31044_6" width="169" height="69" cocos2d_pX="83.55" cocos2d_pY="34.5" x="0" y="71"/>
+    <SubTexture name="map_effect_31044_5" width="168" height="69" cocos2d_pX="86" cocos2d_pY="34.5" x="171" y="71"/>
+    <SubTexture name="map_effect_31044_4" width="156" height="69" cocos2d_pX="84.05" cocos2d_pY="34.5" x="348" y="0"/>
+    <SubTexture name="map_effect_31044_3" width="142" height="69" cocos2d_pX="75.35" cocos2d_pY="34.5" x="341" y="71"/>
+    <SubTexture name="map_effect_31044_2" width="133" height="66" cocos2d_pX="72.3" cocos2d_pY="31.9" x="0" y="142"/>
+    <SubTexture name="map_effect_31044_1" width="123" height="64" cocos2d_pX="70" cocos2d_pY="29.35" x="135" y="142"/>
+    <SubTexture name="map_effect_31044_955" width="112" height="48" cocos2d_pX="56" cocos2d_pY="23.8" x="260" y="142"/>
+  </TextureAtlas>
+</skeleton>

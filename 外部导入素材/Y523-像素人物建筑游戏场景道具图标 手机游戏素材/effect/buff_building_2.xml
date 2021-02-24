@@ -1,0 +1,203 @@
+<skeleton name="buff_building_2" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="buff_building_2">
+      <b name="buff_building_2_10" x="-12.75" y="-24.65" kX="0" kY="0" cX="5" cY="5" pX="0" pY="-9.2" z="0">
+        <d name="buff_building_2_1" pX="23.4" pY="18.4"/>
+        <d name="buff_building_2_36" pX="20" pY="19.2"/>
+        <d name="buff_building_2_38" pX="19.6" pY="20.2"/>
+        <d name="buff_building_2_40" pX="17.5" pY="22"/>
+        <d name="buff_building_2_46" pX="16.9" pY="24.6"/>
+        <d name="buff_building_2_43" pX="17" pY="25.2"/>
+        <d name="buff_building_2_47" pX="19.4" pY="27.8"/>
+        <d name="buff_building_2_53" pX="45" pY="66"/>
+        <d name="buff_building_2_14" pX="62.35" pY="38.3"/>
+      </b>
+      <b name="buff_building_2_9" x="-5.75" y="-38.65" kX="0" kY="0" cX="5" cY="5" pX="0" pY="-9.6" z="0">
+        <d name="buff_building_2_35" pX="22.2" pY="19.2"/>
+        <d name="buff_building_2_37" pX="21.5" pY="18"/>
+        <d name="buff_building_2_39" pX="20.6" pY="20.4"/>
+        <d name="buff_building_2_41" pX="20.4" pY="21.6"/>
+        <d name="buff_building_2_42" pX="18.4" pY="22.8"/>
+        <d name="buff_building_2_44" pX="19.7" pY="23.4"/>
+        <d name="buff_building_2_48" pX="60" pY="81.5"/>
+        <d name="buff_building_2_52" pX="75.1" pY="90"/>
+      </b>
+      <b name="buff_building_2_8" x="-5.35" y="-50.8" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-33" z="0">
+        <d name="buff_building_2_53" pX="45" pY="66"/>
+        <d name="buff_building_2_54" pX="53.5" pY="85"/>
+        <d name="buff_building_2_50" pX="44.25" pY="77.5"/>
+      </b>
+      <b name="buff_building_2_80" x="25.3" y="-56" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-38.75" z="1">
+        <d name="buff_building_2_50" pX="44.25" pY="77.5"/>
+      </b>
+      <b name="buff_building_2_7" x="-7.15" y="-30.1" kX="0" kY="0" cX="5" cY="5" pX="0" pY="-10.05" z="0">
+        <d name="buff_building_2_49" pX="25.55" pY="20.1"/>
+      </b>
+      <b name="buff_building_2_4" x="20.15" y="-52.7" kX="170.65" kY="-9.35" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="buff_building_2_60" pX="12.95" pY="11.45"/>
+      </b>
+      <b name="buff_building_2_3" x="-29" y="-39.4" kX="-133.3" kY="-133.3" cX="1" cY="1" pX="0" pY="0.05" z="2">
+        <d name="buff_building_2_25" pX="3.8" pY="3.6"/>
+      </b>
+      <b name="buff_building_2_2" x="-20" y="-60.9" kX="36.22" kY="-143.78" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="buff_building_2_60" pX="12.95" pY="11.45"/>
+      </b>
+      <b name="buff_building_2_1" x="18.3" y="-59.25" kX="0" kY="0" cX="1" cY="1" pX="-0.65" pY="0" z="1">
+        <d name="buff_building_2_2" pX="19.4" pY="10.4"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="buff_building_2">
+      <mov name="buff" dr="131" to="0" drTW="131" lp="0" twE="NaN">
+        <b name="buff_building_2_10" sc="1" dl="0">
+          <f dr="24" dI="-1"/>
+          <f x="-12.75" y="-24.65" cocos2d_x="-12.75" cocos2d_y="21.35" kX="0" kY="0" cX="5" cY="5" pX="0" pY="-9.2" z="0" dI="0" dr="3"/>
+          <f dr="3" dI="-1"/>
+          <f x="-5.75" y="-34.4" cocos2d_x="-5.75" cocos2d_y="13.6" kX="0" kY="0" cX="5" cY="5" pX="0" pY="-9.6" z="0" dI="1" dr="3"/>
+          <f dr="3" dI="-1"/>
+          <f x="-9.5" y="-37.4" cocos2d_x="-9.5" cocos2d_y="13.1" kX="0" kY="0" cX="5" cY="5" pX="0" pY="-10.1" z="0" dI="2" dr="3"/>
+          <f dr="3" dI="-1"/>
+          <f x="-1" y="-36.65" cocos2d_x="-1" cocos2d_y="18.35" kX="0" kY="0" cX="5" cY="5" pX="0" pY="-11" z="0" dI="3" dr="3"/>
+          <f dr="3" dI="-1"/>
+          <f x="-3.75" y="-39.4" cocos2d_x="-3.75" cocos2d_y="22.1" kX="0" kY="0" cX="5" cY="5" pX="0" pY="-12.3" z="0" dI="4" dr="3"/>
+          <f dr="3" dI="-1"/>
+          <f x="-0.5" y="-41.4" cocos2d_x="-0.5" cocos2d_y="21.6" kX="0" kY="0" cX="5" cY="5" pX="0" pY="-12.6" z="0" dI="5" dr="3"/>
+          <f dr="3" dI="-1"/>
+          <f x="5.5" y="-53.65" cocos2d_x="5.5" cocos2d_y="15.85" kX="0" kY="0" cX="5" cY="5" pX="0" pY="-13.9" z="0" dI="6" dr="3"/>
+          <f dr="8" dI="-1"/>
+          <f x="-5.35" y="-50.8" cocos2d_x="-5.35" cocos2d_y="15.2" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-33" z="0" dI="7" dr="3"/>
+          <f dr="6" dI="-1"/>
+          <f x="-5.35" y="-50.8" cocos2d_x="-5.35" cocos2d_y="15.2" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-33" z="0" dI="7" dr="3"/>
+          <f dr="6" dI="-1"/>
+          <f x="-5.35" y="-50.8" cocos2d_x="-5.35" cocos2d_y="28.4" kX="0" kY="0" cX="2.4" cY="2.4" pX="0" pY="-33" z="0" dI="7" dr="3"/>
+          <f dr="2" dI="-1"/>
+          <f x="7.8" y="-46.2" cocos2d_x="7.9" cocos2d_y="-46.2" kX="0" kY="0" cX="2" cY="2" pX="-0.05" pY="0" z="0" dI="8" dr="2"/>
+          <f dr="35" dI="-1"/>
+        </b>
+        <b name="buff_building_2_9" sc="1" dl="0">
+          <f dr="27" dI="-1"/>
+          <f x="-5.75" y="-38.65" cocos2d_x="-5.75" cocos2d_y="9.35" kX="0" kY="0" cX="5" cY="5" pX="0" pY="-9.6" z="0" dI="0" dr="3"/>
+          <f dr="3" dI="-1"/>
+          <f x="-1" y="-30.15" cocos2d_x="-1" cocos2d_y="14.85" kX="0" kY="0" cX="5" cY="5" pX="0" pY="-9" z="0" dI="1" dr="3"/>
+          <f dr="3" dI="-1"/>
+          <f x="-2.5" y="-39.65" cocos2d_x="-2.5" cocos2d_y="11.35" kX="0" kY="0" cX="5" cY="5" pX="0" pY="-10.2" z="0" dI="2" dr="3"/>
+          <f dr="3" dI="-1"/>
+          <f x="4.75" y="-33.4" cocos2d_x="4.75" cocos2d_y="20.6" kX="0" kY="0" cX="5" cY="5" pX="0" pY="-10.8" z="0" dI="3" dr="3"/>
+          <f dr="3" dI="-1"/>
+          <f x="6.75" y="-39.4" cocos2d_x="6.75" cocos2d_y="17.6" kX="0" kY="0" cX="5" cY="5" pX="0" pY="-11.4" z="0" dI="4" dr="3"/>
+          <f dr="3" dI="-1"/>
+          <f x="10.5" y="-41.9" cocos2d_x="10.5" cocos2d_y="16.6" kX="0" kY="0" cX="5" cY="5" pX="0" pY="-11.7" z="0" dI="5" dr="3"/>
+          <f dr="6" dI="-1"/>
+          <f x="-1.65" y="-56.9" cocos2d_x="-1.65" cocos2d_y="24.6" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-40.75" z="0" dI="6" dr="3"/>
+          <f dr="5" dI="-1"/>
+          <f x="-1.65" y="-56.9" cocos2d_x="-1.65" cocos2d_y="24.6" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-40.75" z="0" dI="6" dr="3"/>
+          <f dr="6" dI="-1"/>
+          <f x="-1.65" y="-56.9" cocos2d_x="-1.65" cocos2d_y="24.6" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-40.75" z="0" dI="6" dr="3"/>
+          <f dr="6" dI="-1"/>
+          <f x="-1.65" y="-56.9" cocos2d_x="-1.65" cocos2d_y="24.6" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-40.75" z="0" dI="6" dr="2"/>
+          <f dr="4" dI="-1"/>
+          <f x="-7.15" y="-59.85" cocos2d_x="-7.05" cocos2d_y="30.15" kX="0" kY="0" cX="2" cY="2" pX="-0.05" pY="-45" z="0" dI="7" twE="1" dr="32"/>
+          <f x="-7.2" y="-59.85" cocos2d_x="-7.05" cocos2d_y="68.15" kX="0" kY="0" cX="3.22" cY="2.84" pX="-0.05" pY="-45" z="0" dI="7" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <b name="buff_building_2_8" sc="1" dl="0">
+          <f dr="63" dI="-1"/>
+          <f x="-5.35" y="-50.8" cocos2d_x="-5.35" cocos2d_y="15.2" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-33" z="0" dI="0" dr="3"/>
+          <f dr="3" dI="-1"/>
+          <f x="1.15" y="-47.7" cocos2d_x="1.15" cocos2d_y="37.3" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-42.5" z="0" dI="1" dr="2"/>
+          <f dr="6" dI="-1"/>
+          <f x="1.15" y="-47.7" cocos2d_x="1.15" cocos2d_y="37.3" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-42.5" z="0" dI="1" dr="3"/>
+          <f dr="6" dI="-1"/>
+          <f x="1.15" y="-47.7" cocos2d_x="1.15" cocos2d_y="37.3" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-42.5" z="0" dI="1" dr="3"/>
+          <f dr="7" dI="-1"/>
+          <f x="-34.5" y="-57.8" cocos2d_x="-34.5" cocos2d_y="19.7" kX="0" kY="180" cX="2" cY="2" pX="0" pY="-38.75" z="0" dI="2" dr="2"/>
+          <f dr="33" dI="-1"/>
+        </b>
+        <b name="buff_building_2_80" sc="1" dl="0">
+          <f dr="96" dI="-1"/>
+          <f x="25.3" y="-56" cocos2d_x="25.3" cocos2d_y="21.5" kX="0" kY="0" cX="2" cY="2" pX="0" pY="-38.75" z="1" dI="0" dr="2"/>
+          <f dr="33" dI="-1"/>
+        </b>
+        <b name="buff_building_2_7" sc="1" dl="0">
+          <f x="-7.15" y="-30.1" cocos2d_x="-7.15" cocos2d_y="20.15" kX="0" kY="0" cX="5" cY="5" pX="0" pY="-10.05" z="0" dI="0" twE="0" dr="22">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-7.15" y="-30.1" cocos2d_x="-7.15" cocos2d_y="20.15" kX="0" kY="0" cX="5" cY="5" pX="0" pY="-10.05" z="0" dI="0" dr="2"/>
+          <f dr="107" dI="-1"/>
+        </b>
+        <b name="buff_building_2_4" sc="1" dl="0">
+          <f dr="84" dI="-1"/>
+          <f x="20.15" y="-52.7" cocos2d_x="20.15" cocos2d_y="-52.7" kX="170.65" kY="-9.35" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0.6" dr="3"/>
+          <f x="39.1" y="-117.05" cocos2d_x="39.1" cocos2d_y="-117.05" kX="-122.86" kY="57.14" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="2"/>
+          <f x="63.85" y="-127.95" cocos2d_x="63.85" cocos2d_y="-127.95" kX="-100.13" kY="79.87" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="-0.6" dr="3"/>
+          <f x="85.1" y="-116.8" cocos2d_x="85.1" cocos2d_y="-116.8" kX="-71.21" kY="108.79" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="2"/>
+          <f x="114.35" y="-65.85" cocos2d_x="114.35" cocos2d_y="-65.85" kX="-36.58" kY="143.42" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="1"/>
+          <f dr="36" dI="-1"/>
+        </b>
+        <b name="buff_building_2_3" sc="1" dl="0">
+          <f dr="91" dI="-1"/>
+          <f x="-29" y="-39.4" cocos2d_x="-29.05" cocos2d_y="-39.4" kX="-133.3" kY="-133.3" cX="1" cY="1" pX="0" pY="0.05" z="2" dI="0" twE="0.7" dr="3"/>
+          <f x="-64.7" y="-87.2" cocos2d_x="-64.75" cocos2d_y="-87.15" kX="-133.36" kY="-133.36" cX="1.39" cY="1.39" pX="-0.05" pY="0.05" z="2" dI="0" twE="-0.5" dr="4"/>
+          <f x="-108.6" y="-41.95" cocos2d_x="-108.6" cocos2d_y="-41.95" kX="-133.35" kY="-133.35" cX="2" cY="2" pX="0" pY="0" z="1" dI="0" twE="0" dr="1"/>
+          <f dr="32" dI="-1"/>
+        </b>
+        <b name="buff_building_2_2" sc="1" dl="0">
+          <f dr="52" dI="-1"/>
+          <f x="-20" y="-60.9" cocos2d_x="-20" cocos2d_y="-60.9" kX="36.22" kY="-143.78" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0.8" dr="3"/>
+          <f x="-70.85" y="-109.7" cocos2d_x="-70.85" cocos2d_y="-109.7" kX="-102.34" kY="77.66" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="-0.5" dr="3"/>
+          <f x="-100.55" y="-63.15" cocos2d_x="-100.55" cocos2d_y="-63.15" kX="-158.42" kY="21.58" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="1"/>
+          <f x="-102.9" y="-32.55" cocos2d_x="-102.9" cocos2d_y="-32.55" kX="172.41" kY="-7.59" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+          <f dr="12" dI="-1"/>
+          <f x="-20" y="-60.9" cocos2d_x="-20" cocos2d_y="-60.9" kX="36.22" kY="-143.78" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0.8" dr="3"/>
+          <f x="-65.6" y="-110.3" cocos2d_x="-65.6" cocos2d_y="-110.3" kX="-36.33" kY="143.67" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="2"/>
+          <f x="-76.2" y="-108" cocos2d_x="-76.2" cocos2d_y="-108" kX="-55.33" kY="124.67" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="-0.2" dr="2"/>
+          <f x="-91.95" y="-92.4" cocos2d_x="-91.95" cocos2d_y="-92.4" kX="-89.46" kY="90.54" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="2"/>
+          <f x="-101.3" y="-56.2" cocos2d_x="-101.3" cocos2d_y="-56.2" kX="-130.89" kY="49.11" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="1"/>
+          <f dr="49" dI="-1"/>
+        </b>
+        <b name="buff_building_2_1" sc="1" dl="0">
+          <f dr="62" dI="-1"/>
+          <f x="18.3" y="-59.25" cocos2d_x="18.95" cocos2d_y="-59.25" kX="0" kY="0" cX="1" cY="1" pX="-0.65" pY="0" z="1" dI="0" twE="0.8" dr="2"/>
+          <f x="31.5" y="-118.05" cocos2d_x="31.85" cocos2d_y="-117.5" kX="57.92" kY="57.92" cX="1" cY="1" pX="-0.7" pY="0" z="1" dI="0" twE="0" dr="3"/>
+          <f x="63.05" y="-136.5" cocos2d_x="63" cocos2d_y="-135.9" kX="97.81" kY="97.81" cX="1" cY="1" pX="-0.6" pY="0" z="1" dI="0" twE="-0.2" dr="2"/>
+          <f x="87.5" y="-117.95" cocos2d_x="87.8" cocos2d_y="-117.45" kX="64.2" kY="64.2" cX="1" cY="1" pX="-0.6" pY="0.05" z="1" dI="0" twE="0" dr="2"/>
+          <f x="93" y="-64.9" cocos2d_x="93.55" cocos2d_y="-64.65" kX="23.05" kY="23.05" cX="1" cY="1" pX="-0.6" pY="0" z="1" dI="0" twE="0" dr="1"/>
+          <f dr="10" dI="-1"/>
+          <f x="-25.25" y="-42.15" cocos2d_x="-25.9" cocos2d_y="-42.15" kX="0" kY="180" cX="1" cY="1" pX="-0.65" pY="0" z="1" dI="0" twE="0.8" dr="2"/>
+          <f x="-38.45" y="-100.95" cocos2d_x="-38.8" cocos2d_y="-100.4" kX="-57.92" kY="122.08" cX="1" cY="1" pX="-0.65" pY="0" z="2" dI="0" twE="0" dr="3"/>
+          <f x="-70" y="-119.4" cocos2d_x="-69.95" cocos2d_y="-118.8" kX="-97.81" kY="82.19" cX="1" cY="1" pX="-0.6" pY="0.05" z="2" dI="0" twE="-0.2" dr="2"/>
+          <f x="-94.45" y="-100.85" cocos2d_x="-94.75" cocos2d_y="-100.35" kX="-64.2" kY="115.8" cX="1" cY="1" pX="-0.55" pY="0" z="2" dI="0" twE="0" dr="2"/>
+          <f x="-99.95" y="-47.8" cocos2d_x="-100.5" cocos2d_y="-47.55" kX="-23.05" kY="156.95" cX="1" cY="1" pX="-0.6" pY="-0.05" z="3" dI="0" twE="0" dr="1"/>
+          <f dr="39" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="buff_building_2" width="512" height="256">
+    <SubTexture name="buff_building_2_2" width="38" height="21" cocos2d_pX="19.4" cocos2d_pY="10.4" x="262" y="127"/>
+    <SubTexture name="buff_building_2_25" width="8" height="8" cocos2d_pX="3.3" cocos2d_pY="3.1" x="496" y="0"/>
+    <SubTexture name="buff_building_2_60" width="26" height="26" cocos2d_pX="12.95" cocos2d_pY="11.4" x="302" y="136"/>
+    <SubTexture name="buff_building_2_49" width="52" height="21" cocos2d_pX="25.55" cocos2d_pY="20.1" x="262" y="84"/>
+    <SubTexture name="buff_building_2_50" width="89" height="78" cocos2d_pX="44.25" cocos2d_pY="77.5" x="405" y="0"/>
+    <SubTexture name="buff_building_2_54" width="107" height="85" cocos2d_pX="53.5" cocos2d_pY="85" x="153" y="82"/>
+    <SubTexture name="buff_building_2_52" width="151" height="90" cocos2d_pX="75.1" cocos2d_pY="90" x="0" y="0"/>
+    <SubTexture name="buff_building_2_48" width="120" height="82" cocos2d_pX="60" cocos2d_pY="81.5" x="283" y="0"/>
+    <SubTexture name="buff_building_2_44" width="40" height="24" cocos2d_pX="19.7" cocos2d_pY="23.4" x="49" y="92"/>
+    <SubTexture name="buff_building_2_42" width="37" height="23" cocos2d_pX="18.4" cocos2d_pY="22.8" x="91" y="115"/>
+    <SubTexture name="buff_building_2_41" width="41" height="22" cocos2d_pX="20.4" cocos2d_pY="21.6" x="357" y="106"/>
+    <SubTexture name="buff_building_2_39" width="42" height="21" cocos2d_pX="20.6" cocos2d_pY="20.4" x="91" y="92"/>
+    <SubTexture name="buff_building_2_37" width="43" height="18" cocos2d_pX="21.5" cocos2d_pY="18" x="262" y="107"/>
+    <SubTexture name="buff_building_2_35" width="45" height="20" cocos2d_pX="22.2" cocos2d_pY="19.2" x="357" y="84"/>
+    <SubTexture name="buff_building_2_14" width="128" height="80" cocos2d_pX="62.35" cocos2d_pY="38.3" x="153" y="0"/>
+    <SubTexture name="buff_building_2_53" width="90" height="66" cocos2d_pX="45" cocos2d_pY="66" x="405" y="80"/>
+    <SubTexture name="buff_building_2_47" width="39" height="28" cocos2d_pX="19.4" cocos2d_pY="27.8" x="316" y="84"/>
+    <SubTexture name="buff_building_2_43" width="34" height="26" cocos2d_pX="17" cocos2d_pY="25.2" x="42" y="118"/>
+    <SubTexture name="buff_building_2_46" width="34" height="25" cocos2d_pX="16.9" cocos2d_pY="24.6" x="349" y="130"/>
+    <SubTexture name="buff_building_2_40" width="35" height="22" cocos2d_pX="17.5" cocos2d_pY="22" x="0" y="136"/>
+    <SubTexture name="buff_building_2_38" width="40" height="21" cocos2d_pX="19.6" cocos2d_pY="20.2" x="0" y="113"/>
+    <SubTexture name="buff_building_2_36" width="40" height="20" cocos2d_pX="20" cocos2d_pY="19.2" x="307" y="114"/>
+    <SubTexture name="buff_building_2_1" width="47" height="19" cocos2d_pX="23.4" cocos2d_pY="18.4" x="0" y="92"/>
+  </TextureAtlas>
+</skeleton>

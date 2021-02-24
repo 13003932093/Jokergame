@@ -1,0 +1,70 @@
+<skeleton name="activate_skill" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="activate_skill">
+   <b name="activate_skill_3" x="0.75" y="-28.75" kX="0" kY="0" cX="0.1" cY="0.1" pX="-1" pY="34.2" z="0">
+    <d name="activate_skill_2" pX="37.5" pY="41.55"/>
+   </b>
+   <b name="activate_skill_2" x="0.8" y="-32.8" kX="0" kY="0" cX="0.1" cY="0.1" pX="0" pY="0" z="1">
+    <d name="activate_skill_5" pX="26" pY="26"/>
+   </b>
+   <b name="activate_combine_skill" x="-3" y="5.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+    <d name="activate_skill_4" pX="50" pY="11.5"/>
+   </b>
+   <b name="activate_trump_skill" x="-3" y="5.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+    <d name="activate_skill_92" pX="50.15" pY="11.4"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="activate_skill">
+   <mov name="effect" dr="63" to="0" drTW="63" lp="0" twE="NaN">
+    <b name="activate_skill_3" sc="1" dl="0">
+     <f dr="14" dI="-1"/>
+     <f x="0.75" y="-28.75" cocos2d_x="0.85" cocos2d_y="-32.3" kX="0" kY="0" cX="0.1" cY="0.1" pX="-1" pY="34.2" z="0" dI="0" twE="0" dr="3"/>
+     <f x="0.75" y="-28.75" cocos2d_x="1.75" cocos2d_y="-62.75" kX="0" kY="0" cX="1" cY="1" pX="-1" pY="34" z="0" dI="0" dr="46"/>
+    </b>
+    <b name="activate_skill_2" sc="1" dl="0">
+     <f dr="14" dI="-1"/>
+     <f x="0.8" y="-32.8" cocos2d_x="0.8" cocos2d_y="-32.8" kX="0" kY="0" cX="0.1" cY="0.1" pX="0" pY="0" z="1" dI="0" twE="0" dr="3"/>
+     <f x="1" y="-67.5" cocos2d_x="1" cocos2d_y="-67.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="46"/>
+    </b>
+    <b name="activate_combine_skill" sc="1" dl="0">
+     <f dr="14" dI="-1"/>
+     <f x="-3" y="5.5" cocos2d_x="-3" cocos2d_y="5.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="7"/>
+     <f x="-3" y="-37.5" cocos2d_x="-3" cocos2d_y="-37.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="6"/>
+     <f x="-3" y="-48.15" cocos2d_x="-3" cocos2d_y="-48.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="3"/>
+     <f x="-3" y="-53.5" cocos2d_x="-3" cocos2d_y="-53.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="33">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+   </mov>
+   <mov name="effect2" dr="63" to="0" drTW="63" lp="0" twE="NaN">
+    <b name="activate_skill_3" sc="1" dl="0">
+     <f dr="14" dI="-1"/>
+     <f x="0.75" y="-28.75" cocos2d_x="0.85" cocos2d_y="-32.3" kX="0" kY="0" cX="0.1" cY="0.1" pX="-1" pY="34.2" z="0" dI="0" twE="0" dr="3"/>
+     <f x="0.75" y="-28.75" cocos2d_x="1.75" cocos2d_y="-62.75" kX="0" kY="0" cX="1" cY="1" pX="-1" pY="34" z="0" dI="0" dr="46"/>
+    </b>
+    <b name="activate_skill_2" sc="1" dl="0">
+     <f dr="14" dI="-1"/>
+     <f x="0.8" y="-32.8" cocos2d_x="0.8" cocos2d_y="-32.8" kX="0" kY="0" cX="0.1" cY="0.1" pX="0" pY="0" z="1" dI="0" twE="0" dr="3"/>
+     <f x="1" y="-67.5" cocos2d_x="1" cocos2d_y="-67.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="46"/>
+    </b>
+    <b name="activate_trump_skill" sc="1" dl="0">
+     <f dr="14" dI="-1"/>
+     <f x="-3" y="5.5" cocos2d_x="-3" cocos2d_y="5.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="7"/>
+     <f x="-3" y="-37.5" cocos2d_x="-3" cocos2d_y="-37.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="6"/>
+     <f x="-3" y="-48.15" cocos2d_x="-3" cocos2d_y="-48.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="3"/>
+     <f x="-3" y="-53.5" cocos2d_x="-3" cocos2d_y="-53.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="33">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="activate_skill" width="128" height="256">
+  <SubTexture name="activate_skill_92" width="100" height="23" cocos2d_pX="50.15" cocos2d_pY="11.4" x="0" y="82"/>
+  <SubTexture name="activate_skill_4" width="100" height="23" cocos2d_pX="50" cocos2d_pY="11.5" x="0" y="107"/>
+  <SubTexture name="activate_skill_5" width="52" height="52" cocos2d_pX="26" cocos2d_pY="26" x="0" y="132"/>
+  <SubTexture name="activate_skill_2" width="74" height="80" cocos2d_pX="37.5" cocos2d_pY="41.55" x="0" y="0"/>
+ </TextureAtlas>
+</skeleton>

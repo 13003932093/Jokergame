@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" renderorder="left-down" width="17" height="17" tilewidth="302" tileheight="151" nextobjectid="612">
+ <tileset firstgid="1" name="dk2" tilewidth="299" tileheight="295" spacing="1" tilecount="25" columns="5">
+  <image source="dk2.png" width="1499" height="1481"/>
+ </tileset>
+ <layer name="dk1" width="17" height="17">
+  <data encoding="base64">
+   CAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAsAAAANAAAADQAAAA0AAAANAAAADQAAAA0AAAANAAAADQAAAA0AAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAALAAAACwAAABEAAAARAAAAEQAAABEAAAARAAAAEQAAABEAAAANAAAADQAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAsAAAARAAAADAAAAAwAAAAMAAAADAAAAAwAAAAJAAAACQAAAA0AAAANAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAADQAAABEAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADQAAAA0AAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAANAAAAEQAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAARAAAADQAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAA0AAAARAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAABEAAAANAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAADQAAABEAAAAOAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAAEQAAAA0AAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAANAAAAEQAAAAkAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAARAAAADQAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAsAAAARAAAACQAAAAkAAAAMAAAADAAAAAwAAAAMAAAADAAAABEAAAANAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACwAAAAsAAAARAAAAEQAAABEAAAARAAAAEQAAABEAAAARAAAADgAAAA0AAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAALAAAACwAAAA0AAAANAAAADQAAAA0AAAANAAAADQAAAA4AAAAOAAAADQAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAAgAAAAIAAAACAAAAA==
+  </data>
+ </layer>
+ <objectgroup name="area" visible="0">
+  <object id="538" name="1" x="795.907" y="795.94" width="1200.25" height="1198.49" rotation="-0.121987"/>
+ </objectgroup>
+ <objectgroup name="decor">
+  <object id="466" name="100005" x="1703.5" y="876.5" width="41.3333" height="47.3333"/>
+  <object id="480" name="100005" x="1624" y="953" width="41.3333" height="47.3333"/>
+  <object id="481" name="100060" x="1436.17" y="698.833" width="41.3333" height="47.3333"/>
+  <object id="482" name="100004" x="1625.5" y="1035.5" width="41.3333" height="47.3333"/>
+  <object id="483" name="100005" x="1258.17" y="728.167" width="41.3333" height="47.3333"/>
+  <object id="484" name="100005" x="1259.5" y="806.834" width="41.3333" height="47.3333"/>
+  <object id="485" name="100005" x="1259.5" y="884.167" width="41.3333" height="47.3333"/>
+  <object id="486" name="100059" x="1260.17" y="958.167" width="41.3333" height="47.3333"/>
+  <object id="487" name="100004" x="1334.17" y="1105.5" width="41.3333" height="47.3333"/>
+  <object id="489" name="100067" x="1583.5" y="1224.17" width="41.3333" height="47.3333"/>
+  <object id="490" name="100005" x="1023.84" y="798.5" width="41.3333" height="47.3333"/>
+  <object id="492" name="100004" x="954.34" y="953.333" width="41.3333" height="47.3333"/>
+  <object id="493" name="100005" x="1022.5" y="719.833" width="41.3333" height="47.3333"/>
+  <object id="499" name="100057" x="1688.84" y="1424.83" width="47.3333" height="117.333"/>
+  <object id="503" name="100004" x="1178.5" y="1329.16" width="41.3333" height="47.3333"/>
+  <object id="505" name="100005" x="1256.83" y="1330.83" width="41.3333" height="47.3333"/>
+  <object id="506" name="100005" x="1183.5" y="1404.17" width="41.3333" height="47.3333"/>
+  <object id="509" name="100004" x="1622.83" y="875.5" width="41.3333" height="47.3333"/>
+  <object id="510" name="100061" x="1574.16" y="679.5" width="41.3333" height="47.3333"/>
+  <object id="511" name="100064" x="1096.83" y="1112.83" width="41.3333" height="47.3333"/>
+  <object id="512" name="100061" x="953.5" y="724.166" width="41.3333" height="47.3333"/>
+  <object id="513" name="100061" x="870.5" y="723.166" width="41.3333" height="47.3333"/>
+  <object id="514" name="100061" x="791" y="724.666" width="41.3333" height="47.3333"/>
+  <object id="515" name="100061" x="722" y="873.666" width="41.3333" height="47.3333"/>
+  <object id="516" name="100061" x="721.5" y="798.166" width="41.3333" height="47.3333"/>
+  <object id="527" name="100006" x="1624.58" y="1622.41" width="55.8333" height="48.8333"/>
+  <object id="532" name="100033" x="1440.75" y="1326.91" width="19.8333" height="16.8333"/>
+  <object id="534" name="100006" x="1697.58" y="1621.41" width="55.8333" height="48.8333"/>
+  <object id="535" name="100006" x="1704.08" y="1694.91" width="55.8333" height="48.8333"/>
+  <object id="536" name="100006" x="1625.58" y="1697.41" width="55.8333" height="48.8333"/>
+  <object id="539" name="100076" x="795.667" y="1038.67" width="98.6666" height="72"/>
+  <object id="540" name="100075" x="800.833" y="802.5" width="126" height="115.333"/>
+  <object id="541" name="100072" x="1027.5" y="997.5" width="41.3333" height="47.3333"/>
+  <object id="542" name="100064" x="1177.17" y="949.167" width="41.3333" height="47.3333"/>
+  <object id="547" name="100006" x="1101.5" y="745.417" width="55.8333" height="48.8333"/>
+  <object id="548" name="100006" x="1181" y="817.917" width="55.8333" height="48.8333"/>
+  <object id="549" name="100006" x="1174.5" y="744.417" width="55.8333" height="48.8333"/>
+  <object id="550" name="100006" x="729" y="729.917" width="55.8333" height="48.8333"/>
+  <object id="553" name="100074" x="1402" y="877" width="121.333" height="124.667"/>
+  <object id="554" name="100016" x="1685.83" y="1176.5" width="41.3333" height="47.3333"/>
+  <object id="555" name="100004" x="1637.17" y="1323.83" width="41.3333" height="47.3333"/>
+  <object id="557" name="100067" x="1607.67" y="1457.33" width="41.3333" height="47.3333"/>
+  <object id="558" name="100006" x="1538.58" y="1478.42" width="55.8333" height="48.8333"/>
+  <object id="560" name="100005" x="953.5" y="1323.5" width="41.3333" height="47.3333"/>
+  <object id="561" name="100005" x="953.833" y="1404.5" width="41.3333" height="47.3333"/>
+  <object id="562" name="100067" x="1181.83" y="1555.17" width="41.3333" height="47.3333"/>
+  <object id="563" name="100005" x="1173.67" y="1701.33" width="41.3333" height="47.3333"/>
+  <object id="564" name="100068" x="1266.67" y="1609.67" width="269.333" height="138.667"/>
+  <object id="565" name="100062" x="856.833" y="1233.5" width="41.3333" height="47.3333"/>
+  <object id="566" name="100003" x="814.5" y="1333.17" width="41.3333" height="47.3333"/>
+  <object id="567" name="100063" x="731.167" y="1320.5" width="41.3333" height="47.3333"/>
+  <object id="568" name="100062" x="951" y="1472" width="41.3333" height="47.3333"/>
+  <object id="569" name="100073" x="881.167" y="1485.17" width="41.3333" height="47.3333"/>
+  <object id="570" name="100061" x="1028.17" y="1698.17" width="41.3333" height="47.3333"/>
+  <object id="571" name="100061" x="879.333" y="1635" width="41.3333" height="47.3333"/>
+  <object id="572" name="100061" x="883.333" y="1561.67" width="41.3333" height="47.3333"/>
+  <object id="573" name="100056" x="1024.17" y="1616.83" width="41.3333" height="47.3333"/>
+  <object id="574" name="100056" x="670.5" y="1426.5" width="41.3333" height="47.3333"/>
+  <object id="575" name="100069" x="658.667" y="1516.33" width="147.333" height="136.667"/>
+  <object id="576" name="100033" x="1066.58" y="1280.42" width="19.8333" height="16.8333"/>
+  <object id="577" name="100033" x="967.917" y="1144.42" width="19.8333" height="16.8333"/>
+  <object id="578" name="100033" x="1212.58" y="1094.42" width="19.8333" height="16.8333"/>
+  <object id="579" name="100033" x="1285.25" y="1240.42" width="19.8333" height="16.8333"/>
+  <object id="580" name="100033" x="1477.25" y="1165.75" width="19.8333" height="16.8333"/>
+  <object id="581" name="100006" x="1294.58" y="1450.42" width="55.8333" height="48.8333"/>
+  <object id="582" name="100006" x="1099.08" y="822.583" width="55.8333" height="48.8333"/>
+  <object id="584" name="100006" x="1132.08" y="1201.58" width="55.8333" height="48.8333"/>
+  <object id="585" name="100006" x="941.583" y="1044.08" width="55.8333" height="48.8333"/>
+  <object id="586" name="100006" x="1327.58" y="1256.08" width="55.8333" height="48.8333"/>
+  <object id="587" name="100004" x="1025.33" y="872.333" width="41.3333" height="47.3333"/>
+  <object id="588" name="100061" x="722.833" y="954.833" width="41.3333" height="47.3333"/>
+  <object id="589" name="100004" x="1331.33" y="1330.33" width="41.3333" height="47.3333"/>
+  <object id="590" name="100004" x="1407.33" y="1252.33" width="41.3333" height="47.3333"/>
+  <object id="591" name="100004" x="1554.33" y="875.333" width="41.3333" height="47.3333"/>
+  <object id="592" name="100004" x="1702.83" y="1324.83" width="41.3333" height="47.3333"/>
+  <object id="595" name="100004" x="950.333" y="799.333" width="41.3333" height="47.3333"/>
+  <object id="596" name="100033" x="1563.58" y="978.083" width="19.8333" height="16.8333"/>
+  <object id="597" name="100033" x="1492.08" y="893.583" width="19.8333" height="16.8333"/>
+  <object id="598" name="100033" x="1585.08" y="964.583" width="19.8333" height="16.8333"/>
+  <object id="599" name="100033" x="1494.08" y="879.583" width="19.8333" height="16.8333"/>
+  <object id="600" name="100033" x="1558.08" y="1035.58" width="19.8333" height="16.8333"/>
+  <object id="601" name="100033" x="1584.08" y="1061.58" width="19.8333" height="16.8333"/>
+  <object id="602" name="100033" x="800.583" y="1121.08" width="19.8333" height="16.8333"/>
+  <object id="603" name="100033" x="872.083" y="1127.58" width="19.8333" height="16.8333"/>
+  <object id="604" name="100033" x="896.083" y="1111.58" width="19.8333" height="16.8333"/>
+  <object id="605" name="100006" x="1697.08" y="944.583" width="55.8333" height="48.8333"/>
+  <object id="606" name="100006" x="1702.08" y="1023.58" width="55.8333" height="48.8333"/>
+  <object id="607" name="100033" x="1407.58" y="1406.08" width="19.8333" height="16.8333"/>
+  <object id="608" name="100033" x="1402.08" y="1429.58" width="19.8333" height="16.8333"/>
+  <object id="609" name="100033" x="1433.58" y="1420.08" width="19.8333" height="16.8333"/>
+  <object id="611" name="100072" x="1476.33" y="1479.33" width="41.3333" height="47.3333"/>
+ </objectgroup>
+ <objectgroup name="city" visible="0"/>
+ <objectgroup name="badge" visible="0"/>
+</map>

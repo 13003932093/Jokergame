@@ -1,0 +1,45 @@
+<skeleton name="skill_ani_31117" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="skill_ani_31117">
+      <b name="skill_ani_31117_3" x="-30.5" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="skill_ani_31117__6" pX="36.8" pY="13.7"/>
+      </b>
+      <b name="skill_ani_31117_2" x="-2.5" y="-4.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+        <d name="skill_ani_31117__3" pX="48" pY="48"/>
+        <d name="skill_ani_31117__4" pX="48" pY="48"/>
+        <d name="skill_ani_31117__5" pX="48" pY="48"/>
+      </b>
+      <b name="event" x="-2" y="-4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="skill_ani_31117__2" pX="0.5" pY="0.5"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="skill_ani_31117">
+      <mov name="fly" dr="2" to="0" drTW="2" lp="1" twE="NaN">
+        <b name="skill_ani_31117_3" sc="1" dl="0">
+          <f x="-30.5" y="0" cocos2d_x="-30.5" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" dr="2"/>
+        </b>
+      </mov>
+      <mov name="hit" dr="7" to="0" drTW="7" lp="0" twE="NaN">
+        <b name="skill_ani_31117_2" sc="1" dl="0">
+          <f x="-2.5" y="-4.5" cocos2d_x="-2.5" cocos2d_y="-4.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-2.5" y="-4.5" cocos2d_x="-2.5" cocos2d_y="-4.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+          <f x="-2.5" y="-4.5" cocos2d_x="-2.5" cocos2d_y="-4.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+          <f dr="1" dI="-1"/>
+        </b>
+        <b name="event" sc="1" dl="0">
+          <f x="-2" y="-4" cocos2d_x="-2" cocos2d_y="-4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" evt="damage" dr="1"/>
+          <f dr="6" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="skill_ani_31117" width="256" height="256">
+    <SubTexture name="skill_ani_31117__2" width="1" height="1" cocos2d_pX="0.5" cocos2d_pY="0.5" x="196" y="0"/>
+    <SubTexture name="skill_ani_31117__5" width="96" height="96" cocos2d_pX="48" cocos2d_pY="48" x="0" y="98"/>
+    <SubTexture name="skill_ani_31117__4" width="96" height="96" cocos2d_pX="48" cocos2d_pY="48" x="0" y="0"/>
+    <SubTexture name="skill_ani_31117__3" width="96" height="96" cocos2d_pX="48" cocos2d_pY="48" x="98" y="0"/>
+    <SubTexture name="skill_ani_31117__6" width="76" height="30" cocos2d_pX="36.8" cocos2d_pY="13.7" x="98" y="98"/>
+  </TextureAtlas>
+</skeleton>

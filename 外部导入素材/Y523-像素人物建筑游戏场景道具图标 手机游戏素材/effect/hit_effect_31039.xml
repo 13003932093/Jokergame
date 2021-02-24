@@ -1,0 +1,26 @@
+<skeleton name="hit_effect_31039" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="hit_effect_31039">
+      <b name="hit_effect_31039_1" x="-0.95" y="-8.25" kX="13.73" kY="13.73" cX="0.54" cY="0.54" pX="0" pY="0" z="0">
+        <d name="hit_effect_31039_11" pX="59.4" pY="61.65"/>
+        <d name="hit_effect_31039_3" pX="66.25" pY="46.55"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="hit_effect_31039">
+      <mov name="effect" dr="7" to="0" drTW="7" lp="0" twE="NaN">
+        <b name="hit_effect_31039_1" sc="1" dl="0">
+          <f x="-0.95" y="-8.25" cocos2d_x="-0.95" cocos2d_y="-8.25" kX="13.73" kY="13.73" cX="0.54" cY="0.54" pX="0" pY="0" z="0" dI="0" dr="2"/>
+          <f dr="2" dI="-1"/>
+          <f x="-0.65" y="-7.45" cocos2d_x="-0.65" cocos2d_y="-7.45" kX="13.73" kY="13.73" cX="0.54" cY="0.54" pX="0" pY="0" z="0" dI="1" dr="2"/>
+          <f dr="1" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="hit_effect_31039" width="256" height="128">
+    <SubTexture name="hit_effect_31039_3" width="131" height="102" cocos2d_pX="66.25" cocos2d_pY="46.55" x="0" y="0"/>
+    <SubTexture name="hit_effect_31039_11" width="117" height="113" cocos2d_pX="59.4" cocos2d_pY="61.65" x="133" y="0"/>
+  </TextureAtlas>
+</skeleton>

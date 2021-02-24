@@ -1,0 +1,33 @@
+<skeleton name="weapon_ani_11208" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="weapon_ani_11208">
+   <b name="weapon_ani_11208_1" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0">
+    <d name="weapon_ani_11208_1" pX="30" pY="29.5"/>
+    <d name="weapon_ani_11208_2" pX="30" pY="29.5"/>
+    <d name="weapon_ani_11208_3" pX="30" pY="29.5"/>
+    <d name="weapon_ani_11208_4" pX="30" pY="29.5"/>
+    <d name="weapon_ani_11208_5" pX="30" pY="29.5"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="weapon_ani_11208">
+   <mov name="effect" dr="10" to="0" drTW="10" lp="1" twE="NaN">
+    <b name="weapon_ani_11208_1" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="0" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="1" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="2" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="3" twE="NaN" tweenFrame="0" dr="2"/>
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="0" dI="4" twE="NaN" tweenFrame="0" dr="2"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="weapon_ani_11208" width="256" height="128">
+  <SubTexture name="weapon_ani_11208_5" width="60" height="59" cocos2d_pX="30" cocos2d_pY="29.5" x="0" y="61"/>
+  <SubTexture name="weapon_ani_11208_4" width="60" height="59" cocos2d_pX="30" cocos2d_pY="29.5" x="186" y="0"/>
+  <SubTexture name="weapon_ani_11208_3" width="60" height="59" cocos2d_pX="30" cocos2d_pY="29.5" x="0" y="0"/>
+  <SubTexture name="weapon_ani_11208_2" width="60" height="59" cocos2d_pX="30" cocos2d_pY="29.5" x="62" y="0"/>
+  <SubTexture name="weapon_ani_11208_1" width="60" height="59" cocos2d_pX="30" cocos2d_pY="29.5" x="124" y="0"/>
+ </TextureAtlas>
+</skeleton>
